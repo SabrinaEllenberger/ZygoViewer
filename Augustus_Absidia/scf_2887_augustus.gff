@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 1397 (length = 274, name = scf_2887) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1397 on both strands
+# start gene g2262
+scf_2887	AUGUSTUS	gene	1	274	0.77	-	.	g2262
+scf_2887	AUGUSTUS	transcript	1	274	0.77	-	.	g2262.t1
+scf_2887	AUGUSTUS	internal	79	274	0.78	-	1	transcript_id "g2262.t1"; gene_id "g2262";
+scf_2887	AUGUSTUS	intron	1	78	0.77	-	.	transcript_id "g2262.t1"; gene_id "g2262";
+scf_2887	AUGUSTUS	CDS	79	274	0.78	-	1	transcript_id "g2262.t1"; gene_id "g2262";
+# coding sequence = [gatcaagacttgggagaccacggcggccaagtataaaatacacatcagtcaaacgaagaacggcaagaagaaggtcaac
+# ctggtggctggcgaaaacgaagacgacgaagacgccaacgacgacaacgacgacactgaccttgatgaactggacgaagaactggacgaagaacatca
+# agacgaattggatcaattc]
+# protein sequence = [IKTWETTAAKYKIHISQTKNGKKKVNLVAGENEDDEDANDDNDDTDLDELDEELDEEHQDELDQF]
+# end gene g2262
+###
+#
+##FASTA
+>scf_2887
+TTTTCTTCATTTATAAACTAGGTCAATAAAGCAAAAGATCAGTATCTGATCAAAGTGATA
+TACCTTTCATGACCTTACGAATTGATCCAATTCGTCTTGATGTTCTTCGTCCAGTTCTTC
+GTCCAGTTCATCAAGGTCAGTGTCGTCGTTGTCGTCGTTGGCGTCTTCGTCGTCTTCGTT
+TTCGCCAGCCACCAGGTTGACCTTCTTCTTGCCGTTCTTCGTTTGACTGATGTGTATTTT
+ATACTTGGCCGCCGTGGTCTCCCAAGTCTTGATC

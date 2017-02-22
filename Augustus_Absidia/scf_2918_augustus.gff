@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 1416 (length = 404, name = scf_2918) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1416 on both strands
+# start gene g2266
+scf_2918	AUGUSTUS	gene	1	389	0.84	+	.	g2266
+scf_2918	AUGUSTUS	transcript	1	389	0.84	+	.	g2266.t1
+scf_2918	AUGUSTUS	terminal	111	389	0.84	+	0	transcript_id "g2266.t1"; gene_id "g2266";
+scf_2918	AUGUSTUS	intron	1	110	0.84	+	.	transcript_id "g2266.t1"; gene_id "g2266";
+scf_2918	AUGUSTUS	CDS	111	386	0.84	+	0	transcript_id "g2266.t1"; gene_id "g2266";
+scf_2918	AUGUSTUS	stop_codon	387	389	.	+	0	transcript_id "g2266.t1"; gene_id "g2266";
+# coding sequence = [agcattaactggtcatccttggatttccccaaaaaagaggccttcactactcgttggttgatgttatacacgtcctttg
+# gctttatggctttgccttggtcatcacgcaatgcatcaacgacattgctggcgctgcttcctgccatcaacatgcttgcgacagtcttaacttgcttc
+# gtgtcaagcgctcttgcctgtgggaaaactgaggccacaacagaagaatcggcaatcaaagcatggttatgctcacatttgccaacagaaacagcacc
+# ttga]
+# protein sequence = [SINWSSLDFPKKEAFTTRWLMLYTSFGFMALPWSSRNASTTLLALLPAINMLATVLTCFVSSALACGKTEATTEESAI
+# KAWLCSHLPTETAP]
+# end gene g2266
+###
+#
+##FASTA
+>scf_2918
+TAATGAGCTTGATCGCATCTGGATGAGTGATCATCAGCATTCGAAGGACAGAATCATCGG
+ACACATTGGTCTTAATGACGAAACCATCCTTTCTCATGTCATCAATTTAGAGCATTAACT
+GGTCATCCTTGGATTTCCCCAAAAAAGAGGCCTTCACTACTCGTTGGTTGATGTTATACA
+CGTCCTTTGGCTTTATGGCTTTGCCTTGGTCATCACGCAATGCATCAACGACATTGCTGG
+CGCTGCTTCCTGCCATCAACATGCTTGCGACAGTCTTAACTTGCTTCGTGTCAAGCGCTC
+TTGCCTGTGGGAAAACTGAGGCCACAACAGAAGAATCGGCAATCAAAGCATGGTTATGCT
+CACATTTGCCAACAGAAACAGCACCTTGAACATGGCGGTCTGCA

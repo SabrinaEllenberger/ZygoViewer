@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 1372 (length = 464, name = scf_2839) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1372 on both strands
+# start gene g2198
+scf_2839	AUGUSTUS	gene	1	325	0.5	-	.	g2198
+scf_2839	AUGUSTUS	transcript	1	325	0.5	-	.	g2198.t1
+scf_2839	AUGUSTUS	initial	7	325	0.5	-	0	transcript_id "g2198.t1"; gene_id "g2198";
+scf_2839	AUGUSTUS	intron	1	6	0.51	-	.	transcript_id "g2198.t1"; gene_id "g2198";
+scf_2839	AUGUSTUS	CDS	7	325	0.5	-	0	transcript_id "g2198.t1"; gene_id "g2198";
+scf_2839	AUGUSTUS	start_codon	323	325	.	-	0	transcript_id "g2198.t1"; gene_id "g2198";
+# coding sequence = [atgatcagtcaatacctcgttggaagacaatatactgatgtgtctaacatgagagtagacatcaaagggtttgcaacaa
+# gaaacggttttgccgtgcagcagtctattaattatgagaagaactgtggttactattattgcaatcagcgtactttgtaccaagacaaagtggaccct
+# gaaacgcgcacttgccagggaaaatttgcatgcattaacaaatgtaactggaaagcctttgtgaaaaagggtgatcaaggttggtgtgtcgggaaagt
+# gatccttcacgatggatccatcattgcagaccgccatgttcaag]
+# protein sequence = [MISQYLVGRQYTDVSNMRVDIKGFATRNGFAVQQSINYEKNCGYYYCNQRTLYQDKVDPETRTCQGKFACINKCNWKA
+# FVKKGDQGWCVGKVILHDGSIIADRHVQ]
+# end gene g2198
+###
+#
+##FASTA
+>scf_2839
+CAGCACCTTGAACATGGCGGTCTGCAATGATGGATCCATCGTGAAGGATCACTTTCCCGA
+CACACCAACCTTGATCACCCTTTTTCACAAAGGCTTTCCAGTTACATTTGTTAATGCATG
+CAAATTTTCCCTGGCAAGTGCGCGTTTCAGGGTCCACTTTGTCTTGGTACAAAGTACGCT
+GATTGCAATAATAGTAACCACAGTTCTTCTCATAATTAATAGACTGCTGCACGGCAAAAC
+CGTTTCTTGTTGCAAACCCTTTGATGTCTACTCTCATGTTAGACACATCAGTATATTGTC
+TTCCAACGAGGTATTGACTGATCATGATAGCTTTTGTTAGTATTAAGAGAGAGTTAAAGA
+AAGAGTATAAGTGTTTATAACGAGAAACAACTGTTGCTTCTTTGTAAAAGACGCCTTTTT
+ATAATAATAAAGATATCTAACCAAATGTAACTATTTATATCCTT

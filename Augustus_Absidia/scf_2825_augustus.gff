@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1367 (length = 217, name = scf_2825) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1367 on both strands
+# start gene g2196
+scf_2825	AUGUSTUS	gene	1	217	0.5	-	.	g2196
+scf_2825	AUGUSTUS	transcript	1	217	0.5	-	.	g2196.t1
+scf_2825	AUGUSTUS	internal	8	217	0.5	-	2	transcript_id "g2196.t1"; gene_id "g2196";
+scf_2825	AUGUSTUS	intron	1	7	0.6	-	.	transcript_id "g2196.t1"; gene_id "g2196";
+scf_2825	AUGUSTUS	CDS	8	217	0.5	-	2	transcript_id "g2196.t1"; gene_id "g2196";
+# coding sequence = [acgacatggcggctgcattcaccacatttgctagacatcgccgacttaatcctgaacaaacaaggctggctctgaatct
+# cattggcgccggctgcaagaatcaggccactgtggacaccatgcgaacgaatttccctggctgcggggtgattgcgaaggacataggcaacatgcggc
+# gtcgatttatgggcacctccaccgaagaaaata]
+# protein sequence = [DMAAAFTTFARHRRLNPEQTRLALNLIGAGCKNQATVDTMRTNFPGCGVIAKDIGNMRRRFMGTSTEEN]
+# end gene g2196
+###
+#
+##FASTA
+>scf_2825
+AGTCTACTATTTTCTTCGGTGGAGGTGCCCATAAATCGACGCCGCATGTTGCCTATGTCC
+TTCGCAATCACCCCGCAGCCAGGGAAATTCGTTCGCATGGTGTCCACAGTGGCCTGATTC
+TTGCAGCCGGCGCCAATGAGATTCAGAGCCAGCCTTGTTTGTTCAGGATTAAGTCGGCGA
+TGTCTAGCAAATGTGGTGAATGCAGCCGCCATGTCGT
