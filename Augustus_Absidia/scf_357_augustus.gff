@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 153 (length = 217, name = scf_357) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 153 on both strands
+# start gene g198
+scf_357	AUGUSTUS	gene	1	113	0.92	-	.	g198
+scf_357	AUGUSTUS	transcript	1	113	0.92	-	.	g198.t1
+scf_357	AUGUSTUS	initial	1	113	0.92	-	0	transcript_id "g198.t1"; gene_id "g198";
+scf_357	AUGUSTUS	CDS	1	113	0.92	-	0	transcript_id "g198.t1"; gene_id "g198";
+scf_357	AUGUSTUS	start_codon	111	113	.	-	0	transcript_id "g198.t1"; gene_id "g198";
+# coding sequence = [atggagtttactattgccgcctctacagacccacccgagccttccgatcgcttttacggcatgtccgggaagcaaatca
+# ttctggcattgaagaatgaaaaggcccgccggct]
+# protein sequence = [MEFTIAASTDPPEPSDRFYGMSGKQIILALKNEKARR]
+# end gene g198
+###
+#
+##FASTA
+>scf_357
+AGCCGGCGGGCCTTTTCATTCTTCAATGCCAGAATGATTTGCTTCCCGGACATGCCGTAA
+AAGCGATCGGAAGGCTCGGGTGGGTCTGTAGAGGCGGCAATAGTAAACTCCATTAGGTTG
+GTAAAAAGTAAAGTGGAAGGAGTGAAAGAAAGACAAAAGGGGAAAAAAGGCGAACTGTTT
+CATCTCATTCTTTGTCGGAGTTTGAAAACCGACTCCT

@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 226 (length = 392, name = scf_469) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 226 on both strands
+# start gene g307
+scf_469	AUGUSTUS	gene	1	146	0.8	-	.	g307
+scf_469	AUGUSTUS	transcript	1	146	0.8	-	.	g307.t1
+scf_469	AUGUSTUS	initial	107	146	0.8	-	0	transcript_id "g307.t1"; gene_id "g307";
+scf_469	AUGUSTUS	intron	1	106	0.8	-	.	transcript_id "g307.t1"; gene_id "g307";
+scf_469	AUGUSTUS	CDS	107	146	0.8	-	0	transcript_id "g307.t1"; gene_id "g307";
+scf_469	AUGUSTUS	start_codon	144	146	.	-	0	transcript_id "g307.t1"; gene_id "g307";
+# coding sequence = [atgcccaaacaacttatccttcgcaattatcttcctaacg]
+# protein sequence = [MPKQLILRNYLPN]
+# end gene g307
+###
+#
+##FASTA
+>scf_469
+GCGTTGGAACTTCAATGAATTCATGGACTTCATCGATGGCTAGTCCATGCAGACAATAAA
+GATGCATTAGTCAAACTTTGGCAAGATTCATGTACATGATACTTACCGTTAGGAAGATAA
+TTGCGAAGGATAAGTTGTTTGGGCATGATAGGTATGAGAGGAGAAGGGTGAAAAGAGAAA
+GAGAAAGAGAAAAACAAACAAAAAAAATTTGAAGAAGTAGTCGTGACTTTGGCGGCGTTT
+GAATTTTGCTATATCTCCTGGGCATTCGGGTATCTCTCTCTCTCTCTCTCTCTCTCTCTC
+TCTCTCTCTCTCTCTTGTTGATTACATCATGGCTCACTGCAAATACTGTCTTCGCAATCC
+TGAAGAAACCTCAGCTCGGAAAAAGAGATCAT

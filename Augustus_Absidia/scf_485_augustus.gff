@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 236 (length = 279, name = scf_485) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 236 on both strands
+# start gene g323
+scf_485	AUGUSTUS	gene	1	154	0.84	-	.	g323
+scf_485	AUGUSTUS	transcript	1	154	0.84	-	.	g323.t1
+scf_485	AUGUSTUS	initial	35	154	0.84	-	0	transcript_id "g323.t1"; gene_id "g323";
+scf_485	AUGUSTUS	intron	1	34	0.96	-	.	transcript_id "g323.t1"; gene_id "g323";
+scf_485	AUGUSTUS	CDS	35	154	0.84	-	0	transcript_id "g323.t1"; gene_id "g323";
+scf_485	AUGUSTUS	start_codon	152	154	.	-	0	transcript_id "g323.t1"; gene_id "g323";
+# coding sequence = [atgaagcagtggtggagtcgtcattggcatcgtcgtcgtccctatcgccgtcgtcatcgtcgtagccgatctagtgtca
+# aaagaaagaggagcgatgcaaaaggcaaaaagttagtaatg]
+# protein sequence = [MKQWWSRHWHRRRPYRRRHRRSRSSVKRKRSDAKGKKLVM]
+# end gene g323
+###
+#
+##FASTA
+>scf_485
+TCCTCTTCTCACGTCATGTTCATCTTTTGCTTACCATTACTAACTTTTTGCCTTTTGCAT
+CGCTCCTCTTTCTTTTGACACTAGATCGGCTACGACGATGACGACGGCGATAGGGACGAC
+GACGATGCCAATGACGACTCCACCACTGCTTCATGTCGCTCAAAAAGGCACTTTTAAAAT
+TTTTAAATGTAAAAAACATGGGGAAACCCTCGCAATTTTTTTTTAGGTGCACACCCATTC
+CATTGTAGAATCTCGTAGTCCAAGTTACTAATAAAAGTG

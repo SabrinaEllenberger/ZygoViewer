@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 220 (length = 430, name = scf_463) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 220 on both strands
+# start gene g302
+scf_463	AUGUSTUS	gene	32	430	0.85	+	.	g302
+scf_463	AUGUSTUS	transcript	32	430	0.85	+	.	g302.t1
+scf_463	AUGUSTUS	start_codon	32	34	.	+	0	transcript_id "g302.t1"; gene_id "g302";
+scf_463	AUGUSTUS	initial	32	430	0.85	+	0	transcript_id "g302.t1"; gene_id "g302";
+scf_463	AUGUSTUS	CDS	32	430	0.85	+	0	transcript_id "g302.t1"; gene_id "g302";
+# coding sequence = [atgtctgtcctccatcaaattttgcgaaactatgaacagtacaacaatgtgtcttcaaacgaactagcagatcaggtct
+# cgccttggtgggcgtatcagcagctcaaagatcatgacgaattcctgaacctcacaaagaaacaacgccaacaagtctctcggcagcttcgacaacat
+# gcaaacggcaacgatggcgacactattctcttcaccaccacaatctccgatggtcttcgaaacgctttgttggaactggtgacggatacaagagcacg
+# aattgcaaactcccggcgtgtcaaagcaggtgacgatgaaatcaacttggacgactgttttgtgccgactcgatcaagtctcaagcctgaccacagac
+# tcttcaatcttttgccccatcgctcc]
+# protein sequence = [MSVLHQILRNYEQYNNVSSNELADQVSPWWAYQQLKDHDEFLNLTKKQRQQVSRQLRQHANGNDGDTILFTTTISDGL
+# RNALLELVTDTRARIANSRRVKAGDDEINLDDCFVPTRSSLKPDHRLFNLLPHRS]
+# end gene g302
+###
+#
+##FASTA
+>scf_463
+CAAATCCCTTGTTACCAACATCTGCGAGCATATGTCTGTCCTCCATCAAATTTTGCGAAA
+CTATGAACAGTACAACAATGTGTCTTCAAACGAACTAGCAGATCAGGTCTCGCCTTGGTG
+GGCGTATCAGCAGCTCAAAGATCATGACGAATTCCTGAACCTCACAAAGAAACAACGCCA
+ACAAGTCTCTCGGCAGCTTCGACAACATGCAAACGGCAACGATGGCGACACTATTCTCTT
+CACCACCACAATCTCCGATGGTCTTCGAAACGCTTTGTTGGAACTGGTGACGGATACAAG
+AGCACGAATTGCAAACTCCCGGCGTGTCAAAGCAGGTGACGATGAAATCAACTTGGACGA
+CTGTTTTGTGCCGACTCGATCAAGTCTCAAGCCTGACCACAGACTCTTCAATCTTTTGCC
+CCATCGCTCC

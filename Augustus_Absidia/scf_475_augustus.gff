@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 229 (length = 325, name = scf_475) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 229 on both strands
+# start gene g319
+scf_475	AUGUSTUS	gene	1	232	0.65	-	.	g319
+scf_475	AUGUSTUS	transcript	1	232	0.65	-	.	g319.t1
+scf_475	AUGUSTUS	internal	69	154	0.66	-	2	transcript_id "g319.t1"; gene_id "g319";
+scf_475	AUGUSTUS	initial	223	232	0.87	-	0	transcript_id "g319.t1"; gene_id "g319";
+scf_475	AUGUSTUS	intron	1	68	0.7	-	.	transcript_id "g319.t1"; gene_id "g319";
+scf_475	AUGUSTUS	intron	155	222	0.87	-	.	transcript_id "g319.t1"; gene_id "g319";
+scf_475	AUGUSTUS	CDS	69	154	0.66	-	2	transcript_id "g319.t1"; gene_id "g319";
+scf_475	AUGUSTUS	CDS	223	232	0.87	-	0	transcript_id "g319.t1"; gene_id "g319";
+scf_475	AUGUSTUS	start_codon	230	232	.	-	0	transcript_id "g319.t1"; gene_id "g319";
+# coding sequence = [atgagtgaacatggcttctgttggcacattcctccttgtatcctggtatatgaaccctctgttgaagaagaatactgcc
+# acgtacatggtacaaag]
+# protein sequence = [MSEHGFCWHIPPCILVYEPSVEEEYCHVHGTK]
+# end gene g319
+###
+#
+##FASTA
+>scf_475
+GGTGGAGCTGATGATGAGAAGGAAGGGGTTAGTGTTGTTAAGTATGGATGATCGCTTCAT
+TCGATTACCTTTGTACCATGTACGTGGCAGTATTCTTCTTCAACAGAGGGTTCATATACC
+AGGATACAAGGAGGAATGTGCCAACAGAAGCCATCTAAAAAAGTGTGTTCGTGAGAAAAG
+AGTACACGTAATAGCTTTGCACAACTTTTTTCCGTTTCTTACGTTCACTCATGACAAGAG
+CAGCAATGGTCCCAAACAACAAAGAGGCGGAAAGTAGCTTGAGTACTTGTCAATGGAGAG
+CATAGAGGACCACATAGGAAGGCAA

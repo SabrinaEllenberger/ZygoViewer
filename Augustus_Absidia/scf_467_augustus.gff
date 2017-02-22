@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 224 (length = 582, name = scf_467) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 224 on both strands
+# start gene g305
+scf_467	AUGUSTUS	gene	118	501	0.99	-	.	g305
+scf_467	AUGUSTUS	transcript	118	501	0.99	-	.	g305.t1
+scf_467	AUGUSTUS	stop_codon	118	120	.	-	0	transcript_id "g305.t1"; gene_id "g305";
+scf_467	AUGUSTUS	single	118	501	0.99	-	0	transcript_id "g305.t1"; gene_id "g305";
+scf_467	AUGUSTUS	CDS	121	501	0.99	-	0	transcript_id "g305.t1"; gene_id "g305";
+scf_467	AUGUSTUS	start_codon	499	501	.	-	0	transcript_id "g305.t1"; gene_id "g305";
+# coding sequence = [atgacatccacgttaccaagtcctccattatctcccattgacaaatccattaccctgccatgcgaacgacggcatcgat
+# ccaatcatcaacggcatcctcctcgacgccatgacacatttgaactgttacaggccctggtgaacgaacatcaacgactggagaagcaggactatgaa
+# accatgttacgtgaagtgcctacgattcgacgtcgaccgcctaccaatgctcccaaaggcattcttgtcaatccgtcgcccccacacaatgaactctt
+# atcaagagtgccaccatcatcatcgccaccacctcgtcatgcagttgtccgttttgccccggggccacccaagatttacaaataccataaagtccctc
+# aagaagtctga]
+# protein sequence = [MTSTLPSPPLSPIDKSITLPCERRHRSNHQRHPPRRHDTFELLQALVNEHQRLEKQDYETMLREVPTIRRRPPTNAPK
+# GILVNPSPPHNELLSRVPPSSSPPPRHAVVRFAPGPPKIYKYHKVPQEV]
+# end gene g305
+###
+#
+##FASTA
+>scf_467
+GGGGGGGGGGATCAATAACTAACTAACTAGGATAAAATGAGCTATGTAACAACTATGTAC
+GAATGAGAGGGCCTATATTTACAAGTGCATGTGTGTGTGTGTGTATGTGTATATGTGTCA
+GACTTCTTGAGGGACTTTATGGTATTTGTAAATCTTGGGTGGCCCCGGGGCAAAACGGAC
+AACTGCATGACGAGGTGGTGGCGATGATGATGGTGGCACTCTTGATAAGAGTTCATTGTG
+TGGGGGCGACGGATTGACAAGAATGCCTTTGGGAGCATTGGTAGGCGGTCGACGTCGAAT
+CGTAGGCACTTCACGTAACATGGTTTCATAGTCCTGCTTCTCCAGTCGTTGATGTTCGTT
+CACCAGGGCCTGTAACAGTTCAAATGTGTCATGGCGTCGAGGAGGATGCCGTTGATGATT
+GGATCGATGCCGTCGTTCGCATGGCAGGGTAATGGATTTGTCAATGGGAGATAATGGAGG
+ACTTGGTAACGTGGATGTCATGACGGAAATGAGTTGAAACTAAAAGGGAGAGAAGAGAGA
+AAGAGAAAGAGAAAGAGAAGGAAGAAAAGAGGGATGATGGAA

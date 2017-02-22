@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 191 (length = 466, name = scf_420) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 191 on both strands
+# start gene g278
+scf_420	AUGUSTUS	gene	58	426	0.48	+	.	g278
+scf_420	AUGUSTUS	transcript	58	426	0.48	+	.	g278.t1
+scf_420	AUGUSTUS	start_codon	58	60	.	+	0	transcript_id "g278.t1"; gene_id "g278";
+scf_420	AUGUSTUS	single	58	426	0.48	+	0	transcript_id "g278.t1"; gene_id "g278";
+scf_420	AUGUSTUS	CDS	58	423	0.48	+	0	transcript_id "g278.t1"; gene_id "g278";
+scf_420	AUGUSTUS	stop_codon	424	426	.	+	0	transcript_id "g278.t1"; gene_id "g278";
+# coding sequence = [atgacttttagagaaagtatgcgaagagactccgtcgcattctttgttcccgccaagttgatcatagatgcaccaaagt
+# cgccgtcgtccgtcatccctcgcctgtcgtccgtcatccctcgcctgtcgtccgtcatccctcgtctgtcgtatgccatccgttgtccgtcatccctc
+# gtccgtcatccctcgtctgtccatcgtcactcgtccgtcatccctcgtccgtcatccctcgtctgtcgtccctcgtcactcgtccgtcgtccgtcgtc
+# catcatccctcgtctgtcgtccatcgtcactcgtccgtcaccccttgcccgtcgactatcgtctatcgtttatcgtttcgagatagagaactaa]
+# protein sequence = [MTFRESMRRDSVAFFVPAKLIIDAPKSPSSVIPRLSSVIPRLSSVIPRLSYAIRCPSSLVRHPSSVHRHSSVIPRPSS
+# LVCRPSSLVRRPSSIIPRLSSIVTRPSPLARRLSSIVYRFEIEN]
+# end gene g278
+###
+#
+##FASTA
+>scf_420
+TCCATTGAATTACATATGACTCGTAGTAAAAAGGTGGCAAGTTCCATTACCGTTGTCATG
+ACTTTTAGAGAAAGTATGCGAAGAGACTCCGTCGCATTCTTTGTTCCCGCCAAGTTGATC
+ATAGATGCACCAAAGTCGCCGTCGTCCGTCATCCCTCGCCTGTCGTCCGTCATCCCTCGC
+CTGTCGTCCGTCATCCCTCGTCTGTCGTATGCCATCCGTTGTCCGTCATCCCTCGTCCGT
+CATCCCTCGTCTGTCCATCGTCACTCGTCCGTCATCCCTCGTCCGTCATCCCTCGTCTGT
+CGTCCCTCGTCACTCGTCCGTCGTCCGTCGTCCATCATCCCTCGTCTGTCGTCCATCGTC
+ACTCGTCCGTCACCCCTTGCCCGTCGACTATCGTCTATCGTTTATCGTTTCGAGATAGAG
+AACTAAAAGAAAAAGTTGATTGCATAGGTTTTAAGAAGTACATGCT

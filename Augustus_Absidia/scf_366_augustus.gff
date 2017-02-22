@@ -1,0 +1,52 @@
+# ----- prediction on sequence number 161 (length = 1129, name = scf_366) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 161 on both strands
+# start gene g205
+scf_366	AUGUSTUS	gene	1	1129	0.99	+	.	g205
+scf_366	AUGUSTUS	transcript	1	1129	0.99	+	.	g205.t1
+scf_366	AUGUSTUS	internal	1	640	0.99	+	0	transcript_id "g205.t1"; gene_id "g205";
+scf_366	AUGUSTUS	internal	732	1129	1	+	2	transcript_id "g205.t1"; gene_id "g205";
+scf_366	AUGUSTUS	intron	641	731	1	+	.	transcript_id "g205.t1"; gene_id "g205";
+scf_366	AUGUSTUS	CDS	1	640	0.99	+	0	transcript_id "g205.t1"; gene_id "g205";
+scf_366	AUGUSTUS	CDS	732	1129	1	+	2	transcript_id "g205.t1"; gene_id "g205";
+# coding sequence = [gaccctgaattaaacttccaacctgacactggtaaaattgaagtgtatcgatcatctggcggtaatggcgtgcgtttgg
+# acggtggggctggttatgctggggccatcattactcctcattacgactccttgctcgtcaagtgcacctgctctggatctacctatgaagtggctcgt
+# cgcaagattgtccgtgccttggtggaattccgtatccgtggtgtcaagaccaacattcccttcttgcaacgcttattgactcacgataccttcatgac
+# tggtaactgctggactacttttatcgatgacactcctgatctcttccgcctggtgcaataccaaaaccgtgctcaacgtctcttgggttatcttggtg
+# acattgttgtcaacggctctcaaatcaagggtcaagtgggtgaaccttcctacaagcatgaaatcgaagtacctgtcatccgcggtcataatggcaac
+# aacgtggacgtctctgcccctcccaccgatggctggagaaagatcattgtcgaacaaggtcctgatgctttcgccaaggctgtccgtgcttatcctgg
+# tgtcttgatcatggataccacctggcgtgatgctcatcaaagtctgttggctactcgggtccgtactgttgatctccttcgtattgccgctgctacct
+# ctcatgcccttagcaacgccttctctctcgaatgctggggtggtgcgacgttcgatgtggctatgcgcttcttgtatgaagatccctgggatcgtttg
+# atggaactccgcaaggctgtgcccaacattcctttccaaatgctcctccgtggtgccaacgctgtaggctatacctcttaccctgacaacgtggtgta
+# cgaattctgcgacaaggcggtcaaggctggtatggatgtgttccgtatctttgattctctcaattacgtggaaaacatgaagctcggtattgatgctg
+# tcaagaaggctggtggtgtcgtggaagctaccgtgtgctatactggtgatgtgtccaaccctgaaaagaaaaagtac]
+# protein sequence = [DPELNFQPDTGKIEVYRSSGGNGVRLDGGAGYAGAIITPHYDSLLVKCTCSGSTYEVARRKIVRALVEFRIRGVKTNI
+# PFLQRLLTHDTFMTGNCWTTFIDDTPDLFRLVQYQNRAQRLLGYLGDIVVNGSQIKGQVGEPSYKHEIEVPVIRGHNGNNVDVSAPPTDGWRKIIVEQ
+# GPDAFAKAVRAYPGVLIMDTTWRDAHQSLLATRVRTVDLLRIAAATSHALSNAFSLECWGGATFDVAMRFLYEDPWDRLMELRKAVPNIPFQMLLRGA
+# NAVGYTSYPDNVVYEFCDKAVKAGMDVFRIFDSLNYVENMKLGIDAVKKAGGVVEATVCYTGDVSNPEKKKY]
+# end gene g205
+###
+#
+##FASTA
+>scf_366
+GACCCTGAATTAAACTTCCAACCTGACACTGGTAAAATTGAAGTGTATCGATCATCTGGC
+GGTAATGGCGTGCGTTTGGACGGTGGGGCTGGTTATGCTGGGGCCATCATTACTCCTCAT
+TACGACTCCTTGCTCGTCAAGTGCACCTGCTCTGGATCTACCTATGAAGTGGCTCGTCGC
+AAGATTGTCCGTGCCTTGGTGGAATTCCGTATCCGTGGTGTCAAGACCAACATTCCCTTC
+TTGCAACGCTTATTGACTCACGATACCTTCATGACTGGTAACTGCTGGACTACTTTTATC
+GATGACACTCCTGATCTCTTCCGCCTGGTGCAATACCAAAACCGTGCTCAACGTCTCTTG
+GGTTATCTTGGTGACATTGTTGTCAACGGCTCTCAAATCAAGGGTCAAGTGGGTGAACCT
+TCCTACAAGCATGAAATCGAAGTACCTGTCATCCGCGGTCATAATGGCAACAACGTGGAC
+GTCTCTGCCCCTCCCACCGATGGCTGGAGAAAGATCATTGTCGAACAAGGTCCTGATGCT
+TTCGCCAAGGCTGTCCGTGCTTATCCTGGTGTCTTGATCATGGATACCACCTGGCGTGAT
+GCTCATCAAAGTCTGTTGGCTACTCGGGTCCGTACTGTTGGTAAGTGATTGGTTGTAATA
+TTCAGGGGCAGGAGGAAATTCAAGGGCCGAAAAATTCGTCGAGCTCACTTTTTTTTTAAC
+ACTCATTGTAGATCTCCTTCGTATTGCCGCTGCTACCTCTCATGCCCTTAGCAACGCCTT
+CTCTCTCGAATGCTGGGGTGGTGCGACGTTCGATGTGGCTATGCGCTTCTTGTATGAAGA
+TCCCTGGGATCGTTTGATGGAACTCCGCAAGGCTGTGCCCAACATTCCTTTCCAAATGCT
+CCTCCGTGGTGCCAACGCTGTAGGCTATACCTCTTACCCTGACAACGTGGTGTACGAATT
+CTGCGACAAGGCGGTCAAGGCTGGTATGGATGTGTTCCGTATCTTTGATTCTCTCAATTA
+CGTGGAAAACATGAAGCTCGGTATTGATGCTGTCAAGAAGGCTGGTGGTGTCGTGGAAGC
+TACCGTGTGCTATACTGGTGATGTGTCCAACCCTGAAAAGAAAAAGTAC
