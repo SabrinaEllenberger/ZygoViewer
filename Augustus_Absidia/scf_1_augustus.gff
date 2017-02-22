@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 1 (length = 315, name = scf_1) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1 on both strands
+# start gene g1
+scf_1	AUGUSTUS	gene	1	227	0.39	+	.	g1
+scf_1	AUGUSTUS	transcript	1	227	0.39	+	.	g1.t1
+scf_1	AUGUSTUS	terminal	1	227	0.39	+	2	transcript_id "g1.t1"; gene_id "g1";
+scf_1	AUGUSTUS	CDS	1	224	0.39	+	2	transcript_id "g1.t1"; gene_id "g1";
+scf_1	AUGUSTUS	stop_codon	225	227	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+# coding sequence = [tggtcaagctctttcaaccctttttcaacgacactaatcatatgtactgcttccaacatcccaccactaacaccaaaac
+# caccattctcgatgtcgaagatctggtcacttgtgctggaaccattgccagtagtacgtctcagcactccgctattatatgggatcaaatggcacttg
+# gtcaagatacgtcggcagcgaaatgtggtaatttggactatatagtatag]
+# protein sequence = [VKLFQPFFNDTNHMYCFQHPTTNTKTTILDVEDLVTCAGTIASSTSQHSAIIWDQMALGQDTSAAKCGNLDYIV]
+# end gene g1
+###
+#
+##FASTA
+>scf_1
+TGGTCAAGCTCTTTCAACCCTTTTTCAACGACACTAATCATATGTACTGCTTCCAACATC
+CCACCACTAACACCAAAACCACCATTCTCGATGTCGAAGATCTGGTCACTTGTGCTGGAA
+CCATTGCCAGTAGTACGTCTCAGCACTCCGCTATTATATGGGATCAAATGGCACTTGGTC
+AAGATACGTCGGCAGCGAAATGTGGTAATTTGGACTATATAGTATAGCTATAGTTATGTG
+TAGTAGTCTCGTAGTCGCCACCCTTAGTTAGTATCACTTCAATAGAACTTCCCCTTGCTT
+GTGTATGTGCCTGAA

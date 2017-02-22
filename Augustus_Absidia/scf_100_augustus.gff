@@ -1,0 +1,56 @@
+# ----- prediction on sequence number 29 (length = 1197, name = scf_100) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 29 on both strands
+# start gene g21
+scf_100	AUGUSTUS	gene	1	1181	0.17	+	.	g21
+scf_100	AUGUSTUS	transcript	1	1181	0.17	+	.	g21.t1
+scf_100	AUGUSTUS	internal	1	885	0.4	+	0	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	internal	1073	1131	0.37	+	0	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	terminal	1175	1181	0.38	+	1	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	intron	886	1072	0.4	+	.	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	intron	1132	1174	0.38	+	.	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	CDS	1	885	0.4	+	0	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	CDS	1073	1131	0.37	+	0	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	CDS	1175	1178	0.38	+	1	transcript_id "g21.t1"; gene_id "g21";
+scf_100	AUGUSTUS	stop_codon	1179	1181	.	+	0	transcript_id "g21.t1"; gene_id "g21";
+# coding sequence = [gtggcttccaaggtcaggtttgaaacgattgacaggtttgtcgatgtattcgagatggtactttatcagcacaagttga
+# cgcaagatgataattgggaggcttgtttgatctcaagtttacagcattcgatcgaaaaaatgacttggttcaagatgcagctaatggacaagcacctg
+# acgtgggcagcagcgaagagcatcctcaagaagcagtacggaggtgatcattctctctcttggtatctagaaaaattgacaagcatgaccgccagccg
+# ccatgagaaccctgcgaaattcgttgaaaaattctgtactgtcctgcgtggtgccgccgtggaagactctgtgggatttggcagcatactgatcaagg
+# ccctagcaaatcattcagacctggttaaacaagtaaaagcgacttatgccagtaccgatgcaactcaccgtcctgtgttcaacgtggcgtacatagca
+# cgtgtggttcccttgctctacatagacaacagcaacgacaacgaagaggaccaccccaagaaaaggcaacgcaacaacggtcaaggccaccaacgtcc
+# ccagcagcgcagtaacaataacgggagcaaccaccaccacaacaaaaatggtcaccatggcaacggtaatggaaaacataatttcgtcatgaagagca
+# acaattgccgtcactgccatcaaccctggaagcacggacaccactgcaaagagttctttcaaaacaagcaaaggcaagccgacaacgacactttgcga
+# gcaagaatggcggttttggaacaacgtttagaaacacaagaagtggcggacgcaatgcgcaagatagacctgggtgaatgtaagttgaaaagtagaat
+# ggcaaagataaaagacgaagaggaaagactcaccctctcgacgtactatacaacagtaaaacatgccaactacaatttgaggcactga]
+# protein sequence = [VASKVRFETIDRFVDVFEMVLYQHKLTQDDNWEACLISSLQHSIEKMTWFKMQLMDKHLTWAAAKSILKKQYGGDHSL
+# SWYLEKLTSMTASRHENPAKFVEKFCTVLRGAAVEDSVGFGSILIKALANHSDLVKQVKATYASTDATHRPVFNVAYIARVVPLLYIDNSNDNEEDHP
+# KKRQRNNGQGHQRPQQRSNNNGSNHHHNKNGHHGNGNGKHNFVMKSNNCRHCHQPWKHGHHCKEFFQNKQRQADNDTLRARMAVLEQRLETQEVADAM
+# RKIDLGECKLKSRMAKIKDEEERLTLSTYYTTVKHANYNLRH]
+# end gene g21
+###
+#
+##FASTA
+>scf_100
+GTGGCTTCCAAGGTCAGGTTTGAAACGATTGACAGGTTTGTCGATGTATTCGAGATGGTA
+CTTTATCAGCACAAGTTGACGCAAGATGATAATTGGGAGGCTTGTTTGATCTCAAGTTTA
+CAGCATTCGATCGAAAAAATGACTTGGTTCAAGATGCAGCTAATGGACAAGCACCTGACG
+TGGGCAGCAGCGAAGAGCATCCTCAAGAAGCAGTACGGAGGTGATCATTCTCTCTCTTGG
+TATCTAGAAAAATTGACAAGCATGACCGCCAGCCGCCATGAGAACCCTGCGAAATTCGTT
+GAAAAATTCTGTACTGTCCTGCGTGGTGCCGCCGTGGAAGACTCTGTGGGATTTGGCAGC
+ATACTGATCAAGGCCCTAGCAAATCATTCAGACCTGGTTAAACAAGTAAAAGCGACTTAT
+GCCAGTACCGATGCAACTCACCGTCCTGTGTTCAACGTGGCGTACATAGCACGTGTGGTT
+CCCTTGCTCTACATAGACAACAGCAACGACAACGAAGAGGACCACCCCAAGAAAAGGCAA
+CGCAACAACGGTCAAGGCCACCAACGTCCCCAGCAGCGCAGTAACAATAACGGGAGCAAC
+CACCACCACAACAAAAATGGTCACCATGGCAACGGTAATGGAAAACATAATTTCGTCATG
+AAGAGCAACAATTGCCGTCACTGCCATCAACCCTGGAAGCACGGACACCACTGCAAAGAG
+TTCTTTCAAAACAAGCAAAGGCAAGCCGACAACGACACTTTGCGAGCAAGAATGGCGGTT
+TTGGAACAACGTTTAGAAACACAAGAAGTGGCGGACGCAATGCGCAAGATAGACCTGGGT
+GAATGTAAGTTGAAAAGTAGAATGGCAAAGATAAAAGACGAAGAGGTACTAAAAAATGGT
+TCTTTCATTGTTCCGATAACTGTAGGAAGCCACAAAATTTGGGCCCTTTTAGACTCCGGT
+TGTAATTTTTCTAGTCTAAATAAAAATTTTGTCGTCAATAAAAACATTTCTTTCTCTCCC
+ACTTTCGGAACCATTGGACTTGCTGATGCAACTCATTCAACAAAACGTATAGGAAAGACT
+CACCCTCTCGACGTACTATACAACAGTAAAACATGCCAACTACAATTTGAGGTAATGAAC
+CTACCCTCTGAAGAAAAATACCAATGCGTGTTAGGCACTGACTCTTTTTCGAAACTA

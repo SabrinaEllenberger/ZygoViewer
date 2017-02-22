@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 52 (length = 247, name = scf_169) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 52 on both strands
+# start gene g96
+scf_169	AUGUSTUS	gene	1	219	0.95	-	.	g96
+scf_169	AUGUSTUS	transcript	1	219	0.95	-	.	g96.t1
+scf_169	AUGUSTUS	initial	1	219	0.95	-	0	transcript_id "g96.t1"; gene_id "g96";
+scf_169	AUGUSTUS	CDS	1	219	0.95	-	0	transcript_id "g96.t1"; gene_id "g96";
+scf_169	AUGUSTUS	start_codon	217	219	.	-	0	transcript_id "g96.t1"; gene_id "g96";
+# coding sequence = [atgtcaaacaacatcagcaacgaactcgccaacatcaacatcaacgctgttgaagatgaagatatgtgggaaacaagcc
+# accaacgcactcaattggaagaagacaaggcaatggtcgcggagcaggaagaatgggtgatgataacccgtgaggcgttgagagatgcaaggaaggtg
+# caagggttagtggaaggtcagtctcccgaggctgcccaagaa]
+# protein sequence = [MSNNISNELANININAVEDEDMWETSHQRTQLEEDKAMVAEQEEWVMITREALRDARKVQGLVEGQSPEAAQE]
+# end gene g96
+###
+#
+##FASTA
+>scf_169
+TTCTTGGGCAGCCTCGGGAGACTGACCTTCCACTAACCCTTGCACCTTCCTTGCATCTCT
+CAACGCCTCACGGGTTATCATCACCCATTCTTCCTGCTCCGCGACCATTGCCTTGTCTTC
+TTCCAATTGAGTGCGTTGGTGGCTTGTTTCCCACATATCTTCATCTTCAACAGCGTTGAT
+GTTGATGTTGGCGAGTTCGTTGCTGATGTTGTTTGACATGATGATGTTGTTGTTGAATTC
+AGTAAAA

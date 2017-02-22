@@ -1,0 +1,51 @@
+# ----- prediction on sequence number 5 (length = 994, name = scf_15) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5 on both strands
+# start gene g2
+scf_15	AUGUSTUS	gene	1	973	0.24	-	.	g2
+scf_15	AUGUSTUS	transcript	1	973	0.24	-	.	g2.t1
+scf_15	AUGUSTUS	internal	134	364	0.99	-	1	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	internal	420	524	0.26	-	1	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	initial	642	973	0.44	-	0	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	intron	1	133	0.99	-	.	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	intron	365	419	1	-	.	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	intron	525	641	0.24	-	.	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	CDS	134	364	0.99	-	1	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	CDS	420	524	0.26	-	1	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	CDS	642	973	0.44	-	0	transcript_id "g2.t1"; gene_id "g2";
+scf_15	AUGUSTUS	start_codon	971	973	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+# coding sequence = [atgaagataaaaccgccccgccaggcacaggaatggtcttacttttctcatcgggaatcgatcggtaaggccctctctt
+# ctcctggtataaggtccaccagaaacacacatatcagttgcgcctcatcagctcgtatggcgggtaacctgtgtgcgaacgtggatcaaatacgacac
+# caaggccgatggaacagcacaacgataaacggcgcatatctcaccaaccttccaagagaattagtgcgatcaatggcaggcttctccgcatatggtcg
+# acccttttatcttgcacgtgccgcccttgacccatttaccagcctctgcaagaagttgaagacttttaaacaagactcggtgctcatgatggagctcc
+# acttcggctatcccatttggcaacattcaatcttctctgattcagcatatttgtcattcaaaagggatatcctgcaaattgaagatcaagaacatact
+# cctgccaacacactcctccaacaaagtgtgcctgtgcactctggatttcagaccccgattggctataagattctttttttgccatcttattattttgc
+# tccttcttcccctcgtcattacttttttgccgtcattgtcattctctttactccacgacgtcgaacgaacgaacgaacgagcaaacgaacggacggac
+# g]
+# protein sequence = [MKIKPPRQAQEWSYFSHRESIGKALSSPGIRSTRNTHISCASSARMAGNLCANVDQIRHQGRWNSTTINGAYLTNLPR
+# ELVRSMAGFSAYGRPFYLARAALDPFTSLCKKLKTFKQDSVLMMELHFGYPIWQHSIFSDSAYLSFKRDILQIEDQEHTPANTLLQQSVPVHSGFQTP
+# IGYKILFLPSYYFAPSSPRHYFFAVIVILFTPRRRTNERTSKRTDG]
+# end gene g2
+###
+#
+##FASTA
+>scf_15
+ATCGTCGTCGTCCCTATTGTCGTCGTCATCGTCGTAGCCGATCTAGTGTCAAAAGAAAGA
+GGAACGATGCAAAAGGCAAAAAGTTAGTAATGGTAAGCAAAAGATGAGAATGACGTGAGA
+AGAGGAGATTTACCGTCCGTCCGTTCGTTTGCTCGTTCGTTCGTTCGTTCGACGTCGTGG
+AGTAAAGAGAATGACAATGACGGCAAAAAAGTAATGACGAGGGGAAGAAGGAGCAAAATA
+ATAAGATGGCAAAAAAAGAATCTTATAGCCAATCGGGGTCTGAAATCCAGAGTGCACAGG
+CACACTTTGTTGGAGGAGTGTGTTGGCAGGAGTATGTTCTTGATCTTCAATTTGCAGGAT
+ATCCCTAACATATCAAAGCGAGCATGCTACTACATTCTCATGCTATGATGTGGACTTACC
+TTTTGAATGACAAATATGCTGAATCAGAGAAGATTGAATGTTGCCAAATGGGATAGCCGA
+AGTGGAGCTCCATCATGAGCACCGAGTCTTGTTTAAAAGTCTTCCTGAACATCATGATTA
+CATGTACAAATGCATTTTCAGCGACGGTAGGTAGAATAGGATCGCCAGGACTGAGTTCTT
+TTGCCGCCAGTCGGTCATGTCATTCGCCGATCGCCGGGAACAACTTCTTGCAGAGGCTGG
+TAAATGGGTCAAGGGCGGCACGTGCAAGATAAAAGGGTCGACCATATGCGGAGAAGCCTG
+CCATTGATCGCACTAATTCTCTTGGAAGGTTGGTGAGATATGCGCCGTTTATCGTTGTGC
+TGTTCCATCGGCCTTGGTGTCGTATTTGATCCACGTTCGCACACAGGTTACCCGCCATAC
+GAGCTGATGAGGCGCAACTGATATGTGTGTTTCTGGTGGACCTTATACCAGGAGAAGAGA
+GGGCCTTACCGATCGATTCCCGATGAGAAAAGTAAGACCATTCCTGTGCCTGGCGGGGCG
+GTTTTATCTTCATTTCGAATTGAGTCCCAGCTAT
