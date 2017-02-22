@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1675 (length = 217, name = scf_3606) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1675 on both strands
+# start gene g2605
+scf_3606	AUGUSTUS	gene	1	188	0.79	-	.	g2605
+scf_3606	AUGUSTUS	transcript	1	188	0.79	-	.	g2605.t1
+scf_3606	AUGUSTUS	initial	106	188	0.8	-	0	transcript_id "g2605.t1"; gene_id "g2605";
+scf_3606	AUGUSTUS	intron	1	105	0.84	-	.	transcript_id "g2605.t1"; gene_id "g2605";
+scf_3606	AUGUSTUS	CDS	106	188	0.8	-	0	transcript_id "g2605.t1"; gene_id "g2605";
+scf_3606	AUGUSTUS	start_codon	186	188	.	-	0	transcript_id "g2605.t1"; gene_id "g2605";
+# coding sequence = [atgggacatacaaacacgatctaccaccaacaatcaacgggctacgaaagaagattcgcatggaaggacgatatctttc
+# acag]
+# protein sequence = [MGHTNTIYHQQSTGYERRFAWKDDIFH]
+# end gene g2605
+###
+#
+##FASTA
+>scf_3606
+GCGATCTGTCGAACATCGATCTTTGTGCAGGTGAATGGCTAACAAAAAGAAGAATGGTTA
+GACATTGGTGTGCTGGTTTATGACACAAGAAACTCAGAGATTTACCTGTGAAAGATATCG
+TCCTTCCATGCGAATCTTCTTTCGTAGCCCGTTGATTGTTGGTGGTAGATCGTGTTTGTA
+TGTCCCATTTTGTTGCCTTTCCAATCGATTTTGCAGC

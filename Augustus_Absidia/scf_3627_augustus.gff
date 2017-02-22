@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 1683 (length = 378, name = scf_3627) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1683 on both strands
+# start gene g2606
+scf_3627	AUGUSTUS	gene	1	347	0.84	+	.	g2606
+scf_3627	AUGUSTUS	transcript	1	347	0.84	+	.	g2606.t1
+scf_3627	AUGUSTUS	internal	1	273	0.84	+	0	transcript_id "g2606.t1"; gene_id "g2606";
+scf_3627	AUGUSTUS	terminal	324	347	1	+	0	transcript_id "g2606.t1"; gene_id "g2606";
+scf_3627	AUGUSTUS	intron	274	323	0.86	+	.	transcript_id "g2606.t1"; gene_id "g2606";
+scf_3627	AUGUSTUS	CDS	1	273	0.84	+	0	transcript_id "g2606.t1"; gene_id "g2606";
+scf_3627	AUGUSTUS	CDS	324	344	1	+	0	transcript_id "g2606.t1"; gene_id "g2606";
+scf_3627	AUGUSTUS	stop_codon	345	347	.	+	0	transcript_id "g2606.t1"; gene_id "g2606";
+# coding sequence = [cagtacaacgtaacggtgaaaggctataaccctttagcttcaatcaccgccggcttaccaggagatcactgggccatag
+# atctggctggaccctttgatcaaacacacagaggcaacatttacatattggtgatggtggacatctgtaccaagtttgtcattttaaaagcaatcccc
+# gacaaaatgtcgaccacgatagcagaatcgctgttggatgtattttgtacttttggattccctaaggtactgcaatcggacaatggaacagaatttac
+# tcatatcggcttaccaccctag]
+# protein sequence = [QYNVTVKGYNPLASITAGLPGDHWAIDLAGPFDQTHRGNIYILVMVDICTKFVILKAIPDKMSTTIAESLLDVFCTFG
+# FPKVLQSDNGTEFTHIGLPP]
+# end gene g2606
+###
+#
+##FASTA
+>scf_3627
+CAGTACAACGTAACGGTGAAAGGCTATAACCCTTTAGCTTCAATCACCGCCGGCTTACCA
+GGAGATCACTGGGCCATAGATCTGGCTGGACCCTTTGATCAAACACACAGAGGCAACATT
+TACATATTGGTGATGGTGGACATCTGTACCAAGTTTGTCATTTTAAAAGCAATCCCCGAC
+AAAATGTCGACCACGATAGCAGAATCGCTGTTGGATGTATTTTGTACTTTTGGATTCCCT
+AAGGTACTGCAATCGGACAATGGAACAGAATTTGTAAATGAGATTATCAAGCTCATGACC
+AGATCAACTAAAATTGACCATAGACTCATATCGGCTTACCACCCTAGAGCTAATGGCGCT
+GCTGAAAGAACAGTAAAA

@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 1691 (length = 285, name = scf_3647) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1691 on both strands
+# start gene g2609
+scf_3647	AUGUSTUS	gene	1	213	0.95	-	.	g2609
+scf_3647	AUGUSTUS	transcript	1	213	0.95	-	.	g2609.t1
+scf_3647	AUGUSTUS	initial	57	213	0.95	-	0	transcript_id "g2609.t1"; gene_id "g2609";
+scf_3647	AUGUSTUS	intron	1	56	0.95	-	.	transcript_id "g2609.t1"; gene_id "g2609";
+scf_3647	AUGUSTUS	CDS	57	213	0.95	-	0	transcript_id "g2609.t1"; gene_id "g2609";
+scf_3647	AUGUSTUS	start_codon	211	213	.	-	0	transcript_id "g2609.t1"; gene_id "g2609";
+# coding sequence = [atggatgagctcggagttggaactgtccagtcaactcaaggtgccgtcatgtcagcctgccaagcaaagccaattcaaa
+# cccagagctcatggatgagctcggagttggaactgtccagtcaacttaaggtgccgtcatgtcagcctgccaagcaaa]
+# protein sequence = [MDELGVGTVQSTQGAVMSACQAKPIQTQSSWMSSELELSSQLKVPSCQPAKQ]
+# end gene g2609
+###
+#
+##FASTA
+>scf_3647
+GTTGGCGAGACAATTCCAGCTCCGAGCTCATTGATGAGCTCGGGGTTTGAATTTACTTTG
+CTTGGCAGGCTGACATGACGGCACCTTAAGTTGACTGGACAGTTCCAACTCCGAGCTCAT
+CCATGAGCTCTGGGTTTGAATTGGCTTTGCTTGGCAGGCTGACATGACGGCACCTTGAGT
+TGACTGGACAGTTCCAACTCCGAGCTCATCCATGAGCTCTGGGTTTGAATTGGCTTTTCT
+TGGCAGGCTGACATGGCGGCACCTTGAGTTGACTGGACAGTTCCA
