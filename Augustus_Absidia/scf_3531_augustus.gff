@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 1636 (length = 404, name = scf_3531) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1636 on both strands
+# start gene g2592
+scf_3531	AUGUSTUS	gene	1	373	0.92	-	.	g2592
+scf_3531	AUGUSTUS	transcript	1	373	0.92	-	.	g2592.t1
+scf_3531	AUGUSTUS	internal	1	276	0.92	-	2	transcript_id "g2592.t1"; gene_id "g2592";
+scf_3531	AUGUSTUS	initial	343	373	1	-	0	transcript_id "g2592.t1"; gene_id "g2592";
+scf_3531	AUGUSTUS	intron	277	342	1	-	.	transcript_id "g2592.t1"; gene_id "g2592";
+scf_3531	AUGUSTUS	CDS	1	276	0.92	-	2	transcript_id "g2592.t1"; gene_id "g2592";
+scf_3531	AUGUSTUS	CDS	343	373	1	-	0	transcript_id "g2592.t1"; gene_id "g2592";
+scf_3531	AUGUSTUS	start_codon	371	373	.	-	0	transcript_id "g2592.t1"; gene_id "g2592";
+# coding sequence = [atgaatgaagtcatcagcaaggttgctccaggacacgaactcctgccatctccctacaagtcccgcaagcaactggaaa
+# tggcctaccctatcagagcaatgcggtacgatacctgtacagacgggtgcatgctcttcaccgacgacgaagaaacggaatgcctgcattgccaacaa
+# ccacggtacaacgacgacaacttggctaatcgtaccatcaatgtactgtctgtggccgaacaacttggattgctgctatacaacaaagggacccgaca
+# agatcttcggtatcgatctgactacgagacaa]
+# protein sequence = [MNEVISKVAPGHELLPSPYKSRKQLEMAYPIRAMRYDTCTDGCMLFTDDEETECLHCQQPRYNDDNLANRTINVLSVA
+# EQLGLLLYNKGTRQDLRYRSDYET]
+# end gene g2592
+###
+#
+##FASTA
+>scf_3531
+TTGTCTCGTAGTCAGATCGATACCGAAGATCTTGTCGGGTCCCTTTGTTGTATAGCAGCA
+ATCCAAGTTGTTCGGCCACAGACAGTACATTGATGGTACGATTAGCCAAGTTGTCGTCGT
+TGTACCGTGGTTGTTGGCAATGCAGGCATTCCGTTTCTTCGTCGTCGGTGAAGAGCATGC
+ACCCGTCTGTACAGGTATCGTACCGCATTGCTCTGATAGGGTAGGCCATTTCCAGTTGCT
+TGCGGGACTTGTAGGGAGATGGCAGGAGTTCGTGTCCTATTTCATAGGAAAGCAAGATCA
+GTTTCATTTGTTAACACCTAGCAATGTACGGTTGACACTTACCTGGAGCAACCTTGCTGA
+TGACTTCATTCATGAGCTTGGTGACGGCCGCATGAGCTTTTGCG

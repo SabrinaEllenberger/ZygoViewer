@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1545 (length = 217, name = scf_3328) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1545 on both strands
+# start gene g2323
+scf_3328	AUGUSTUS	gene	1	166	0.99	-	.	g2323
+scf_3328	AUGUSTUS	transcript	1	166	0.99	-	.	g2323.t1
+scf_3328	AUGUSTUS	initial	18	166	0.99	-	0	transcript_id "g2323.t1"; gene_id "g2323";
+scf_3328	AUGUSTUS	intron	1	17	0.99	-	.	transcript_id "g2323.t1"; gene_id "g2323";
+scf_3328	AUGUSTUS	CDS	18	166	0.99	-	0	transcript_id "g2323.t1"; gene_id "g2323";
+scf_3328	AUGUSTUS	start_codon	164	166	.	-	0	transcript_id "g2323.t1"; gene_id "g2323";
+# coding sequence = [atgtgggcgcaacatcggttatgggactactctggcgcccagaagcttgatcatgaattggtgcaagtttttttgaacg
+# gtggaagaaaatacgacccaagcactgccccacatcctaccatgcagcatcgaacatcagcccaccccac]
+# protein sequence = [MWAQHRLWDYSGAQKLDHELVQVFLNGGRKYDPSTAPHPTMQHRTSAHP]
+# end gene g2323
+###
+#
+##FASTA
+>scf_3328
+AGCTCTGTTTGGCTTACGTGGGGTGGGCTGATGTTCGATGCTGCATGGTAGGATGTGGGG
+CAGTGCTTGGGTCGTATTTTCTTCCACCGTTCAAAAAAACTTGCACCAATTCATGATCAA
+GCTTCTGGGCGCCAGAGTAGTCCCATAACCGATGTTGCGCCCACATGACGTCGCCATATA
+GAGCAAGGAGAGGGCTCAAATGTTCAAGGATGTACCG

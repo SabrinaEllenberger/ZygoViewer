@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1605 (length = 321, name = scf_3435) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1605 on both strands
+# start gene g2402
+scf_3435	AUGUSTUS	gene	1	321	0.23	+	.	g2402
+scf_3435	AUGUSTUS	transcript	1	321	0.23	+	.	g2402.t1
+scf_3435	AUGUSTUS	internal	1	321	0.23	+	1	transcript_id "g2402.t1"; gene_id "g2402";
+scf_3435	AUGUSTUS	CDS	1	321	0.23	+	1	transcript_id "g2402.t1"; gene_id "g2402";
+# coding sequence = [cagagacggcgagacgttaaaaaagaagcataccaagatgacgatcaagcatggcggtggtggaattatgctttggagt
+# gccatttctgctgctggaacgggctggatgtgtcagattataggccgaatggatcaaaatttgtacaaggagatcatcgacgatgaattggcagtgac
+# tattggtcacgtgtgtgaagaattgggcctccgacgagaccagatcatctttcagcaagataatgaccccaagcataagtcgaaaatggtcatggaac
+# acctccaaaaacaagattaccatgtgatggaatggccccctcaatc]
+# protein sequence = [RDGETLKKKHTKMTIKHGGGGIMLWSAISAAGTGWMCQIIGRMDQNLYKEIIDDELAVTIGHVCEELGLRRDQIIFQQ
+# DNDPKHKSKMVMEHLQKQDYHVMEWPPQ]
+# end gene g2402
+###
+#
+##FASTA
+>scf_3435
+CAGAGACGGCGAGACGTTAAAAAAGAAGCATACCAAGATGACGATCAAGCATGGCGGTGG
+TGGAATTATGCTTTGGAGTGCCATTTCTGCTGCTGGAACGGGCTGGATGTGTCAGATTAT
+AGGCCGAATGGATCAAAATTTGTACAAGGAGATCATCGACGATGAATTGGCAGTGACTAT
+TGGTCACGTGTGTGAAGAATTGGGCCTCCGACGAGACCAGATCATCTTTCAGCAAGATAA
+TGACCCCAAGCATAAGTCGAAAATGGTCATGGAACACCTCCAAAAACAAGATTACCATGT
+GATGGAATGGCCCCCTCAATC

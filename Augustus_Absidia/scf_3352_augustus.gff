@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 1556 (length = 400, name = scf_3352) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1556 on both strands
+# start gene g2330
+scf_3352	AUGUSTUS	gene	1	400	0.92	+	.	g2330
+scf_3352	AUGUSTUS	transcript	1	400	0.92	+	.	g2330.t1
+scf_3352	AUGUSTUS	start_codon	1	3	.	+	0	transcript_id "g2330.t1"; gene_id "g2330";
+scf_3352	AUGUSTUS	initial	1	400	0.92	+	0	transcript_id "g2330.t1"; gene_id "g2330";
+scf_3352	AUGUSTUS	CDS	1	400	0.92	+	0	transcript_id "g2330.t1"; gene_id "g2330";
+# coding sequence = [atgctgctcaactccctctctggcaaccaattccttcagaagacgttgtttagccacctcctggtgcattcgggtggac
+# tcttcacgtcggctgaacacttgaagggcttaaccatggatctggtcaggtctcctgtctggaccatgatggtggacaacctcggtgctccctcctct
+# ggtgtttcctctggtgctcggccttcctcttccaaaaggaccgatggcaactgtcctacacatggtggcaagagtggatctggtgctgaccacgacct
+# agaagaatgcaaggcccacgtggatcagaagcgccgccaacatgatcgggtggacgaccgacgacaacgccgcaaccaacgtagccgatcccaatctg
+# gtagcagggacgactaccgccatcacc]
+# protein sequence = [MLLNSLSGNQFLQKTLFSHLLVHSGGLFTSAEHLKGLTMDLVRSPVWTMMVDNLGAPSSGVSSGARPSSSKRTDGNCP
+# THGGKSGSGADHDLEECKAHVDQKRRQHDRVDDRRQRRNQRSRSQSGSRDDYRHH]
+# end gene g2330
+###
+#
+##FASTA
+>scf_3352
+ATGCTGCTCAACTCCCTCTCTGGCAACCAATTCCTTCAGAAGACGTTGTTTAGCCACCTC
+CTGGTGCATTCGGGTGGACTCTTCACGTCGGCTGAACACTTGAAGGGCTTAACCATGGAT
+CTGGTCAGGTCTCCTGTCTGGACCATGATGGTGGACAACCTCGGTGCTCCCTCCTCTGGT
+GTTTCCTCTGGTGCTCGGCCTTCCTCTTCCAAAAGGACCGATGGCAACTGTCCTACACAT
+GGTGGCAAGAGTGGATCTGGTGCTGACCACGACCTAGAAGAATGCAAGGCCCACGTGGAT
+CAGAAGCGCCGCCAACATGATCGGGTGGACGACCGACGACAACGCCGCAACCAACGTAGC
+CGATCCCAATCTGGTAGCAGGGACGACTACCGCCATCACC

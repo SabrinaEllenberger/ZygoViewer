@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 1572 (length = 217, name = scf_3374) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1572 on both strands
+# start gene g2377
+scf_3374	AUGUSTUS	gene	1	217	0.63	+	.	g2377
+scf_3374	AUGUSTUS	transcript	1	217	0.63	+	.	g2377.t1
+scf_3374	AUGUSTUS	internal	1	97	0.63	+	1	transcript_id "g2377.t1"; gene_id "g2377";
+scf_3374	AUGUSTUS	internal	166	217	0.84	+	0	transcript_id "g2377.t1"; gene_id "g2377";
+scf_3374	AUGUSTUS	intron	98	165	0.74	+	.	transcript_id "g2377.t1"; gene_id "g2377";
+scf_3374	AUGUSTUS	CDS	1	97	0.63	+	1	transcript_id "g2377.t1"; gene_id "g2377";
+scf_3374	AUGUSTUS	CDS	166	217	0.84	+	0	transcript_id "g2377.t1"; gene_id "g2377";
+# coding sequence = [tcctggccatcgtgatttcatcaagaacatgattactggtacttctcaagctgattgcggtattcttatcattgctgcc
+# ggtactggtgaattcgaagctggtatctccaaggatggtcaaacccgtgaacacgctttgttggctttca]
+# protein sequence = [PGHRDFIKNMITGTSQADCGILIIAAGTGEFEAGISKDGQTREHALLAF]
+# end gene g2377
+###
+#
+##FASTA
+>scf_3374
+TCCTGGCCATCGTGATTTCATCAAGAACATGATTACTGGTACTTCTCAAGCTGATTGCGG
+TATTCTTATCATTGCTGCCGGTACTGGTGAATTCGAAGTAAGTAGATATGTCAGAGTAAT
+GTGTGTGCGATCATTGTACTTATAGACTTCTTTTACTTTGTGTAGGCTGGTATCTCCAAG
+GATGGTCAAACCCGTGAACACGCTTTGTTGGCTTTCA

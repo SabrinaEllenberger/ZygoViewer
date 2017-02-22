@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 1601 (length = 497, name = scf_3425) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1601 on both strands
+# start gene g2400
+scf_3425	AUGUSTUS	gene	1	413	0.96	+	.	g2400
+scf_3425	AUGUSTUS	transcript	1	413	0.96	+	.	g2400.t1
+scf_3425	AUGUSTUS	terminal	1	413	0.96	+	2	transcript_id "g2400.t1"; gene_id "g2400";
+scf_3425	AUGUSTUS	CDS	1	410	0.96	+	2	transcript_id "g2400.t1"; gene_id "g2400";
+scf_3425	AUGUSTUS	stop_codon	411	413	.	+	0	transcript_id "g2400.t1"; gene_id "g2400";
+# coding sequence = [cggctaactgggaacatcaactctctcttttggctgaaacgctagacaccaatcaacaatccatcatctttgtgcaatc
+# tttggcgcaacgggatattcgaatggctcttctaaactggatggacgacaaagctcctgattcggtggatatggtgatacagaaagctatgcatatgg
+# aaacacaagcacagattatgcgggacctacaacaagcaacttcagctccagcatcaacaatgcaaccattcgaccctaacgcaatggatgtcgatcat
+# gtgcaagtcaaacactctcaacgggattctaacggcaacacaacaccatcaagctccaacaacaaacagcttcgctatgtgtatgacaaagacggtaa
+# ccccatttgtggccatttgttgaattatggttttgaatag]
+# protein sequence = [ANWEHQLSLLAETLDTNQQSIIFVQSLAQRDIRMALLNWMDDKAPDSVDMVIQKAMHMETQAQIMRDLQQATSAPAST
+# MQPFDPNAMDVDHVQVKHSQRDSNGNTTPSSSNNKQLRYVYDKDGNPICGHLLNYGFE]
+# end gene g2400
+###
+#
+##FASTA
+>scf_3425
+CGGCTAACTGGGAACATCAACTCTCTCTTTTGGCTGAAACGCTAGACACCAATCAACAAT
+CCATCATCTTTGTGCAATCTTTGGCGCAACGGGATATTCGAATGGCTCTTCTAAACTGGA
+TGGACGACAAAGCTCCTGATTCGGTGGATATGGTGATACAGAAAGCTATGCATATGGAAA
+CACAAGCACAGATTATGCGGGACCTACAACAAGCAACTTCAGCTCCAGCATCAACAATGC
+AACCATTCGACCCTAACGCAATGGATGTCGATCATGTGCAAGTCAAACACTCTCAACGGG
+ATTCTAACGGCAACACAACACCATCAAGCTCCAACAACAAACAGCTTCGCTATGTGTATG
+ACAAAGACGGTAACCCCATTTGTGGCCATTTGTTGAATTATGGTTTTGAATAGAAAATAG
+AAGTATGATGGAAGTTTGTTATGCTTTATTAAAGATGAAGATTGAAGCTACTTTTATACT
+AGGTCTTGTTTGCATGG

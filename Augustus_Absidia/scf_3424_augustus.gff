@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1600 (length = 403, name = scf_3424) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1600 on both strands
+# start gene g2399
+scf_3424	AUGUSTUS	gene	1	160	0.37	-	.	g2399
+scf_3424	AUGUSTUS	transcript	1	160	0.37	-	.	g2399.t1
+scf_3424	AUGUSTUS	initial	60	160	0.37	-	0	transcript_id "g2399.t1"; gene_id "g2399";
+scf_3424	AUGUSTUS	intron	1	59	0.37	-	.	transcript_id "g2399.t1"; gene_id "g2399";
+scf_3424	AUGUSTUS	CDS	60	160	0.37	-	0	transcript_id "g2399.t1"; gene_id "g2399";
+scf_3424	AUGUSTUS	start_codon	158	160	.	-	0	transcript_id "g2399.t1"; gene_id "g2399";
+# coding sequence = [atgatccgtctagacacaccaccggatgccgctggctaccgagcacaatacgagatcgctgataccttaatcccggttg
+# tcaaggaaaccgtcaaaaaatg]
+# protein sequence = [MIRLDTPPDAAGYRAQYEIADTLIPVVKETVKK]
+# end gene g2399
+###
+#
+##FASTA
+>scf_3424
+GGCTGTTCCATCGGTTATCTACATTGGATGGGACCCTCACGACTATGCCCTGATCTAACC
+ATTTTTTGACGGTTTCCTTGACAACCGGGATTAAGGTATCAGCGATCTCGTATTGTGCTC
+GGTAGCCAGCGGCATCCGGTGGTGTGTCTAGACGGATCATGGCGTCTGGGTGTGTGCAGA
+AGAATCCGTTGGGATCAACGCATTTGCGTCAATGCTGGGTTTGATATATGCTTGCAGATT
+GCTCTGGAAGGTGGGTGAGCCGTAAGGATCTTGGTTAGGAGTGACGACGTCCTTGAATGG
+GCTTTCCTCCTCTGTTCTGTTGGGGGATGTCCATGATGTGGCTAATCCGGTGTAGGCTAT
+GCCGAGGACTTTCATAAAATCAGTTCCTATACACATGTTTCTG

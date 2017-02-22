@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 1596 (length = 667, name = scf_3418) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1596 on both strands
+# start gene g2397
+scf_3418	AUGUSTUS	gene	1	611	0.26	+	.	g2397
+scf_3418	AUGUSTUS	transcript	1	611	0.26	+	.	g2397.t1
+scf_3418	AUGUSTUS	terminal	121	611	0.26	+	2	transcript_id "g2397.t1"; gene_id "g2397";
+scf_3418	AUGUSTUS	intron	1	120	0.99	+	.	transcript_id "g2397.t1"; gene_id "g2397";
+scf_3418	AUGUSTUS	CDS	121	608	0.26	+	2	transcript_id "g2397.t1"; gene_id "g2397";
+scf_3418	AUGUSTUS	stop_codon	609	611	.	+	0	transcript_id "g2397.t1"; gene_id "g2397";
+# coding sequence = [agtctattggatacgacacggcggttgaagattccgtgggcttcggcagcattctaattaaggccttatccaaccaccc
+# cgatttggtgaaacaagtccgtgcaacctatgcaagcaccgatgttgcgcatcgcccggtgttcaacgtcgcttatgtagcaagagtggtgcccctgc
+# tttatgtagaaaatggtcaagacgatgtggaagaaagaagtggctgccagcaacgccgacaagagcacagaggtaaaccctatcacgatgacaaaaga
+# aacaacaaccatcacaacagcaactatcacaacaacaaccacaacaacaacaatggccacaataaaaatggccacaataaaaatggcaataacagcaa
+# tggcgggcgcagcggcaacggtaagcatccgtttcacatgaaagtaaacaagtgtcgtcattgcaacgtgaagtatttgatagatataagtcaaatag
+# ataacgatacaaaaggatga]
+# protein sequence = [SIGYDTAVEDSVGFGSILIKALSNHPDLVKQVRATYASTDVAHRPVFNVAYVARVVPLLYVENGQDDVEERSGCQQRR
+# QEHRGKPYHDDKRNNNHHNSNYHNNNHNNNNGHNKNGHNKNGNNSNGGRSGNGKHPFHMKVNKCRHCNVKYLIDISQIDNDTKG]
+# end gene g2397
+###
+#
+##FASTA
+>scf_3418
+GAGTCATAATATGAGTCTCTAAAGGGAAAGTATCACAATAGCGGGGATTGCCCCTTTTTC
+TCATGTGTGGTCTATGATTGTAGAGCCTTCGTCTCATACAATCATCACCTATCTAAAAAG
+AGTCTATTGGATACGACACGGCGGTTGAAGATTCCGTGGGCTTCGGCAGCATTCTAATTA
+AGGCCTTATCCAACCACCCCGATTTGGTGAAACAAGTCCGTGCAACCTATGCAAGCACCG
+ATGTTGCGCATCGCCCGGTGTTCAACGTCGCTTATGTAGCAAGAGTGGTGCCCCTGCTTT
+ATGTAGAAAATGGTCAAGACGATGTGGAAGAAAGAAGTGGCTGCCAGCAACGCCGACAAG
+AGCACAGAGGTAAACCCTATCACGATGACAAAAGAAACAACAACCATCACAACAGCAACT
+ATCACAACAACAACCACAACAACAACAATGGCCACAATAAAAATGGCCACAATAAAAATG
+GCAATAACAGCAATGGCGGGCGCAGCGGCAACGGTAAGCATCCGTTTCACATGAAAGTAA
+ACAAGTGTCGTCATTGCAACGTGAAGTATTTGATAGATATAAGTCAAATAGATAACGATA
+CAAAAGGATGATACTTTATTAAAACAGACAAAAGAACAATGGGTTTATATAGTTTTCTAT
+CTGACAG

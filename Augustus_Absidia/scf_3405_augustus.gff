@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 1586 (length = 502, name = scf_3405) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1586 on both strands
+# start gene g2385
+scf_3405	AUGUSTUS	gene	1	450	0.6	+	.	g2385
+scf_3405	AUGUSTUS	transcript	1	450	0.6	+	.	g2385.t1
+scf_3405	AUGUSTUS	internal	96	162	0.6	+	2	transcript_id "g2385.t1"; gene_id "g2385";
+scf_3405	AUGUSTUS	terminal	216	450	0.88	+	1	transcript_id "g2385.t1"; gene_id "g2385";
+scf_3405	AUGUSTUS	intron	1	95	0.6	+	.	transcript_id "g2385.t1"; gene_id "g2385";
+scf_3405	AUGUSTUS	intron	163	215	0.85	+	.	transcript_id "g2385.t1"; gene_id "g2385";
+scf_3405	AUGUSTUS	CDS	96	162	0.6	+	2	transcript_id "g2385.t1"; gene_id "g2385";
+scf_3405	AUGUSTUS	CDS	216	447	0.88	+	1	transcript_id "g2385.t1"; gene_id "g2385";
+scf_3405	AUGUSTUS	stop_codon	448	450	.	+	0	transcript_id "g2385.t1"; gene_id "g2385";
+# coding sequence = [gaaatgatttaggctttggatgggttgggtatcttttttgtgatcttgttacccacacttatatagaagaaaagaagac
+# aaagcctgttggatcgaaacaatctcaagatccagtagtcacccgcaccacacataccgaaacatacgacagtttggcccaatctctagataaaaact
+# ggtccaccttatcctccaaagccctcaagaaaagaatctcacctgtggcattcttaattcaaagtaagatcagagtgggatccgattatcttgttgac
+# tccctctcatgttgtaatgctatgtag]
+# protein sequence = [NDLGFGWVGYLFCDLVTHTYIEEKKTKPVGSKQSQDPVVTRTTHTETYDSLAQSLDKNWSTLSSKALKKRISPVAFLI
+# QSKIRVGSDYLVDSLSCCNAM]
+# end gene g2385
+###
+#
+##FASTA
+>scf_3405
+CTCCGACAGGGGTAACCGATGAGAAAAACTGATTTAGATAACAGTCTTATAATTAATATG
+TATCGGTAACGGTATTATTTTAATTTAAGATTCAGGAAATGATTTAGGCTTTGGATGGGT
+TGGGTATCTTTTTTGTGATCTTGTTACCCACACTTATATAGAGTAAGTCAGCCCTACCGC
+TCTCCTCTCACTAATGTCATTTTGTACGTCTATAGAGAAAAGAAGACAAAGCCTGTTGGA
+TCGAAACAATCTCAAGATCCAGTAGTCACCCGCACCACACATACCGAAACATACGACAGT
+TTGGCCCAATCTCTAGATAAAAACTGGTCCACCTTATCCTCCAAAGCCCTCAAGAAAAGA
+ATCTCACCTGTGGCATTCTTAATTCAAAGTAAGATCAGAGTGGGATCCGATTATCTTGTT
+GACTCCCTCTCATGTTGTAATGCTATGTAGTCCTGATGAAATACCAACTGAAGAATGGAA
+GATGCCCTACTGATTTGGATGT

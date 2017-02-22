@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 1538 (length = 533, name = scf_3307) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1538 on both strands
+# start gene g2320
+scf_3307	AUGUSTUS	gene	1	533	0.75	+	.	g2320
+scf_3307	AUGUSTUS	transcript	1	533	0.75	+	.	g2320.t1
+scf_3307	AUGUSTUS	internal	92	533	0.75	+	1	transcript_id "g2320.t1"; gene_id "g2320";
+scf_3307	AUGUSTUS	intron	1	91	0.78	+	.	transcript_id "g2320.t1"; gene_id "g2320";
+scf_3307	AUGUSTUS	CDS	92	533	0.75	+	1	transcript_id "g2320.t1"; gene_id "g2320";
+# coding sequence = [catgccttactgcaattactgtgatcaattggatccggacgccagcagacggcactttacatcagcgaagaacttgaaa
+# ctccacattatacaagctcaccgcgatgcaccaactttatacagtgtccgacaaaaggctcaccaaccagcatacgtcaaacggcgaagaatacaagg
+# atcctcggacgccaatgagcaacttgaattgctggatgtgctagaaacatctgaacgactcgaaatggcggagcagcttgcagccttcaaacaactga
+# aaaccattgaacagggtgaagatatggaccagctcgctgcgaaggattacgaagaagcacaggaactggaacacatgatggacttgttggacgaattc
+# gagcaagtggaatccatggtggccactggcgatgatggttatggagacacggtgtacaacggcagcgac]
+# protein sequence = [MPYCNYCDQLDPDASRRHFTSAKNLKLHIIQAHRDAPTLYSVRQKAHQPAYVKRRRIQGSSDANEQLELLDVLETSER
+# LEMAEQLAAFKQLKTIEQGEDMDQLAAKDYEEAQELEHMMDLLDEFEQVESMVATGDDGYGDTVYNGSD]
+# end gene g2320
+###
+#
+##FASTA
+>scf_3307
+TGACTTTTCGCTTTTCTTCCTTTCTCCATTCTCTTTCTCTTTCTCACTCGTACTCTCTTT
+ACTTTATACAGCAATATTATCAAACTTTTAGCATGCCTTACTGCAATTACTGTGATCAAT
+TGGATCCGGACGCCAGCAGACGGCACTTTACATCAGCGAAGAACTTGAAACTCCACATTA
+TACAAGCTCACCGCGATGCACCAACTTTATACAGTGTCCGACAAAAGGCTCACCAACCAG
+CATACGTCAAACGGCGAAGAATACAAGGATCCTCGGACGCCAATGAGCAACTTGAATTGC
+TGGATGTGCTAGAAACATCTGAACGACTCGAAATGGCGGAGCAGCTTGCAGCCTTCAAAC
+AACTGAAAACCATTGAACAGGGTGAAGATATGGACCAGCTCGCTGCGAAGGATTACGAAG
+AAGCACAGGAACTGGAACACATGATGGACTTGTTGGACGAATTCGAGCAAGTGGAATCCA
+TGGTGGCCACTGGCGATGATGGTTATGGAGACACGGTGTACAACGGCAGCGAC

@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 1551 (length = 235, name = scf_3336) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1551 on both strands
+# start gene g2326
+scf_3336	AUGUSTUS	gene	1	189	0.76	-	.	g2326
+scf_3336	AUGUSTUS	transcript	1	189	0.76	-	.	g2326.t1
+scf_3336	AUGUSTUS	internal	1	55	0.77	-	2	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	internal	108	135	0.86	-	0	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	initial	187	189	0.86	-	0	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	intron	56	107	0.77	-	.	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	intron	136	186	0.87	-	.	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	CDS	1	55	0.77	-	2	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	CDS	108	135	0.86	-	0	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	CDS	187	189	0.86	-	0	transcript_id "g2326.t1"; gene_id "g2326";
+scf_3336	AUGUSTUS	start_codon	187	189	.	-	0	transcript_id "g2326.t1"; gene_id "g2326";
+# coding sequence = [atgatagaagctacggacggctacttcgaagcctctcgtcatattttaacgattatcaagaaaattgaagccgaaaaat
+# tgccatt]
+# protein sequence = [MIEATDGYFEASRHILTIIKKIEAEKLP]
+# end gene g2326
+###
+#
+##FASTA
+>scf_3336
+AATGGCAATTTTTCGGCTTCAATTTTCTTGATAATCGTTAAAATATGACGAGAGGCTATT
+TAGAGAAAAGTCAATCATACAGGCCCTCCAATCACCCTCCTCCTTACCTTCGAAGTAGCC
+GTCCGTAGCTTCTATCTACAATACAAAAGAATAAGTCGATCATGCTCTGCGCCCCTTTTC
+ACCTACCATGATATGAGTGTTCTGATCAATAGATGAAGGATTGCCGAAACCCAAA

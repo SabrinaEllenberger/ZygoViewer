@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 1577 (length = 370, name = scf_3392) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1577 on both strands
+# start gene g2380
+scf_3392	AUGUSTUS	gene	1	360	0.48	+	.	g2380
+scf_3392	AUGUSTUS	transcript	1	360	0.48	+	.	g2380.t1
+scf_3392	AUGUSTUS	internal	1	85	0.53	+	0	transcript_id "g2380.t1"; gene_id "g2380";
+scf_3392	AUGUSTUS	terminal	242	360	0.56	+	2	transcript_id "g2380.t1"; gene_id "g2380";
+scf_3392	AUGUSTUS	intron	86	241	0.48	+	.	transcript_id "g2380.t1"; gene_id "g2380";
+scf_3392	AUGUSTUS	CDS	1	85	0.53	+	0	transcript_id "g2380.t1"; gene_id "g2380";
+scf_3392	AUGUSTUS	CDS	242	357	0.56	+	2	transcript_id "g2380.t1"; gene_id "g2380";
+scf_3392	AUGUSTUS	stop_codon	358	360	.	+	0	transcript_id "g2380.t1"; gene_id "g2380";
+# coding sequence = [ttgggctatctatcaagcagccttcctgttggtgcagtcattgccgactcctttcctcggctgagccgtccaagcatgt
+# ctattgcaggggtcatgaatcacaacaacttgcccgtggctcaccctgttgcacagccgccatatacactacttcatctaaactgggttggcgcacaa
+# gtggcagatatcgattcccgtccttag]
+# protein sequence = [LGYLSSSLPVGAVIADSFPRLSRPSMSIAGVMNHNNLPVAHPVAQPPYTLLHLNWVGAQVADIDSRP]
+# end gene g2380
+###
+#
+##FASTA
+>scf_3392
+TTGGGCTATCTATCAAGCAGCCTTCCTGTTGGTGCAGTCATTGCCGACTCCTTTCCTCGG
+CTGAGCCGTCCAAGCATGTCTATTGGTAAGTAAACATGTCTGCTGCGCAAAGAAAAACAG
+TACTAACTGTTTCATCTCTTGTCCCATTCATATGTATCAACTGCCCATGAAACACGGCCT
+GGATGGGCCAACGTCTGGTACTCTCTCATCAGTCCCTTGATGATTGTGGTTATGGTTGTA
+GCAGGGGTCATGAATCACAACAACTTGCCCGTGGCTCACCCTGTTGCACAGCCGCCATAT
+ACACTACTTCATCTAAACTGGGTTGGCGCACAAGTGGCAGATATCGATTCCCGTCCTTAG
+GATCTCCGTC
