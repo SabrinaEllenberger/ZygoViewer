@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 701 (length = 217, name = scf_1481) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 701 on both strands
+# start gene g1402
+scf_1481	AUGUSTUS	gene	26	217	0.94	-	.	g1402
+scf_1481	AUGUSTUS	transcript	26	217	0.94	-	.	g1402.t1
+scf_1481	AUGUSTUS	stop_codon	26	28	.	-	0	transcript_id "g1402.t1"; gene_id "g1402";
+scf_1481	AUGUSTUS	terminal	26	217	0.94	-	0	transcript_id "g1402.t1"; gene_id "g1402";
+scf_1481	AUGUSTUS	CDS	29	217	0.94	-	0	transcript_id "g1402.t1"; gene_id "g1402";
+# coding sequence = [gttcctaggtttggcggtgctggtttcgctgtcgatgttggtgttgatattggagatggtgtcgatgttggtgtcgatg
+# ctggtgttagtgttagtgctggtgctggtactggtgctttgggtgtcctgaaggaaagaaacaaactgttttacaattttgatatgggaagcaaatcg
+# gttggcatgatctaa]
+# protein sequence = [VPRFGGAGFAVDVGVDIGDGVDVGVDAGVSVSAGAGTGALGVLKERNKLFYNFDMGSKSVGMI]
+# end gene g1402
+###
+#
+##FASTA
+>scf_1481
+CTGACCTTTGTTTTGTCTTGTTTGATTAGATCATGCCAACCGATTTGCTTCCCATATCAA
+AATTGTAAAACAGTTTGTTTCTTTCCTTCAGGACACCCAAAGCACCAGTACCAGCACCAG
+CACTAACACTAACACCAGCATCGACACCAACATCGACACCATCTCCAATATCAACACCAA
+CATCGACAGCGAAACCAGCACCGCCAAACCTAGGAAC

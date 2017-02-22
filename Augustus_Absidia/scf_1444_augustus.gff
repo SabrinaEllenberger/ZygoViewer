@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 684 (length = 217, name = scf_1444) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 684 on both strands
+# start gene g1397
+scf_1444	AUGUSTUS	gene	1	203	1	-	.	g1397
+scf_1444	AUGUSTUS	transcript	1	203	1	-	.	g1397.t1
+scf_1444	AUGUSTUS	initial	60	203	1	-	0	transcript_id "g1397.t1"; gene_id "g1397";
+scf_1444	AUGUSTUS	intron	1	59	1	-	.	transcript_id "g1397.t1"; gene_id "g1397";
+scf_1444	AUGUSTUS	CDS	60	203	1	-	0	transcript_id "g1397.t1"; gene_id "g1397";
+scf_1444	AUGUSTUS	start_codon	201	203	.	-	0	transcript_id "g1397.t1"; gene_id "g1397";
+# coding sequence = [atgtcttactttggatgtcgcttgtgtgttgtcaaaggtgtccgtggtctaatcaacgatcctctctctggtggtatgt
+# actttgtgggcaaaaccaatcccggtcgtatgcgccagcagaatgaattcaaggatggtggactg]
+# protein sequence = [MSYFGCRLCVVKGVRGLINDPLSGGMYFVGKTNPGRMRQQNEFKDGGL]
+# end gene g1397
+###
+#
+##FASTA
+>scf_1444
+GAAGAAATTCCTTAGTTAGTTTGCTAGAAGTGGTCAACAAGCATAAGAGTGCTACTTACC
+AGTCCACCATCCTTGAATTCATTCTGCTGGCGCATACGACCGGGATTGGTTTTGCCCACA
+AAGTACATACCACCAGAGAGAGGATCGTTGATTAGACCACGGACACCTTTGACAACACAC
+AAGCGACATCCAAAGTAAGACATATGACCGGTATGTT

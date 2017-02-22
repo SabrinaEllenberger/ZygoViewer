@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 653 (length = 373, name = scf_1384) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 653 on both strands
+# start gene g1380
+scf_1384	AUGUSTUS	gene	1	199	0.69	+	.	g1380
+scf_1384	AUGUSTUS	transcript	1	199	0.69	+	.	g1380.t1
+scf_1384	AUGUSTUS	terminal	73	199	0.69	+	1	transcript_id "g1380.t1"; gene_id "g1380";
+scf_1384	AUGUSTUS	intron	1	72	1	+	.	transcript_id "g1380.t1"; gene_id "g1380";
+scf_1384	AUGUSTUS	CDS	73	196	0.69	+	1	transcript_id "g1380.t1"; gene_id "g1380";
+scf_1384	AUGUSTUS	stop_codon	197	199	.	+	0	transcript_id "g1380.t1"; gene_id "g1380";
+# coding sequence = [aactgaacaatctggtattgaattggaacatgaaatagtttctgaaggcactgaagaacaatttgaaggtaaatatctc
+# aaagacactaccaagcaaccctttgttcttctaatgaatcaacactga]
+# protein sequence = [TEQSGIELEHEIVSEGTEEQFEGKYLKDTTKQPFVLLMNQH]
+# end gene g1380
+###
+#
+##FASTA
+>scf_1384
+AAAGGTAAATTTTATGCATAAAGGACAAGTTGTCACATTCACTCTTTACTTAACCGCTCA
+TTAATCTTTTAGAACTGAACAATCTGGTATTGAATTGGAACATGAAATAGTTTCTGAAGG
+CACTGAAGAACAATTTGAAGGTAAATATCTCAAAGACACTACCAAGCAACCCTTTGTTCT
+TCTAATGAATCAACACTGACGATTGACTATGCTTTGCGTTGTTTCTAGATACTGATCCTA
+TCAACTTCGGGCAACCAACGACTGATCTCAACTATGTGCAACGTACTTCCCTGAAACTAT
+ATGCGCTGAAACTCAAATGCAACTTATCAAGGGCCCAGACCAAGATGGTTTCTGACTTTG
+TAGACGATCTCTT

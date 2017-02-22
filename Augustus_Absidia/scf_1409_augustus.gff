@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 661 (length = 338, name = scf_1409) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 661 on both strands
+# start gene g1384
+scf_1409	AUGUSTUS	gene	5	271	0.93	-	.	g1384
+scf_1409	AUGUSTUS	transcript	5	271	0.93	-	.	g1384.t1
+scf_1409	AUGUSTUS	stop_codon	5	7	.	-	0	transcript_id "g1384.t1"; gene_id "g1384";
+scf_1409	AUGUSTUS	single	5	271	0.93	-	0	transcript_id "g1384.t1"; gene_id "g1384";
+scf_1409	AUGUSTUS	CDS	8	271	0.93	-	0	transcript_id "g1384.t1"; gene_id "g1384";
+scf_1409	AUGUSTUS	start_codon	269	271	.	-	0	transcript_id "g1384.t1"; gene_id "g1384";
+# coding sequence = [atgagctcggagttggaagtgtattgtcaactcaaggtgcagtcatgccagcctgccaatcaaagcgaattaagtccag
+# agctcactgatgagctcggagttggaagtgtattgccaactcaaggtgcactcatgtcagcctgccaatcaagacgaattcaagtccagagctcactg
+# atgagctcggagttggaagtgtattgtcaactcaaggtgcagtcatgccagcctgccaatcaagacgaattcaagtccagagctcactga]
+# protein sequence = [MSSELEVYCQLKVQSCQPANQSELSPELTDELGVGSVLPTQGALMSACQSRRIQVQSSLMSSELEVYCQLKVQSCQPA
+# NQDEFKSRAH]
+# end gene g1384
+###
+#
+##FASTA
+>scf_1409
+CTCATCAGTGAGCTCTGGACTTGAATTCGTCTTGATTGGCAGGCTGGCATGACTGCACCT
+TGAGTTGACAATACACTTCCAACTCCGAGCTCATCAGTGAGCTCTGGACTTGAATTCGTC
+TTGATTGGCAGGCTGACATGAGTGCACCTTGAGTTGGCAATACACTTCCAACTCCGAGCT
+CATCAGTGAGCTCTGGACTTAATTCGCTTTGATTGGCAGGCTGGCATGACTGCACCTTGA
+GTTGACAATACACTTCCAACTCCGAGCTCATCAGTGAGCTCTGGATTTGAATTCGCTTTG
+ATTGGCAGGCTGACGTGAGTGCACCTTGAGTTGACAAT

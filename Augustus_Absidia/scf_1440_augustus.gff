@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 681 (length = 344, name = scf_1440) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 681 on both strands
+# start gene g1393
+scf_1440	AUGUSTUS	gene	1	344	0.93	-	.	g1393
+scf_1440	AUGUSTUS	transcript	1	344	0.93	-	.	g1393.t1
+scf_1440	AUGUSTUS	internal	1	103	1	-	0	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	internal	153	212	0.93	-	0	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	internal	278	344	0.93	-	1	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	intron	104	152	1	-	.	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	intron	213	277	0.93	-	.	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	CDS	1	103	1	-	0	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	CDS	153	212	0.93	-	0	transcript_id "g1393.t1"; gene_id "g1393";
+scf_1440	AUGUSTUS	CDS	278	344	0.93	-	1	transcript_id "g1393.t1"; gene_id "g1393";
+# coding sequence = [cgacgactctgatgcctttgatgaatcaagtggatcagtggtgggccaacctgctcaacgtgatcggtttgcttctggt
+# agtgaatcgaccgaagaagatgataagagcgacgacgaacaactccaggctcctcctcctcctccttctgctcctgctgcctctcctcttcccgcctc
+# ttctgttcctgcttctgctcctgctgcctctcctcttcccgcctcttctggtc]
+# protein sequence = [DDSDAFDESSGSVVGQPAQRDRFASGSESTEEDDKSDDEQLQAPPPPPSAPAASPLPASSVPASAPAASPLPASSG]
+# end gene g1393
+###
+#
+##FASTA
+>scf_1440
+GACCAGAAGAGGCGGGAAGAGGAGAGGCAGCAGGAGCAGAAGCAGGAACAGAAGAGGCGG
+GAAGAGGAGAGGCAGCAGGAGCAGAAGGAGGAGGAGGAGGAGCCTATAGAAAAGAGGTTT
+TGTCAATGATTCTGCTCTTAGGTGGGGCTTACCTGGAGTTGTTCGTCGTCGCTCTTATCA
+TCTTCTTCGGTCGATTCACTACCAGAAGCAAACTAAGACGAGGTAAATCAAATGTTTGGA
+TTAAGCATGCACGTCAAAGTCTATCACATAGTCTTACCCGATCACGTTGAGCAGGTTGGC
+CCACCACTGATCCACTTGATTCATCAAAGGCATCAGAGTCGTCG

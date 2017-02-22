@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 658 (length = 218, name = scf_1391) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 658 on both strands
+# start gene g1381
+scf_1391	AUGUSTUS	gene	5	218	0.55	+	.	g1381
+scf_1391	AUGUSTUS	transcript	5	218	0.55	+	.	g1381.t1
+scf_1391	AUGUSTUS	start_codon	5	7	.	+	0	transcript_id "g1381.t1"; gene_id "g1381";
+scf_1391	AUGUSTUS	initial	5	114	0.55	+	0	transcript_id "g1381.t1"; gene_id "g1381";
+scf_1391	AUGUSTUS	internal	183	218	0.87	+	1	transcript_id "g1381.t1"; gene_id "g1381";
+scf_1391	AUGUSTUS	intron	115	182	0.87	+	.	transcript_id "g1381.t1"; gene_id "g1381";
+scf_1391	AUGUSTUS	CDS	5	114	0.55	+	0	transcript_id "g1381.t1"; gene_id "g1381";
+scf_1391	AUGUSTUS	CDS	183	218	0.87	+	1	transcript_id "g1381.t1"; gene_id "g1381";
+# coding sequence = [atggagcttataggtcaagatgactactcacccttggacttcatggattgcactgacgaacctttggctggtgtggtgc
+# ctgaaatctcgaccaatgttgacgcagaaagaactgaacaatctggtattgaattggaacatgaaat]
+# protein sequence = [MELIGQDDYSPLDFMDCTDEPLAGVVPEISTNVDAERTEQSGIELEHE]
+# end gene g1381
+###
+#
+##FASTA
+>scf_1391
+ACCAATGGAGCTTATAGGTCAAGATGACTACTCACCCTTGGACTTCATGGATTGCACTGA
+CGAACCTTTGGCTGGTGTGGTGCCTGAAATCTCGACCAATGTTGACGCAGAAAGGTAAAT
+TTTATGCATAAAGGACAAGTTGTCACATTCACTCTTTACTTAACCGCTCATTAATCTTTT
+AGAACTGAACAATCTGGTATTGAATTGGAACATGAAAT

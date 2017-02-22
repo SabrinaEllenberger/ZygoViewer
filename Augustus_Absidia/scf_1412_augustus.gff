@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 664 (length = 242, name = scf_1412) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 664 on both strands
+# start gene g1387
+scf_1412	AUGUSTUS	gene	1	214	0.66	-	.	g1387
+scf_1412	AUGUSTUS	transcript	1	214	0.66	-	.	g1387.t1
+scf_1412	AUGUSTUS	initial	28	214	0.66	-	0	transcript_id "g1387.t1"; gene_id "g1387";
+scf_1412	AUGUSTUS	intron	1	27	0.98	-	.	transcript_id "g1387.t1"; gene_id "g1387";
+scf_1412	AUGUSTUS	CDS	28	214	0.66	-	0	transcript_id "g1387.t1"; gene_id "g1387";
+scf_1412	AUGUSTUS	start_codon	212	214	.	-	0	transcript_id "g1387.t1"; gene_id "g1387";
+# coding sequence = [atggaaaacgtgattgactcggacgacaccatggccatcgacaatgaagataacgctgaagatgaattcgacgctgctg
+# attttgacatgggctacgacgatgaagtggatgcggaagtcgacatggaccacgaagatgacaacgactccttggctagctccaacagccacttcacc
+# cgttctgaag]
+# protein sequence = [MENVIDSDDTMAIDNEDNAEDEFDAADFDMGYDDEVDAEVDMDHEDDNDSLASSNSHFTRSE]
+# end gene g1387
+###
+#
+##FASTA
+>scf_1412
+TGCTCGATTGTTTCAGGGCACCCTTACCTTCAGAACGGGTGAAGTGGCTGTTGGAGCTAG
+CCAAGGAGTCGTTGTCATCTTCGTGGTCCATGTCGACTTCCGCATCCACTTCATCGTCGT
+AGCCCATGTCAAAATCAGCAGCGTCGAATTCATCTTCAGCGTTATCTTCATTGTCGATGG
+CCATGGTGTCGTCCGAGTCAATCACGTTTTCCATGCCGACATTCAAAGTAGGTTGACTGG
+AT

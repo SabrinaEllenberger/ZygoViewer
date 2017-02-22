@@ -1,0 +1,49 @@
+# ----- prediction on sequence number 742 (length = 937, name = scf_1557) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 742 on both strands
+# start gene g1420
+scf_1557	AUGUSTUS	gene	55	783	0.97	-	.	g1420
+scf_1557	AUGUSTUS	transcript	55	783	0.97	-	.	g1420.t1
+scf_1557	AUGUSTUS	stop_codon	55	57	.	-	0	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	terminal	55	243	1	-	0	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	internal	306	525	0.97	-	1	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	initial	578	783	1	-	0	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	intron	244	305	0.97	-	.	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	intron	526	577	1	-	.	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	CDS	58	243	1	-	0	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	CDS	306	525	0.97	-	1	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	CDS	578	783	1	-	0	transcript_id "g1420.t1"; gene_id "g1420";
+scf_1557	AUGUSTUS	start_codon	781	783	.	-	0	transcript_id "g1420.t1"; gene_id "g1420";
+# coding sequence = [atgaatggccaaatatccgaacatcaacgacaactggacttactggatggtgccgccctgaacctccaactgatcaacg
+# ttttcgatacaactgaacttttacaaaccatacgaaggcagaaagcatcattggaagcattacaacaaacaaatgtcgatgaaaaggaatcccttcag
+# caaaaatatttggatcaagttggtggaagcacgatgaaaagatggaagaaaaaccggcatggatctcgcgacacgacgattaccgcaatccctttggt
+# cgcttttggcgctggcatgttgcataccaatcactctcatattcatggctatccagtcggttctacgaatgttgtaagacggcatatgttggaacgac
+# aacgacgtgctctgtgccttgtcgggcacacagacgagtacctgacctcccaaatctgcgcctcctgtggcgaacggatgaacaatgccgaaatcaac
+# aatcaacaaatctatgccctgaaacactgccaacgttgcaacaagatcatgaatcacgataagaacgctgcatcaaacatgttctcgatcatgcaatc
+# atcaattattggggacggtcgacctccagctctctcccgatcttga]
+# protein sequence = [MNGQISEHQRQLDLLDGAALNLQLINVFDTTELLQTIRRQKASLEALQQTNVDEKESLQQKYLDQVGGSTMKRWKKNR
+# HGSRDTTITAIPLVAFGAGMLHTNHSHIHGYPVGSTNVVRRHMLERQRRALCLVGHTDEYLTSQICASCGERMNNAEINNQQIYALKHCQRCNKIMNH
+# DKNAASNMFSIMQSSIIGDGRPPALSRS]
+# end gene g1420
+###
+#
+##FASTA
+>scf_1557
+GGAAGGCTGACCAGCCATTGTGGATGGCGGACATAATATATCGTAAAAGAAAAATCAAGA
+TCGGGAGAGAGCTGGAGGTCGACCGTCCCCAATAATTGATGATTGCATGATCGAGAACAT
+GTTTGATGCAGCGTTCTTATCGTGATTCATGATCTTGTTGCAACGTTGGCAGTGTTTCAG
+GGCATAGATTTGTTGATTGTTGATTTCGGCATTGTTCATCCGTTCGCCACAGGAGGCGCA
+GATCTACAAAAAAAGAAGGTGCAAAAAAATAAGAAGAGATAACGAAAAGATGAAGAGTAA
+CTTACTTGGGAGGTCAGGTACTCGTCTGTGTGCCCGACAAGGCACAGAGCACGTCGTTGT
+CGTTCCAACATATGCCGTCTTACAACATTCGTAGAACCGACTGGATAGCCATGAATATGA
+GAGTGATTGGTATGCAACATGCCAGCGCCAAAAGCGACCAAAGGGATTGCGGTAATCGTC
+GTGTCGCGAGATCCATGCCGGTTTTTCTTCCATCTTTTCATCGTGCTACATAAAATAGTA
+CAGTTTTAATACCAACCCGGTCCCTTTTGTCTCGTACCTTCCACCAACTTGATCCAAATA
+TTTTTGCTGAAGGGATTCCTTTTCATCGACATTTGTTTGTTGTAATGCTTCCAATGATGC
+TTTCTGCCTTCGTATGGTTTGTAAAAGTTCAGTTGTATCGAAAACGTTGATCAGTTGGAG
+GTTCAGGGCGGCACCATCCAGTAAGTCCAGTTGTCGTTGATGTTCGGATATTTGGCCATT
+CATCCTGTCTGTGAAATATGAAAATCGGAGTTTAAAAATACTTGACACCAAAGGTTATGC
+TCTTTATTTCATTCAAAGTATGTGGGTTTATATAGTTTTCTGGTATCTGATGTTCGTATC
+CCTTGGATGGTCAAGGGGATGCTAATAGTTAGTCACG

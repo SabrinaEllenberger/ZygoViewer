@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 682 (length = 217, name = scf_1441) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 682 on both strands
+# start gene g1394
+scf_1441	AUGUSTUS	gene	1	217	0.28	-	.	g1394
+scf_1441	AUGUSTUS	transcript	1	217	0.28	-	.	g1394.t1
+scf_1441	AUGUSTUS	internal	42	131	0.28	-	0	transcript_id "g1394.t1"; gene_id "g1394";
+scf_1441	AUGUSTUS	internal	197	217	0.28	-	0	transcript_id "g1394.t1"; gene_id "g1394";
+scf_1441	AUGUSTUS	intron	1	41	0.75	-	.	transcript_id "g1394.t1"; gene_id "g1394";
+scf_1441	AUGUSTUS	intron	132	196	0.28	-	.	transcript_id "g1394.t1"; gene_id "g1394";
+scf_1441	AUGUSTUS	CDS	42	131	0.28	-	0	transcript_id "g1394.t1"; gene_id "g1394";
+scf_1441	AUGUSTUS	CDS	197	217	0.28	-	0	transcript_id "g1394.t1"; gene_id "g1394";
+# coding sequence = [gaagaatctgacacggatcaggatgcttctggtgacgacctgggcgacgactctgatgcctttgatgaatcaagtggat
+# cagtggtgggccaacctgctcaacgtgatcgg]
+# protein sequence = [EESDTDQDASGDDLGDDSDAFDESSGSVVGQPAQRDR]
+# end gene g1394
+###
+#
+##FASTA
+>scf_1441
+TGGATTAAGCATGCACGTCAAAGTCTATCACATAGTCTTACCCGATCACGTTGAGCAGGT
+TGGCCCACCACTGATCCACTTGATTCATCAAAGGCATCAGAGTCGTCGCCCAGGTCGTCA
+CCAGAAGCATCCTAACACAGTGTAAACCAGACATTTAGTTTAGGCATGTACGTCAAAGTA
+TACCACAGAGTCTTACCTGATCCGTGTCAGATTCTTC

@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 685 (length = 551, name = scf_1445) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 685 on both strands
+# start gene g1398
+scf_1445	AUGUSTUS	gene	1	551	0.72	+	.	g1398
+scf_1445	AUGUSTUS	transcript	1	551	0.72	+	.	g1398.t1
+scf_1445	AUGUSTUS	internal	1	161	0.79	+	0	transcript_id "g1398.t1"; gene_id "g1398";
+scf_1445	AUGUSTUS	internal	232	551	0.91	+	1	transcript_id "g1398.t1"; gene_id "g1398";
+scf_1445	AUGUSTUS	intron	162	231	0.94	+	.	transcript_id "g1398.t1"; gene_id "g1398";
+scf_1445	AUGUSTUS	CDS	1	161	0.79	+	0	transcript_id "g1398.t1"; gene_id "g1398";
+scf_1445	AUGUSTUS	CDS	232	551	0.91	+	1	transcript_id "g1398.t1"; gene_id "g1398";
+# coding sequence = [gatggattggcctacaaatcgatggtggagaagcggctcttcgagtcaccttacgacgttgccattggtcttggaattg
+# atggctttttaccattcaagaggggaaggctcacatgtaccattgtcaacatgaccatatacaacattcatcccgaccaaaggtaccaaaagcacaac
+# ttggctcagatcatggtgatcccgggaaaaggcaagcccaaggatcttgaatcattcttggctccggtttacgaagaattggatcatttgtcgcgcgt
+# tggtatcaaggtggtcacacccgatcatggcactatactggcgaaggtccacttgatgactttcattggagatatcccggcggtggccgacttgatta
+# aacataccggtcatatgtcttactttggatgtcgcttgtgtgttgtcaaaggtgtccgtggtctaatcaacgatcctctctctggtggtatgtacttt
+# gtgggcaaaa]
+# protein sequence = [DGLAYKSMVEKRLFESPYDVAIGLGIDGFLPFKRGRLTCTIVNMTIYNIHPDQRYQKHNLAQIMVIPGKGKPKDLESF
+# LAPVYEELDHLSRVGIKVVTPDHGTILAKVHLMTFIGDIPAVADLIKHTGHMSYFGCRLCVVKGVRGLINDPLSGGMYFVGK]
+# end gene g1398
+###
+#
+##FASTA
+>scf_1445
+GATGGATTGGCCTACAAATCGATGGTGGAGAAGCGGCTCTTCGAGTCACCTTACGACGTT
+GCCATTGGTCTTGGAATTGATGGCTTTTTACCATTCAAGAGGGGAAGGCTCACATGTACC
+ATTGTCAACATGACCATATACAACATTCATCCCGACCAAAGGTAATGTGCTTTATCCATT
+ATGCCATATTCAAGGTACACGTAGACTGATACGTTCTACTTTTTGTAACAGGTACCAAAA
+GCACAACTTGGCTCAGATCATGGTGATCCCGGGAAAAGGCAAGCCCAAGGATCTTGAATC
+ATTCTTGGCTCCGGTTTACGAAGAATTGGATCATTTGTCGCGCGTTGGTATCAAGGTGGT
+CACACCCGATCATGGCACTATACTGGCGAAGGTCCACTTGATGACTTTCATTGGAGATAT
+CCCGGCGGTGGCCGACTTGATTAAACATACCGGTCATATGTCTTACTTTGGATGTCGCTT
+GTGTGTTGTCAAAGGTGTCCGTGGTCTAATCAACGATCCTCTCTCTGGTGGTATGTACTT
+TGTGGGCAAAA

@@ -1,0 +1,53 @@
+# ----- prediction on sequence number 683 (length = 789, name = scf_1443) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 683 on both strands
+# start gene g1395
+scf_1443	AUGUSTUS	gene	1	413	0.73	-	.	g1395
+scf_1443	AUGUSTUS	transcript	1	413	0.73	-	.	g1395.t1
+scf_1443	AUGUSTUS	initial	1	413	0.73	-	0	transcript_id "g1395.t1"; gene_id "g1395";
+scf_1443	AUGUSTUS	CDS	1	413	0.73	-	0	transcript_id "g1395.t1"; gene_id "g1395";
+scf_1443	AUGUSTUS	start_codon	411	413	.	-	0	transcript_id "g1395.t1"; gene_id "g1395";
+# coding sequence = [atggagatcgagccagaaatcgacgaaattcaaggagattacgatttctacgctgctacccgatcagaaagaccgcctg
+# aaatcatgcacgatgataaggcgacaaaaaaaagaaaagtgcatggccctgaaaatttggaatccaggccaccacacgttcccatggaaacagatcgc
+# ccgaacaaaaagccacaaaagagagcaaacgcaaatccactaaatcttaagtacaatttggctgatgatgtgctctcaagaaaagcggacattgaagt
+# tggagatctgatagccgcttcccccatgttgaaaaagcagctattggaagtctgtcgaccgaagcgacaaaatcggacagtgtccctaaatgcaattg
+# aagaaggtgagattgttaccactgcagcttatgcagaagt]
+# protein sequence = [MEIEPEIDEIQGDYDFYAATRSERPPEIMHDDKATKKRKVHGPENLESRPPHVPMETDRPNKKPQKRANANPLNLKYN
+# LADDVLSRKADIEVGDLIAASPMLKKQLLEVCRPKRQNRTVSLNAIEEGEIVTTAAYAE]
+# end gene g1395
+###
+# start gene g1396
+scf_1443	AUGUSTUS	gene	475	765	0.98	+	.	g1396
+scf_1443	AUGUSTUS	transcript	475	765	0.98	+	.	g1396.t1
+scf_1443	AUGUSTUS	start_codon	475	477	.	+	0	transcript_id "g1396.t1"; gene_id "g1396";
+scf_1443	AUGUSTUS	initial	475	483	0.98	+	0	transcript_id "g1396.t1"; gene_id "g1396";
+scf_1443	AUGUSTUS	terminal	559	765	0.98	+	0	transcript_id "g1396.t1"; gene_id "g1396";
+scf_1443	AUGUSTUS	intron	484	558	0.98	+	.	transcript_id "g1396.t1"; gene_id "g1396";
+scf_1443	AUGUSTUS	CDS	475	483	0.98	+	0	transcript_id "g1396.t1"; gene_id "g1396";
+scf_1443	AUGUSTUS	CDS	559	762	0.98	+	0	transcript_id "g1396.t1"; gene_id "g1396";
+scf_1443	AUGUSTUS	stop_codon	763	765	.	+	0	transcript_id "g1396.t1"; gene_id "g1396";
+# coding sequence = [atgggttttaagattctggatgctgatgctgctgatcctgtcgatgatcttgacgttggtgatgttgtcgttgatcttg
+# atgatatggtcgttggttatgacctcgattgttgtttccatgatgacctccgtggttacctcgttgattatgggatcgctgttggttgccttggtatg
+# gtcgagattgctgttgttgataacctcgatggttattga]
+# protein sequence = [MGFKILDADAADPVDDLDVGDVVVDLDDMVVGYDLDCCFHDDLRGYLVDYGIAVGCLGMVEIAVVDNLDGY]
+# end gene g1396
+###
+#
+##FASTA
+>scf_1443
+ACTTCTGCATAAGCTGCAGTGGTAACAATCTCACCTTCTTCAATTGCATTTAGGGACACT
+GTCCGATTTTGTCGCTTCGGTCGACAGACTTCCAATAGCTGCTTTTTCAACATGGGGGAA
+GCGGCTATCAGATCTCCAACTTCAATGTCCGCTTTTCTTGAGAGCACATCATCAGCCAAA
+TTGTACTTAAGATTTAGTGGATTTGCGTTTGCTCTCTTTTGTGGCTTTTTGTTCGGGCGA
+TCTGTTTCCATGGGAACGTGTGGTGGCCTGGATTCCAAATTTTCAGGGCCATGCACTTTT
+CTTTTTTTTGTCGCCTTATCATCGTGCATGATTTCAGGCGGTCTTTCTGATCGGGTAGCA
+GCGTAGAAATCGTAATCTCCTTGAATTTCGTCGATTTCTGGCTCGATCTCCATTGTAAAA
+TAGTGATCTCTCAGCATTTTTTCTGTCTCTTTATCGTATTTCTTTTTAGATAGGATGGGT
+TTTGTAGGCGGGATATTCAACTGACCATCGTGTGCAGTTGCCCGTCCTAGTTTTTTGGCT
+GTTGTTGGTGTTGTACAGAAGATTCTGGATGCTGATGCTGCTGATCCTGTCGATGATCTT
+GACGTTGGTGATGTTGTCGTTGATCTTGATGATATGGTCGTTGGTTATGACCTCGATTGT
+TGTTTCCATGATGACCTCCGTGGTTACCTCGTTGATTATGGGATCGCTGTTGGTTGCCTT
+GGTATGGTCGAGATTGCTGTTGTTGATAACCTCGATGGTTATTGAGTTCTTCCTTGATGA
+TATCTCGCA

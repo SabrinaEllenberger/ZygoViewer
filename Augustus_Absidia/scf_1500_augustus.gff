@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 709 (length = 217, name = scf_1500) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 709 on both strands
+# start gene g1405
+scf_1500	AUGUSTUS	gene	1	145	0.61	-	.	g1405
+scf_1500	AUGUSTUS	transcript	1	145	0.61	-	.	g1405.t1
+scf_1500	AUGUSTUS	initial	17	145	0.61	-	0	transcript_id "g1405.t1"; gene_id "g1405";
+scf_1500	AUGUSTUS	intron	1	16	0.62	-	.	transcript_id "g1405.t1"; gene_id "g1405";
+scf_1500	AUGUSTUS	CDS	17	145	0.61	-	0	transcript_id "g1405.t1"; gene_id "g1405";
+scf_1500	AUGUSTUS	start_codon	143	145	.	-	0	transcript_id "g1405.t1"; gene_id "g1405";
+# coding sequence = [atgttggcttctctaatatctataactcaaaaacctaaagaaactcctcgagactacctgattcgatgggaatctctgg
+# tgtctgaatatcaacggaagaacgaacatggtgttccagaattggtcttg]
+# protein sequence = [MLASLISITQKPKETPRDYLIRWESLVSEYQRKNEHGVPELVL]
+# end gene g1405
+###
+#
+##FASTA
+>scf_1500
+ACACAAAGCTTTGTACCAAGACCAATTCTGGAACACCATGTTCGTTCTTCCGTTGATATT
+CAGACACCAGAGATTCCCATCGAATCAGGTAGTCTCGAGGAGTTTCTTTAGGTTTTTGAG
+TTATAGATATTAGAGAAGCCAACATTTCCACCTTCGAAGAGCCAGAATGATAACGAGATT
+CAAAGGCTTCCACAAATTCTTTCCAAGATGAGAAATT

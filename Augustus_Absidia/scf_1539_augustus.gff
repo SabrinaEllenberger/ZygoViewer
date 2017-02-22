@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 728 (length = 289, name = scf_1539) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 728 on both strands
+# start gene g1411
+scf_1539	AUGUSTUS	gene	1	255	0.5	+	.	g1411
+scf_1539	AUGUSTUS	transcript	1	255	0.5	+	.	g1411.t1
+scf_1539	AUGUSTUS	terminal	56	255	0.5	+	2	transcript_id "g1411.t1"; gene_id "g1411";
+scf_1539	AUGUSTUS	intron	1	55	0.5	+	.	transcript_id "g1411.t1"; gene_id "g1411";
+scf_1539	AUGUSTUS	CDS	56	252	0.5	+	2	transcript_id "g1411.t1"; gene_id "g1411";
+scf_1539	AUGUSTUS	stop_codon	253	255	.	+	0	transcript_id "g1411.t1"; gene_id "g1411";
+# coding sequence = [ccagacaagaagatatgctgccgatagctcgaaggttgcctatgccggatctcgcctacgtggtgtcgccttcacctgg
+# tttagtacccacctgcaacgaaacgatgccaacatcctccaaaattatggaaacttctgccaagaattcaatcgggccttcggcgaccatgacgccag
+# ccaaacccaagtacaacgcctag]
+# protein sequence = [RQEDMLPIARRLPMPDLAYVVSPSPGLVPTCNETMPTSSKIMETSAKNSIGPSATMTPAKPKYNA]
+# end gene g1411
+###
+#
+##FASTA
+>scf_1539
+GAGACCGCCGCCTCGCTAAGAACTTTATGTTCCAATTACAACTAGTCTTTGCTAGCCAGA
+CAAGAAGATATGCTGCCGATAGCTCGAAGGTTGCCTATGCCGGATCTCGCCTACGTGGTG
+TCGCCTTCACCTGGTTTAGTACCCACCTGCAACGAAACGATGCCAACATCCTCCAAAATT
+ATGGAAACTTCTGCCAAGAATTCAATCGGGCCTTCGGCGACCATGACGCCAGCCAAACCC
+AAGTACAACGCCTAGTGGACCTCCAGCAACGCAGCCGCCCAGTATCCGC

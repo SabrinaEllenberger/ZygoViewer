@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 735 (length = 303, name = scf_1547) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 735 on both strands
+# start gene g1414
+scf_1547	AUGUSTUS	gene	1	239	0.83	-	.	g1414
+scf_1547	AUGUSTUS	transcript	1	239	0.83	-	.	g1414.t1
+scf_1547	AUGUSTUS	initial	9	239	0.83	-	0	transcript_id "g1414.t1"; gene_id "g1414";
+scf_1547	AUGUSTUS	intron	1	8	0.98	-	.	transcript_id "g1414.t1"; gene_id "g1414";
+scf_1547	AUGUSTUS	CDS	9	239	0.83	-	0	transcript_id "g1414.t1"; gene_id "g1414";
+scf_1547	AUGUSTUS	start_codon	237	239	.	-	0	transcript_id "g1414.t1"; gene_id "g1414";
+# coding sequence = [atgctgatgatcactcatccagatgcgatcaagctcattaaacgattcggtgatgttcttgctgttgatgcgacttatc
+# agacagacaacttggacatgcctttgttcaacttggttggtttcactaatcttggtggcaagtctttgaagacctttgtggcggcctctgtcctgatg
+# gtcaatgaaactgccatcaattacaaatgggctttgactacattcaaagaggtc]
+# protein sequence = [MLMITHPDAIKLIKRFGDVLAVDATYQTDNLDMPLFNLVGFTNLGGKSLKTFVAASVLMVNETAINYKWALTTFKEV]
+# end gene g1414
+###
+#
+##FASTA
+>scf_1547
+GCCCATACGACCTCTTTGAATGTAGTCAAAGCCCATTTGTAATTGATGGCAGTTTCATTG
+ACCATCAGGACAGAGGCCGCCACAAAGGTCTTCAAAGACTTGCCACCAAGATTAGTGAAA
+CCAACCAAGTTGAACAAAGGCATGTCCAAGTTGTCTGTCTGATAAGTCGCATCAACAGCA
+AGAACATCACCGAATCGTTTAATGAGCTTGATCGCATCTGGATGAGTGATCATCAGCATT
+CGAAGGACAGAATCATCGGACACATTGGTCTTAATGACGAAACCATCCTTTCTCATGTCA
+TCA

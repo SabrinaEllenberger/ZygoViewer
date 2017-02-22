@@ -1,0 +1,60 @@
+# ----- prediction on sequence number 696 (length = 1168, name = scf_1473) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 696 on both strands
+# start gene g1401
+scf_1473	AUGUSTUS	gene	1	1161	0.36	+	.	g1401
+scf_1473	AUGUSTUS	transcript	1	1161	0.36	+	.	g1401.t1
+scf_1473	AUGUSTUS	internal	1	263	0.83	+	1	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	internal	333	916	0.66	+	2	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	internal	987	1103	0.47	+	0	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	terminal	1147	1161	0.44	+	0	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	intron	264	332	0.97	+	.	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	intron	917	986	0.71	+	.	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	intron	1104	1146	0.44	+	.	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	CDS	1	263	0.83	+	1	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	CDS	333	916	0.66	+	2	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	CDS	987	1103	0.47	+	0	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	CDS	1147	1158	0.44	+	0	transcript_id "g1401.t1"; gene_id "g1401";
+scf_1473	AUGUSTUS	stop_codon	1159	1161	.	+	0	transcript_id "g1401.t1"; gene_id "g1401";
+# coding sequence = [agcaacttggaatccatctgtcgttcgactatgcctctggcatttgaaaagggctgtaaagacaaaacttggtcaacct
+# aaatctgatcctgtgtacaatcctttccaggcgcaacatgaatttcctttcatccgtactgatttcgccccagtcgtgaatgctccgatccgagaaac
+# cggtttattaaccacagtcgagcaacgtgaacgcatccttgaattaatgggaagtcattacaatagacatgccctcattcccaatggtgaaacatttt
+# cttcaaacaccgccatccatcaagattcaacccgccaaatgtacgaatactgcttagagcacaatcttagacatgcttgggcgtatctctatcgcaac
+# tggtacacaattattcattacaagcgttgggcaaaatcaggggttgacaacatgattccgattggtaaaacaaccatgctgattgaagcacattggaa
+# ggttatgaagcgtacacatttgtaccactacaatcgtgctcgcctcgatctattgacatacgtagtgcttgaacattactatcgcaagctcaagatga
+# agtatcagtcgaccgttgtccatcgccaaaagacagcactgttcgagaaaacattcatagcggaatggcacaaagcggatcgtgctgaggtctccggt
+# atatcgtatgctacaaatctgaatcagtgggtatgtggctgtgtggcattcctgcacagtccgctggccttatgtaaacatttggttaaagcgtatca
+# agccagcaatcaactccatgtcatcgcaagaatggtttttattcaaagatctcaaactccacctttcatccgtattctacctactatccaccctaatc
+# cataccatccagggtcccatccacaagaagagcttcgacccggccctcctttacgtcgccccagaggagtccactccgtcaataacgatgaagaagag
+# ctgacattcccgggctga]
+# protein sequence = [ATWNPSVVRLCLWHLKRAVKTKLGQPKSDPVYNPFQAQHEFPFIRTDFAPVVNAPIRETGLLTTVEQRERILELMGSH
+# YNRHALIPNGETFSSNTAIHQDSTRQMYEYCLEHNLRHAWAYLYRNWYTIIHYKRWAKSGVDNMIPIGKTTMLIEAHWKVMKRTHLYHYNRARLDLLT
+# YVVLEHYYRKLKMKYQSTVVHRQKTALFEKTFIAEWHKADRAEVSGISYATNLNQWVCGCVAFLHSPLALCKHLVKAYQASNQLHVIARMVFIQRSQT
+# PPFIRILPTIHPNPYHPGSHPQEELRPGPPLRRPRGVHSVNNDEEELTFPG]
+# end gene g1401
+###
+#
+##FASTA
+>scf_1473
+AGCAACTTGGAATCCATCTGTCGTTCGACTATGCCTCTGGCATTTGAAAAGGGCTGTAAA
+GACAAAACTTGGTCAACCTAAATCTGATCCTGTGTACAATCCTTTCCAGGCGCAACATGA
+ATTTCCTTTCATCCGTACTGATTTCGCCCCAGTCGTGAATGCTCCGATCCGAGAAACCGG
+TTTATTAACCACAGTCGAGCAACGTGAACGCATCCTTGAATTAATGGGAAGTCATTACAA
+TAGACATGCCCTCATTCCCAATGGTAAGAGTACTTTCTCATTTGACGAACTCCAAAAAAG
+GAAACTCATATGCATGAATTTTTTCTGTTCAGGTGAAACATTTTCTTCAAACACCGCCAT
+CCATCAAGATTCAACCCGCCAAATGTACGAATACTGCTTAGAGCACAATCTTAGACATGC
+TTGGGCGTATCTCTATCGCAACTGGTACACAATTATTCATTACAAGCGTTGGGCAAAATC
+AGGGGTTGACAACATGATTCCGATTGGTAAAACAACCATGCTGATTGAAGCACATTGGAA
+GGTTATGAAGCGTACACATTTGTACCACTACAATCGTGCTCGCCTCGATCTATTGACATA
+CGTAGTGCTTGAACATTACTATCGCAAGCTCAAGATGAAGTATCAGTCGACCGTTGTCCA
+TCGCCAAAAGACAGCACTGTTCGAGAAAACATTCATAGCGGAATGGCACAAAGCGGATCG
+TGCTGAGGTCTCCGGTATATCGTATGCTACAAATCTGAATCAGTGGGTATGTGGCTGTGT
+GGCATTCCTGCACAGTCCGCTGGCCTTATGTAAACATTTGGTTAAAGCGTATCAAGCCAG
+CAATCAACTCCATGTCATCGCAAGAATGGTTTTTATTCAAAGATCTCAAACTCCACCTTT
+CATCCGTATTCTACCTGTAAAACATCTACTTCAAACTGCTAAAGCTAAGTATACTAACTA
+AATCATTTACTATTATACATCTATAGACTATCCACCCTAATCCATACCATCCAGGGTCCC
+ATCCACAAGAAGAGCTTCGACCCGGCCCTCCTTTACGTCGCCCCAGAGGAGTCCACTCCG
+TCAATAACGATGAAGAAGAGCTGGTAATCCCAGCCAGAAGGACACGCAGAAACACCACCA
+ATAGAGACATTCCCGGGCTGATCATCCC
