@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 633 (length = 535, name = scf_1339) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 633 on both strands
+# start gene g1369
+scf_1339	AUGUSTUS	gene	1	535	0.56	+	.	g1369
+scf_1339	AUGUSTUS	transcript	1	535	0.56	+	.	g1369.t1
+scf_1339	AUGUSTUS	internal	1	376	0.86	+	1	transcript_id "g1369.t1"; gene_id "g1369";
+scf_1339	AUGUSTUS	internal	427	535	0.56	+	0	transcript_id "g1369.t1"; gene_id "g1369";
+scf_1339	AUGUSTUS	intron	377	426	0.86	+	.	transcript_id "g1369.t1"; gene_id "g1369";
+scf_1339	AUGUSTUS	CDS	1	376	0.86	+	1	transcript_id "g1369.t1"; gene_id "g1369";
+scf_1339	AUGUSTUS	CDS	427	535	0.56	+	0	transcript_id "g1369.t1"; gene_id "g1369";
+# coding sequence = [actgatacatacattttaccgagaactagaaaattttccccccggcaacgactcccctggcaacgattcccttggcaac
+# gattcgaccaatgaaaatgacgttaacaagaaggctttggccagaatcaacggtgcgatgtacgaaattgaaaacaaggccaagtctgatatcacgac
+# ctaccacgagcttgacaacttggcgactgatttggaagatgttttgtcggtctataccaagaatcatgaaaagctgcaggatatgaaggaccccccaa
+# tgccagcgaagaagcacagtaactctatgaagcgtggaccgatcaagctggaagcaatggaaaaggatgcaaagaagaaggccaagactttgaagaag
+# aacgcccctgaacttctatggccaatgatcacgaaagaatccattccaatcgcaaaggtcactgatgtatacaaccctagtggtgatggtaactgtgg
+# tttccggtgcttgg]
+# protein sequence = [LIHTFYRELENFPPGNDSPGNDSLGNDSTNENDVNKKALARINGAMYEIENKAKSDITTYHELDNLATDLEDVLSVYT
+# KNHEKLQDMKDPPMPAKKHSNSMKRGPIKLEAMEKDAKKKAKTLKKNAPELLWPMITKESIPIAKVTDVYNPSGDGNCGFRCL]
+# end gene g1369
+###
+#
+##FASTA
+>scf_1339
+ACTGATACATACATTTTACCGAGAACTAGAAAATTTTCCCCCCGGCAACGACTCCCCTGG
+CAACGATTCCCTTGGCAACGATTCGACCAATGAAAATGACGTTAACAAGAAGGCTTTGGC
+CAGAATCAACGGTGCGATGTACGAAATTGAAAACAAGGCCAAGTCTGATATCACGACCTA
+CCACGAGCTTGACAACTTGGCGACTGATTTGGAAGATGTTTTGTCGGTCTATACCAAGAA
+TCATGAAAAGCTGCAGGATATGAAGGACCCCCCAATGCCAGCGAAGAAGCACAGTAACTC
+TATGAAGCGTGGACCGATCAAGCTGGAAGCAATGGAAAAGGATGCAAAGAAGAAGGCCAA
+GACTTTGAAGAAGAACGTAAGTAAAGCCTTTTGATCTAAATTACGATCTAACTTTATAAT
+CGTTAGGCCCCTGAACTTCTATGGCCAATGATCACGAAAGAATCCATTCCAATCGCAAAG
+GTCACTGATGTATACAACCCTAGTGGTGATGGTAACTGTGGTTTCCGGTGCTTGG

@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 640 (length = 287, name = scf_1357) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 640 on both strands
+# start gene g1372
+scf_1357	AUGUSTUS	gene	1	280	0.72	+	.	g1372
+scf_1357	AUGUSTUS	transcript	1	280	0.72	+	.	g1372.t1
+scf_1357	AUGUSTUS	terminal	68	280	0.72	+	0	transcript_id "g1372.t1"; gene_id "g1372";
+scf_1357	AUGUSTUS	intron	1	67	0.72	+	.	transcript_id "g1372.t1"; gene_id "g1372";
+scf_1357	AUGUSTUS	CDS	68	277	0.72	+	0	transcript_id "g1372.t1"; gene_id "g1372";
+scf_1357	AUGUSTUS	stop_codon	278	280	.	+	0	transcript_id "g1372.t1"; gene_id "g1372";
+# coding sequence = [tgcgtagaaatgaccgcccttttgattggttgccatgaccctggcgcaaatgtcgaaggtgtagccgtatgcgctgaaa
+# cgacttggatagtcatattgcttttcgacggcctgcgacgttataagatcattcaacgttataaacgttggcaaggttatcgcggcaggactcgtgta
+# ttttcggtttcggaacaactgctgcaagctgtctga]
+# protein sequence = [CVEMTALLIGCHDPGANVEGVAVCAETTWIVILLFDGLRRYKIIQRYKRWQGYRGRTRVFSVSEQLLQAV]
+# end gene g1372
+###
+#
+##FASTA
+>scf_1357
+CACTGATCTGTTGAAGACGCTCGTTCACGTTGTCTGCCTTGTATGTGATTCCATCATCTT
+TGATTAGTGCGTAGAAATGACCGCCCTTTTGATTGGTTGCCATGACCCTGGCGCAAATGT
+CGAAGGTGTAGCCGTATGCGCTGAAACGACTTGGATAGTCATATTGCTTTTCGACGGCCT
+GCGACGTTATAAGATCATTCAACGTTATAAACGTTGGCAAGGTTATCGCGGCAGGACTCG
+TGTATTTTCGGTTTCGGAACAACTGCTGCAAGCTGTCTGATTCCCAG

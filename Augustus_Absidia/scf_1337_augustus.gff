@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 631 (length = 334, name = scf_1337) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 631 on both strands
+# start gene g1367
+scf_1337	AUGUSTUS	gene	1	244	0.85	+	.	g1367
+scf_1337	AUGUSTUS	transcript	1	244	0.85	+	.	g1367.t1
+scf_1337	AUGUSTUS	internal	1	51	0.88	+	0	transcript_id "g1367.t1"; gene_id "g1367";
+scf_1337	AUGUSTUS	terminal	122	244	0.95	+	0	transcript_id "g1367.t1"; gene_id "g1367";
+scf_1337	AUGUSTUS	intron	52	121	0.96	+	.	transcript_id "g1367.t1"; gene_id "g1367";
+scf_1337	AUGUSTUS	CDS	1	51	0.88	+	0	transcript_id "g1367.t1"; gene_id "g1367";
+scf_1337	AUGUSTUS	CDS	122	241	0.95	+	0	transcript_id "g1367.t1"; gene_id "g1367";
+scf_1337	AUGUSTUS	stop_codon	242	244	.	+	0	transcript_id "g1367.t1"; gene_id "g1367";
+# coding sequence = [tttgccaagaacaccatgcgcgcggcgtgggcgcaaaagttgccccgtaaggcgtcaaaggcaacgatgatgttagcat
+# cgaaggtagcggcatcctccatgccatcatctggatctgctccctctgctcctcgctctggtggttgttgtggtacagtagtcgaggggtactga]
+# protein sequence = [FAKNTMRAAWAQKLPRKASKATMMLASKVAASSMPSSGSAPSAPRSGGCCGTVVEGY]
+# end gene g1367
+###
+#
+##FASTA
+>scf_1337
+TTTGCCAAGAACACCATGCGCGCGGCGTGGGCGCAAAAGTTGCCCCGTAAGGTAAAGCGT
+ATTGAACATACAGTAGATCATGATAATGTACCACTCTAATTGATGACTTCTTCAACAATA
+GGCGTCAAAGGCAACGATGATGTTAGCATCGAAGGTAGCGGCATCCTCCATGCCATCATC
+TGGATCTGCTCCCTCTGCTCCTCGCTCTGGTGGTTGTTGTGGTACAGTAGTCGAGGGGTA
+CTGAGACAAAGGTCAGTTTTATTTTCGATAGAGGGAAACCATCACTATGGGAAAAAACCC
+TCTGTCTATAAACAACGGAGTATGAAAAAGTAAG
