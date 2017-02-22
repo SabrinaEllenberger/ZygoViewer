@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 1807 (length = 382, name = scf_3895) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1807 on both strands
+# start gene g2771
+scf_3895	AUGUSTUS	gene	1	240	0.77	-	.	g2771
+scf_3895	AUGUSTUS	transcript	1	240	0.77	-	.	g2771.t1
+scf_3895	AUGUSTUS	initial	22	240	0.77	-	0	transcript_id "g2771.t1"; gene_id "g2771";
+scf_3895	AUGUSTUS	intron	1	21	0.95	-	.	transcript_id "g2771.t1"; gene_id "g2771";
+scf_3895	AUGUSTUS	CDS	22	240	0.77	-	0	transcript_id "g2771.t1"; gene_id "g2771";
+scf_3895	AUGUSTUS	start_codon	238	240	.	-	0	transcript_id "g2771.t1"; gene_id "g2771";
+# coding sequence = [atgtacgctagaaaacttaatgacttcaaagattacagaggtattgaacttcctacctcttcgttgaaaccagagaatg
+# acgagatcatacaaaagatcaaagacatgtcagaaattgtgctccctggtatcgctcaacgcacacaacagatccgagaggcttctcaaaagaaattt
+# gacaagacccacaagatcatagactatccagtaggatcacta]
+# protein sequence = [MYARKLNDFKDYRGIELPTSSLKPENDEIIQKIKDMSEIVLPGIAQRTQQIREASQKKFDKTHKIIDYPVGSL]
+# end gene g2771
+###
+#
+##FASTA
+>scf_3895
+TGTCGGTTTGCGTATGCTTACTAGTGATCCTACTGGATAGTCTATGATCTTGTGGGTCTT
+GTCAAATTTCTTTTGAGAAGCCTCTCGGATCTGTTGTGTGCGTTGAGCGATACCAGGGAG
+CACAATTTCTGACATGTCTTTGATCTTTTGTATGATCTCGTCATTCTCTGGTTTCAACGA
+AGAGGTAGGAAGTTCAATACCTCTGTAATCTTTGAAGTCATTAAGTTTTCTAGCGTACAT
+TAATGAGAAAGGAGCGGAGCCGTGCAGTCTAACAATTTTAGCGTTCATTGCTAGTTGCAC
+TGGTCTTACATATAAATCCCAATCCTTTGATTGACCTTCGATTTGTTTCTCTAAGGTTGC
+CTTTACTGTTTTTACTTTATTT

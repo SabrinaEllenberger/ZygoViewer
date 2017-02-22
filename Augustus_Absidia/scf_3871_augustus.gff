@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1794 (length = 358, name = scf_3871) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1794 on both strands
+# start gene g2766
+scf_3871	AUGUSTUS	gene	1	257	0.63	+	.	g2766
+scf_3871	AUGUSTUS	transcript	1	257	0.63	+	.	g2766.t1
+scf_3871	AUGUSTUS	terminal	78	257	0.63	+	0	transcript_id "g2766.t1"; gene_id "g2766";
+scf_3871	AUGUSTUS	intron	1	77	0.63	+	.	transcript_id "g2766.t1"; gene_id "g2766";
+scf_3871	AUGUSTUS	CDS	78	254	0.63	+	0	transcript_id "g2766.t1"; gene_id "g2766";
+scf_3871	AUGUSTUS	stop_codon	255	257	.	+	0	transcript_id "g2766.t1"; gene_id "g2766";
+# coding sequence = [gatgctgcgtcatgggggcagatggaaggaacagaggcagcaggaggaacagaggcagcaggaggaacagaggcagcag
+# gaggaacagaggcagaggaggaagcaacgagaggacgaggaggaggaacaacgacagggagaggagcaggagcggaggaaagagcggagggggaggat
+# tag]
+# protein sequence = [DAASWGQMEGTEAAGGTEAAGGTEAAGGTEAEEEATRGRGGGTTTGRGAGAEERAEGED]
+# end gene g2766
+###
+#
+##FASTA
+>scf_3871
+CCTCTTTACTTCTTCCGTCCAACCTCAAATCAGCAGGCACCCCATTGGATTCCAAATCAA
+TTGATTCGAAATCGTAGGATGCTGCGTCATGGGGGCAGATGGAAGGAACAGAGGCAGCAG
+GAGGAACAGAGGCAGCAGGAGGAACAGAGGCAGCAGGAGGAACAGAGGCAGAGGAGGAAG
+CAACGAGAGGACGAGGAGGAGGAACAACGACAGGGAGAGGAGCAGGAGCGGAGGAAAGAG
+CGGAGGGGGAGGATTAGTGGTAAGATAAGCACTCATGCTTATTTTAAAGTGGGATTTTCT
+GGACGAATAAAAGATCTTCCGGTGTTTAAAATAGTACCATTCGGCATGAAATCGGCTG

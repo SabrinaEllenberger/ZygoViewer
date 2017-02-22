@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1775 (length = 403, name = scf_3802) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1775 on both strands
+# start gene g2761
+scf_3802	AUGUSTUS	gene	1	265	0.44	-	.	g2761
+scf_3802	AUGUSTUS	transcript	1	265	0.44	-	.	g2761.t1
+scf_3802	AUGUSTUS	initial	164	265	0.59	-	0	transcript_id "g2761.t1"; gene_id "g2761";
+scf_3802	AUGUSTUS	intron	1	163	0.48	-	.	transcript_id "g2761.t1"; gene_id "g2761";
+scf_3802	AUGUSTUS	CDS	164	265	0.59	-	0	transcript_id "g2761.t1"; gene_id "g2761";
+scf_3802	AUGUSTUS	start_codon	263	265	.	-	0	transcript_id "g2761.t1"; gene_id "g2761";
+# coding sequence = [atggatttcgccacttcattcatcgacgatatcgtggtgttctccaagactcttactgaacatggcgtgcatgtacaag
+# cggtcattgacaaactgacatcg]
+# protein sequence = [MDFATSFIDDIVVFSKTLTEHGVHVQAVIDKLTS]
+# end gene g2761
+###
+#
+##FASTA
+>scf_3802
+AGAAGCGTTCGATGTCGTTTCCTGTTTGTGGTTGCGGCCATTGTTGTACATTGGTCACCT
+TTCGTGGATCAAGAGATAAACCCTTGACCGATACGCAAAACCCTAAAAGATAAACAGATT
+TTTGAGCGAAGTGGCATTTATCTGGGTTGAGGATTAGGTTTACCGATGTCAGTTTGTCAA
+TGACCGCTTGTACATGCACGCCATGTTCAGTAAGAGTCTTGGAGAACACCACGATATCGT
+CGATGAATGAAGTGGCGAAATCCATGTCTTCCAGTAGCAGTGCTGTAACCCTTTGGAATT
+TCGAGGAAAGTGGTTTGAGTCCGAATGGGCAGCCTTGGAACATGTATTGCGTTCCCCGGT
+GTGTGAAGGTGGTTTTACATTGGTCCTTGGGTGCAATTTTGAA

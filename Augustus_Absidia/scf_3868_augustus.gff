@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 1793 (length = 503, name = scf_3868) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1793 on both strands
+# start gene g2765
+scf_3868	AUGUSTUS	gene	1	503	0.68	+	.	g2765
+scf_3868	AUGUSTUS	transcript	1	503	0.68	+	.	g2765.t1
+scf_3868	AUGUSTUS	internal	1	476	0.68	+	1	transcript_id "g2765.t1"; gene_id "g2765";
+scf_3868	AUGUSTUS	intron	477	503	0.79	+	.	transcript_id "g2765.t1"; gene_id "g2765";
+scf_3868	AUGUSTUS	CDS	1	476	0.68	+	1	transcript_id "g2765.t1"; gene_id "g2765";
+# coding sequence = [cagcaacaccagcagcaacggcaccggcaaattatgcgccaaaagagggtgcggcgccccatacaccgacgaccacaac
+# gaggtatgcgacttcaaaaacgccaatgtggattgggatctgatgcgagccaatcaacgcattgatcgaagccgtgccgccgccaacaagaccaccag
+# tgggaaatcgacttctcacaagcacgctcgggcagccaacaaaccagctgccaaatcgacgtcccgccaagctgtgaggagctctcgccccccctcaa
+# catcaagctcggcaaaatcagcctcctcgcctcccaccaccgcacgtccttggggtgaccaccaaacggtcatccaaatgcaggacgaactcaccagg
+# caggcgcaggcggccctccttgaagatctcgaaatggattttgtacaagaacaagcgggtgcactttccttgtcgacggattctccgatcgacaaaat
+# ggatt]
+# protein sequence = [SNTSSNGTGKLCAKRGCGAPYTDDHNEVCDFKNANVDWDLMRANQRIDRSRAAANKTTSGKSTSHKHARAANKPAAKS
+# TSRQAVRSSRPPSTSSSAKSASSPPTTARPWGDHQTVIQMQDELTRQAQAALLEDLEMDFVQEQAGALSLSTDSPIDKMD]
+# end gene g2765
+###
+#
+##FASTA
+>scf_3868
+CAGCAACACCAGCAGCAACGGCACCGGCAAATTATGCGCCAAAAGAGGGTGCGGCGCCCC
+ATACACCGACGACCACAACGAGGTATGCGACTTCAAAAACGCCAATGTGGATTGGGATCT
+GATGCGAGCCAATCAACGCATTGATCGAAGCCGTGCCGCCGCCAACAAGACCACCAGTGG
+GAAATCGACTTCTCACAAGCACGCTCGGGCAGCCAACAAACCAGCTGCCAAATCGACGTC
+CCGCCAAGCTGTGAGGAGCTCTCGCCCCCCCTCAACATCAAGCTCGGCAAAATCAGCCTC
+CTCGCCTCCCACCACCGCACGTCCTTGGGGTGACCACCAAACGGTCATCCAAATGCAGGA
+CGAACTCACCAGGCAGGCGCAGGCGGCCCTCCTTGAAGATCTCGAAATGGATTTTGTACA
+AGAACAAGCGGGTGCACTTTCCTTGTCGACGGATTCTCCGATCGACAAAATGGATTGTAA
+GTACTCAAGAACACAGGCAAAAG

@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 1815 (length = 342, name = scf_3905) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1815 on both strands
+# start gene g2774
+scf_3905	AUGUSTUS	gene	1	317	0.82	-	.	g2774
+scf_3905	AUGUSTUS	transcript	1	317	0.82	-	.	g2774.t1
+scf_3905	AUGUSTUS	initial	20	317	0.82	-	0	transcript_id "g2774.t1"; gene_id "g2774";
+scf_3905	AUGUSTUS	intron	1	19	0.83	-	.	transcript_id "g2774.t1"; gene_id "g2774";
+scf_3905	AUGUSTUS	CDS	20	317	0.82	-	0	transcript_id "g2774.t1"; gene_id "g2774";
+scf_3905	AUGUSTUS	start_codon	315	317	.	-	0	transcript_id "g2774.t1"; gene_id "g2774";
+# coding sequence = [atgaagaagatcaaagtggatggacaaatcaagctggtcccttttattgcgttctctgctcgagcgaattggttacaaa
+# agtatcatgacgaactcggtcatttaggtgccccgactgtgctctctcatctccaatcaagaatgtactggcaatccatggaaactgatgttacgaat
+# tggctcaagcaatgtcctgaatgtcaaatcaacggccctcaacgaagaacaagacatggtggtcctatgaaacctttaccggtccctcctcccttctc
+# tcgctggcatctcgattttattg]
+# protein sequence = [MKKIKVDGQIKLVPFIAFSARANWLQKYHDELGHLGAPTVLSHLQSRMYWQSMETDVTNWLKQCPECQINGPQRRTRH
+# GGPMKPLPVPPPFSRWHLDFI]
+# end gene g2774
+###
+#
+##FASTA
+>scf_3905
+GCAGTCAGGGGGAGTTCACCAATAAAATCGAGATGCCAGCGAGAGAAGGGAGGAGGGACC
+GGTAAAGGTTTCATAGGACCACCATGTCTTGTTCTTCGTTGAGGGCCGTTGATTTGACAT
+TCAGGACATTGCTTGAGCCAATTCGTAACATCAGTTTCCATGGATTGCCAGTACATTCTT
+GATTGGAGATGAGAGAGCACAGTCGGGGCACCTAAATGACCGAGTTCGTCATGATACTTT
+TGTAACCAATTCGCTCGAGCAGAGAACGCAATAAAAGGGACCAGCTTGATTTGTCCATCC
+ACTTTGATCTTCTTCATAACCGTACCTTGATCCACCACATAT

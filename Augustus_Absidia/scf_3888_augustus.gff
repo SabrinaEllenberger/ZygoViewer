@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 1804 (length = 217, name = scf_3888) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1804 on both strands
+# start gene g2769
+scf_3888	AUGUSTUS	gene	1	90	0.48	+	.	g2769
+scf_3888	AUGUSTUS	transcript	1	90	0.48	+	.	g2769.t1
+scf_3888	AUGUSTUS	terminal	1	90	0.48	+	0	transcript_id "g2769.t1"; gene_id "g2769";
+scf_3888	AUGUSTUS	CDS	1	87	0.48	+	0	transcript_id "g2769.t1"; gene_id "g2769";
+scf_3888	AUGUSTUS	stop_codon	88	90	.	+	0	transcript_id "g2769.t1"; gene_id "g2769";
+# coding sequence = [cgggaagcgatggaaagcattggtaagatccaaggtggtgtagactatggcgtctttaagtttgatgaaaatgtcaccg
+# atctttggtag]
+# protein sequence = [REAMESIGKIQGGVDYGVFKFDENVTDLW]
+# end gene g2769
+###
+#
+##FASTA
+>scf_3888
+CGGGAAGCGATGGAAAGCATTGGTAAGATCCAAGGTGGTGTAGACTATGGCGTCTTTAAG
+TTTGATGAAAATGTCACCGATCTTTGGTAGGGGAAATTGATCTTCTTTTAGGTACCGATT
+AATATGGCGAGGGTCAAGGCATGGGCGTTTAGCAGTATACCTGCCCGAGCTATCCTTCTT
+GGGGGCTAAGGTCAGTGGACTGTTCCAGCGATTATCA

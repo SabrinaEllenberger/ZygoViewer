@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 1766 (length = 346, name = scf_3781) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1766 on both strands
+# start gene g2758
+scf_3781	AUGUSTUS	gene	1	315	0.77	-	.	g2758
+scf_3781	AUGUSTUS	transcript	1	315	0.77	-	.	g2758.t1
+scf_3781	AUGUSTUS	initial	31	315	0.77	-	0	transcript_id "g2758.t1"; gene_id "g2758";
+scf_3781	AUGUSTUS	intron	1	30	0.77	-	.	transcript_id "g2758.t1"; gene_id "g2758";
+scf_3781	AUGUSTUS	CDS	31	315	0.77	-	0	transcript_id "g2758.t1"; gene_id "g2758";
+scf_3781	AUGUSTUS	start_codon	313	315	.	-	0	transcript_id "g2758.t1"; gene_id "g2758";
+# coding sequence = [atgttcatcaattactacttcctgcgtcaattggaatacgacgattctcaagctcccggctctggtcaagaagctgctc
+# cctctggtcatcaagataatgttgtcaatcaagatttccgtggtgtcacccctgtaatgttctcaagcggctttgtgtattcttgtattcaactgatc
+# atcggcgccaaaatcactaacacggccaagaactttccagcaaaggttatgaccgagatattccacgaatacggagatctgcttggaaacaatcctga
+# tacatacatg]
+# protein sequence = [MFINYYFLRQLEYDDSQAPGSGQEAAPSGHQDNVVNQDFRGVTPVMFSSGFVYSCIQLIIGAKITNTAKNFPAKVMTE
+# IFHEYGDLLGNNPDTYM]
+# end gene g2758
+###
+#
+##FASTA
+>scf_3781
+GGAGCATCGAACAGGGGAAAGAGATTTCACCATGTATGTATCAGGATTGTTTCCAAGCAG
+ATCTCCGTATTCGTGGAATATCTCGGTCATAACCTTTGCTGGAAAGTTCTTGGCCGTGTT
+AGTGATTTTGGCGCCGATGATCAGTTGAATACAAGAATACACAAAGCCGCTTGAGAACAT
+TACAGGGGTGACACCACGGAAATCTTGATTGACAACATTATCTTGATGACCAGAGGGAGC
+AGCTTCTTGACCAGAGCCGGGAGCTTGAGAATCGTCGTATTCCAATTGACGCAGGAAGTA
+GTAATTGATGAACATTTGCACCTTGATTCCCACAACGCGGATCCAA

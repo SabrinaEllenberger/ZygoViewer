@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 1814 (length = 217, name = scf_3904) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1814 on both strands
+# start gene g2773
+scf_3904	AUGUSTUS	gene	1	172	0.76	-	.	g2773
+scf_3904	AUGUSTUS	transcript	1	172	0.76	-	.	g2773.t1
+scf_3904	AUGUSTUS	initial	104	172	0.77	-	0	transcript_id "g2773.t1"; gene_id "g2773";
+scf_3904	AUGUSTUS	intron	1	103	0.87	-	.	transcript_id "g2773.t1"; gene_id "g2773";
+scf_3904	AUGUSTUS	CDS	104	172	0.77	-	0	transcript_id "g2773.t1"; gene_id "g2773";
+scf_3904	AUGUSTUS	start_codon	170	172	.	-	0	transcript_id "g2773.t1"; gene_id "g2773";
+# coding sequence = [atgcctactgaacgaaacttggagttggcgtggtggccttcagaagtcttcctcgggaatggtgccatg]
+# protein sequence = [MPTERNLELAWWPSEVFLGNGAM]
+# end gene g2773
+###
+#
+##FASTA
+>scf_3904
+GCGGTCGGAAATGGGGGTTGGGTTGATGGCACGATGCTATTTGACAATTTCAAAAAAAGG
+TACATGTCAAAAGAAGCAGTAACTAATATTGACATTGTATTACCATGGCACCATTCCCGA
+GGAAGACTTCTGAAGGCCACCACGCCAACTCCAAGTTTCGTTCAGTAGGCATGATGAACT
+TGCCACGTCCATTCCACCCAGAGACACCTTTCGCAGG
