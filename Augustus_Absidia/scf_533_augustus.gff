@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 273 (length = 336, name = scf_533) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 273 on both strands
+# start gene g430
+scf_533	AUGUSTUS	gene	1	218	0.72	-	.	g430
+scf_533	AUGUSTUS	transcript	1	218	0.72	-	.	g430.t1
+scf_533	AUGUSTUS	initial	22	218	0.72	-	0	transcript_id "g430.t1"; gene_id "g430";
+scf_533	AUGUSTUS	intron	1	21	0.73	-	.	transcript_id "g430.t1"; gene_id "g430";
+scf_533	AUGUSTUS	CDS	22	218	0.72	-	0	transcript_id "g430.t1"; gene_id "g430";
+scf_533	AUGUSTUS	start_codon	216	218	.	-	0	transcript_id "g430.t1"; gene_id "g430";
+# coding sequence = [atgatcactctcgacgagcttgaagaccactattttgatctcagtgatgatgacttcgacgacgttgatgatgacgaca
+# atgacgacaatgacaacatttgcttcgatggacacatctacctcgacgattcccaaatcaacgacaccgacaaggaaatcatcgactcggttttcgac
+# aaagtggaacacgtcagcgg]
+# protein sequence = [MITLDELEDHYFDLSDDDFDDVDDDDNDDNDNICFDGHIYLDDSQINDTDKEIIDSVFDKVEHVS]
+# end gene g430
+###
+#
+##FASTA
+>scf_533
+CCTTTGTTTGCAAACTTGTACCCGCTGACGTGTTCCACTTTGTCGAAAACCGAGTCGATG
+ATTTCCTTGTCGGTGTCGTTGATTTGGGAATCGTCGAGGTAGATGTGTCCATCGAAGCAA
+ATGTTGTCATTGTCGTCATTGTCGTCATCATCAACGTCGTCGAAGTCATCATCACTGAGA
+TCAAAATAGTGGTCTTCAAGCTCGTCGAGAGTGATCATTTCATCGCGACTGGGAGCCACA
+GGAATGCGTGTGCGTTTGTTACGACAGGACTGGCAAGTAGAATACCCCTCGAGTCGACCA
+GCAAAAAAAGATACATCCCTCGTACGTTGGCAGTCA

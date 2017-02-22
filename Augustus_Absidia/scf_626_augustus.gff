@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 312 (length = 244, name = scf_626) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 312 on both strands
+# start gene g459
+scf_626	AUGUSTUS	gene	26	244	0.72	+	.	g459
+scf_626	AUGUSTUS	transcript	26	244	0.72	+	.	g459.t1
+scf_626	AUGUSTUS	start_codon	26	28	.	+	0	transcript_id "g459.t1"; gene_id "g459";
+scf_626	AUGUSTUS	initial	26	244	0.72	+	0	transcript_id "g459.t1"; gene_id "g459";
+scf_626	AUGUSTUS	CDS	26	244	0.72	+	0	transcript_id "g459.t1"; gene_id "g459";
+# coding sequence = [atgtcaaacaacatcagcaatgaactcgccaacatcaacatcaacgctgttgaagatgaagatatgtgggaaacaagcc
+# accaacgcactcaattggaagaagacaaggcgatggtcgcggagcaggaagaatgggtgatgataacccgtgaggcgttgagagatgcaaggaaggtg
+# caagggttagtggaaggtcagtctcccgaggctgcccaagaa]
+# protein sequence = [MSNNISNELANININAVEDEDMWETSHQRTQLEEDKAMVAEQEEWVMITREALRDARKVQGLVEGQSPEAAQE]
+# end gene g459
+###
+#
+##FASTA
+>scf_626
+TACTGAATTCAACAACAACATCATCATGTCAAACAACATCAGCAATGAACTCGCCAACAT
+CAACATCAACGCTGTTGAAGATGAAGATATGTGGGAAACAAGCCACCAACGCACTCAATT
+GGAAGAAGACAAGGCGATGGTCGCGGAGCAGGAAGAATGGGTGATGATAACCCGTGAGGC
+GTTGAGAGATGCAAGGAAGGTGCAAGGGTTAGTGGAAGGTCAGTCTCCCGAGGCTGCCCA
+AGAA

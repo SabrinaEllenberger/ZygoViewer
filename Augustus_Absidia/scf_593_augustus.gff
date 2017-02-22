@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 302 (length = 323, name = scf_593) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 302 on both strands
+# start gene g455
+scf_593	AUGUSTUS	gene	1	296	0.5	-	.	g455
+scf_593	AUGUSTUS	transcript	1	296	0.5	-	.	g455.t1
+scf_593	AUGUSTUS	internal	73	224	0.58	-	1	transcript_id "g455.t1"; gene_id "g455";
+scf_593	AUGUSTUS	initial	280	296	0.83	-	0	transcript_id "g455.t1"; gene_id "g455";
+scf_593	AUGUSTUS	intron	1	72	0.67	-	.	transcript_id "g455.t1"; gene_id "g455";
+scf_593	AUGUSTUS	intron	225	279	0.71	-	.	transcript_id "g455.t1"; gene_id "g455";
+scf_593	AUGUSTUS	CDS	73	224	0.58	-	1	transcript_id "g455.t1"; gene_id "g455";
+scf_593	AUGUSTUS	CDS	280	296	0.83	-	0	transcript_id "g455.t1"; gene_id "g455";
+scf_593	AUGUSTUS	start_codon	294	296	.	-	0	transcript_id "g455.t1"; gene_id "g455";
+# coding sequence = [atgcggagattgaaaaaccgaaactaccccattacccgtccttctcaaaggaaggaggacacccatcctctcatccaag
+# aggtggatgcccaaaaagtgttttgtgaagccattgatactggcaatgatgctaacgatgatgaggaacttgaaagttcctcacctcgac]
+# protein sequence = [MRRLKNRNYPITRPSQRKEDTHPLIQEVDAQKVFCEAIDTGNDANDDEELESSSPR]
+# end gene g455
+###
+#
+##FASTA
+>scf_593
+TACAGATGGTAAGTTGAAAGAATCCTCATCTCCGCATTATCATTGACTTCTCTTTTTATT
+CTCCGCTCGTACGTCGAGGTGAGGAACTTTCAAGTTCCTCATCATCGTTAGCATCATTGC
+CAGTATCAATGGCTTCACAAAACACTTTTTGGGCATCCACCTCTTGGATGAGAGGATGGG
+TGTCCTCCTTCCTTTGAGAAGGACGGGTAATGGGGTAGTTTCGGCTACTGATTGTAAGTT
+ACACGATTCCTCATCTCCACTCTTATCACTGACTTGTACTTTTTCAATCTCCGCATTTAT
+CAACGAAAAATTACAGTTACCCG

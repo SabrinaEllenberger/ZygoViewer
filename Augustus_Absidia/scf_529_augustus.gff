@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 269 (length = 644, name = scf_529) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 269 on both strands
+# start gene g428
+scf_529	AUGUSTUS	gene	1	644	0.81	+	.	g428
+scf_529	AUGUSTUS	transcript	1	644	0.81	+	.	g428.t1
+scf_529	AUGUSTUS	internal	55	644	0.81	+	1	transcript_id "g428.t1"; gene_id "g428";
+scf_529	AUGUSTUS	intron	1	54	0.89	+	.	transcript_id "g428.t1"; gene_id "g428";
+scf_529	AUGUSTUS	CDS	55	644	0.81	+	1	transcript_id "g428.t1"; gene_id "g428";
+# coding sequence = [cgcttctcccgaacaacatgcacaccatgttcgatctgtcatcgacgaactcactagggtcaatttgatgttgaatccc
+# aacaagtgtcactttgcacaaaaaacgatctatttattaggtttctgtattgaagctaatggtaaatctagactagatgatcgcaaagtcactaatgt
+# gcaggaatggccagaacctaccacaggcaaacaaatccaacagttccttgggttagtgaattacttccgtacctacataccctactttgccgacttga
+# cagcacctctagacacacttcgcagccatgagggcaaactgagacacagatggacatcgtaccattcgcatgcctttcagagaatcaaagatgcatta
+# gtacactccacagtccttcatgccccaaaaacagatctacctttccatttggccacagatgcttccgacgtaggcattggcgccgtgttataccagat
+# cggtctaaatgacgagatatacattaatggcttcatggcccgttccctgtccaaatccgagcgcaactatgccgtaaccaaaaaagaactgttagcca
+# tcattttcgctttcaacaagt]
+# protein sequence = [ASPEQHAHHVRSVIDELTRVNLMLNPNKCHFAQKTIYLLGFCIEANGKSRLDDRKVTNVQEWPEPTTGKQIQQFLGLV
+# NYFRTYIPYFADLTAPLDTLRSHEGKLRHRWTSYHSHAFQRIKDALVHSTVLHAPKTDLPFHLATDASDVGIGAVLYQIGLNDEIYINGFMARSLSKS
+# ERNYAVTKKELLAIIFAFNK]
+# end gene g428
+###
+#
+##FASTA
+>scf_529
+AAACCCATTCCACTCCTATGTAGCCACATTCGTAGATGATATTGTCATCTATAGCGCTTC
+TCCCGAACAACATGCACACCATGTTCGATCTGTCATCGACGAACTCACTAGGGTCAATTT
+GATGTTGAATCCCAACAAGTGTCACTTTGCACAAAAAACGATCTATTTATTAGGTTTCTG
+TATTGAAGCTAATGGTAAATCTAGACTAGATGATCGCAAAGTCACTAATGTGCAGGAATG
+GCCAGAACCTACCACAGGCAAACAAATCCAACAGTTCCTTGGGTTAGTGAATTACTTCCG
+TACCTACATACCCTACTTTGCCGACTTGACAGCACCTCTAGACACACTTCGCAGCCATGA
+GGGCAAACTGAGACACAGATGGACATCGTACCATTCGCATGCCTTTCAGAGAATCAAAGA
+TGCATTAGTACACTCCACAGTCCTTCATGCCCCAAAAACAGATCTACCTTTCCATTTGGC
+CACAGATGCTTCCGACGTAGGCATTGGCGCCGTGTTATACCAGATCGGTCTAAATGACGA
+GATATACATTAATGGCTTCATGGCCCGTTCCCTGTCCAAATCCGAGCGCAACTATGCCGT
+AACCAAAAAAGAACTGTTAGCCATCATTTTCGCTTTCAACAAGT

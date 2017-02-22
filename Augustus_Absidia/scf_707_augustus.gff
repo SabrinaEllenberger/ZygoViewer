@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 341 (length = 235, name = scf_707) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 341 on both strands
+# start gene g474
+scf_707	AUGUSTUS	gene	1	173	0.88	+	.	g474
+scf_707	AUGUSTUS	transcript	1	173	0.88	+	.	g474.t1
+scf_707	AUGUSTUS	terminal	1	173	0.88	+	2	transcript_id "g474.t1"; gene_id "g474";
+scf_707	AUGUSTUS	CDS	1	170	0.88	+	2	transcript_id "g474.t1"; gene_id "g474";
+scf_707	AUGUSTUS	stop_codon	171	173	.	+	0	transcript_id "g474.t1"; gene_id "g474";
+# coding sequence = [cttcatccaacagtcgatggtacaacatgtcgtttttcgaaccgacggaaaagttcacacgggatggtgaaggtggcgt
+# tgttgatgctgatgctggtgctgatgctggtgctgctgctgatgctgatgctggtgctggtgctgcagagatcgacatggacatattgtgctga]
+# protein sequence = [SSNSRWYNMSFFEPTEKFTRDGEGGVVDADAGADAGAAADADAGAGAAEIDMDILC]
+# end gene g474
+###
+#
+##FASTA
+>scf_707
+CTTCATCCAACAGTCGATGGTACAACATGTCGTTTTTCGAACCGACGGAAAAGTTCACAC
+GGGATGGTGAAGGTGGCGTTGTTGATGCTGATGCTGGTGCTGATGCTGGTGCTGCTGCTG
+ATGCTGATGCTGGTGCTGGTGCTGCAGAGATCGACATGGACATATTGTGCTGAATCTATA
+GTTGGGAGAATCAGTAACTGGCATATACGATGGGACTATTGAGTGTATTCTTTTG

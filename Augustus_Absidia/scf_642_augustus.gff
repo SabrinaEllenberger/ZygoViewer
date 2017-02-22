@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 319 (length = 317, name = scf_642) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 319 on both strands
+# start gene g465
+scf_642	AUGUSTUS	gene	1	253	0.71	+	.	g465
+scf_642	AUGUSTUS	transcript	1	253	0.71	+	.	g465.t1
+scf_642	AUGUSTUS	terminal	50	253	0.71	+	0	transcript_id "g465.t1"; gene_id "g465";
+scf_642	AUGUSTUS	intron	1	49	0.71	+	.	transcript_id "g465.t1"; gene_id "g465";
+scf_642	AUGUSTUS	CDS	50	250	0.71	+	0	transcript_id "g465.t1"; gene_id "g465";
+scf_642	AUGUSTUS	stop_codon	251	253	.	+	0	transcript_id "g465.t1"; gene_id "g465";
+# coding sequence = [gcaaagcgccaacggaaagatagttcccggtaccgaactacttcctctcctgcttctccctctcttgcctctcctcctg
+# cttcttcctctcgttctcgcgctgctgctgcttctggtcctgcctcttcttctgctgcctctcctggtcgtggctctcgctctcgtggtcgtggctct
+# cgtggtcgggctagccgtccacagtag]
+# protein sequence = [AKRQRKDSSRYRTTSSPASPSLASPPASSSRSRAAAASGPASSSAASPGRGSRSRGRGSRGRASRPQ]
+# end gene g465
+###
+#
+##FASTA
+>scf_642
+GAAGATGAATGATTTGATGGCTCATCAACAATCGTAATGCGCACAATAGGCAAAGCGCCA
+ACGGAAAGATAGTTCCCGGTACCGAACTACTTCCTCTCCTGCTTCTCCCTCTCTTGCCTC
+TCCTCCTGCTTCTTCCTCTCGTTCTCGCGCTGCTGCTGCTTCTGGTCCTGCCTCTTCTTC
+TGCTGCCTCTCCTGGTCGTGGCTCTCGCTCTCGTGGTCGTGGCTCTCGTGGTCGGGCTAG
+CCGTCCACAGTAGTAGTAGATGTAGAATAGTGTACAGTAGTAGTAGATTTGTAGGATAGT
+GTACAGTAGTAGTAGAT

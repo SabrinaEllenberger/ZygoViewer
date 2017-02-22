@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 324 (length = 259, name = scf_656) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 324 on both strands
+# start gene g467
+scf_656	AUGUSTUS	gene	23	259	0.7	+	.	g467
+scf_656	AUGUSTUS	transcript	23	259	0.7	+	.	g467.t1
+scf_656	AUGUSTUS	start_codon	23	25	.	+	0	transcript_id "g467.t1"; gene_id "g467";
+scf_656	AUGUSTUS	initial	23	259	0.7	+	0	transcript_id "g467.t1"; gene_id "g467";
+scf_656	AUGUSTUS	CDS	23	259	0.7	+	0	transcript_id "g467.t1"; gene_id "g467";
+# coding sequence = [atgctcgcctccatgaacgttatggcttccttgggtctcaacaactctggttttactaagctgctctcctcccgtatct
+# accaacaattcctccgacctcaaatggaatacggcctggctatcactcctttgaccaagaccttggtgacgaagaaactggaacaagcacagaacgac
+# tccatccgacgattctatggcgcccactctatgtcctcgactgtgatcatgcggcatttg]
+# protein sequence = [MLASMNVMASLGLNNSGFTKLLSSRIYQQFLRPQMEYGLAITPLTKTLVTKKLEQAQNDSIRRFYGAHSMSSTVIMRH
+# L]
+# end gene g467
+###
+#
+##FASTA
+>scf_656
+CCTCCAACACAACACACAGAAGATGCTCGCCTCCATGAACGTTATGGCTTCCTTGGGTCT
+CAACAACTCTGGTTTTACTAAGCTGCTCTCCTCCCGTATCTACCAACAATTCCTCCGACC
+TCAAATGGAATACGGCCTGGCTATCACTCCTTTGACCAAGACCTTGGTGACGAAGAAACT
+GGAACAAGCACAGAACGACTCCATCCGACGATTCTATGGCGCCCACTCTATGTCCTCGAC
+TGTGATCATGCGGCATTTG

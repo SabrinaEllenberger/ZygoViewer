@@ -1,0 +1,56 @@
+# ----- prediction on sequence number 317 (length = 1142, name = scf_632) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 317 on both strands
+# start gene g464
+scf_632	AUGUSTUS	gene	1	1142	0.87	+	.	g464
+scf_632	AUGUSTUS	transcript	1	1142	0.87	+	.	g464.t1
+scf_632	AUGUSTUS	internal	1	363	0.87	+	0	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	internal	431	876	1	+	0	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	internal	928	1142	1	+	1	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	intron	364	430	1	+	.	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	intron	877	927	1	+	.	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	CDS	1	363	0.87	+	0	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	CDS	431	876	1	+	0	transcript_id "g464.t1"; gene_id "g464";
+scf_632	AUGUSTUS	CDS	928	1142	1	+	1	transcript_id "g464.t1"; gene_id "g464";
+# coding sequence = [gaacgcatgcttcaagtgtgtgtgatgcctggtccgaagaaccctaaaggtgctggattctggtcgtttttgactcctt
+# tgatggatgagttgaaggtcctggccacagctggcatggtggtcacttgcgacgatggaactatggtgaaagcaaaagtgcatttgttggttgcgact
+# ggtgatatgcctgcggctgctactttgtccggtcattctggccacatgtcgacgtatggctgccggatctgttctgcaaaaggtgtctctgggtggaa
+# tggacatggcaagttcattgcgcctactgaacgaaacttggcgttggcgtggtggccgtcagaagtcttcctcgggaatggtgtcatgcatcgtgcca
+# tcaacccaacccccatctccgatcgcccgaccttccaggggcctgctctgtttgctttggatgaaatgcatctctttggacatgggctgtcaagtcaa
+# ttggtgtcgttgatggaaggcgggaaacgtgacaagaaggactttagcaaatcgagcctctaccttggaccgaaagaaactgcccggctgtttggatt
+# gatggaagcctctctcgccaacataccaacatcattcgacggcgccttcagaaaaccatttggcaagcattcaacaagagcggtagactggatcgaca
+# tggcgcgctacattatcccctccctctttgttccccaactcgatgatcctcacgccaaagctgctgtcctatctctaatctccaccatccaaatcgcc
+# ttgcagaagtctatcagccatgaagacctgtgtcgcatgaaaagttggatggcggtatggaatgggtatctcttggaacaagtagaagaaagaaatct
+# gcctgtaaatgtctttaccccgaacgaacactacatgcagcatttgccagacatcatttctcgacttggtccccctgccatgtacagtacccgatgcc
+# tcgaacggaccattggcgattataaacgaagattgaagtcggcggccgatccaggacttgaat]
+# protein sequence = [ERMLQVCVMPGPKNPKGAGFWSFLTPLMDELKVLATAGMVVTCDDGTMVKAKVHLLVATGDMPAAATLSGHSGHMSTY
+# GCRICSAKGVSGWNGHGKFIAPTERNLALAWWPSEVFLGNGVMHRAINPTPISDRPTFQGPALFALDEMHLFGHGLSSQLVSLMEGGKRDKKDFSKSS
+# LYLGPKETARLFGLMEASLANIPTSFDGAFRKPFGKHSTRAVDWIDMARYIIPSLFVPQLDDPHAKAAVLSLISTIQIALQKSISHEDLCRMKSWMAV
+# WNGYLLEQVEERNLPVNVFTPNEHYMQHLPDIISRLGPPAMYSTRCLERTIGDYKRRLKSAADPGLE]
+# end gene g464
+###
+#
+##FASTA
+>scf_632
+GAACGCATGCTTCAAGTGTGTGTGATGCCTGGTCCGAAGAACCCTAAAGGTGCTGGATTC
+TGGTCGTTTTTGACTCCTTTGATGGATGAGTTGAAGGTCCTGGCCACAGCTGGCATGGTG
+GTCACTTGCGACGATGGAACTATGGTGAAAGCAAAAGTGCATTTGTTGGTTGCGACTGGT
+GATATGCCTGCGGCTGCTACTTTGTCCGGTCATTCTGGCCACATGTCGACGTATGGCTGC
+CGGATCTGTTCTGCAAAAGGTGTCTCTGGGTGGAATGGACATGGCAAGTTCATTGCGCCT
+ACTGAACGAAACTTGGCGTTGGCGTGGTGGCCGTCAGAAGTCTTCCTCGGGAATGGTGTC
+ATGGTAATACAATGTCAATGTTAGTTACTGCTTCTTTTAACCTATACCTTTTTTTGAAAT
+TGTCAAATAGCATCGTGCCATCAACCCAACCCCCATCTCCGATCGCCCGACCTTCCAGGG
+GCCTGCTCTGTTTGCTTTGGATGAAATGCATCTCTTTGGACATGGGCTGTCAAGTCAATT
+GGTGTCGTTGATGGAAGGCGGGAAACGTGACAAGAAGGACTTTAGCAAATCGAGCCTCTA
+CCTTGGACCGAAAGAAACTGCCCGGCTGTTTGGATTGATGGAAGCCTCTCTCGCCAACAT
+ACCAACATCATTCGACGGCGCCTTCAGAAAACCATTTGGCAAGCATTCAACAAGAGCGGT
+AGACTGGATCGACATGGCGCGCTACATTATCCCCTCCCTCTTTGTTCCCCAACTCGATGA
+TCCTCACGCCAAAGCTGCTGTCCTATCTCTAATCTCCACCATCCAAATCGCCTTGCAGAA
+GTCTATCAGCCATGAAGACCTGTGTCGCATGAAAAGGTAACAAAAGCATATCGCCCGTGT
+GTATGAGCTGACACTGTCTCTTTTTAGTTGGATGGCGGTATGGAATGGGTATCTCTTGGA
+ACAAGTAGAAGAAAGAAATCTGCCTGTAAATGTCTTTACCCCGAACGAACACTACATGCA
+GCATTTGCCAGACATCATTTCTCGACTTGGTCCCCCTGCCATGTACAGTACCCGATGCCT
+CGAACGGACCATTGGCGATTATAAACGAAGATTGAAGTCGGCGGCCGATCCAGGACTTGA
+AT

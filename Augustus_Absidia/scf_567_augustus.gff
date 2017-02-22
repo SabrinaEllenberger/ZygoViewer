@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 294 (length = 222, name = scf_567) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 294 on both strands
+# start gene g449
+scf_567	AUGUSTUS	gene	1	180	0.83	-	.	g449
+scf_567	AUGUSTUS	transcript	1	180	0.83	-	.	g449.t1
+scf_567	AUGUSTUS	internal	42	100	0.84	-	2	transcript_id "g449.t1"; gene_id "g449";
+scf_567	AUGUSTUS	initial	159	180	0.86	-	0	transcript_id "g449.t1"; gene_id "g449";
+scf_567	AUGUSTUS	intron	1	41	0.85	-	.	transcript_id "g449.t1"; gene_id "g449";
+scf_567	AUGUSTUS	intron	101	158	0.86	-	.	transcript_id "g449.t1"; gene_id "g449";
+scf_567	AUGUSTUS	CDS	42	100	0.84	-	2	transcript_id "g449.t1"; gene_id "g449";
+scf_567	AUGUSTUS	CDS	159	180	0.86	-	0	transcript_id "g449.t1"; gene_id "g449";
+scf_567	AUGUSTUS	start_codon	178	180	.	-	0	transcript_id "g449.t1"; gene_id "g449";
+# coding sequence = [atggaaacggagggttgtaaaggttctcttctccctcaagtgagcaacatcattcaagatggaaacggaagaactgcaa
+# gg]
+# protein sequence = [METEGCKGSLLPQVSNIIQDGNGRTAR]
+# end gene g449
+###
+#
+##FASTA
+>scf_567
+AACCAATGAGTAGTATCAGAGGAAGTACAATCATTCATTACCCTTGCAGTTCTTCCGTTT
+CCATCTTGAATGATGTTGCTCACTTGAGGGAGAAGAGAACCTAAATAAAATAACAGAAAA
+CAATGAGTTGTATCAGAAGAAGTACTTTCGTTCATTACCTTTACAACCCTCCGTTTCCAT
+CTTGAAGAGGTTGTTCACTTGAAGAAGGGGAGGGCCTAACTA

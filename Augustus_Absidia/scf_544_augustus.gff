@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 283 (length = 395, name = scf_544) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 283 on both strands
+# start gene g445
+scf_544	AUGUSTUS	gene	1	172	0.84	+	.	g445
+scf_544	AUGUSTUS	transcript	1	172	0.84	+	.	g445.t1
+scf_544	AUGUSTUS	terminal	1	172	0.84	+	1	transcript_id "g445.t1"; gene_id "g445";
+scf_544	AUGUSTUS	CDS	1	169	0.84	+	1	transcript_id "g445.t1"; gene_id "g445";
+scf_544	AUGUSTUS	stop_codon	170	172	.	+	0	transcript_id "g445.t1"; gene_id "g445";
+# coding sequence = [gctatgcgttgaggacattgccggacgttgtgccctggttggcggcaagtgccacaaagtcttgttggtcgctcaacat
+# gctcgaaatgcgatggatctcgtctcgtttatgactcgttggtcctgcgtgcggttgacccagttggcctaccccgacgtcgagaatcattaa]
+# protein sequence = [LCVEDIAGRCALVGGKCHKVLLVAQHARNAMDLVSFMTRWSCVRLTQLAYPDVENH]
+# end gene g445
+###
+#
+##FASTA
+>scf_544
+GCTATGCGTTGAGGACATTGCCGGACGTTGTGCCCTGGTTGGCGGCAAGTGCCACAAAGT
+CTTGTTGGTCGCTCAACATGCTCGAAATGCGATGGATCTCGTCTCGTTTATGACTCGTTG
+GTCCTGCGTGCGGTTGACCCAGTTGGCCTACCCCGACGTCGAGAATCATTAACTGGATCT
+AGTGGTACAAGCGATTCAGTCGTTGCTAGGGCATAAACCCTCGACAAAAGCTCCCGTTGC
+TGGTACTGGTTGGCCGTATTGTACCTGCCCCGTATCATTTCGAGGATGTACTCCAGCCCA
+TACTCTTCGTTGACCAATTCGTTCACCAGGTCTTCTTCATCGGAGAAGAACAATTGCCAT
+TGCTGATGGAAATGTCGGGGTTGAATGACTGATTG
