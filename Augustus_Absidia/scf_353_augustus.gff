@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 150 (length = 410, name = scf_353) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 150 on both strands
+# start gene g194
+scf_353	AUGUSTUS	gene	137	343	0.64	+	.	g194
+scf_353	AUGUSTUS	transcript	137	343	0.64	+	.	g194.t1
+scf_353	AUGUSTUS	start_codon	137	139	.	+	0	transcript_id "g194.t1"; gene_id "g194";
+scf_353	AUGUSTUS	single	137	343	0.64	+	0	transcript_id "g194.t1"; gene_id "g194";
+scf_353	AUGUSTUS	CDS	137	340	0.64	+	0	transcript_id "g194.t1"; gene_id "g194";
+scf_353	AUGUSTUS	stop_codon	341	343	.	+	0	transcript_id "g194.t1"; gene_id "g194";
+# coding sequence = [atgccatctgccgccattgccttcagtcgcctgaaaatgatcaccatttctttctgggctgtaacactaaagagcacgt
+# ctggttcgacctatggccaggtccatccttcccaccatcgcagcaagagctatggacgttcattaccgctcccaacagtaacaacgcttgttgtagtg
+# gtcgaagtaaatactgagtcaaagttctag]
+# protein sequence = [MPSAAIAFSRLKMITISFWAVTLKSTSGSTYGQVHPSHHRSKSYGRSLPLPTVTTLVVVVEVNTESKF]
+# end gene g194
+###
+#
+##FASTA
+>scf_353
+CTACCAAGTCGAACATGGAGGAAGTTCTGGCAAATTAAGTTACCACACAGGGCCACTACG
+ATATGGTGGAGGGTACTACAAGACTGCCTCTCAACAAAAGAACGAATTTACCAGCGATCT
+CTGAACCTGATCGAAGATGCCATCTGCCGCCATTGCCTTCAGTCGCCTGAAAATGATCAC
+CATTTCTTTCTGGGCTGTAACACTAAAGAGCACGTCTGGTTCGACCTATGGCCAGGTCCA
+TCCTTCCCACCATCGCAGCAAGAGCTATGGACGTTCATTACCGCTCCCAACAGTAACAAC
+GCTTGTTGTAGTGGTCGAAGTAAATACTGAGTCAAAGTTCTAGTCGATTTATTTGTGTTA
+TAAAAAGAGAGAGGGAAAACATCGAGGTGATGGAAAAAACCCCTTTTCTA

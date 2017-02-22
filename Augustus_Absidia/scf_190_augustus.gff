@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 60 (length = 253, name = scf_190) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 60 on both strands
+# start gene g100
+scf_190	AUGUSTUS	gene	1	211	0.83	-	.	g100
+scf_190	AUGUSTUS	transcript	1	211	0.83	-	.	g100.t1
+scf_190	AUGUSTUS	initial	1	211	0.83	-	0	transcript_id "g100.t1"; gene_id "g100";
+scf_190	AUGUSTUS	CDS	1	211	0.83	-	0	transcript_id "g100.t1"; gene_id "g100";
+scf_190	AUGUSTUS	start_codon	209	211	.	-	0	transcript_id "g100.t1"; gene_id "g100";
+# coding sequence = [atgtcctccgcacatacaccacaagcgaactgggatgcactcaagtcggagctcaaaaaatggatcaggactcagggac
+# gacgactagccaatcagcgctcaacaaaactcagggaccttcaacaacaacggatcgacattctccaaagcaatgaatcaaatgatcgccgactagaa
+# cagctcagtaccatcgacccacagatccatcaac]
+# protein sequence = [MSSAHTPQANWDALKSELKKWIRTQGRRLANQRSTKLRDLQQQRIDILQSNESNDRRLEQLSTIDPQIHQ]
+# end gene g100
+###
+#
+##FASTA
+>scf_190
+GTTGATGGATCTGTGGGTCGATGGTACTGAGCTGTTCTAGTCGGCGATCATTTGATTCAT
+TGCTTTGGAGAATGTCGATCCGTTGTTGTTGAAGGTCCCTGAGTTTTGTTGAGCGCTGAT
+TGGCTAGTCGTCGTCCCTGAGTCCTGATCCATTTTTTGAGCTCCGACTTGAGTGCATCCC
+AGTTCGCTTGTGGTGTATGTGCGGAGGACATGGCGTCGGCAAGGTGATCTAGCTTGGAAT
+CCAGTTTGGCGGT

@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 59 (length = 410, name = scf_188) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 59 on both strands
+# start gene g99
+scf_188	AUGUSTUS	gene	1	262	0.92	-	.	g99
+scf_188	AUGUSTUS	transcript	1	262	0.92	-	.	g99.t1
+scf_188	AUGUSTUS	initial	129	262	0.95	-	0	transcript_id "g99.t1"; gene_id "g99";
+scf_188	AUGUSTUS	intron	1	128	0.92	-	.	transcript_id "g99.t1"; gene_id "g99";
+scf_188	AUGUSTUS	CDS	129	262	0.95	-	0	transcript_id "g99.t1"; gene_id "g99";
+scf_188	AUGUSTUS	start_codon	260	262	.	-	0	transcript_id "g99.t1"; gene_id "g99";
+# coding sequence = [atgtccgtttactctgtctcttctgcttcctcttcggaagacttgatcgatcttcttggctcgtatgtggtgttcccaa
+# caccagagtcccttcccgaacccaaccttgacacctggtctcttaaacaccaatg]
+# protein sequence = [MSVYSVSSASSSEDLIDLLGSYVVFPTPESLPEPNLDTWSLKHQ]
+# end gene g99
+###
+#
+##FASTA
+>scf_188
+TGAATAATAATCATGCGGCTAACTAATATATTTAAGGGTTCCATGTGATGGCAGCAGACT
+TGGCGTTTCATAGTTGTGTAATGTTACTGATGTTTCAGGACTCAGGTGATATTCTTGATT
+GATGTTACCATTGGTGTTTAAGAGACCAGGTGTCAAGGTTGGGTTCGGGAAGGGACTCTG
+GTGTTGGGAACACCACATACGAGCCAAGAAGATCGATCAAGTCTTCCGAAGAGGAAGCAG
+AAGAGACAGAGTAAACGGACATGTTTATTGAAGAAGAGAGAGAGAGTTGGTGATGGGTTA
+AATGGAGATGACCAGATGGGGGTCAACTAAGATCTAAACTAATGTCCTATTTATACTAAT
+CTGTTTTATGGAAGGATGACTAAATGGAAACTACTCGAAGGTGATGGTAG

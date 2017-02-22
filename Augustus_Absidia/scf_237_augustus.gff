@@ -1,0 +1,48 @@
+# ----- prediction on sequence number 82 (length = 900, name = scf_237) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 82 on both strands
+# start gene g110
+scf_237	AUGUSTUS	gene	1	719	0.19	+	.	g110
+scf_237	AUGUSTUS	transcript	1	719	0.19	+	.	g110.t1
+scf_237	AUGUSTUS	internal	1	184	0.29	+	0	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	internal	283	476	0.25	+	2	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	internal	545	655	0.92	+	0	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	terminal	711	719	0.92	+	0	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	intron	185	282	0.35	+	.	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	intron	477	544	0.7	+	.	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	intron	656	710	0.94	+	.	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	CDS	1	184	0.29	+	0	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	CDS	283	476	0.25	+	2	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	CDS	545	655	0.92	+	0	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	CDS	711	716	0.92	+	0	transcript_id "g110.t1"; gene_id "g110";
+scf_237	AUGUSTUS	stop_codon	717	719	.	+	0	transcript_id "g110.t1"; gene_id "g110";
+# coding sequence = [gatgatgacatgaccgacgacgacgacgatgaagaagacgatgaagactttgatgatgacatggacgacgacgacatgg
+# agaatgacgatgatgacgatgacgatgatggtgacatggacgacgacgacacggacgacatggacgatgaagacgaagacgaaagcgattacgatgac
+# gatgataaagacgatgaagactttgatgatgacatggacgacgacgacatggagaatgacgatgatgacgatgacgatgatagtgacatggacgacga
+# cgacacggacgacatggacgatgaagacgaagacgaaagcgattacgatgacgatgatagtgacatggacgacgacgaagacgacttttacatgttgg
+# gcaaagcaaaacctgacatgcgctggacgagtatctgtttctggaagggcgtatggaagcggctccacaaaaggaaaatcaagaatgatcttccggat
+# accattgcaatccttacagaacgatag]
+# protein sequence = [DDDMTDDDDDEEDDEDFDDDMDDDDMENDDDDDDDDGDMDDDDTDDMDDEDEDESDYDDDDKDDEDFDDDMDDDDMEN
+# DDDDDDDDSDMDDDDTDDMDDEDEDESDYDDDDSDMDDDEDDFYMLGKAKPDMRWTSICFWKGVWKRLHKRKIKNDLPDTIAILTER]
+# end gene g110
+###
+#
+##FASTA
+>scf_237
+GATGATGACATGACCGACGACGACGACGATGAAGAAGACGATGAAGACTTTGATGATGAC
+ATGGACGACGACGACATGGAGAATGACGATGATGACGATGACGATGATGGTGACATGGAC
+GACGACGACACGGACGACATGGACGATGAAGACGAAGACGAAAGCGATTACGATGACGAT
+GATAGTGACATGGACGACGACGAAGACGACTTTTACANNNNNNNNNNAACGACAACGACA
+CTGACACTGATGATGACATGACCGACGACGACGACGATGAAGAAGACGATGAAGACTTTG
+ATGATGACATGGACGACGACGACATGGAGAATGACGATGATGACGATGACGATGATAGTG
+ACATGGACGACGACGACACGGACGACATGGACGATGAAGACGAAGACGAAAGCGATTACG
+ATGACGATGATAGTGACATGGACGACGACGAAGACGACTTTTACATGTTGGGCAAAGTTA
+GAAAAGTGGGGGAACGTTTACAACAGCTACACCCTGCAATTCGACAACTGACTGCACGAC
+AAAGGCAAAACCTGACATGCGCTGGACGAGTATCTGTTTCTGGAAGGGCGTATGGAAGCG
+GCTCCACAAAAGGAAAATCAAGAATGATCTTCCGGATACCATTGCAATCCTTACAGTAAG
+TATAAATCCACGGACATGTATCTCTAATTTTTATTTTAACATTACAATAGGAACGATAGG
+TGCAAATTATACGCAGGCGATGTCGAATTGTACTTGTGCATAATGGACCGGATCTATGCC
+TTGACAACAGTGCTGTCTCTGAACTACGATGGAAGATCAAGACTCATGCTTGCAACAACA
+CCAACATCAACATCAACGCACCTTATACCAGTCGAGTACTTGGTATCAACAGCAGGCACC

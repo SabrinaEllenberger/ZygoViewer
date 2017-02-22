@@ -1,0 +1,39 @@
+# ----- prediction on sequence number 74 (length = 568, name = scf_218) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 74 on both strands
+# start gene g108
+scf_218	AUGUSTUS	gene	1	550	0.58	-	.	g108
+scf_218	AUGUSTUS	transcript	1	550	0.58	-	.	g108.t1
+scf_218	AUGUSTUS	internal	69	165	0.62	-	2	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	internal	244	321	0.99	-	2	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	initial	388	550	0.91	-	0	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	intron	1	68	0.62	-	.	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	intron	166	243	0.78	-	.	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	intron	322	387	1	-	.	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	CDS	69	165	0.62	-	2	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	CDS	244	321	0.99	-	2	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	CDS	388	550	0.91	-	0	transcript_id "g108.t1"; gene_id "g108";
+scf_218	AUGUSTUS	start_codon	548	550	.	-	0	transcript_id "g108.t1"; gene_id "g108";
+# coding sequence = [atggaaaggaacggtattgaatacaagaacggcatgctgtccgaacttcgcctgctgccttccccggtgtctcaattct
+# ttctcgtcatgggattcttgttctatggttggttcttggaagccaagttgccctggattgctcctttgattggcttgggttgcttgggttttggtctc
+# atgtcaatggttagcatgtccacgaactatctggtggaaggctatgtccccaaggctgctgagatgacatctgtcggtaactttactcggtgtctatt
+# cggtatgattttctctcttctttctacaaccatcgtcgattcccttggaaatggatgggcata]
+# protein sequence = [MERNGIEYKNGMLSELRLLPSPVSQFFLVMGFLFYGWFLEAKLPWIAPLIGLGCLGFGLMSMVSMSTNYLVEGYVPKA
+# AEMTSVGNFTRCLFGMIFSLLSTTIVDSLGNGWA]
+# end gene g108
+###
+#
+##FASTA
+>scf_218
+CATAGTGCTATTAAAGAAGAAGAAGGGTCAACGCAATGAACTTCCGGTACACTACCTAGG
+GTACTTACTATGCCCATCCATTTCCAAGGGAATCGACGATGGTTGTAGAAAGAAGAGAGA
+AAATCATACCGAATAGACACCGAGTAAAGTTACCGACAGATGTCACTATGAGATAGAGGG
+GATTAAGAAAGTCAGTCAATGCCAAATCGTACCTGAAGATTATTTCTAGGTTGTATAACT
+TACTCTCAGCAGCCTTGGGGACATAGCCTTCCACCAGATAGTTCGTGGACATGCTAACCA
+TTGACATGAGACCAAAACCCACTACGAGCAAGTAAGAATGTTAGAGCCCATGCAATTCCA
+TTGGACGAGAATGATCATGTCACTTACAGCAACCCAAGCCAATCAAAGGAGCAATCCAGG
+GCAACTTGGCTTCCAAGAACCAACCATAGAACAAGAATCCCATGACGAGAAAGAATTGAG
+ACACCGGGGAAGGCAGCAGGCGAAGTTCGGACAGCATGCCGTTCTTGTATTCAATACCGT
+TCCTTTCCATTTCGGCACGTCTGGGGGC

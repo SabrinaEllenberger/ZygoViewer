@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 92 (length = 230, name = scf_264) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 92 on both strands
+# start gene g112
+scf_264	AUGUSTUS	gene	1	166	0.96	-	.	g112
+scf_264	AUGUSTUS	transcript	1	166	0.96	-	.	g112.t1
+scf_264	AUGUSTUS	initial	1	166	0.96	-	0	transcript_id "g112.t1"; gene_id "g112";
+scf_264	AUGUSTUS	CDS	1	166	0.96	-	0	transcript_id "g112.t1"; gene_id "g112";
+scf_264	AUGUSTUS	start_codon	164	166	.	-	0	transcript_id "g112.t1"; gene_id "g112";
+# coding sequence = [atgtggatcagaagcgccgccaacatgaccgtgtggacgaccgacgacaacgccgcaatcaacgcagccgatcccgatc
+# tggtagccgggacgactacagccatcatcacaaaagcaagcactaccagcagtaccgccgtgatcaccaccaacaacgggatcagca]
+# protein sequence = [MWIRSAANMTVWTTDDNAAINAADPDLVAGTTTAIITKASTTSSTAVITTNNGIS]
+# end gene g112
+###
+#
+##FASTA
+>scf_264
+TGCTGATCCCGTTGTTGGTGGTGATCACGGCGGTACTGCTGGTAGTGCTTGCTTTTGTGA
+TGATGGCTGTAGTCGTCCCGGCTACCAGATCGGGATCGGCTGCGTTGATTGCGGCGTTGT
+CGTCGGTCGTCCACACGGTCATGTTGGCGGCGCTTCTGATCCACATAGGCCTTGCATTCT
+TCCAAGTCGTGGTCAGCACCAGATCCACTCTTGCCACCATGCGTGGGACA

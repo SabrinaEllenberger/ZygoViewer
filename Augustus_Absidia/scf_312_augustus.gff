@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 125 (length = 388, name = scf_312) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 125 on both strands
+# start gene g133
+scf_312	AUGUSTUS	gene	1	360	0.3	-	.	g133
+scf_312	AUGUSTUS	transcript	1	360	0.3	-	.	g133.t1
+scf_312	AUGUSTUS	internal	110	300	0.34	-	0	transcript_id "g133.t1"; gene_id "g133";
+scf_312	AUGUSTUS	initial	358	360	0.71	-	0	transcript_id "g133.t1"; gene_id "g133";
+scf_312	AUGUSTUS	intron	1	109	0.34	-	.	transcript_id "g133.t1"; gene_id "g133";
+scf_312	AUGUSTUS	intron	301	357	0.71	-	.	transcript_id "g133.t1"; gene_id "g133";
+scf_312	AUGUSTUS	CDS	110	300	0.34	-	0	transcript_id "g133.t1"; gene_id "g133";
+scf_312	AUGUSTUS	CDS	358	360	0.71	-	0	transcript_id "g133.t1"; gene_id "g133";
+scf_312	AUGUSTUS	start_codon	358	360	.	-	0	transcript_id "g133.t1"; gene_id "g133";
+# coding sequence = [atgctgttagaaggtgccttggagtggtgcattgactccacacatcacacatgcaagtcgacgctcaatcctgaccatt
+# attgctacctgtacaccatcgttgtccggtctcctttcaccaacaagggtgttcctgttgcctttatgctgacagctagcgaaatcgtccgaacctgg
+# tcaaatggctgcaaaac]
+# protein sequence = [MLLEGALEWCIDSTHHTCKSTLNPDHYCYLYTIVVRSPFTNKGVPVAFMLTASEIVRTWSNGCK]
+# end gene g133
+###
+#
+##FASTA
+>scf_312
+AAGGAGGTGAGACACGAACATCATCAAATACCTGACGGATGGCAGCGATTTCGGTCGTCG
+AACAGTCGATCATGATTCTTGCCACATTCAAGTTGTTGTTGTCCTTCACGTTTTGCAGCC
+ATTTGACCAGGTTCGGACGATTTCGCTAGCTGTCAGCATAAAGGCAACAGGAACACCCTT
+GTTGGTGAAAGGAGACCGGACAACGATGGTGTACAGGTAGCAATAATGGTCAGGATTGAG
+CGTCGACTTGCATGTGTGATGTGTGGAGTCAATGCACCACTCCAAGGCACCTTCTAACAG
+CTATATATAAAGATGATAACATTAGTATATAGCACTGTATCAGGTACCATATCAAACCAT
+CACTTATTTCTTTTTGCCGCAACAACAA
