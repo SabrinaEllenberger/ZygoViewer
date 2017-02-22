@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 526 (length = 234, name = scf_1105) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 526 on both strands
+# start gene g975
+scf_1105	AUGUSTUS	gene	1	212	0.89	-	.	g975
+scf_1105	AUGUSTUS	transcript	1	212	0.89	-	.	g975.t1
+scf_1105	AUGUSTUS	initial	18	212	0.89	-	0	transcript_id "g975.t1"; gene_id "g975";
+scf_1105	AUGUSTUS	intron	1	17	0.89	-	.	transcript_id "g975.t1"; gene_id "g975";
+scf_1105	AUGUSTUS	CDS	18	212	0.89	-	0	transcript_id "g975.t1"; gene_id "g975";
+scf_1105	AUGUSTUS	start_codon	210	212	.	-	0	transcript_id "g975.t1"; gene_id "g975";
+# coding sequence = [atgtcctttggttctccctgctctgctccttccagccctattctgttaggccatccttcctggtctgccctgcttgatc
+# atgacacaaactctcaatcatgcacgtatctgtttcccgttaactctgtcgatctacctgtgggcgccatcacaaacagcagaagtgaagaaacatac
+# tacttttgggccgacatg]
+# protein sequence = [MSFGSPCSAPSSPILLGHPSWSALLDHDTNSQSCTYLFPVNSVDLPVGAITNSRSEETYYFWADM]
+# end gene g975
+###
+#
+##FASTA
+>scf_1105
+AGATCGGACGAACATACCATGTCGGCCCAAAAGTAGTATGTTTCTTCACTTCTGCTGTTT
+GTGATGGCGCCCACAGGTAGATCGACAGAGTTAACGGGAAACAGATACGTGCATGATTGA
+GAGTTTGTGTCATGATCAAGCAGGGCAGACCAGGAAGGATGGCCTAACAGAATAGGGCTG
+GAAGGAGCAGAGCAGGGAGAACCAAAGGACATGATAGAAATGGGTTTATTGAAT

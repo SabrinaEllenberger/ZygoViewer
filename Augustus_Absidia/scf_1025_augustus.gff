@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 482 (length = 256, name = scf_1025) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 482 on both strands
+# start gene g952
+scf_1025	AUGUSTUS	gene	1	256	1	+	.	g952
+scf_1025	AUGUSTUS	transcript	1	256	1	+	.	g952.t1
+scf_1025	AUGUSTUS	internal	1	256	1	+	1	transcript_id "g952.t1"; gene_id "g952";
+scf_1025	AUGUSTUS	CDS	1	256	1	+	1	transcript_id "g952.t1"; gene_id "g952";
+# coding sequence = [gaaacgtgccgtggacgcccaaggaaaagctgacgaagcgttggctgctgacgcccctgaagaggaatacgaagccctc
+# atggacgtttacaacaagaagtgggaactctatcaaaggacccgctccaactttgcggcccgcttccctgaagaaggtgtcttccgaactggcaaggc
+# atccggtggtcccaaccaaggttcgaacaagaatccggtggctgctcctgctctcaaggtggtggatctccccttcctg]
+# protein sequence = [KRAVDAQGKADEALAADAPEEEYEALMDVYNKKWELYQRTRSNFAARFPEEGVFRTGKASGGPNQGSNKNPVAAPALK
+# VVDLPFL]
+# end gene g952
+###
+#
+##FASTA
+>scf_1025
+GAAACGTGCCGTGGACGCCCAAGGAAAAGCTGACGAAGCGTTGGCTGCTGACGCCCCTGA
+AGAGGAATACGAAGCCCTCATGGACGTTTACAACAAGAAGTGGGAACTCTATCAAAGGAC
+CCGCTCCAACTTTGCGGCCCGCTTCCCTGAAGAAGGTGTCTTCCGAACTGGCAAGGCATC
+CGGTGGTCCCAACCAAGGTTCGAACAAGAATCCGGTGGCTGCTCCTGCTCTCAAGGTGGT
+GGATCTCCCCTTCCTG

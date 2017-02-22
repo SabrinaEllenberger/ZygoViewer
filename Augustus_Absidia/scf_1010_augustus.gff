@@ -1,0 +1,799 @@
+# ----- prediction on sequence number 471 (length = 26613, name = scf_1010) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 471 on both strands
+# start gene g936
+scf_1010	AUGUSTUS	gene	1	219	1	-	.	g936
+scf_1010	AUGUSTUS	transcript	1	219	1	-	.	g936.t1
+scf_1010	AUGUSTUS	initial	1	219	1	-	0	transcript_id "g936.t1"; gene_id "g936";
+scf_1010	AUGUSTUS	CDS	1	219	1	-	0	transcript_id "g936.t1"; gene_id "g936";
+scf_1010	AUGUSTUS	start_codon	217	219	.	-	0	transcript_id "g936.t1"; gene_id "g936";
+# coding sequence = [atggatccccatcaagaatctgttgctgaccccgttgttcccttggtgaccgacgaagatgttgttatggaaccagtgg
+# atgaagttacggtgcccaccctggaagccacgttggaccacaccaagaaggaattgaagaagaccaccatgttggcctatcaagcgttgctcatggaa
+# ttcaaggagttggtggccagttcggatactgatgaggcgaag]
+# protein sequence = [MDPHQESVADPVVPLVTDEDVVMEPVDEVTVPTLEATLDHTKKELKKTTMLAYQALLMEFKELVASSDTDEAK]
+# end gene g936
+###
+# start gene g937
+scf_1010	AUGUSTUS	gene	4894	7682	0.73	-	.	g937
+scf_1010	AUGUSTUS	transcript	4894	7682	0.73	-	.	g937.t1
+scf_1010	AUGUSTUS	stop_codon	4894	4896	.	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	terminal	4894	4914	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	internal	4976	6189	0.73	-	2	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	internal	6760	6952	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	internal	7012	7371	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	internal	7466	7501	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	initial	7641	7682	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	intron	4915	4975	1	-	.	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	intron	6190	6759	0.73	-	.	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	intron	6953	7011	1	-	.	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	intron	7372	7465	1	-	.	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	intron	7502	7640	1	-	.	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	CDS	4897	4914	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	CDS	4976	6189	0.73	-	2	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	CDS	6760	6952	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	CDS	7012	7371	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	CDS	7466	7501	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	CDS	7641	7682	1	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1010	AUGUSTUS	start_codon	7680	7682	.	-	0	transcript_id "g937.t1"; gene_id "g937";
+# coding sequence = [atggcttctcgattcactcgtttgactaccgtcgctcctcaattggcccgtggttacgctgccgctgccgcccccaagg
+# ctcctctcgccctcttcggtcttgatggtcgttacgccactgctctttacgttgctgccgctcgtcaaaacgctctcgatgctgtcgaaaaggatctc
+# aagtccttcaatggcctcgtatccaaggataaggctctcggctcctttttggaaaaccccaccatctccctcaaggaaaagaaggaaagcatccgctc
+# ccttttggccaagtctggcaaggctcacaacttgactgaaaactttttcgaaactctcgctgaaaacggccgtctccctcaaactagcaaggtcatcg
+# aatcctatggtgaattgatgagcgcccaccgcaacgaattaccccttgtcatcacttccgccaaggaattggacaagtctactttgaacaagatcgtg
+# gattctcttcaaaagagcccccttgctgaaggcaagaagcttctcgtatctaacaaggtcaagactgatatcctcggtggactcctcgttgaaattgg
+# tgataagagcattgatttgactgtgtccagcaagctcaacaagctcaacaagctcgttactgcagcccttgccatggaagaaacaaccgatgctcata
+# ctcgtcaatcatattaccctccaacaaaacaaatggcggtagacaatagtgatggcggcaacagcaacaaactccctattatgcataacaaaccaaca
+# atggagctaatactttcgcacgatcagtggaaaagtacacctgtagtcggcaccaccagcaacaccaccaccagcgaccaacagcaaaagcatctccc
+# ctctgtacgatgcactctttgtcaagatgaagataacaacgtcctcttctaccgcccgtcgatgactctacatacactgttccaagtgcctgacgaac
+# caacagcaacaaggtacaccaagaaacgaaacactctggagcctcctttggaagacgatcggcgcccaccgactaccgccagtagaaaaagcatggac
+# ctcgatgaagacaggaaccaaagcaaagaccatgacggagtcgacgaagaaacgcaccatcgactcgtgatacccaaacctcgacaatgctatgcgac
+# gctttatgcagccacggacgatcagcccctgtggacatttgtggagcaagactggcacaccatgaccctcgtctctcgacaacacccgcaccattcca
+# tctccatgacgacaagcaccttttcgttcatgtggggcaacaacgacggaggtttgtaccaatggcgcatgcaactcaacagcgacagcgaaccgacg
+# atcgaccttttgtgtgaacagtggcaggccgaccacaccaaacgacgagttgcctggctgaaaaacggcgccacacgattgactctcttttcggaaac
+# gtccaatagcaacaatccattccgatgtgcacaaagccctctggatacattcttggtgttatcgggcctgcttttatacgaattgatcagctcacaag
+# tacggacgttgggcggtggcgtggaagcaatgacgatgatgatcgaccggcagcaacaggcgttggtggaggaaacacaccgcttttacaacaaggcg
+# cacaaggacgaagatgaaatggcccatgatatgtcgcgctggtcgtctacgggctcactgaaaagtctggaactggatcagggatggtggcgatgctg
+# gtgggtcccttgctgtatgccgggcagctggtgtgatcgtgcctggatcaagacccgtggtgggtatcatcatcgctcaagggtcacccgaaggatgc
+# agggctggcaacaacaggaatag]
+# protein sequence = [MASRFTRLTTVAPQLARGYAAAAAPKAPLALFGLDGRYATALYVAAARQNALDAVEKDLKSFNGLVSKDKALGSFLEN
+# PTISLKEKKESIRSLLAKSGKAHNLTENFFETLAENGRLPQTSKVIESYGELMSAHRNELPLVITSAKELDKSTLNKIVDSLQKSPLAEGKKLLVSNK
+# VKTDILGGLLVEIGDKSIDLTVSSKLNKLNKLVTAALAMEETTDAHTRQSYYPPTKQMAVDNSDGGNSNKLPIMHNKPTMELILSHDQWKSTPVVGTT
+# SNTTTSDQQQKHLPSVRCTLCQDEDNNVLFYRPSMTLHTLFQVPDEPTATRYTKKRNTLEPPLEDDRRPPTTASRKSMDLDEDRNQSKDHDGVDEETH
+# HRLVIPKPRQCYATLYAATDDQPLWTFVEQDWHTMTLVSRQHPHHSISMTTSTFSFMWGNNDGGLYQWRMQLNSDSEPTIDLLCEQWQADHTKRRVAW
+# LKNGATRLTLFSETSNSNNPFRCAQSPLDTFLVLSGLLLYELISSQVRTLGGGVEAMTMMIDRQQQALVEETHRFYNKAHKDEDEMAHDMSRWSSTGS
+# LKSLELDQGWWRCWWVPCCMPGSWCDRAWIKTRGGYHHRSRVTRRMQGWQQQE]
+# end gene g937
+###
+# start gene g938
+scf_1010	AUGUSTUS	gene	8060	9463	0.35	+	.	g938
+scf_1010	AUGUSTUS	transcript	8060	9463	0.35	+	.	g938.t1
+scf_1010	AUGUSTUS	start_codon	8060	8062	.	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	initial	8060	8194	0.7	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	internal	8269	8293	1	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	internal	8359	8471	1	+	2	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	internal	8540	8832	1	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	internal	8900	9185	0.57	+	1	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	terminal	9257	9463	0.96	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	intron	8195	8268	0.7	+	.	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	intron	8294	8358	1	+	.	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	intron	8472	8539	1	+	.	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	intron	8833	8899	1	+	.	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	intron	9186	9256	0.53	+	.	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	CDS	8060	8194	0.7	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	CDS	8269	8293	1	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	CDS	8359	8471	1	+	2	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	CDS	8540	8832	1	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	CDS	8900	9185	0.57	+	1	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	CDS	9257	9460	0.96	+	0	transcript_id "g938.t1"; gene_id "g938";
+scf_1010	AUGUSTUS	stop_codon	9461	9463	.	+	0	transcript_id "g938.t1"; gene_id "g938";
+# coding sequence = [atggtcgctgtcaaattgcaaaaagaagaaaaccgtaaggctttccttgatctctatcctgccctcgccgaagaagtgc
+# ttggtgaacttcgcaagtacaacatgcctgaagatgcttatgaatggaccaaggaaaacctgttctacaatgtgcctggtggtaaattgaaccgtggt
+# ctctcggtggttgacactatccgtatcttgaagggtgatgctgtcactgaagatgatatcttcaaggcttccgtgttgggctggctcgttgaattcct
+# tcaagccttcttccttgtgtctgatgatatcatggatgcttccatcactcgccgtggtcaaccttgctggtacaagaaggatggtgttggtatggtcg
+# caatcaacgatgccttcatcttggaatcctgcatctacatctttttgaaaaagtacttcaaggccactgattactatgtcgaactcattgaactcttc
+# cacgaagtcaccttccaaaccgaacttggccaactctgtgacctgattactgctcctgaagatagcgttgacctgagcaagttctctgtggaaaagca
+# caaattcattgttatctacaagactgcattctactccttctatctccctgtcgctcttgccatgctgatggttggcgtcaagaacgaatccgcttaca
+# ccgaagcccgtaacattttgattcccttgggtgaatacttccaaattcaagacgattacctcgattgctatggtgaccctgccttcattggtaagatc
+# ggtactgacatccaagacaacaagtgctcgtggttggtgaaccaagctttggccaaggctaaccctgaacaacgcaaggtcctcgatgaaaactatgg
+# tcaaaagaacgctgaagctgaagctaagatcaaggccctttacattgaattgaacattgaagaaacctacaaggcctacgaagaaaagtccttccaag
+# aactcactgctttgatcaaccaagtcgacgaatctattggcatcaagaaggctgtcttcaccgaattcatggacaagatctacaagcgtaccaaatag]
+# protein sequence = [MVAVKLQKEENRKAFLDLYPALAEEVLGELRKYNMPEDAYEWTKENLFYNVPGGKLNRGLSVVDTIRILKGDAVTEDD
+# IFKASVLGWLVEFLQAFFLVSDDIMDASITRRGQPCWYKKDGVGMVAINDAFILESCIYIFLKKYFKATDYYVELIELFHEVTFQTELGQLCDLITAP
+# EDSVDLSKFSVEKHKFIVIYKTAFYSFYLPVALAMLMVGVKNESAYTEARNILIPLGEYFQIQDDYLDCYGDPAFIGKIGTDIQDNKCSWLVNQALAK
+# ANPEQRKVLDENYGQKNAEAEAKIKALYIELNIEETYKAYEEKSFQELTALINQVDESIGIKKAVFTEFMDKIYKRTK]
+# end gene g938
+###
+# start gene g939
+scf_1010	AUGUSTUS	gene	12741	14023	0.92	+	.	g939
+scf_1010	AUGUSTUS	transcript	12741	14023	0.92	+	.	g939.t1
+scf_1010	AUGUSTUS	start_codon	12741	12743	.	+	0	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	initial	12741	12996	1	+	0	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	internal	13056	13254	1	+	2	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	internal	13310	13384	1	+	1	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	terminal	13456	14023	0.92	+	1	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	intron	12997	13055	1	+	.	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	intron	13255	13309	1	+	.	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	intron	13385	13455	1	+	.	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	CDS	12741	12996	1	+	0	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	CDS	13056	13254	1	+	2	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	CDS	13310	13384	1	+	1	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	CDS	13456	14020	0.92	+	1	transcript_id "g939.t1"; gene_id "g939";
+scf_1010	AUGUSTUS	stop_codon	14021	14023	.	+	0	transcript_id "g939.t1"; gene_id "g939";
+# coding sequence = [atggcatcgtccagtattcccatcgatgactttgcgaccttgtcacccccatcactgccttcgatcgaagtagatacct
+# caacttgtcaagtgtgccatcaagcggcctcgaaatacaagtgtcctcgatgcaatgtccgatcctgctctgtcgtctgtgtcaagcaacataaagcc
+# gaccaatcatgctcaggggaacgcagcaaaacccattatgtgcccatgaaggagtacaatgaaagcaacatgatgagtgattatgtttatttggaaga
+# tgtgtcgagacaatccgacactctaacaaggcaccgaatcaaggacaacaaaaccactagcccggcggactacaaactaaaaatggtggttaaaaatg
+# caaggggaatgggcgtcttgtacgatatgttaccggctggcatgtcaaagcggaaagcaaacagaaccaattatagcacaaaaaaaagacagctcttt
+# tggaccatggagttccttttttgtatggacgatgcccaagaacgggtgatggagcattcatgtcctggcaacaaaactttacaaagtgtattcgaaaa
+# catgcttctctcagaaaaaccattcggccaaaacagctatgcaacgatccgacatcaagtacgccattttgtggatgtggatatgaaggattgggttg
+# tggcgttgaagaaggaaggcgggaaacggaacacgtttatcaacttgacaccacacatggatgacactctgatggactgtttaaaaggggaacgtgtg
+# attgaatacccgacggtgtatatctggctcaaggaccatatggactgttctatacaactggaggacaagtacaccgagcaaccacaggacagcaacaa
+# aaaaggcagtaatgactcggaggattctggctctacctcctcaggctctgattctagcgatgactccgattctagcgatgccgactccatgtctgatg
+# atgacgatgatgacaacgaactgttggatagcgacaagcaacactctgaactacaagatggcaatgcgttagaacacgatgacaaccagaaggtggat
+# ggtgaacagtgcgactcaacaactaccgtaggtgaataa]
+# protein sequence = [MASSSIPIDDFATLSPPSLPSIEVDTSTCQVCHQAASKYKCPRCNVRSCSVVCVKQHKADQSCSGERSKTHYVPMKEY
+# NESNMMSDYVYLEDVSRQSDTLTRHRIKDNKTTSPADYKLKMVVKNARGMGVLYDMLPAGMSKRKANRTNYSTKKRQLFWTMEFLFCMDDAQERVMEH
+# SCPGNKTLQSVFENMLLSEKPFGQNSYATIRHQVRHFVDVDMKDWVVALKKEGGKRNTFINLTPHMDDTLMDCLKGERVIEYPTVYIWLKDHMDCSIQ
+# LEDKYTEQPQDSNKKGSNDSEDSGSTSSGSDSSDDSDSSDADSMSDDDDDDNELLDSDKQHSELQDGNALEHDDNQKVDGEQCDSTTTVGE]
+# end gene g939
+###
+# start gene g940
+scf_1010	AUGUSTUS	gene	16638	17161	1	-	.	g940
+scf_1010	AUGUSTUS	transcript	16638	17161	1	-	.	g940.t1
+scf_1010	AUGUSTUS	stop_codon	16638	16640	.	-	0	transcript_id "g940.t1"; gene_id "g940";
+scf_1010	AUGUSTUS	terminal	16638	17012	1	-	0	transcript_id "g940.t1"; gene_id "g940";
+scf_1010	AUGUSTUS	initial	17081	17161	1	-	0	transcript_id "g940.t1"; gene_id "g940";
+scf_1010	AUGUSTUS	intron	17013	17080	1	-	.	transcript_id "g940.t1"; gene_id "g940";
+scf_1010	AUGUSTUS	CDS	16641	17012	1	-	0	transcript_id "g940.t1"; gene_id "g940";
+scf_1010	AUGUSTUS	CDS	17081	17161	1	-	0	transcript_id "g940.t1"; gene_id "g940";
+scf_1010	AUGUSTUS	start_codon	17159	17161	.	-	0	transcript_id "g940.t1"; gene_id "g940";
+# coding sequence = [atggccttactccactctagacgcttcatccattgcacggcaagaaggttaactagacataaagtcgatgctgatggat
+# tgcccttagctcccacatggtccgtccattctctcctaaacacctccagtccctcaacagcaccatctttgataagcaatgatcaacttgaccacttg
+# tttcgactatcccaactacgaccacccaaggacaaggcggatcgcacgcagctcgctcaagacatggacgatctcacacgcttcattcattccataca
+# acaaaaggatttcggaaatacagaacccgtaacgcatatctggcaagcctccaccggcatgacgctacgtagtgacgataaagagaatgccgacaagg
+# tgaaaggaaccgctttactcgacaatgccaaacagactgtgaaccccttttacaccgtcaaaggacaacaccaagaagaatga]
+# protein sequence = [MALLHSRRFIHCTARRLTRHKVDADGLPLAPTWSVHSLLNTSSPSTAPSLISNDQLDHLFRLSQLRPPKDKADRTQLA
+# QDMDDLTRFIHSIQQKDFGNTEPVTHIWQASTGMTLRSDDKENADKVKGTALLDNAKQTVNPFYTVKGQHQEE]
+# end gene g940
+###
+# start gene g941
+scf_1010	AUGUSTUS	gene	17323	18723	0.85	+	.	g941
+scf_1010	AUGUSTUS	transcript	17323	18723	0.85	+	.	g941.t1
+scf_1010	AUGUSTUS	start_codon	17323	17325	.	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	initial	17323	17464	1	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	internal	17557	17686	0.99	+	2	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	internal	17740	17779	1	+	1	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	internal	17843	18067	0.86	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	internal	18128	18204	1	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	terminal	18258	18723	1	+	1	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	intron	17465	17556	0.99	+	.	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	intron	17687	17739	1	+	.	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	intron	17780	17842	1	+	.	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	intron	18068	18127	0.86	+	.	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	intron	18205	18257	1	+	.	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	CDS	17323	17464	1	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	CDS	17557	17686	0.99	+	2	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	CDS	17740	17779	1	+	1	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	CDS	17843	18067	0.86	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	CDS	18128	18204	1	+	0	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	CDS	18258	18720	1	+	1	transcript_id "g941.t1"; gene_id "g941";
+scf_1010	AUGUSTUS	stop_codon	18721	18723	.	+	0	transcript_id "g941.t1"; gene_id "g941";
+# coding sequence = [atgatacaactctatgtttggagccctgctttgggagctccgtccatcgatccgaaatgtgtggtcattgaatcctatc
+# tacgtgtgctggaattgaagtatagcgtggtttatgccaatgatcctcaaacaagtcctactggtgaactgcctttgctgaaacataatgctacttgg
+# gtagctggtgtggatcgcattctctcgtatctggcgaaacaaggtcttgatgccaacgaaggactttccccagttgagaaagcggattatcaagcata
+# caataccatggcgcaagagaaactttatgactgcatgttatacacttggtatgcggatatgaccaactttgtgaaatccatccgccccacttatgcac
+# agctattatccttcccctcccgctacctcgtgcctatacaactaaagaagaacgccaaagcacgtctagcaaagtataatgtggagatcacctcagac
+# gacaccactctacctgaaaacgaaaaggaggagatgttggagctccaacggacgggatggcatcatatgtaccggttggcaagagagacttacagcgt
+# attagacaacaagctaggcgacaaggattatatgatgggtgacagggccacgactttggattgcgttgtgtttggttatctgtcattacactattacc
+# ctgatttggcccacaaacgattacagcatatcttgaaggaagaataccctcgactggcaagcttctgtgaccgattccacgcaacctactttgctcca
+# cacaccggtgataacgagggacccactgtatctgaacctgcaaatgatattccttctctttggcgaacaatgatcagcaatcctcgtggcttcttgac
+# aacaatcaaggatgataccgccgcttatatgtccagtgccgacgacaacaagaagaaacgaagtgaagctcaactagactttgaacgaaaacgtatct
+# ggtccattgctggcggcgtcacctttttattggcgtatatcatctacaatggcattgttagtgtacaggtggtggacgacgatgaatatgaatacgaa
+# tatgaagacgatgaagcatga]
+# protein sequence = [MIQLYVWSPALGAPSIDPKCVVIESYLRVLELKYSVVYANDPQTSPTGELPLLKHNATWVAGVDRILSYLAKQGLDAN
+# EGLSPVEKADYQAYNTMAQEKLYDCMLYTWYADMTNFVKSIRPTYAQLLSFPSRYLVPIQLKKNAKARLAKYNVEITSDDTTLPENEKEEMLELQRTG
+# WHHMYRLARETYSVLDNKLGDKDYMMGDRATTLDCVVFGYLSLHYYPDLAHKRLQHILKEEYPRLASFCDRFHATYFAPHTGDNEGPTVSEPANDIPS
+# LWRTMISNPRGFLTTIKDDTAAYMSSADDNKKKRSEAQLDFERKRIWSIAGGVTFLLAYIIYNGIVSVQVVDDDEYEYEYEDDEA]
+# end gene g941
+###
+# start gene g942
+scf_1010	AUGUSTUS	gene	18874	19974	0.47	+	.	g942
+scf_1010	AUGUSTUS	transcript	18874	19974	0.47	+	.	g942.t1
+scf_1010	AUGUSTUS	start_codon	18874	18876	.	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	initial	18874	18922	1	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	internal	19032	19093	1	+	2	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	internal	19176	19213	0.96	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	internal	19292	19331	0.88	+	1	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	internal	19409	19466	0.88	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	internal	19565	19599	0.97	+	2	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	internal	19669	19812	0.99	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	terminal	19897	19974	0.54	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	18923	19031	1	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	19094	19175	0.99	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	19214	19291	0.92	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	19332	19408	0.87	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	19467	19564	0.89	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	19600	19668	0.97	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	intron	19813	19896	0.97	+	.	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	18874	18922	1	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19032	19093	1	+	2	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19176	19213	0.96	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19292	19331	0.88	+	1	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19409	19466	0.88	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19565	19599	0.97	+	2	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19669	19812	0.99	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	CDS	19897	19971	0.54	+	0	transcript_id "g942.t1"; gene_id "g942";
+scf_1010	AUGUSTUS	stop_codon	19972	19974	.	+	0	transcript_id "g942.t1"; gene_id "g942";
+# coding sequence = [atgacttctactgactccagtgcccttctacttagtcgacaacttaaagatcttcagaaaaacccagtagacggtttct
+# ctgctggtctagtaggtgacaatatctatcaatgggaaatcatggtgatgggtgctcctgataccttgtacgaaggcgggtttttcaaggctcttatg
+# actttcccatccacctatccgattatgcctccaacattgaagtttgcttccgaaatgtatcacccaaatgtctaccctgacggaacggtgtgtatctc
+# tattctgcatcctcctggtgatgacaagtatggttacgaacaagccaatgaaagatggtcacctgtccacaccgtggaaaccattcttttatccgtga
+# tctccatgctctcaagccctaacgacgaatctcctgcaaacatcgaagccgcgaaggaataccgtgaagattaccctcaattcaaaaagaaggtacaa
+# cgattggtgcgacggtctgccgatatgctatga]
+# protein sequence = [MTSTDSSALLLSRQLKDLQKNPVDGFSAGLVGDNIYQWEIMVMGAPDTLYEGGFFKALMTFPSTYPIMPPTLKFASEM
+# YHPNVYPDGTVCISILHPPGDDKYGYEQANERWSPVHTVETILLSVISMLSSPNDESPANIEAAKEYREDYPQFKKKVQRLVRRSADML]
+# end gene g942
+###
+# start gene g943
+scf_1010	AUGUSTUS	gene	20513	26015	0.65	+	.	g943
+scf_1010	AUGUSTUS	transcript	20513	26015	0.65	+	.	g943.t1
+scf_1010	AUGUSTUS	start_codon	20513	20515	.	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	initial	20513	20562	0.66	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	20653	21777	0.99	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	21839	22385	1	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	22438	22645	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	22710	22804	0.99	+	2	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	22857	23246	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	23299	23459	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	23522	23807	1	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	23888	24799	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	24864	24987	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	25045	25220	1	+	2	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	25281	25439	0.98	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	internal	25494	25666	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	terminal	25718	26015	1	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	20563	20652	0.66	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	21778	21838	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	22386	22437	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	22646	22709	0.99	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	22805	22856	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	23247	23298	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	23460	23521	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	23808	23887	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	24800	24863	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	24988	25044	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	25221	25280	0.98	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	25440	25493	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	intron	25667	25717	1	+	.	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	20513	20562	0.66	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	20653	21777	0.99	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	21839	22385	1	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	22438	22645	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	22710	22804	0.99	+	2	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	22857	23246	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	23299	23459	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	23522	23807	1	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	23888	24799	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	24864	24987	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	25045	25220	1	+	2	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	25281	25439	0.98	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	25494	25666	1	+	0	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	CDS	25718	26012	1	+	1	transcript_id "g943.t1"; gene_id "g943";
+scf_1010	AUGUSTUS	stop_codon	26013	26015	.	+	0	transcript_id "g943.t1"; gene_id "g943";
+# coding sequence = [atggcggacggcgattccactgaaggaactaattcctttctggcgacaaggccttcggaagaagaaaatagcctttcac
+# cttctcaacaacaacaacaacaacaacaacaacaacctgcagtgatggactcttccgtcatctccaacatcaagactgggactagtgactcttctccc
+# ttgcaatcaacaactccaagccaagatggtgaaacagcagaaacgactttaccctcttttgctcttacttctacgtccactgacacgatgactacgac
+# aaaggacccttcaccacaacccgcggccacgactacaactgatcccaaaccgaactccgccgaccctgattctcaaaaccccgctgtggaacaagtca
+# agcactcaccaccacctcacgaacccttgacaggaatggatcaagatcagaataaccattcagcaacaacaactcctactgcgactgatgcaccacct
+# gtcgaaccgatggaatctgatagtcaggttgaaatacccccgacctcttcttcaagtgaaattcaacaccctccaactgaacctgtggaagcggcaac
+# gacatacaacaacaatgacgatcagctctcacctgttgaaccagcagctcctttcttgcctcctaccgaccgtcagcaagtcctacatgacgaaccat
+# caccacaaccacctttggtgtcgtcgtcaatatccccaacagtaacgccaaaacaagaagatatcgacacagtcatgcatgatacagctcaattagac
+# aaaagcccaccacctgccatcaaagaagaaggagagcatcaagtggagccctcagccttagctaccaccgacgacgttgccatggccgaccgtatcaa
+# acagaatactcattcgcccactcattcgccgccgccagacaacagatcacctacaccacccatcgactatgtgatgcagccctccaccaagtcagcaa
+# cgccagatgcttttaaacagccgccaccaacgacttcgatggagccgacggcccctggtacttcagccaacaccaatggtgcgcagaatggatacaga
+# cccctgaatgtcaaggatgccttgtcttatttggatcaagtcaaggtgcaattctctgaacaccctgaagtctacaacaagttcctggatatcatgaa
+# ggacttcaaaagtcaagccattgatacccctggtgtgatcgaacgggtctcttcactgttccgcggacatcccttactgatctctgggttcaacacct
+# ttctacctcctggttactgtattgaatgcatcaccgacgaaaacaaccatgatatcatcaaggtcaccacacctactgggatcaccaccaccaacgct
+# ggcgaacctgtacgcctgggatcagaaactacgggcacgccgacgcatgaacagctctattacggtgcaggcggctacggctatggtggaggacgttt
+# gggcagtacttctaccaccaacatgtacgctgagggacacaatgcgcccatgaccatccatcacctgcaacattcagggcaacatccgtcagcttcgg
+# gccagcaacaccatttgggacatcctcatcaccaacaacaatcagggcatcacctccagcatcctcccatgccagggcaacagcaactacatcatcca
+# atcgacgatggcctaggtaatcgccgtcctcctgtggaattcaaccatgctatcaactatgtcaacaaaatcaagaaccgtttctctagtgatcctga
+# tatctacaagcaattcttggagatcctgcaaacctaccaaaaagaacaacggcccattcaagaagtctacagccaagtccaagtcttattcaacgggg
+# acaatgatctgctggccgaattcaaacaattcttgcccgataccactggcggtccctcttctgctgtgtatacgtccactcctcatggcaaaaaagga
+# ctgatgatgattcccggcctcccctatgtatcgcaaggccgaaagaagcgtgccaacacaatgatggctcccggtttatcaaagcgaagcaaactgca
+# aaacaagctggatactcaaacgtccgaagtccgatctggcatgtccttggatcaagaaatggtgcgaccgtttgtctcgggggaagaagtcgagtttt
+# tcgaacgggtcaagaaatacattggcagcaaggcgacgtacaatgcattcctcaaggtcctgaatctctttagccaacagattgtcgatcaaaacgtg
+# ctggtgaaccgtgtggaaggctttatcggcggcaacaaggatctctttgacatgttcaagactttggtgggctatgatggaaaggatgaaatcgtcga
+# aaacattccctctgatactggtaaacctgaccttgccttatgtcgtgcatgtggccctagttaccgtttgatccccaaatcatgggaacaaagtcaag
+# tctgctccggaaaagatgaactgtgcctggaagtcctgaatgaccggtacgtctcccatcctacgtgggccagtgaagacagtggctatgtgacctcg
+# aagaagaatcagtatgaagaggccttacaccgtgtggaagaagaaagatacgactatgatctgaacattgaagccaacctcaataccatcgctttact
+# ggaacccatcatgaaaaagatctctgctatgaaccctgaagaaaaaatggactttactttggccgttggcttgggcgggccttcaaagacgatctacc
+# agcgcatcatcaagaagatttatggcaacgaaaaaggattacaggtcattggacttcttcacagcagccccgcacaaacggtccccattgtcctaaga
+# cgactcaagcaaaaagacgacgaatggaaacgagctcagcgtgaatggaacaagatttggcgtgaggtggaagcaaagaactacttcaaggcgctgga
+# ttaccaggggatcacattcaaggcgaacgacaaacgacgcatcaccacaaagcacctgatcactgaaatcgaagagcgtcgcagccagcaacaagaag
+# aacagcatcaaacgcacgaagcagacgccatgttggttcctcgacgacaaccctcccaattcacctttgactttaaacaacagtctgtcatcaaggac
+# gtcatgcggctggtgtactactttttcgaacgcaccgaactctacagcaacgagaaccaggacaagatgcgcaccttcatggagactctcttaccctt
+# ggtctttggcctcgaaacggtcctccccgacgatcccattgcgactggtatggagttggacgaaacgaacggcggcggagaatcaacaacggcaatgg
+# aagacgacgaagacagtgcgatggcggacggcgacgacgaagccggcgatgaggcggacgacgaagaagaggaagaatgtccttctggccaatacgtt
+# gattccgacgacgacaaaccagcatcacaaccaacacgcggcaaaaagaccaacgctcgccggacgcttctcaaagatattttgacggaaaacattcg
+# ccagacaacagccgatgcgactacaacaacccaaagcgaatcggaaaccgacgctggatcaaagcacgaacagcaagaggaggacatggatgtggata
+# tccccgaggcaaacgatgcggtaccacctactgataatgcagcacctgaaatcatgtccgagcccaaatcgacccccgagcaacccaagacgacgaca
+# ataaacgagcgccatgtatacaacttgtttggtgacagtgaattctattgcttcttccgactttatcagattatttatgataggctttgtcaaatgaa
+# agctttggatgaagcctacaagaagaatcccgtcgaaacaaagcgtgaactcaaggcgccattgaaactgcgatcaaaatccaaaaactttgcagact
+# atcaggccaactttaccaacggctactaccaagctttgcttacactgattgaaaagtttttcgaaggcgacgtggaccagcaatcctttgaagaaatc
+# tcaaggtacatctttggcaacaaggcgtatgtcatgtttactattgacaaggttgtgcttgctctgattagacatacacatgtgattgtgacgcatga
+# aaagacatcggcgctactggatctgttcaagcaagaccatgggctggaacatgtggatgcacaaaccctgggcaactaccgactttgtgtggaagatt
+# tggaaggcaaagacgaagttttattcaacattgcatacgatacgagccgtaaaactctctccatccaaatcttgggcgacgaggaagaccacgaacga
+# tctgctgctgctgctggcgacaattacgaagaatacgtgtctcattatatcgactgggccaatgcaaccaaggggatcaatccggcagacttgacacc
+# tcgatttttgaaaagaaacctggccagctgtcctgtgaaagaagaagaagcgcaagaaaagagcctctttgtaaaatccaacatacaatacaagatct
+# gtcgtgacacctaccatatgttttatatcatcggcactgaagacatccttatgcgaccaacacaaccatcaataccaattccaccaccatcatcatca
+# ccgaatatcaagtggaaatcatggcttgaatcggaccaaggatggagcaaagggatcaccgacaaagaccaggccgaaaaagaggcacgacacttgct
+# attctcacctagtctatag]
+# protein sequence = [MADGDSTEGTNSFLATRPSEEENSLSPSQQQQQQQQQQPAVMDSSVISNIKTGTSDSSPLQSTTPSQDGETAETTLPS
+# FALTSTSTDTMTTTKDPSPQPAATTTTDPKPNSADPDSQNPAVEQVKHSPPPHEPLTGMDQDQNNHSATTTPTATDAPPVEPMESDSQVEIPPTSSSS
+# EIQHPPTEPVEAATTYNNNDDQLSPVEPAAPFLPPTDRQQVLHDEPSPQPPLVSSSISPTVTPKQEDIDTVMHDTAQLDKSPPPAIKEEGEHQVEPSA
+# LATTDDVAMADRIKQNTHSPTHSPPPDNRSPTPPIDYVMQPSTKSATPDAFKQPPPTTSMEPTAPGTSANTNGAQNGYRPLNVKDALSYLDQVKVQFS
+# EHPEVYNKFLDIMKDFKSQAIDTPGVIERVSSLFRGHPLLISGFNTFLPPGYCIECITDENNHDIIKVTTPTGITTTNAGEPVRLGSETTGTPTHEQL
+# YYGAGGYGYGGGRLGSTSTTNMYAEGHNAPMTIHHLQHSGQHPSASGQQHHLGHPHHQQQSGHHLQHPPMPGQQQLHHPIDDGLGNRRPPVEFNHAIN
+# YVNKIKNRFSSDPDIYKQFLEILQTYQKEQRPIQEVYSQVQVLFNGDNDLLAEFKQFLPDTTGGPSSAVYTSTPHGKKGLMMIPGLPYVSQGRKKRAN
+# TMMAPGLSKRSKLQNKLDTQTSEVRSGMSLDQEMVRPFVSGEEVEFFERVKKYIGSKATYNAFLKVLNLFSQQIVDQNVLVNRVEGFIGGNKDLFDMF
+# KTLVGYDGKDEIVENIPSDTGKPDLALCRACGPSYRLIPKSWEQSQVCSGKDELCLEVLNDRYVSHPTWASEDSGYVTSKKNQYEEALHRVEEERYDY
+# DLNIEANLNTIALLEPIMKKISAMNPEEKMDFTLAVGLGGPSKTIYQRIIKKIYGNEKGLQVIGLLHSSPAQTVPIVLRRLKQKDDEWKRAQREWNKI
+# WREVEAKNYFKALDYQGITFKANDKRRITTKHLITEIEERRSQQQEEQHQTHEADAMLVPRRQPSQFTFDFKQQSVIKDVMRLVYYFFERTELYSNEN
+# QDKMRTFMETLLPLVFGLETVLPDDPIATGMELDETNGGGESTTAMEDDEDSAMADGDDEAGDEADDEEEEECPSGQYVDSDDDKPASQPTRGKKTNA
+# RRTLLKDILTENIRQTTADATTTTQSESETDAGSKHEQQEEDMDVDIPEANDAVPPTDNAAPEIMSEPKSTPEQPKTTTINERHVYNLFGDSEFYCFF
+# RLYQIIYDRLCQMKALDEAYKKNPVETKRELKAPLKLRSKSKNFADYQANFTNGYYQALLTLIEKFFEGDVDQQSFEEISRYIFGNKAYVMFTIDKVV
+# LALIRHTHVIVTHEKTSALLDLFKQDHGLEHVDAQTLGNYRLCVEDLEGKDEVLFNIAYDTSRKTLSIQILGDEEDHERSAAAAGDNYEEYVSHYIDW
+# ANATKGINPADLTPRFLKRNLASCPVKEEEAQEKSLFVKSNIQYKICRDTYHMFYIIGTEDILMRPTQPSIPIPPPSSSPNIKWKSWLESDQGWSKGI
+# TDKDQAEKEARHLLFSPSL]
+# end gene g943
+###
+#
+##FASTA
+>scf_1010
+CTTCGCCTCATCAGTATCCGAACTGGCCACCAACTCCTTGAATTCCATGAGCAACGCTTG
+ATAGGCCAACATGGTGGTCTTCTTCAATTCCTTCTTGGTGTGGTCCAACGTGGCTTCCAG
+GGTGGGCACCGTAACTTCATCCACTGGTTCCATAACAACATCTTCGTCGGTCACCAAGGG
+AACAACGGGGTCAGCAACAGATTCTTGATGGGGATCCATTAGAGTAGTTCACTTAAAAAA
+ATGTAGTATAGGGGGATTTTGATATGAAAATAAAAAAGAAACAAACCAATAAGTGAGGAC
+TCTTATTAGTTTATTGATTAGCGTTTTAGAAGAAGAAAAGGAATGAACTATTTATACTAG
+AGGATGGGTGATGTATTAGCCATGATGTGATGTTAAGCTGGGGTGATTGACTTGATCATG
+ATGTTTCTTCTACGTAGACATTCGGTCATAACATGTGTAGAAGGTTTTACTTGATTACGA
+AAGATACTTGTGTTGATGGAATCTTCTATGATCActtatccgaggaagtgttatagattc
+cgctatctcgccattgaatcctcagcgggagttcaacttcgagatccagaaaaaaagatc
+ggggtttgaaaatgattttttctgtccctgaatctttgacagctcaatgacagaaaatgg
+gcgatccctactTTCTGTATTTTTACTTCTGCTGTGAAATAGTTTGCCTATTACTTTTTA
+TTTCTTTTTCTTATGCATGTAAACACATAATAGCTTATGTAACTTCTCACATAAAGGAAG
+CAATGCTCTTTTATGATGAATCGTCTAAAATTCACCTTCTTGAGTCATTTTAACCATCCT
+CTATGATGCCTGATACGACAACAGCGTACTTTTGTTCTTATACTATGATACTGTACACCT
+TTATATGGCTGATACGACACTGGGGGTGATTGAGATGATCATGATATTTCTTCTATACAT
+AGATTTTTTCGGCAATAACTGACTATCCTTATGTGGAAGACTTGATTTTGATTACGAAAG
+ATACTTATGTTGATGGAATCGTCCATGATTACTTATCCGAGGAAGTGTCATGGATTCCGC
+TATCTCGCCATTGAATCCTCAGCGGGAGTGTCGTATCAGGCACCTTAAACAATCCAAATG
+TCGCAATAAAGACCACTTAGAGCATTAAGTATGTACCATATGCATGTAACTCAGAGTAAG
+CATAGAACACAAAGAATGCATTACACTGATAAAGGAGCATGAAGCAGGCATTCAGAAAAG
+AAATCATTTTGAAATGCCGCCTTTCCCACCCCTGAATCTATTTTTACTATTCAGGTACCG
+TTGCCAGGGAAACGATTCCAACCTATGCAATCAAGAGGAGAAACTCTCCTTCAGGGAGTT
+ATGATCGATATGTACACCACCAGGTAGGAATGTCTTGACCCTTGAATGAGGCATTCCTCT
+TTACAGTATAAAAGCAGTGTAGTTCTTCTCTTGTCATTTCAATCATCAATAAAGTAAGAA
+AGAATCTTCGCTTACTTTTCGTCTTTTATTTTTCTACACTACACATACATTTCAGGGAGT
+TCAACTTCGAGTACTTGAAAAAAGATCGGGCTTTGCAAACGATTTTTTCTGTCCCTGAAT
+CTTTGACAGGTCAATGACAGAAAAGTGGCGATCCCTACTCTCTGTATCACCGTGTGATAG
+GTTGCCTATTACTTTTTATTTCTTTTCCTTATGCATGTAAGCACATAATAGCTTATGTTA
+CATCTCTTCTAAAAGGAGGCAAAGCATTTTCATGATGAATCGCTTATAAATCGTCTTCTT
+AGAGTCATTTCAACCATCTTCTCTGATGCCTGATACGACACATGTCATTGTAAAAAAAAA
+AAAGCTTTCGAAACTTTTTCTTTACTGTCTCCAGCAACCATTCATGTTTTTATTTCAAGC
+CCGACACAAAATGTTATTCAAAAAATTAGTTCTCACGTCTCGGTCCACATCCATCCTTTT
+GACGATCTAAAGGCGGAAGCATGATGGCGTACCCTGTCACCTCAATTCATGAAAAGACGG
+ATTAACTTTTGAATTACAGTTTCAGTAGTAAACTGGGGGCAAAATAATCCCCCGCTTAAA
+TAAGCCTAGGAATGATCGTACGCTTCCCCATGCCTTCAATGCCCGACATTGTGAGATCTA
+ATGCTGGACAGAATCGAGCCAATGAGCGAATACAGCACAATTGCCAAAACTCAAGTGCCA
+AAGCGCATTGGTTCAGTGATAAGCTTAGAACCCTCTGACCCTACCACTCTAGGAGCGGAA
+TTTATGCACGCCTGTCGTATCAAGATATAATGAGTAGAAACGAACAATAAAAGAGCTGTC
+AAAGATGACAGGATGGGAGGAGTAGAATTGAAATCTTGCATGAATTAAGCATTTGAACTC
+CGATAGATCAGATAAAAAAACGGCCAAGAGATTAGCTACCTCGGATTGATAAGATCCCAG
+ATCAAAATGATAAGTCCAAGATCATCAGAAGTGCATCACCAGGGTTCCATACACCTAGGT
+GAATAACACAATGAACCCTTACTCACCATACCACTTCTCATACCATGTGATCGCTAATAG
+GAACCATCCTTCGGTATAAATAGAAAGTACAAATGCAAACTGTCGTAGTCGTGTAAGAGT
+ATTGAGCCAAATGTCAGGTTTATTCGATATAATCGAGAGAGGGAAAACATCTTAGTGATG
+GGAAAAAACCCTCTTTTTAATAGATACAACGGAGTATGAAATAATAGGTTAAAAGGTAAC
+TATGGTACTTTGTGGTTGTATGAGCGGAGTTTCCTCTAATGAGGGGAAACCCTCTCATGG
+ATACGACACAAACATTAATAAAACCATCCAACAGTCTCATCGTATCTCTTCGTCTTCACT
+TTTCCTTTTACTTTCATTCTTTTAAAACACAACAACCCTCATAACACCACAACGCCCTGA
+GCCTACACTGAGCCTGAGCCCGTCTACACATTTCAAACTCCACTTCCCTTTTTTGGGCAA
+GGTAAGGAAAACACTCGTCATGCAATGATAGGATACTGATCCTTTCTTTTTCCTTTCTTT
+ACAACAGGATCCCCCTCTTATTACATTTGTACTTTGAATTTCCAGGCTTTGGGTTGGTGT
+TGTTATGCCGCAACTACATAGATCCAGGAGCTCTTGCTTCTAAGGTTTGAAATGATGCCG
+AACAACAACACTGACCCTTCCCCTTGGCTTATCCACAAATCTGTATCTCAAAAAACGTTT
+TACATTGTATCCATGCACTTTGAAATCTGAGTTTTATTGATTGGTACGCTAAAAGCTGGC
+TACATCTATGGTTAAACTACAAGTCTAAGTGAGATTGAGAGGGCTGACAGGTCATGACAA
+GACTAATCTAGTGTGATAGCCAAAGCAATGAAGGAGAAGAGAGCTGGTGAGAGTCATAAA
+AATATCAGTGGCAGAGTGGGCAAAAGGGTAGCGCTCTTCATCAAGGCAATGGTGAGGGAA
+TCTACTATGAAAAGTCAATGCATTGAGTAAAAACTTCAAGGGTTTCCCCATGGTTTTCGT
+AATCCCTGAATTTAAACCCTCTAAATCGCCATTCCAAATCCAAGCCCATTCCTCCTGAAG
+CCTGAAAGCCGATATCCTTTGTCATTCTTCAAATCTATTGAGAAAGACAAGCAATGACGA
+TTAGTAGTGTAAGAGAAAGGGGGACATGAAACTAAGAAGAAGAGGGTTACCCTGCATTTA
+TCGTTGAAGGTCGCTGTATACAGTTCGTGTCAGAGGCGGTACCATGGCAAAGCCGATGGG
+AAACAAAAAGTGATGGAGAAGGAAAGAAGATGCAAAGAAAAGGCAGAGGAAGAAAATCGA
+CCCCTCGTTGGTGAGAGGCCAAGTTGGCGGGGTTTGAAAATGCTCTAAGTCTCCTCCACT
+TTTTCCAGAGTGCACCCTGTACGGAGTACCAAAAAGTAGGTCTAGACTGGACGCACTGGC
+GTAGATTCCAAGGTGACAGGAACATATTCAAAAGAGTAAAAGTCCTGGAGATAGTTTCAG
+ATAGGTTTTATTTACTGGATGAAACTATGGTTCAGCTAAATGTAGGACTTGCCGTGGAAT
+AGCTATTTTAGTGTAAGGAACTAGGGAATGAAGAGTGGGAGAGTTGACCAGCGGTGCTAA
+AAGTGTCAGCGATAGTAGCGGAAGGCAAATAATAGTTATACGTTATTAGTAGCTTCGACT
+ACGAGATTCTACAGTGGAATGGGAGTGCACCTAAAAAAAATTGTGAGGGTTCGTGATCCC
+TTGCGTCTAATCTAACCCCATGTACATCCAGTCCTGGTGCCAGAGAGCCGATATCCATTG
+TCAACCCATTCGATCTACCAAGGAAAAAAGAAACAATGATGCAAAAGGCTAATGTTAATC
+ATGGCAAGACAAAGATGGGCAATAGGGTAAGAAGGAGAGAGTTACCCTGCGTTCGTCGTT
+CAAGGTCGTTGTATAGAAGGCTAGTCGTTCGTGTTGCGGTGCTAATGTCGATAGAAAGAA
+AAAAAGTGATGAAGAAGCAAAGAAGAAGCAAAAAAAAAGGATTGACGAAAGTGATTATTT
+GTAGCCTTGATCGGAGTTTGAAGGTTTGGCAGGCAGGAATCAATGCGGGAGGGGGGGGAT
+ATTCTGGAGGGGCTATGGTTTATCATTTATGCATAAATGATCCTCTCCTCCCAAAAGTAG
+TTATTTCCCACACCATTGTGATGCCTACCATCAGTAAAAGGAGTAAAGCTGTGGGTTTTA
+TTATACATCCAATCATACGACTATCAAAGTAACAAGAATGTGCATTTACTTTTTTGTAGG
+TGGAGAGGGGGAGAGTGAGGAAATCTGGGTGACAGCCAGATAACCCATCATTAGACTATA
+ATACACTAAATCTAAAAAGAGGACACTGAGGATCTATTCCTGTTGTTGCCAGCCCTATAA
+AGAAAGAAAGAAAGCGATAAGTATGTCATGGAGAAAAAGAGTCAAGATAAATTACCTGCA
+TCCTTCGGGTGACCCTTGAGCGATGATGATACCCACCACGGGTCTTGATCCAGGCACGAT
+CACACCAGCTGCCCGGCATACAGCAAGGGACCCACCAGCATCGCCACCATCCCTGATCCA
+GTTCCAGACTTTTCAGTGAGCCCGTAGACGACCAGCGCGACATATCATGGGCCATTTCAT
+CTTCGTCCTTGTGCGCCTTGTTGTAAAAGCGGTGTGTTTCCTCCACCAACGCCTGTTGCT
+GCCGGTCGATCATCATCGTCATTGCTTCCACGCCACCGCCCAACGTCCGTACTTGTGAGC
+TGATCAATTCGTATAAAAGCAGGCCCGATAACACCAAGAATGTATCCAGAGGGCTTTGTG
+CACATCGGAATGGATTGTTGCTATTGGACGTTTCCGAAAAGAGAGTCAATCGTGTGGCGC
+CGTTTTTCAGCCAGGCAACTCGTCGTTTGGTGTGGTCGGCCTGCCACTGTTCACACAAAA
+GGTCGATCGTCGGTTCGCTGTCGCTGTTGAGTTGCATGCGCCATTGGTACAAACCTCCGT
+CGTTGTTGCCCCACATGAACGAAAAGGTGCTTGTCGTCATGGAGATGGAATGGTGCGGGT
+GTTGTCGAGAGACGAGGGTCATGGTGTGCCAGTCTTGCTCCACAAATGTCCACAGGGGCT
+GATCGTCCGTGGCTGCATAAAGCGTCGCATAGCATTGTCGAGGTTTGGGTATCACGAGTC
+GATGGTGCGTTTCTTCGTCGACTCCGTCATGGTCTTTGCTTTGGTTCCTGTCTTCATCGA
+GGTCCATGCTTTTTCTACTGGCGGTAGTCGGTGGGCGCCGATCGTCTTCCAAAGGAGGCT
+CCAGAGTGTTTCGTTTCTTGGTGTACCTTGTTGCTGTTGGTTCGTCAGGCACTTGGAACA
+GTGTATGTAGAGTCATCGACGGGCGGTAGAAGAGGACGTTGTTATCTTCATCTTGACAAA
+GAGTGCATCGTACAGAGGGGAGATGCTTTTGCTGTTGGTCGCTGGTGGTGGTGTTGCTGG
+TGGTGCCGACTACAGGTGTACTTTTCCACTGATCGTGCGAAAGTATTAGCTCCATTGTTG
+GTTTGTTATGCATAATAGGGAGTTTGTTGCTGTTGCCGCCATCACTATTGTCTACCGCCA
+TTTGTTTTGTTGGAGGGTAATATGATTGACGAGTATGAGCATCGGTTGTTTCTTCCATGG
+CAAGGGCTGCTGATCAGTTGTGGGGTAAGGAATGGAAATGGAAGACCAATAACGGTGTGT
+ATCAAAGGAGTACAAAGGATATAAAAGATAGGGAGGGAAGGGGGTTGGAACGACGGTGAT
+GGATGATAAGAAGAGATAGAGAGAGAAAGAGANNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNAAAAAGGACATT
+TGTGACAAAACTGACAGTTTTATTGTAAGCATGGATAAAAAAACACAGAATGACAAAATG
+TAGTATAAAGAGTAGTACTATTTAAACGGAATCTATGAACAAAGAAGAGGGTGATAAGTT
+TTCACATACGTTCGCTTCATTGCCCCCTTAACCACTTACCAGTAACGAGCTTGTTGAGCT
+TGTTGAGCTTGCTGGACACAGTCAAATCAATGCTCTTATCACCAATTTCAACGAGGAGTC
+CACCGAGGATATCAGTCTTGACCTTGTTAGATACGAGAAGCTTCTTGCCTTCAGCAAGGG
+GGCTCTTTTGAAGAGAATCCACGATCTTGTTCAAAGTAGACTTGTCCAATTCCTATGCAC
+ACAGATCCATATCAGTTCCCATAACAACCATACACTACTTTAATACTTTACCTTGGCGGA
+AGTGATGACAAGGGGTAATTCGTTGCGGTGGGCGCTCATCAATTCACCATAGGATTCGAT
+GACCTTGCTAGTTTGAGGGAGACGGCCGTTTTCAGCGAGAGTTTCGAAAAAGTTTTCAGT
+CAAGTTGTGAGCCTTGCCAGACTTGGCCAAAAGGGAGCGGATGCTTTCCTTCTTTTCCTT
+GAGGGAGATGGTGGGGTTTTCCAAAAAGGAGCCGAGAGCCTTATCCTTGGATACGAGGCC
+ATTGAAGGACTTGAGATCCTTTTCGACAGCATCGAGAGCGTTTTGACGAGCGGCAGCAAC
+GTAAAGAGCAGTGGCGTAACGACCATCAAGACCGAAGAGGGCGAGAGGAGCCTATCATAG
+TTAAAACGTGTCAGTGTTCAGGTATCATGTTTCGAGAATCACAAGGGCTTGTTCTCCCCT
+CCCCTCTCTTCCGTTCTGTTCTTACCTTGGGGGCGGCAGCGGCAGCGTAACCACGGGCCA
+ACTAAGAGAATAAAAACGGTAGTAAAAAGGTTGGATGAGTCGTCTGTCGCAGGCATGGGT
+AAAAGGGTGTCTGTGTGTTGTGGGCGAGAATGTATCCAATCGCAGACAATGCATCTCCAC
+TGGATCTATTTTCAACCTACTTGAGGAGCGACGGTAGTCAAACGAGTGAATCGAGAAGCC
+ATTCTAAATTGTATATGGAAGAAGAGAAGGGTAGATGGAAAGAGAGAAATGAAAAAATTG
+ACCAGGTTTTGTTTTTTTTCACTCAGGGCCGCCCAATGGCTGTGACGTCCGATTTTTTCC
+TCCCGCTTGAACTTCAGACTTTTTTCAATTTCCAATTAGAACGCCGACATGAGCGCCCAC
+TTTTTTTCCTCGTCTGTATATAAAGAAGAGGGGCCCCTTTTTCGTTTCCTTTTCTTCTTT
+CTCTTCTTCACTTTACCAACCATCTAAACCACATCTTGTAAGCAAATGGGGTCACTCTTG
+TTGGTTTCTGTACACTCTTCCTGTACACTCTTCCTTTACTCACTCTTCGTTTCCTTTGTC
+TTCTCCCGTAGACTCCATTATGGTCGCTGTCAAATTGCAAAAAGAAGAAAACCGTAAGGC
+TTTCCTTGATCTCTATCCTGCCCTCGCCGAAGAAGTGCTTGGTGAACTTCGCAAGTACAA
+CATGCCTGAAGATGCTTATGAATGGACCAAGGAAGTAAGTTTGCTAGTGGTAACCAACGC
+AGTTTGTGCTCTTGGGGCTCATCATCATTCTTCATTTCTTTCACATAGAACCTGTTCTAC
+AATGTGCCTGGTGGTAAGACAAAATAGTATAGGAGATGGAACAGTCAACGTGTAACCATA
+TCTTCTCATCATCATTAGGTAAATTGAACCGTGGTCTCTCGGTGGTTGACACTATCCGTA
+TCTTGAAGGGTGATGCTGTCACTGAAGATGATATCTTCAAGGCTTCCGTGTTGGGCTGGC
+TCGTTGAATTCGTAAGTTGGATAATGGTTCTACGGCGATGGCCAAAGAGAAACACAAGTT
+AACTCTCTCCATCCTATAGCTTCAAGCCTTCTTCCTTGTGTCTGATGATATCATGGATGC
+TTCCATCACTCGCCGTGGTCAACCTTGCTGGTACAAGAAGGATGGTGTTGGTATGGTCGC
+AATCAACGATGCCTTCATCTTGGAATCCTGCATCTACATCTTTTTGAAAAAGTACTTCAA
+GGCCACTGATTACTATGTCGAACTCATTGAACTCTTCCACGAAGTCACCTTCCAAACCGA
+ACTTGGCCAACTCTGTGACCTGATTACTGCTCCTGAAGATAGCGTTGACCTGAGCAAGTT
+CTCTGTGGAAAAGTAAGTAACTATCTTGTAACATCATTGAATGCATATCCTGATCCTCTT
+TCCATCTGCTTGTGTCTAGGCACAAATTCATTGTTATCTACAAGACTGCATTCTACTCCT
+TCTATCTCCCTGTCGCTCTTGCCATGCTGATGGTTGGCGTCAAGAACGAATCCGCTTACA
+CCGAAGCCCGTAACATTTTGATTCCCTTGGGTGAATACTTCCAAATTCAAGACGATTACC
+TCGATTGCTATGGTGACCCTGCCTTCATTGGTAAGATCGGTACTGACATCCAAGACAACA
+AGTGCTCGTGGTTGGTGAACCAAGCTTTGGCCAAGGCTAACCCTGAACAACGCAAGGTCC
+TCGATGTAAGTTATCAGAGTGTACGTGGATGATGGGACAGTATGAGCTTACACTTTGCCG
+CCTTGCCCTTGTGTAGGAAAACTATGGTCAAAAGAACGCTGAAGCTGAAGCTAAGATCAA
+GGCCCTTTACATTGAATTGAACATTGAAGAAACCTACAAGGCCTACGAAGAAAAGTCCTT
+CCAAGAACTCACTGCTTTGATCAACCAAGTCGACGAATCTATTGGCATCAAGAAGGCTGT
+CTTCACCGAATTCATGGACAAGATCTACAAGCGTACCAAATAGATAGAATAGATCCTCTG
+AAATGTTATCCCCCGCTTTGATATTATCCAAACCTAATAAACTACATTTGAAAGATAGCA
+ACGTGATTGAAGGTGGGTTATGGTTTTAGTGTAGGTGTGGAGGTCCGATGGATGCGTTTC
+TGCACTGTGTGCGATCTTTATTTAAGATGTTGGTTTCTGATATTCTCAATATCAAATGTA
+ACGGACCCTTTACCGGAGTTTGAAACTATTTTCGGTGGTCTTGACAGAAAAGCATGAATC
+AACCCGCTTTCCGCCTCTACTAAACAGGTTCTCCCTTGCAGGTTGTCCTCCTATTTAGTT
+TGCTTACAAGCATGCCATTTCAATGCACATGCAGTCGAAGAAGACACTGCCTTACTTTCT
+GACAGCTGGACGAGGTTACACGCACAGGTACCTTGACTTTCTCGATCCAAAGTCAGAGTT
+AGACCAAAGTAGAAGGATCGACAATCAAAATAACGCTAAAAAAACTTTATGGCGGCTCCA
+AAAAGTGTTGGTTTGTTAGTGAATGCAAAATGATTATTTGAAATTTCAGGCATGTTGCCA
+TCCTTTTCCTATCCGCTTTCGTCTGGAGGATCTGGTACAAAGAGGTCATCATCACAAAGC
+AGTTCAATGTACCGTTGTGGGAAGGGGACGGATCTTTGCCTTGTTTGCTGTGAGGACACC
+CGTCATTCTTGGCAGTTTCTCCTCACCCCCCCAAAAATGAAATGCGATATGCAGAGAAGC
+TTTTCAAAACCCGCCACCATCATCTATGCATGGGCCTCGACTCTTGTGCCTTGAATGACA
+TAACATAACGAAAACCGAAGAGTGAATTGTCAGCCCATGACGATAAAGTAGAGGTAAAAG
+TTAAGAAAGGGTGCGGGGGTTTTGGTGTCCTTCCCTCATGGGGCACCTTTTGAAAACAGC
+TACGGTTATCTGCGAAGCGACTAGGCACGGTGAAAGAGCCAAGACAGCCCCATTCACATC
+TCCACGGGAAAACCTTGCCAAAGACAGTCGCAACAGATATAAAGCCCAACTGCCTGCCGA
+AAAAACACAGACCCGTATCTCATAAGAAGAGCCATCCTATTTTCTTTTGCCTACAGTGTC
+TCTTTATCAAGGCGTTCCAACTACGACGCGGCCCAAGCTTGGACATTCAACTCCGCCCTG
+GCTTCAAGAATCACTTTTTCCGTCAGCCCTAGTCTTTTGCTTCTTCTTTACTTCTCCATC
+ACTTTTTTTTTTTNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCCATGACTAACAATTGCCTA
+TTACATTCTTCATCTATCTTTCGACGTTAGAATCGCTACGGCGATGACGACGACGATGAC
+GACGATAATGACGACTCGACCACTGCTTTATATCGCCCATTAAGGCTGTTTTAAAATTTT
+TCAAATGTAAAAACATGGGGAAACCCTTGAAATTTTTTTTTAGGTCTCCCCTTCTTTTCC
+ACAATAGATTCCCTAGCCATTGTACTTTTGAAGCGCCTTATCCCAATGCAAACTACCACT
+GATACTTTTAGCACTGGTGAACAGCTTTCCCTTTATTCATTTCGTAGCTCATTACACTAG
+ATTAGTTTTACTCCATGGCATTGCCTACAGGTAGCTTCACCATAGTCTCAAATAAAACCT
+ACTTTAAACCATCTCCATGACTCTACTCTAGTGAATCTGTTTGAATCATGTTTGGAAACT
+CTGACGTGCAGCGGTGCTCCGAGTTTTGAGAGTTTGCAAAAGGCGGGGCTGGGGATGTGC
+AATAAAGCGGACGCATTTGACTTTTTAGAAACTTTGCGATTTCCAGTTGTGAATTTTTAA
+GCGATGAGTTCCCCTGATTTTCAAAACCGAAATGGACAACCCCTCTTTAAATTCCACATG
+TAACAAGATGAAACGTATATCTATCGAATGATACCAAACCTGAAGTATACCTATGTCGTA
+TGCTTCCCTGAACGCTACACTAAGGCCAAAAACAGCGTCTGATTCCAGCGGCGCAAAAGT
+TGACAAGTCATCACCAAAACACACTATCTTTATGTCATTCGATAGATAAAAAGCACATCT
+CTATTCATGTAAAATTGGAGGTGAGGTTTATTATCTCTTTTACGAGAAAGTCCATGTTCC
+GCAAAATGTGACACTTTTCTTGGGGGGGGGACGGTCCATTCTCTTTCGAAAAGCGGCGTT
+TGAAAAATTGGCCACTTTTTGGTTTCTGAACTGGTGGATGCAAGGTGCTTGTGTAGATAT
+AGCTCAAAAGGCAAAGTGGTCCAGTCAAAAAGTGAGATTCATTCATTCATCACTTGACGC
+AAACAGAAATCGTTAGTGTATGTCTCCCCAAAAGAAGTCAAGCCCGAGCAACAGCAATGG
+AATCTCGGTGCCTTCGCTCAAGCTTGGTCATAGGAAGTGAGACGGTAATCAGGAAAGTGT
+TTTCAGTCAAGTTTTTATTTCGTGAATGAGACTATGTTTCAGCTATATGGGGGAAGGGAA
+TCTATGAAGGTACTATAGGACTTGGAATGACTGACTTGAGATCATGACCAAAAGAATGAA
+GGAGCGGTCCAGCGGTGCCAAAAGTATCCGTGGTATTGAGTGCACCAGGGCTTCCCCATG
+TTTTTCGGAAACCTTTGAGCACAATCTCTATTCTAAGTACATGTCCGTCCAGTCCTGCTG
+CCAGAGAGCCGATATCCGTTGCCTTCCCATTCGATCTGTCAAAAAAAAAAGGAGCAATGA
+TGCAAAAGACAATTGTCAGCCAGGGTAAGCCAAAGTTGGGCAAGTTAGTTAAAAGAAAAA
+AGTTACTGTTCGTTCGTAGTTTTCTTCGTATTCGTAGTCGTTGAAGAAGGTAGTGGTCGT
+CGTTCTATATAGAGGTCGAATCATACCGGTGGTGGATAACAGTGAAAAAAGAGCGGAAGA
+AGGAAGTATTTCGCCTTTTCAAGATGCGCCACGACCGGAGCTCGAAAATTTTGAACGATT
+TCGCTTAGTTGAAGATTTTTCCGTTCTTTTTCTTTTCCTCTGTTCCTGTTTAATCAATCA
+GCCCTTTTTGTAGCTCAATCATGGCATCGTCCAGTATTCCCATCGATGACTTTGCGACCT
+TGTCACCCCCATCACTGCCTTCGATCGAAGTAGATACCTCAACTTGTCAAGTGTGCCATC
+AAGCGGCCTCGAAATACAAGTGTCCTCGATGCAATGTCCGATCCTGCTCTGTCGTCTGTG
+TCAAGCAACATAAAGCCGACCAATCATGCTCAGGGGAACGCAGCAAAACCCATTATGTGC
+CCATGAAGGAGTACAATGAAAGCAACATGATGAGTGGTAAGTAAACACATGAACAGCTTT
+TGAATCAACACTGACGATCTACGGCATTGGATTAGATTATGTTTATTTGGAAGATGTGTC
+GAGACAATCCGACACTCTAACAAGGCACCGAATCAAGGACAACAAAACCACTAGCCCGGC
+GGACTACAAACTAAAAATGGTGGTTAAAAATGCAAGGGGAATGGGCGTCTTGTACGATAT
+GTTACCGGCTGGCATGTCAAAGCGGAAAGCAAACAGAACCAATTATAGCACAAAGTAAGA
+TCCATTCATGCGGCAAAGCCTTGACTCATATACTATTTTGTATGAATAGAAAAAGACAGC
+TCTTTTGGACCATGGAGTTCCTTTTTTGTATGGACGATGCCCAAGAACGGGTGATGGAGC
+ATTCGTAAGGACTCTCATGATTTGATCACCCTTCCACTCACCCTCATTTCATTCTTCACC
+TTTTCTTTGAAATAGATGTCCTGGCAACAAAACTTTACAAAGTGTATTCGAAAACATGCT
+TCTCTCAGAAAAACCATTCGGCCAAAACAGCTATGCAACGATCCGACATCAAGTACGCCA
+TTTTGTGGATGTGGATATGAAGGATTGGGTTGTGGCGTTGAAGAAGGAAGGCGGGAAACG
+GAACACGTTTATCAACTTGACACCACACATGGATGACACTCTGATGGACTGTTTAAAAGG
+GGAACGTGTGATTGAATACCCGACGGTGTATATCTGGCTCAAGGACCATATGGACTGTTC
+TATACAACTGGAGGACAAGTACACCGAGCAACCACAGGACAGCAACAAAAAAGGCAGTAA
+TGACTCGGAGGATTCTGGCTCTACCTCCTCAGGCTCTGATTCTAGCGATGACTCCGATTC
+TAGCGATGCCGACTCCATGTCTGATGATGACGATGATGACAACGAACTGTTGGATAGCGA
+CAAGCAACACTCTGAACTACAAGATGGCAATGCGTTAGAACACGATGACAACCAGAAGGT
+GGATGGTGAACAGTGCGACTCAACAACTACCGTAGGTGAATAATCTCAACAGCAAAGTGG
+TCAATGATCTGGTCCCGGCTCTGTCCCCTTTTGTGTGCGATCCTTTATAGTCATAGTTAT
+AGTCTAGACTCTTATTATTTATCGTTATACTCTTGACTTAGATATGGTATTGATGTACAT
+AGCACTAATAAAAGCCAATTGAAGAAGCAATACCATCATACATACAATTGCAGTGATATA
+GATTGTTTGAAGAGGGACTGGAGATGCTATGCCCTTGGTTTACACGCTCATTTCTCGTCT
+GTCAGGCGGGGTTAACATTGGTCAGGGCGGGCTTTTCATTGGTCGGTTGTCCTCCCTTCA
+AAGCGGAGTTTGACAAGGTGAAATTTTCCAAAACTTTTTTTTAAAAAACTCTACTGTTTT
+GAACCCAAACTTTTTGTAAAGAGTTGCCTTATTTCTCCAAATTGAAATAGATAACTCATC
+TTAAAATTCCACATGAAATACAATACAGCTCATATCTATCGAACGGCGCCAAGAACAAAC
+TATTTCCATGTTGTAGGCACCCGTTAGCCCTACACAAAAGTTCCCAAACAGCGACTGGTT
+GGAATGCTTTCAAACGCGATGGTTCATCCAAGAAACCTAGCATCCTTGGTATCGCTCGAT
+AGATACAAAGCACACCTTTCTTCATGCTGAATTTGAAGATGGGTTGACCATCTCGTTCAA
+AAGAAAAGCCACGTCATAGAAAAGTAGCACTTTTTCAGGGGGAATGCTACAGACAGAACC
+ATCCGGACAGAACCAACCTGCGTATCCTGAGTTTTGCTGACAGTAAGGACTTACATGGCG
+GGGGATTCTCTGAGTCCCTGACTTCAGTCCCGATCATAGATGGGACTCAACTTGAAATAA
+AGATAAAACCGTCCCCGCCCACACACTCCTCCAACAATGTGTGCCTATGCACTCTAGATT
+TCAAACCCCGATTTGTCTACAAGAACTTTTTTATGCCCGTCCTTCATTTTTGCTCCTTCT
+TCCCCTCGTCATTACTTTTTTGCCTCCACATTGCCATTCTCTTTTTTCCACGACGACAAA
+CGAACGATCGAACGGGCAAACGAACGAACGAACGGTAATTCTTCCCTTCTCCCGTCCTGC
+TCATCTTTTGCTTACCATTACTAACTTTTTGCCTTTTGCATCGTTCCTCTTTCTTTTGAC
+ACTAGATCGACTACGACGATGACGACGGCAATAGGGACGACAACGATGCTGATGACGGCT
+CCACCACTGCTTCATGCCGCTCAAAAAGGCACTTTTAAAATTTTTAAATGTAAAAAACAT
+GGGGAAACCCTCGCAATTTTTTTTTTTAGGTGCACTCCCAATCCATTGTAGAATCTCGTA
+GTCTCAGTAACTGATAAAAGTATATCAAATCTTTGCCCTTACCCTTCCGCTACTATCATT
+GATACCTTTACACAGCTTGATCGTCTTTGTCCGCCTCCATTTGCTTGATTTTTACAGTAG
+CTTAGTCATTCCCATTACAACCCATCGCCATTTACCCATTAGCTTAACTCCGGCCTCAAA
+CATAGTCTGTACCATAGCCCATTGATCCTATTGCACCAAATAAAACTTTGTATGTATGCG
+AAGATAGACCTTACGATCATGTACACGTCATTAGATTCTTTACAACTAGTAAACCAATGG
+TGTGTTAGGAGTTGTCAATGATGAGCTACTCATCTGTAATTTGGTCTTTATAACGTACAT
+GGTATTGTCATGGTTGTGGATTTGAGAAACGTCTTTCGTAGGATAATTCAAGTAGACTTT
+ATTGATGGGATATGATTAAAGGGCTATGGTACAGGCTATGTTTGGGGTCGTAGTTAAGCT
+AATGTCTACTGGCATCAAGCTATTGTAGTGGGAATGACTAAACTGCCTTGAAAAGTAAGC
+AAATGGAGGTGGACAAAAACGGCCAAGATGTGTAAAAGTATCAGTGATAGTAGCGGAAGG
+GTAAGGGCAAAGATTTGGTATACTTTTATTAGTAACTTGGACTACGAGATTCTACAATGG
+ATTGGGAGTGCACCTAAAAAAAAATTGCAAGGGTTTCCCAATGTTTTTTACATTTGAAAA
+TTTTAAAAGAGCTTTTTTGGGCGACATGAAGCAGTGGTGGAGTCGTCATTAGCATCGTCG
+TCGTCCCTATTGCCGTCGTCATCGTCGTAGTCGATCTAGTGTCAAAAGAAAGAGGAACGA
+TGCAAAAGGCAAAAAGTTAGTAATGGTAAGCAAAAGATGAGCATGACGGGAGAAGGGAAG
+AATTACCGTTCGTTCGTTCGTTCGTTCGTTCGTTCGTTCGTTCGTTCGTTTATTCGTTCG
+TTCGTTCGTTCGTTTGTCGTCGTGGAAAAAAGAGAATGACAATGTGGAGGCAAAAAAGTA
+ATGACGAGGGGAAGAAGGAGCAAAATAATAGAACGGGCAAAAATAATAATTTTATAGCCA
+ATCGGGGTGTGAAATCCAGTGGGGCTGCAAATCCCCCTAGTGTGCCCTTTGCAAACCTTG
+ATACAAAGGCAGTGGTTCTTTATTAGATCGATACAAAAGAGCCTACTATGCAAAGGCAAT
+GGTGATGGGATAAGGGGTAAACTATATATATTCGAATGCTTGTCTAAATCTATCATGTAA
+GGCAAAAGTCAGATTCTTCATTCTTCTTGGTGTTGTCCTTTGACGGTGTAAAAGGGGTTC
+ACAGTCTGTTTGGCATTGTCGAGTAAAGCGGTTCCTTTCACCTTGTCGGCATTCTCTTTA
+TCGTCACTACGTAGCGTCATGCCGGTGGAGGCTTGCCAGATATGCGTTACGGGTTCTGTA
+TTTCCGAAATCCTTTTGTTGTATGGAATGAATGAAGCGTGTGAGATCGTCCATGTCTTGA
+GCGAGCTGCGTGCGATCCGCCTTGTCCTTGGGTGGTCGTAGTTGGGATAGTCGAAACAAG
+TGGTCAAGTTGATCATTGCTTATCAAAGATGGTGCTGTTGAGGGACTGGAGGTGTTTAGG
+AGAGAATGGACGGACCATGTGGGAGCTAAGGGCTAAAAAGCGAATGACGCAAGAGAATGA
+CAGGAGTTAGACACTAGCTTGGGGCATGTTCTTTTCTTACCAATCCATCAGCATCGACTT
+TATGTCTAGTTAACCTTCTTGCCGTGCAATGGATGAAGCGTCTAGAGTGGAGTAAGGCCA
+TTTGCCAAAAAGTCAAGAAACAAAGAGAGAGAAAAGATAATTGAGACGAGCGGGCTCTTT
+CATGGGTAGAAACCGGAGTTTGAATTATTGTTTTTGAGTCAACTCGGTCTTGAATTCCCA
+ATTTCTCTTTTTCTCTTTTGCTTTCACTTTTACCTTTCGACAATGATACAACTCTATGTT
+TGGAGCCCTGCTTTGGGAGCTCCGTCCATCGATCCGAAATGTGTGGTCATTGAATCCTAT
+CTACGTGTGCTGGAATTGAAGTATAGCGTGGTTTATGCCAATGATCCTCAAACAAGTCCT
+ACTGGTAAAGCTTCCTCTACCCAGCTGATTAGGTTAACAATCAACAGGCATGATACACTA
+ACAAGCTAGCTGCGTTTTGTTGTACCTTTTGACTAGGTGAACTGCCTTTGCTGAAACATA
+ATGCTACTTGGGTAGCTGGTGTGGATCGCATTCTCTCGTATCTGGCGAAACAAGGTCTTG
+ATGCCAACGAAGGACTTTCCCCAGTTGAGAAAGCGGATTATCAAGCGTAAGTAACAGGTA
+TATCGATACATGTTATGCTCACAAGTATGGCCCTTTTAGATACAATACCATGGCGCAAGA
+GAAACTTTATGACTGCATGGTAACGTCCCCTCGCACGCCAACGTCTAGCGAACTCATCAA
+CCTTTTTGTTTTCGACGGCTAGTTATACACTTGGTATGCGGATATGACCAACTTTGTGAA
+ATCCATCCGCCCCACTTATGCACAGCTATTATCCTTCCCCTCCCGCTACCTCGTGCCTAT
+ACAACTAAAGAAGAACGCCAAAGCACGTCTAGCAAAGTATAATGTGGAGATCACCTCAGA
+CGACACCACTCTACCTGAAAACGAAAAGGAGGAGATGTTGGAGCTCCAACGGACGGGATG
+GCATCATGTAAGTGGAAAAGAGGTATTGTAGTGGTAATAGCATTAATGATCCTTTTGTGT
+GTATCAGATGTACCGGTTGGCAAGAGAGACTTACAGCGTATTAGACAACAAGCTAGGCGA
+CAAGGATTATATGATGGGTGACAGGTAAAGAACAACCATAGATCAGGGTGCATAGCTGAC
+TTTGACATGTATGATAGGGCCACGACTTTGGATTGCGTTGTGTTTGGTTATCTGTCATTA
+CACTATTACCCTGATTTGGCCCACAAACGATTACAGCATATCTTGAAGGAAGAATACCCT
+CGACTGGCAAGCTTCTGTGACCGATTCCACGCAACCTACTTTGCTCCACACACCGGTGAT
+AACGAGGGACCCACTGTATCTGAACCTGCAAATGATATTCCTTCTCTTTGGCGAACAATG
+ATCAGCAATCCTCGTGGCTTCTTGACAACAATCAAGGATGATACCGCCGCTTATATGTCC
+AGTGCCGACGACAACAAGAAGAAACGAAGTGAAGCTCAACTAGACTTTGAACGAAAACGT
+ATCTGGTCCATTGCTGGCGGCGTCACCTTTTTATTGGCGTATATCATCTACAATGGCATT
+GTTAGTGTACAGGTGGTGGACGACGATGAATATGAATACGAATATGAAGACGATGAAGCA
+TGATTGGAATAAACTACTGTTGATTGGCTATCGGGATTTGAAAAGTTTTTATGACCAGGA
+ATTTTTTTGTGTGTGGGTCTTTTTCCCTCTCTTTTCTCTCTCTCTCTCTCTCTTTTTTTT
+TTTTTTTAAGCTCCTCATTTACACCAACGAACAATGACTTCTACTGACTCCAGTGCCCTT
+CTACTTAGTCGACAACTTAAAGGTAAGGCTCCTTTTGCTCATTGACACTAGTGACGGATT
+CAATCTATGGACTAACATGGCCTCCCTTCCCTTTGCTTTACTTTACTCATCCATTGTTCC
+GTAATCTATAGATCTTCAGAAAAACCCAGTAGACGGTTTCTCTGCTGGTCTAGTAGGTGA
+CAATATCTATCAAGTAAGTCTGGACAGGGATATAACTCTTAGCTAGTCAGATGAATCTCA
+TAGTCATACTTATTGGTCTTGTCTTTTTGCAATAGTGGGAAATCATGGTGATGGGTGCTC
+CTGATACCTTGTAGTAAGTGTTTGATCTACTTTATAGAGCTTACTTATGACAGCTCAGGA
+ACAACTCACGCACGATTTTTCCGTTCACTAGCGAAGGCGGGTTTTTCAAGGCTCTTATGA
+CTTTCCCATCCGTAAGTTACACTAAAGGCCTTTTGCATTCTGTCTGTTTTAGTAGAATGA
+TTAAAAGTAAACCCTTCTCTTTTGGTAGACCTATCCGATTATGCCTCCAACATTGAAGTT
+TGCTTCCGAAATGTATCACCCAAATGGTAATAAAAAGAAGACGCAGAGGGGGGATTTGGC
+GGAGAAGGGAAGAGGGGGGAAATTGTCCAATGGGCGCTCTCTAATTGGTCATTGGATCAT
+CTAGTCTACCCTGACGGAACGGTGTGTATCTCTATTCTGGTAAGTGCAGTGCATAGCCGA
+TCCTTATCATCCATCACTCATCAACCTCATTCCACTTATCATGTTTAGCATCCTCCTGGT
+GATGACAAGTATGGTTACGAACAAGCCAATGAAAGATGGTCACCTGTCCACACCGTGGAA
+ACCATTCTTTTATCCGTGATCTCCATGCTCTCAAGCCCTAACGACGAATCTCCTGCAAAC
+ATCGAAGCCGCGGTAAAGTCTAGGTTATTTAGTGTTTGTGGATGGATGGTTGTTGACTTA
+CCCTTGTGTTACCTTCATCTTACTACCATCATGTAGAAGGAATACCGTGAAGATTACCCT
+CAATTCAAAAAGAAGGTACAACGATTGGTGCGACGGTCTGCCGATATGCTATGATCGAAG
+CCCTTCTTTAACAACGACGCCGATCATAGATAGACTGATGGCTAGATAGTCTCCCCCTCG
+CATTTTATACACACCCTCTTCTATCTTGTCATTGAATTGTACAATCTCATTTTTTTTCTT
+TCTCTTTTTACCTACACCCATAGTTTATTAGCTCGATCAGCTTTACAAAGTTGATTATAT
+CACCACTCCCCCGTTGTCCCTCTTTCCCTCTTCTCATTGAATAAAGTAAGTGCCTTGATC
+ACTTGTCTGGATCCATACAAATGAAAATCGTCGGAGTTTGTGACTTTTCCGAACTGCCTA
+TGAAAATGGGGAATCTCCTCTTTTTTTCCTCCACCGTCTTTCTTCCCTCTTAATTTTTTC
+TCTTCCTCTCTTTTTTTTATCATTCTATCTTCCTTCCATCCTTTAACACCCACATCCACA
+CCCACATCCACACTCCATAGACGCGTTCTAGCTACTTGAGCACGGTTCCATACTTTTACA
+TTGTTACTGCATTGCTTTTTCTGGCACCCTTTGACTTTTACAATATCAACTTATGGCGGA
+CGGCGATTCCACTGAAGGAACTAATTCCTTTCTGGCGACAAGGTATGTACACACAACGCT
+GCAGTGAAAGAAGAAGAGGGTACTGAAAGGAGAAAAAGGACTAACAATCGTGTGGGTCTT
+TTCTTGTCATAGGCCTTCGGAAGAAGAAAATAGCCTTTCACCTTCTCAACAACAACAACA
+ACAACAACAACAACAACCTGCAGTGATGGACTCTTCCGTCATCTCCAACATCAAGACTGG
+GACTAGTGACTCTTCTCCCTTGCAATCAACAACTCCAAGCCAAGATGGTGAAACAGCAGA
+AACGACTTTACCCTCTTTTGCTCTTACTTCTACGTCCACTGACACGATGACTACGACAAA
+GGACCCTTCACCACAACCCGCGGCCACGACTACAACTGATCCCAAACCGAACTCCGCCGA
+CCCTGATTCTCAAAACCCCGCTGTGGAACAAGTCAAGCACTCACCACCACCTCACGAACC
+CTTGACAGGAATGGATCAAGATCAGAATAACCATTCAGCAACAACAACTCCTACTGCGAC
+TGATGCACCACCTGTCGAACCGATGGAATCTGATAGTCAGGTTGAAATACCCCCGACCTC
+TTCTTCAAGTGAAATTCAACACCCTCCAACTGAACCTGTGGAAGCGGCAACGACATACAA
+CAACAATGACGATCAGCTCTCACCTGTTGAACCAGCAGCTCCTTTCTTGCCTCCTACCGA
+CCGTCAGCAAGTCCTACATGACGAACCATCACCACAACCACCTTTGGTGTCGTCGTCAAT
+ATCCCCAACAGTAACGCCAAAACAAGAAGATATCGACACAGTCATGCATGATACAGCTCA
+ATTAGACAAAAGCCCACCACCTGCCATCAAAGAAGAAGGAGAGCATCAAGTGGAGCCCTC
+AGCCTTAGCTACCACCGACGACGTTGCCATGGCCGACCGTATCAAACAGAATACTCATTC
+GCCCACTCATTCGCCGCCGCCAGACAACAGATCACCTACACCACCCATCGACTATGTGAT
+GCAGCCCTCCACCAAGTCAGCAACGCCAGATGCTTTTAAACAGCCGCCACCAACGACTTC
+GATGGAGCCGACGGCCCCTGGTACTTCAGCCAACACCAATGGTGCGCAGAATGGATACAG
+ACCCCTGAATGTCAAGGATGCCTTGTCTTATTTGGATCAAGTCAAGGTGCAATTCTCTGA
+ACACCCTGAAGTCTACAACAAGTTCCTGGATATCATGAAGGACTTCAAAAGTCAAGCGTA
+AGTTGCACGCATTCTTTTACTCTTTGTACTCACTACTGAACTTTTGACTCTATTCTAGCA
+TTGATACCCCTGGTGTGATCGAACGGGTCTCTTCACTGTTCCGCGGACATCCCTTACTGA
+TCTCTGGGTTCAACACCTTTCTACCTCCTGGTTACTGTATTGAATGCATCACCGACGAAA
+ACAACCATGATATCATCAAGGTCACCACACCTACTGGGATCACCACCACCAACGCTGGCG
+AACCTGTACGCCTGGGATCAGAAACTACGGGCACGCCGACGCATGAACAGCTCTATTACG
+GTGCAGGCGGCTACGGCTATGGTGGAGGACGTTTGGGCAGTACTTCTACCACCAACATGT
+ACGCTGAGGGACACAATGCGCCCATGACCATCCATCACCTGCAACATTCAGGGCAACATC
+CGTCAGCTTCGGGCCAGCAACACCATTTGGGACATCCTCATCACCAACAACAATCAGGGC
+ATCACCTCCAGCATCCTCCCATGCCAGGGCAACAGCAACTACATCATCCAATCGACGATG
+GCCTAGGTAATCGCCGTCCTCCTGTGGAATTCAACCATGCTATCAACTATGTCAACAAAA
+TCAAGGTATTACATCGCATATAATACATACACAGCGGACTTATCATATGTTATCCAGAAC
+CGTTTCTCTAGTGATCCTGATATCTACAAGCAATTCTTGGAGATCCTGCAAACCTACCAA
+AAAGAACAACGGCCCATTCAAGAAGTCTACAGCCAAGTCCAAGTCTTATTCAACGGGGAC
+AATGATCTGCTGGCCGAATTCAAACAATTCTTGCCCGATACCACTGGCGGTCCCTCTTCT
+GCTGTGTATACGTCCACTCCTCATGGTAAGTCCAGTAGTCATAAAGAGACCTCATTATTA
+ACAACTCCGATGCTTACCCTCTCTGGTAGGCAAAAAAGGACTGATGATGATTCCCGGCCT
+CCCCTATGTATCGCAAGGCCGAAAGAAGCGTGCCAACACAATGATGGCTCCCGGTTTATC
+AAAGGTATGTCCACACCACCGAAACCCCTGACACTAACCATTCCTTTCATACATAGCGAA
+GCAAACTGCAAAACAAGCTGGATACTCAAACGTCCGAAGTCCGATCTGGCATGTCCTTGG
+ATCAAGAAATGGTGCGACCGTTTGTCTCGGGGGAAGAAGTCGAGTTTTTCGAACGGGTCA
+AGAAATACATTGGCAGCAAGGCGACGTACAATGCATTCCTCAAGGTCCTGAATCTCTTTA
+GCCAACAGATTGTCGATCAAAACGTGCTGGTGAACCGTGTGGAAGGCTTTATCGGCGGCA
+ACAAGGATCTCTTTGACATGTTCAAGACTTTGGTGGGCTATGATGGAAAGGATGAAATCG
+TCGAAAACATTCCCTCTGATACTGGTAAACCTGACCTTGCCTTATGTCGTGCATGTGGCC
+CTAGTTACCGTTTGATCCCCAAATCAGTAAGTCATCTCCTATGGGATAATACCATTACTA
+ATCACCCCTTTTCCTTAGTGGGAACAAAGTCAAGTCTGCTCCGGAAAAGATGAACTGTGC
+CTGGAAGTCCTGAATGACCGGTACGTCTCCCATCCTACGTGGGCCAGTGAAGACAGTGGC
+TATGTGACCTCGAAGAAGAATCAGTATGAAGAGGCCTTACACCGTGTGGAAGAAGAAAGG
+TAATGCCAAAGTAGACGGATCGGTGATGCTCTCTATTGACCCTCATTTCAACCTTTTGTA
+GATACGACTATGATCTGAACATTGAAGCCAACCTCAATACCATCGCTTTACTGGAACCCA
+TCATGAAAAAGATCTCTGCTATGAACCCTGAAGAAAAAATGGACTTTACTTTGGCCGTTG
+GCTTGGGCGGGCCTTCAAAGACGATCTACCAGCGCATCATCAAGAAGATTTATGGCAACG
+AAAAAGGATTACAGGTCATTGGACTTCTTCACAGCAGCCCCGCACAAACGGTCCCCATTG
+TCCTAAGACGACTCAAGCAAAAAGACGACGAATGGAAACGAGCTCAGGTAAAGGAAAAAA
+AAAAAACAAGACAGATGCATGCTCAGTCGGTCGTCAACTCACATCTTTTTTTTTTTTTTC
+CTTGTAGCGTGAATGGAACAAGATTTGGCGTGAGGTGGAAGCAAAGAACTACTTCAAGGC
+GCTGGATTACCAGGGGATCACATTCAAGGCGAACGACAAACGACGCATCACCACAAAGCA
+CCTGATCACTGAAATCGAAGAGCGTCGCAGCCAGCAACAAGAAGAACAGCATCAAACGCA
+CGAAGCAGACGCCATGTTGGTTCCTCGACGACAACCCTCCCAATTCACCTTTGACTTTAA
+ACAACAGTCTGTCATCAAGGACGTCATGCGGCTGGTGTACTACTTTTTCGAACGCACCGA
+ACTCTACAGCAACGAGAACCAGGACAAGATGCGCACCTTCATGGAGACTCTCTTACCCTT
+GGTCTTTGGCCTCGAAACGGTCCTCCCCGACGATCCCATTGCGACTGGTATGGAGTTGGA
+CGAAACGAACGGCGGCGGAGAATCAACAACGGCAATGGAAGACGACGAAGACAGTGCGAT
+GGCGGACGGCGACGACGAAGCCGGCGATGAGGCGGACGACGAAGAAGAGGAAGAATGTCC
+TTCTGGCCAATACGTTGATTCCGACGACGACAAACCAGCATCACAACCAACACGCGGCAA
+AAAGACCAACGCTCGCCGGACGCTTCTCAAAGATATTTTGACGGAAAACATTCGCCAGAC
+AACAGCCGATGCGACTACAACAACCCAAAGCGAATCGGAAACCGACGCTGGATCAAAGCA
+CGAACAGCAAGAGGAGGACATGGATGTGGATATCCCCGAGGCAAACGATGCGGTACCACC
+TACTGATAATGCAGCACCTGAAATCATGTCCGAGCCCAAATCGACCCCCGAGCAACCCAA
+GACGACGACAATAAACGAGCGCCATGTATACAACTTGTTTGGTGACAGTGAATTCTATTG
+CTTCTTCCGACTTTATCAGGTACGTAGCAGCCCCCCTCCCCCCCAAAAAAAAGGATGCAT
+AGGCTAATGTGCCCCGCTTGTAGATTATTTATGATAGGCTTTGTCAAATGAAAGCTTTGG
+ATGAAGCCTACAAGAAGAATCCCGTCGAAACAAAGCGTGAACTCAAGGCGCCATTGAAAC
+TGCGATCAAAATCCAAAAACTTTGCAGGTAGGGGGATCCTTGAAAATGGCGGTTGCTATG
+GTTACTAACCACCTCATGTCTTAGACTATCAGGCCAACTTTACCAACGGCTACTACCAAG
+CTTTGCTTACACTGATTGAAAAGTTTTTCGAAGGCGACGTGGACCAGCAATCCTTTGAAG
+AAATCTCAAGGTACATCTTTGGCAACAAGGCGTATGTCATGTTTACTATTGACAAGGTTG
+TGCTTGCTCTGATTAGACATGTAAGTGACAGCAGCAATAAGCATGGGATCGGGCTAATCG
+TTGTTTTTTTTTTATTATAGACACATGTGATTGTGACGCATGAAAAGACATCGGCGCTAC
+TGGATCTGTTCAAGCAAGACCATGGGCTGGAACATGTGGATGCACAAACCCTGGGCAACT
+ACCGACTTTGTGTGGAAGATTTGGAAGGCAAAGACGAAGTTTTATTCAACATTGCATACG
+TAAGTCCATAGGAAAAAAAAAAATCAAAAAGTAGCTGATTTTTTTTTTTGTAGGATACGA
+GCCGTAAAACTCTCTCCATCCAAATCTTGGGCGACGAGGAAGACCACGAACGATCTGCTG
+CTGCTGCTGGCGACAATTACGAAGAATACGTGTCTCATTATATCGACTGGGCCAATGCAA
+CCAAGGGGATCAATCCGGCAGACTTGACACCTCGATTTTTGAAAAGGTAAAAAGAACAAT
+GGTAGGGAATGGGGCAATACTGATCCACTCGTTTTAGAAACCTGGCCAGCTGTCCTGTGA
+AAGAAGAAGAAGCGCAAGAAAAGAGCCTCTTTGTAAAATCCAACATACAATACAAGATCT
+GTCGTGACACCTACCATATGTTTTATATCATCGGCACTGAAGACATCCTTATGCGACCAA
+CACAACCATCAATACCAATTCCACCACCATCATCATCACCGAATATCAAGTGGAAATCAT
+GGCTTGAATCGGACCAAGGATGGAGCAAAGGGATCACCGACAAAGACCAGGCCGAAAAAG
+AGGCACGACACTTGCTATTCTCACCTAGTCTATAGTAGCTCTCCACTTTTTTTACCCCAT
+TCATGAACATCATATCCTTCTTACTGTTAATTTATTGACGCAGTTACTTTGGCTCCCATC
+TCCCCCCCCTTCCTAATGCCACCCTTCCGTCTCTCACTTTATATAGTCATCATTCGTTTC
+TTTTTGGCATTTTGGCCTTTTTAAATAAACATACGCCCCCACCTTTTTTTTTTTATTTAT
+CTTTTATGCAGCTCCACGGTTTCACATGCCGCCTCCCCTCCCATTGAATTTGAAACGCCG
+CTTCTGCTAAAACTCCATTACAGTAGATTAGTCATTCCACGGCAAGTGTAGTCTCCCCAA
+TGTAGCTTGACCTCATTCAGTTAATTTTAATAATAAAGCTTCATTGAAACCATCTATAAG
+CTCATTGTCATGCGCAAAGTCTGTCTACTTTATAGAAAACTCAAAAGTCGGCTTGTCCAC
+TTTTAAAATCTTTGCTGTGCACAAGCAACAGCATCAAGCCAGCGCCAAGTAATATGTATG
+ATTTTCTTTATTCAAGGTGTGAAGTACATACTATGTAAGGTGTTTCATAAAGAGAAGAAG
+TAAATGTCAAACTCGGGGAAGTGAGGGGGGGGG

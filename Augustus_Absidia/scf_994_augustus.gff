@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 460 (length = 392, name = scf_994) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 460 on both strands
+# start gene g922
+scf_994	AUGUSTUS	gene	1	371	1	-	.	g922
+scf_994	AUGUSTUS	transcript	1	371	1	-	.	g922.t1
+scf_994	AUGUSTUS	initial	23	371	1	-	0	transcript_id "g922.t1"; gene_id "g922";
+scf_994	AUGUSTUS	intron	1	22	1	-	.	transcript_id "g922.t1"; gene_id "g922";
+scf_994	AUGUSTUS	CDS	23	371	1	-	0	transcript_id "g922.t1"; gene_id "g922";
+scf_994	AUGUSTUS	start_codon	369	371	.	-	0	transcript_id "g922.t1"; gene_id "g922";
+# coding sequence = [atgaaggatcggggtttcaatcccactttcttctttacggataaggatcaggctgaaatcaatgcgattgaagctgttt
+# ggccatctgaaggtccttctattatacgactgtgtctttggcacttgaagagggctatcaagttgaagttgtcaaagcctaaaactgccatcctgcca
+# atttacaacgagcaagctgctcatcttgagtacgattttgttgacacaagctttgttcctgttgaagatgcacgcagaagaaatcgaaacttgttgac
+# aacagtcaaccaaagagcaattattttggacatgatgggaaagcattacaacatgcaccattttatccctgaag]
+# protein sequence = [MKDRGFNPTFFFTDKDQAEINAIEAVWPSEGPSIIRLCLWHLKRAIKLKLSKPKTAILPIYNEQAAHLEYDFVDTSFV
+# PVEDARRRNRNLLTTVNQRAIILDMMGKHYNMHHFIPE]
+# end gene g922
+###
+#
+##FASTA
+>scf_994
+AAAAAAAAAATGGAAAGCTTACCTTCAGGGATAAAATGGTGCATGTTGTAATGCTTTCCC
+ATCATGTCCAAAATAATTGCTCTTTGGTTGACTGTTGTCAACAAGTTTCGATTTCTTCTG
+CGTGCATCTTCAACAGGAACAAAGCTTGTGTCAACAAAATCGTACTCAAGATGAGCAGCT
+TGCTCGTTGTAAATTGGCAGGATGGCAGTTTTAGGCTTTGACAACTTCAACTTGATAGCC
+CTCTTCAAGTGCCAAAGACACAGTCGTATAATAGAAGGACCTTCAGATGGCCAAACAGCT
+TCAATCGCATTGATTTCAGCCTGATCCTTATCCGTAAAGAAGAAAGTGGGATTGAAACCC
+CGATCCTTCATCTCCTGGAAAAAGGTTTTCAA

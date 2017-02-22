@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 468 (length = 292, name = scf_1006) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 468 on both strands
+# start gene g933
+scf_1006	AUGUSTUS	gene	1	292	0.99	+	.	g933
+scf_1006	AUGUSTUS	transcript	1	292	0.99	+	.	g933.t1
+scf_1006	AUGUSTUS	internal	1	292	0.99	+	1	transcript_id "g933.t1"; gene_id "g933";
+scf_1006	AUGUSTUS	CDS	1	292	0.99	+	1	transcript_id "g933.t1"; gene_id "g933";
+# coding sequence = [ttatttgatctgcttggattctgtatcacccaacaattcaaactccgatgcccctgaatcttttgctgctacccctgat
+# tatgcagatcaagatcgacttggtgaccttttggatcaaattgctgcgaacaatcttctctctactgaacaacgtgtggctcttacttctcttgtccg
+# tgataattcttcggtctttggcacttcttatcatcatctgtcaaaaaccaacctcttggaattggaagttaatactggtgaagccgctccgatttatc
+# gcaaacctcatctcaac]
+# protein sequence = [YLICLDSVSPNNSNSDAPESFAATPDYADQDRLGDLLDQIAANNLLSTEQRVALTSLVRDNSSVFGTSYHHLSKTNLL
+# ELEVNTGEAAPIYRKPHLN]
+# end gene g933
+###
+#
+##FASTA
+>scf_1006
+TTATTTGATCTGCTTGGATTCTGTATCACCCAACAATTCAAACTCCGATGCCCCTGAATC
+TTTTGCTGCTACCCCTGATTATGCAGATCAAGATCGACTTGGTGACCTTTTGGATCAAAT
+TGCTGCGAACAATCTTCTCTCTACTGAACAACGTGTGGCTCTTACTTCTCTTGTCCGTGA
+TAATTCTTCGGTCTTTGGCACTTCTTATCATCATCTGTCAAAAACCAACCTCTTGGAATT
+GGAAGTTAATACTGGTGAAGCCGCTCCGATTTATCGCAAACCTCATCTCAAC

@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 502 (length = 530, name = scf_1066) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 502 on both strands
+# start gene g963
+scf_1066	AUGUSTUS	gene	1	502	0.96	-	.	g963
+scf_1066	AUGUSTUS	transcript	1	502	0.96	-	.	g963.t1
+scf_1066	AUGUSTUS	initial	1	502	0.96	-	0	transcript_id "g963.t1"; gene_id "g963";
+scf_1066	AUGUSTUS	CDS	1	502	0.96	-	0	transcript_id "g963.t1"; gene_id "g963";
+scf_1066	AUGUSTUS	start_codon	500	502	.	-	0	transcript_id "g963.t1"; gene_id "g963";
+# coding sequence = [atggaccgctccgagactttgcccgccttctctctccgtttctctgccactatgcaggatgccaaatgggatgatggac
+# cttctatggcgatgctctgccttctcgccctgcccaagaacctgtgtaatgatatcatcgtggcctacaatagcaaggaacaagctcactcccgccct
+# caatccgtagatgatgtcttccgtctcgctggcaagttgaaccagaacaagagatcccttgaccatgatggccatgattaccccgctgccgctaccaa
+# caagaggtctcgtccttccaacctctattgcaagtaccatggtgctaattccggtcatgcttcctcggattgccgtgctttgcgcacctcctctcccg
+# atcatcacagtcgccgcgactctaaccgagcccactctaccagcagcaacagccacagctacaagaacagctacaacggtcaatctaacggccagcgc
+# tctcatcacaacaacagctccaacaacagct]
+# protein sequence = [MDRSETLPAFSLRFSATMQDAKWDDGPSMAMLCLLALPKNLCNDIIVAYNSKEQAHSRPQSVDDVFRLAGKLNQNKRS
+# LDHDGHDYPAAATNKRSRPSNLYCKYHGANSGHASSDCRALRTSSPDHHSRRDSNRAHSTSSNSHSYKNSYNGQSNGQRSHHNNSSNNS]
+# end gene g963
+###
+#
+##FASTA
+>scf_1066
+AGCTGTTGTTGGAGCTGTTGTTGTGATGAGAGCGCTGGCCGTTAGATTGACCGTTGTAGC
+TGTTCTTGTAGCTGTGGCTGTTGCTGCTGGTAGAGTGGGCTCGGTTAGAGTCGCGGCGAC
+TGTGATGATCGGGAGAGGAGGTGCGCAAAGCACGGCAATCCGAGGAAGCATGACCGGAAT
+TAGCACCATGGTACTTGCAATAGAGGTTGGAAGGACGAGACCTCTTGTTGGTAGCGGCAG
+CGGGGTAATCATGGCCATCATGGTCAAGGGATCTCTTGTTCTGGTTCAACTTGCCAGCGA
+GACGGAAGACATCATCTACGGATTGAGGGCGGGAGTGAGCTTGTTCCTTGCTATTGTAGG
+CCACGATGATATCATTACACAGGTTCTTGGGCAGGGCGAGAAGGCAGAGCATCGCCATAG
+AAGGTCCATCATCCCATTTGGCATCCTGCATAGTGGCAGAGAAACGGAGAGAGAAGGCGG
+GCAAAGTCTCGGAGCGGTCCATCTTGATGGCGAAGAGGTTTTTGGCGGTA

@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 524 (length = 266, name = scf_1102) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 524 on both strands
+# start gene g974
+scf_1102	AUGUSTUS	gene	1	266	0.85	+	.	g974
+scf_1102	AUGUSTUS	transcript	1	266	0.85	+	.	g974.t1
+scf_1102	AUGUSTUS	internal	1	96	0.88	+	0	transcript_id "g974.t1"; gene_id "g974";
+scf_1102	AUGUSTUS	internal	166	266	0.96	+	0	transcript_id "g974.t1"; gene_id "g974";
+scf_1102	AUGUSTUS	intron	97	165	0.96	+	.	transcript_id "g974.t1"; gene_id "g974";
+scf_1102	AUGUSTUS	CDS	1	96	0.88	+	0	transcript_id "g974.t1"; gene_id "g974";
+scf_1102	AUGUSTUS	CDS	166	266	0.96	+	0	transcript_id "g974.t1"; gene_id "g974";
+# coding sequence = [cctggccatcgtgatttcatcaagaacatgattactggtacttctcaagctgattgcggtattcttatcattgctgccg
+# gtactggtgaattcgaagctggtatctccaaggatggtcaaacccgtgaacacgctttgttggctttcaccctcggtgtccgtcaattgatcgtcgcc
+# attaacaagatggattctac]
+# protein sequence = [PGHRDFIKNMITGTSQADCGILIIAAGTGEFEAGISKDGQTREHALLAFTLGVRQLIVAINKMDS]
+# end gene g974
+###
+#
+##FASTA
+>scf_1102
+CCTGGCCATCGTGATTTCATCAAGAACATGATTACTGGTACTTCTCAAGCTGATTGCGGT
+ATTCTTATCATTGCTGCCGGTACTGGTGAATTCGAAGTAAGTAGATAGATCAGAGTTATG
+TGTGTGCGATCATTGTACTTATAGGCTTCTTTTACTTCTGTGTAGGCTGGTATCTCCAAG
+GATGGTCAAACCCGTGAACACGCTTTGTTGGCTTTCACCCTCGGTGTCCGTCAATTGATC
+GTCGCCATTAACAAGATGGATTCTAC

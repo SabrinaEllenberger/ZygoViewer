@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 493 (length = 268, name = scf_1053) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 493 on both strands
+# start gene g960
+scf_1053	AUGUSTUS	gene	1	243	1	+	.	g960
+scf_1053	AUGUSTUS	transcript	1	243	1	+	.	g960.t1
+scf_1053	AUGUSTUS	terminal	1	243	1	+	0	transcript_id "g960.t1"; gene_id "g960";
+scf_1053	AUGUSTUS	CDS	1	240	1	+	0	transcript_id "g960.t1"; gene_id "g960";
+scf_1053	AUGUSTUS	stop_codon	241	243	.	+	0	transcript_id "g960.t1"; gene_id "g960";
+# coding sequence = [cccgctcctgctcctacaccttctcctgtgccctcaacttctcttcccggccgtgttcctactccttctcctgtgccgt
+# caacttctcttcccgcctctgctgtgacatttatctcacaaacacatcatattccgagattacagatcaggatcaagacgaaagaccttggaaaacga
+# ttgagaaaggaagatggcattgcaaatgagaagccaaagcggcttcgattgaaaggccccaagtag]
+# protein sequence = [PAPAPTPSPVPSTSLPGRVPTPSPVPSTSLPASAVTFISQTHHIPRLQIRIKTKDLGKRLRKEDGIANEKPKRLRLKG
+# PK]
+# end gene g960
+###
+#
+##FASTA
+>scf_1053
+CCCGCTCCTGCTCCTACACCTTCTCCTGTGCCCTCAACTTCTCTTCCCGGCCGTGTTCCT
+ACTCCTTCTCCTGTGCCGTCAACTTCTCTTCCCGCCTCTGCTGTGACATTTATCTCACAA
+ACACATCATATTCCGAGATTACAGATCAGGATCAAGACGAAAGACCTTGGAAAACGATTG
+AGAAAGGAAGATGGCATTGCAAATGAGAAGCCAAAGCGGCTTCGATTGAAAGGCCCCAAG
+TAGATACGTAGTTTTTTTGTTTTTTTTT

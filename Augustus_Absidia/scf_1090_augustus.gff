@@ -1,0 +1,50 @@
+# ----- prediction on sequence number 514 (length = 1003, name = scf_1090) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 514 on both strands
+# start gene g972
+scf_1090	AUGUSTUS	gene	1	875	0.95	-	.	g972
+scf_1090	AUGUSTUS	transcript	1	875	0.95	-	.	g972.t1
+scf_1090	AUGUSTUS	internal	1	367	0.97	-	2	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	internal	442	731	0.99	-	1	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	initial	823	875	0.98	-	0	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	intron	368	441	0.99	-	.	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	intron	732	822	0.98	-	.	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	CDS	1	367	0.97	-	2	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	CDS	442	731	0.99	-	1	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	CDS	823	875	0.98	-	0	transcript_id "g972.t1"; gene_id "g972";
+scf_1090	AUGUSTUS	start_codon	873	875	.	-	0	transcript_id "g972.t1"; gene_id "g972";
+# coding sequence = [atggaagtttggataaggtcttccaagaactcgacaggtggtaccatagcgttccgggatgtccagacccttggtagaa
+# atcgatattccgacaacgatcctcactttcagcgcatgaaaatcctctcaatcaacatttgccgcttcgccttcgacaaaatcaaggaagaaatgccg
+# tacctcaaagatgtcaagttgggcgattcatgcaattgctctatccgcatcaactacaaactgccatgtcgacatacgattccaaacgacaattcaac
+# acttgaactctctttgctggatcctcgttggctgctatatccagaaaaccaagaaagcgttacacaagaaagcagcaaccataatcacagacaacagc
+# gacgcttccacttctgccagtccttctgcaaaagcaaacaacgaatctgcctcttccaccgatacaccgatatcatccctactcttctcatcacattt
+# gatcccacccctcccgtagacagcgatcccacttcccctgctgactttgattccactcctctagttacttcccctgccatcatcgattcaactcctcc
+# aaccacctttgatcccaccccttctaccagcgctgatcccacttcccctgctaacgctgataccgctcctcccaccaagactgatcccaccccttcta
+# ccaacgctgatcccactcccactgtgaacgctgatcccactcc]
+# protein sequence = [MEVWIRSSKNSTGGTIAFRDVQTLGRNRYSDNDPHFQRMKILSINICRFAFDKIKEEMPYLKDVKLGDSCNCSIRINY
+# KLPCRHTIPNDNSTLELSLLDPRWLLYPENQESVTQESSNHNHRQQRRFHFCQSFCKSKQRICLFHRYTDIIPTLLITFDPTPPVDSDPTSPADFDST
+# PLVTSPAIIDSTPPTTFDPTPSTSADPTSPANADTAPPTKTDPTPSTNADPTPTVNADPT]
+# end gene g972
+###
+#
+##FASTA
+>scf_1090
+GGAGTGGGATCAGCGTTCACAGTGGGAGTGGGATCAGCGTTGGTAGAAGGGGTGGGATCA
+GTCTTGGTGGGAGGAGCGGTATCAGCGTTAGCAGGGGAAGTGGGATCAGCGCTGGTAGAA
+GGGGTGGGATCAAAGGTGGTTGGAGGAGTTGAATCGATGATGGCAGGGGAAGTAACTAGA
+GGAGTGGAATCAAAGTCAGCAGGGGAAGTGGGATCGCTGTCTACGGGAGGGGTGGGATCA
+AATGTGATGAGAAGAGTAGGGATGATATCGGTGTATCGGTGGAAGAGGCAGATTCGTTGT
+TTGCTTTTGCAGAAGGACTGGCAGAAGTGGAAGCGTCGCTGTTGTCTGTGATTATGGTTG
+CTGCTTTCTATAAAACCCGAAACCAAAAAAAAAAAGATTTAAGACGAAAGAGTAGAAAAA
+CTTGCATGAATTTTTTTTTACCTTGTGTAACGCTTTCTTGGTTTTCTGGATATAGCAGCC
+AACGAGGATCCAGCAAAGAGAGTTCAAGTGTTGAATTGTCGTTTGGAATCGTATGTCGAC
+ATGGCAGTTTGTAGTTGATGCGGATAGAGCAATTGCATGAATCGCCCAACTTGACATCTT
+TGAGGTACGGCATTTCTTCCTTGATTTTGTCGAAGGCGAAGCGGCAAATGTTGATTGAGA
+GGATTTTCATGCGCTGAAAGTGAGGATCGTTGTCGGAATATCGATTTCTACCAAGGGTCT
+GGACATCCCGGCTGTGGATATGAGCTTCTTCCTAAATGAAAACGTTGGTTACTCATGCAT
+TCAGCATATCCCCCCCCCTTACCCTTGTGTATGTTTACTTACAACGCTATGGTACCACCT
+GTCGAGTTCTTGGAAGACCTTATCCAAACTTCCATTGGATTCCTTCACCCGGGTCTTCAG
+AGTCGCATGCGATCCTTCTGATCTGTTTGACGTTTGGCAGCCAAAGTGAGCAAATTGGTT
+GGTATATGCGCCGATCCACCTAGTCTTAAACTTCATCATCCTA

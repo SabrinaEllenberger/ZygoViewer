@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 513 (length = 550, name = scf_1088) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 513 on both strands
+# start gene g971
+scf_1088	AUGUSTUS	gene	1	550	0.84	-	.	g971
+scf_1088	AUGUSTUS	transcript	1	550	0.84	-	.	g971.t1
+scf_1088	AUGUSTUS	internal	47	330	0.84	-	1	transcript_id "g971.t1"; gene_id "g971";
+scf_1088	AUGUSTUS	internal	397	501	1	-	1	transcript_id "g971.t1"; gene_id "g971";
+scf_1088	AUGUSTUS	intron	1	46	0.84	-	.	transcript_id "g971.t1"; gene_id "g971";
+scf_1088	AUGUSTUS	intron	331	396	1	-	.	transcript_id "g971.t1"; gene_id "g971";
+scf_1088	AUGUSTUS	intron	502	550	1	-	.	transcript_id "g971.t1"; gene_id "g971";
+scf_1088	AUGUSTUS	CDS	47	330	0.84	-	1	transcript_id "g971.t1"; gene_id "g971";
+scf_1088	AUGUSTUS	CDS	397	501	1	-	1	transcript_id "g971.t1"; gene_id "g971";
+# coding sequence = [gttacgactttctggtggtgaaaagcaacgattggcaattgcaagaacgattgtcaagaacccgcctatcattctcttg
+# gacgaagcgactagtgccttggatacgacaacggaacgctacattcaacaagccctgtcaaacgtcaccaaagaccgaaccacctttgtgattgctca
+# tagattatcgactatcatcaacgccaacctgattcttgtgatcaaagacggccgtgtggcggaatcaggaacgcatgacgagctgctgaaacagggcc
+# ctcactcggactcggctgaccaaggcatctactgggaaatgtggcacaaacagcttcgtgaagacaatgataccgactctgcttctactctggatgaa
+# acaaacaagaacgagg]
+# protein sequence = [LRLSGGEKQRLAIARTIVKNPPIILLDEATSALDTTTERYIQQALSNVTKDRTTFVIAHRLSTIINANLILVIKDGRV
+# AESGTHDELLKQGPHSDSADQGIYWEMWHKQLREDNDTDSASTLDETNKNE]
+# end gene g971
+###
+#
+##FASTA
+>scf_1088
+GGATTGTGAGGGTTCGATGGCTGCACGTTGTTATCACCCGGCTTACCCTCGTTCTTGTTT
+GTTTCATCCAGAGTAGAAGCAGAGTCGGTATCATTGTCTTCACGAAGCTGTTTGTGCCAC
+ATTTCCCAGTAGATGCCTTGGTCAGCCGAGTCCGAGTGAGGGCCCTGTTTCAGCAGCTCG
+TCATGCGTTCCTGATTCCGCCACACGGCCGTCTTTGATCACAAGAATCAGGTTGGCGTTG
+ATGATAGTCGATAATCTATGAGCAATCACAAAGGTGGTTCGGTCTTTGGTGACGTTTGAC
+AGGGCTTGTTGAATGTAGCGTTCCGTTGTCCTAACAACGTTAAAAATATATGCTGTGTGT
+GAGCACATCGATTGTCCCTTTGCCCAATTCACTTACGTATCCAAGGCACTAGTCGCTTCG
+TCCAAGAGAATGATAGGCGGGTTCTTGACAATCGTTCTTGCAATTGCCAATCGTTGCTTT
+TCACCACCAGAAAGTCGTAACCTAGAAGAATCGAGTTAGATTTTGGTCCGCCTTTCTCGA
+TGGATTCTTA

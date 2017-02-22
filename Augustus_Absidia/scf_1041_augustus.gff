@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 486 (length = 294, name = scf_1041) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 486 on both strands
+# start gene g953
+scf_1041	AUGUSTUS	gene	1	294	0.71	+	.	g953
+scf_1041	AUGUSTUS	transcript	1	294	0.71	+	.	g953.t1
+scf_1041	AUGUSTUS	internal	1	289	0.71	+	0	transcript_id "g953.t1"; gene_id "g953";
+scf_1041	AUGUSTUS	intron	290	294	0.72	+	.	transcript_id "g953.t1"; gene_id "g953";
+scf_1041	AUGUSTUS	CDS	1	289	0.71	+	0	transcript_id "g953.t1"; gene_id "g953";
+# coding sequence = [ggtttctgcgtgcaggcccatggacaaactcgcttggacccgcgcaaagtcaccaacacacaagactggcccacaccca
+# ccactggtaagcacatccaacaattccttggactggtcaactatttccgccgctacttacctttgatggccaccctaactgcaccccttgactccttg
+# cgctcacacgaaggcaaactcgggcacctctggactgccaagcaccaagctgcttttgataacatcaaaaaggcactcctccatgctccgtgcctcca
+# cgctccccgctcag]
+# protein sequence = [GFCVQAHGQTRLDPRKVTNTQDWPTPTTGKHIQQFLGLVNYFRRYLPLMATLTAPLDSLRSHEGKLGHLWTAKHQAAF
+# DNIKKALLHAPCLHAPRS]
+# end gene g953
+###
+#
+##FASTA
+>scf_1041
+GGTTTCTGCGTGCAGGCCCATGGACAAACTCGCTTGGACCCGCGCAAAGTCACCAACACA
+CAAGACTGGCCCACACCCACCACTGGTAAGCACATCCAACAATTCCTTGGACTGGTCAAC
+TATTTCCGCCGCTACTTACCTTTGATGGCCACCCTAACTGCACCCCTTGACTCCTTGCGC
+TCACACGAAGGCAAACTCGGGCACCTCTGGACTGCCAAGCACCAAGCTGCTTTTGATAAC
+ATCAAAAAGGCACTCCTCCATGCTCCGTGCCTCCACGCTCCCCGCTCAGGTTTA

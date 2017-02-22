@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 477 (length = 251, name = scf_1020) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 477 on both strands
+# start gene g946
+scf_1020	AUGUSTUS	gene	1	251	1	+	.	g946
+scf_1020	AUGUSTUS	transcript	1	251	1	+	.	g946.t1
+scf_1020	AUGUSTUS	internal	1	251	1	+	1	transcript_id "g946.t1"; gene_id "g946";
+scf_1020	AUGUSTUS	CDS	1	251	1	+	1	transcript_id "g946.t1"; gene_id "g946";
+# coding sequence = [caaggctatagctgctcgtcaattccgaaagaactcggccccctctgcatcccctacaactgattccatgctcattgat
+# gtgttggcggccgataaacgatctcactccgtcgactacctggatgaacagaaaaggaccaagattcaggacactcgccaacctggtgattactctat
+# tatcaatgttgaagatattactccaacaaccaagaaaacgaccaaaccttctcgtgtcaagattccctctcaag]
+# protein sequence = [KAIAARQFRKNSAPSASPTTDSMLIDVLAADKRSHSVDYLDEQKRTKIQDTRQPGDYSIINVEDITPTTKKTTKPSRV
+# KIPSQ]
+# end gene g946
+###
+#
+##FASTA
+>scf_1020
+CAAGGCTATAGCTGCTCGTCAATTCCGAAAGAACTCGGCCCCCTCTGCATCCCCTACAAC
+TGATTCCATGCTCATTGATGTGTTGGCGGCCGATAAACGATCTCACTCCGTCGACTACCT
+GGATGAACAGAAAAGGACCAAGATTCAGGACACTCGCCAACCTGGTGATTACTCTATTAT
+CAATGTTGAAGATATTACTCCAACAACCAAGAAAACGACCAAACCTTCTCGTGTCAAGAT
+TCCCTCTCAAG
