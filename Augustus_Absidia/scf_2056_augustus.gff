@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1002 (length = 225, name = scf_2056) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1002 on both strands
+# start gene g1670
+scf_2056	AUGUSTUS	gene	1	154	0.93	-	.	g1670
+scf_2056	AUGUSTUS	transcript	1	154	0.93	-	.	g1670.t1
+scf_2056	AUGUSTUS	initial	13	154	0.93	-	0	transcript_id "g1670.t1"; gene_id "g1670";
+scf_2056	AUGUSTUS	intron	1	12	0.94	-	.	transcript_id "g1670.t1"; gene_id "g1670";
+scf_2056	AUGUSTUS	CDS	13	154	0.93	-	0	transcript_id "g1670.t1"; gene_id "g1670";
+scf_2056	AUGUSTUS	start_codon	152	154	.	-	0	transcript_id "g1670.t1"; gene_id "g1670";
+# coding sequence = [atgacattaggtatcgcctccaagggactgcaacatgcgaagcagtacttgcctgataatgcagaagaactagatgcat
+# tatctgagaagatcgaccgcgaactcgcgaaagtatcggcaactcttacagtaggaaaaggct]
+# protein sequence = [MTLGIASKGLQHAKQYLPDNAEELDALSEKIDRELAKVSATLTVGKG]
+# end gene g1670
+###
+#
+##FASTA
+>scf_2056
+GAAGCTTCTTACAGCCTTTTCCTACTGTAAGAGTTGCCGATACTTTCGCGAGTTCGCGGT
+CGATCTTCTCAGATAATGCATCTAGTTCTTCTGCATTATCAGGCAAGTACTGCTTCGCAT
+GTTGCAGTCCCTTGGAGGCGATACCTAATGTCATATAGGTCAGCCTGTCATCGTCGCTAG
+AAAAACGCTTCAGAAACTTCTCCGTTGGGGTCTCAGGAGCCTCAG

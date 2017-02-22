@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 1032 (length = 407, name = scf_2101) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1032 on both strands
+# start gene g1746
+scf_2101	AUGUSTUS	gene	1	300	0.53	+	.	g1746
+scf_2101	AUGUSTUS	transcript	1	300	0.53	+	.	g1746.t1
+scf_2101	AUGUSTUS	internal	56	160	0.53	+	1	transcript_id "g1746.t1"; gene_id "g1746";
+scf_2101	AUGUSTUS	terminal	216	300	0.73	+	1	transcript_id "g1746.t1"; gene_id "g1746";
+scf_2101	AUGUSTUS	intron	1	55	0.53	+	.	transcript_id "g1746.t1"; gene_id "g1746";
+scf_2101	AUGUSTUS	intron	161	215	0.73	+	.	transcript_id "g1746.t1"; gene_id "g1746";
+scf_2101	AUGUSTUS	CDS	56	160	0.53	+	1	transcript_id "g1746.t1"; gene_id "g1746";
+scf_2101	AUGUSTUS	CDS	216	297	0.73	+	1	transcript_id "g1746.t1"; gene_id "g1746";
+scf_2101	AUGUSTUS	stop_codon	298	300	.	+	0	transcript_id "g1746.t1"; gene_id "g1746";
+# coding sequence = [gaagacttttatacaagactcggtgctcatgatggaactccacccctgctatcccatttggcaacattcaatcttctct
+# gatccagcctttttgtcgttcaagagggatatgctgcaaattgaagctcagggacacgatcctgcccacacactcctccagcaatgtgtgcctatgca
+# ctctagattttaa]
+# protein sequence = [KTFIQDSVLMMELHPCYPIWQHSIFSDPAFLSFKRDMLQIEAQGHDPAHTLLQQCVPMHSRF]
+# end gene g1746
+###
+#
+##FASTA
+>scf_2101
+CTATTTGACCGACCATCACTGAAAATGCATTTGTACAGGTGATCATGATGTTTAGGAAGA
+CTTTTATACAAGACTCGGTGCTCATGATGGAACTCCACCCCTGCTATCCCATTTGGCAAC
+ATTCAATCTTCTCTGATCCAGCCTTTTTGTCGTTCAAGAGGTAAGTCCTCATCATAGCAT
+GAGAATGTAGTAGCATGCTCGCTCTGATATGTTAGGGATATGCTGCAAATTGAAGCTCAG
+GGACACGATCCTGCCCACACACTCCTCCAGCAATGTGTGCCTATGCACTCTAGATTTTAA
+ACCCCGATTGGCTATAAGATTATTTTTTTTGCCGTCCTATTATTTTGCTCCTTCTTCCCC
+TCGTCATTACTTTTTTGCCTCCATTGTCATTCTCTTTACTCCACGAC

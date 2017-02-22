@@ -1,0 +1,40 @@
+# ----- prediction on sequence number 955 (length = 723, name = scf_1978) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 955 on both strands
+# start gene g1638
+scf_1978	AUGUSTUS	gene	1	723	0.37	+	.	g1638
+scf_1978	AUGUSTUS	transcript	1	723	0.37	+	.	g1638.t1
+scf_1978	AUGUSTUS	internal	76	225	0.38	+	0	transcript_id "g1638.t1"; gene_id "g1638";
+scf_1978	AUGUSTUS	internal	347	723	0.93	+	0	transcript_id "g1638.t1"; gene_id "g1638";
+scf_1978	AUGUSTUS	intron	1	75	0.38	+	.	transcript_id "g1638.t1"; gene_id "g1638";
+scf_1978	AUGUSTUS	intron	226	346	0.89	+	.	transcript_id "g1638.t1"; gene_id "g1638";
+scf_1978	AUGUSTUS	CDS	76	225	0.38	+	0	transcript_id "g1638.t1"; gene_id "g1638";
+scf_1978	AUGUSTUS	CDS	347	723	0.93	+	0	transcript_id "g1638.t1"; gene_id "g1638";
+# coding sequence = [gagcaaccagtgttttcaagaaacaactcgatcactcccctatcttctcgctctttcaagaaacaacttgatccttctc
+# ctatcttctcgctctttcaagaaacaactcgatccctctcctatcttctcgcaccttccaagaacaaaccggacatcgacattagtcgatggttagaa
+# tctttatctgaacatcttcaaataaacctctcttctttatctactctctctctctctctctctcaatcaatggttgccttcttgctcgccccttctgt
+# ctcttcttcttcttgtgatgttgctgcttcgtcggctttacctgacaccatgccgggctggcaaccttctgccgtggactggtccctttggatcaaaa
+# gggaggtcatcgaagatgacctcttggacctttcttctccgcttcttcctgtcgccaccgtcgaccccgctctcactgtcttgcccgccgtctctgtc
+# tctccttcggctcccgtcctttgctcctccttctccccccgtcccatggacgacga]
+# protein sequence = [EQPVFSRNNSITPLSSRSFKKQLDPSPIFSLFQETTRSLSYLLAPSKNKPDIDISRWLESLSEHLQINLSSLSTLSLS
+# LSQSMVAFLLAPSVSSSSCDVAASSALPDTMPGWQPSAVDWSLWIKREVIEDDLLDLSSPLLPVATVDPALTVLPAVSVSPSAPVLCSSFSPRPMDD]
+# end gene g1638
+###
+#
+##FASTA
+>scf_1978
+CTCGAACCCCTGAATCACCACACAAGTACCTCTTCCGTTATCCATTCAACCCCGCACTCC
+TTTTCTTAAGAAAAGGAGCAACCAGTGTTTTCAAGAAACAACTCGATCACTCCCCTATCT
+TCTCGCTCTTTCAAGAAACAACTTGATCCTTCTCCTATCTTCTCGCTCTTTCAAGAAACA
+ACTCGATCCCTCTCCTATCTTCTCGCACCTTCCAAGAACAAACCGGTACACTCAAGAAAC
+AACTGGACACTTCTTCTACCTTCTCGCACCTTCCAAAGAACCTACCACTCTCTTCCAGTA
+GCTTCCATTTAGTCATCAACCCCCTAGCATAGATTAGTATAAATAGGACATCGACATTAG
+TCGATGGTTAGAATCTTTATCTGAACATCTTCAAATAAACCTCTCTTCTTTATCTACTCT
+CTCTCTCTCTCTCTCTCAATCAATGGTTGCCTTCTTGCTCGCCCCTTCTGTCTCTTCTTC
+TTCTTGTGATGTTGCTGCTTCGTCGGCTTTACCTGACACCATGCCGGGCTGGCAACCTTC
+TGCCGTGGACTGGTCCCTTTGGATCAAAAGGGAGGTCATCGAAGATGACCTCTTGGACCT
+TTCTTCTCCGCTTCTTCCTGTCGCCACCGTCGACCCCGCTCTCACTGTCTTGCCCGCCGT
+CTCTGTCTCTCCTTCGGCTCCCGTCCTTTGCTCCTCCTTCTCCCCCCGTCCCATGGACGA
+CGA

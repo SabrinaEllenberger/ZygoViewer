@@ -1,0 +1,39 @@
+# ----- prediction on sequence number 949 (length = 555, name = scf_1961) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 949 on both strands
+# start gene g1634
+scf_1961	AUGUSTUS	gene	48	555	0.66	-	.	g1634
+scf_1961	AUGUSTUS	transcript	48	555	0.66	-	.	g1634.t1
+scf_1961	AUGUSTUS	stop_codon	48	50	.	-	0	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	terminal	48	188	0.66	-	0	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	internal	240	376	1	-	2	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	internal	456	555	1	-	0	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	intron	189	239	1	-	.	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	intron	377	455	1	-	.	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	CDS	51	188	0.66	-	0	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	CDS	240	376	1	-	2	transcript_id "g1634.t1"; gene_id "g1634";
+scf_1961	AUGUSTUS	CDS	456	555	1	-	0	transcript_id "g1634.t1"; gene_id "g1634";
+# coding sequence = [gttgatcctcaattgcttctcgcagaactaaccgaacaaaagaggtcagccttccgaaaggtgcagccttggaatgcct
+# tccttcgtgaagaagccaaaggtctcaaggtcaacaaggagacgatcacaccgttggtccaaaagtaccatgaaacgactgaagaagaaagaaagggc
+# tatgtgaaaagaatgacccattctatggacaagggcgaagtggacagaagcatcaaaaagtctttcaagcaaatcgatgcgtccatggagaacctttt
+# gaaatttggaatcgaaagtgtctttgttgcaggcgcctcaccccaagtcaaatatgcgctgaaaggcaccaaattgatcgttctaggcggtaatacat
+# tctag]
+# protein sequence = [VDPQLLLAELTEQKRSAFRKVQPWNAFLREEAKGLKVNKETITPLVQKYHETTEEERKGYVKRMTHSMDKGEVDRSIK
+# KSFKQIDASMENLLKFGIESVFVAGASPQVKYALKGTKLIVLGGNTF]
+# end gene g1634
+###
+#
+##FASTA
+>scf_1961
+CAAACAAGACAAAACAAAGGTCAGTATTCAAGTTTCCATGCAATCATCTAGAATGTATTA
+CCGCCTAGAACGATCAATTTGGTGCCTTTCAGCGCATATTTGACTTGGGGTGAGGCGCCT
+GCAACAAAGACACTTTCGATTCCAAATTTCAAAAGGTTCTCCATGGACGCATCGATTTGC
+TTGAAAGACTATAGGATGTGTCAGTAAGCTATGTATATTGCATGGAATGGGTGATTTACC
+TTTTTGATGCTTCTGTCCACTTCGCCCTTGTCCATAGAATGGGTCATTCTTTTCACATAG
+CCCTTTCTTTCTTCTTCAGTCGTTTCATGGTACTTTTGGACCAACGGTGTGATCGTCTCC
+TTGTTGACCTTGAGACCTACAGTTACAAAAACCAGTGATTAGCACGCAAAAGGTACCAGC
+CGAGATAAGAAACACTTATACTGGACAATATCTACCTTTGGCTTCTTCACGAAGGAAGGC
+ATTCCAAGGCTGCACCTTTCGGAAGGCTGACCTCTTTTGTTCGGTTAGTTCTGCGAGAAG
+CAATTGAGGATCAAC

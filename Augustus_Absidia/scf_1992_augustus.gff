@@ -1,0 +1,49 @@
+# ----- prediction on sequence number 964 (length = 1036, name = scf_1992) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 964 on both strands
+# start gene g1640
+scf_1992	AUGUSTUS	gene	1	1030	0.17	+	.	g1640
+scf_1992	AUGUSTUS	transcript	1	1030	0.17	+	.	g1640.t1
+scf_1992	AUGUSTUS	terminal	82	1030	0.17	+	1	transcript_id "g1640.t1"; gene_id "g1640";
+scf_1992	AUGUSTUS	intron	1	81	0.33	+	.	transcript_id "g1640.t1"; gene_id "g1640";
+scf_1992	AUGUSTUS	CDS	82	1027	0.17	+	1	transcript_id "g1640.t1"; gene_id "g1640";
+scf_1992	AUGUSTUS	stop_codon	1028	1030	.	+	0	transcript_id "g1640.t1"; gene_id "g1640";
+# coding sequence = [cgtgcattatctcggccatatcgcctacatgatccgccaccttggtccaatgccctctttctcctgtcgctcccttgaa
+# agaacaatcggccattacaaacaacgaactctttcaacacagctacctggaatcagctaccgtaagttaccgaaaagcatacaagccaatggtcctct
+# gttattgatatcttctttggcatgtcatcatttgcatgatattatagaactgatgcttgaaaacgaactccatatcaaccatgtgctggctctggagc
+# aacatgaagatgaagatccacaagacgacataacaatgaaagcccagcccgtgtacacctctgaaccacctttccctgcaacattatgcgctcttctt
+# gccgccaccaatcggtacctccgcacccacaacaccgacagtgtcctcaccatcagcagcgacgataaattggcctaccaccattctgtggagtatgg
+# tggaaaatcatacagaagcatatttagccagtcttcctcaagggcagccgttgtaaagtttggtcaagccaccgtccttgtcaccgcaaccgccgatg
+# aatggcaagtatcatatcccataccactcctttttttactaacgcattttatctgctacacaattaatagtttctttggtcttgtgtactttttcttc
+# gaaatcactgttggcaacaaggtccacaaactggctgctatgcaagccttgcagggtgtagaacaaaatacgaacatctatcctatttggtatcatgg
+# cagtgggcatttcgacagactgatagtagtggggatagaatgtatttcggatgcggtcggaatactagtggatacaactaaacctgatatcaagcact
+# tggtgccggcacgccaaccggtatggaatctcaaggtcctgaccaacatcgacgatatcacattaaaactccgccgtgatcaataa]
+# protein sequence = [VHYLGHIAYMIRHLGPMPSFSCRSLERTIGHYKQRTLSTQLPGISYRKLPKSIQANGPLLLISSLACHHLHDIIELML
+# ENELHINHVLALEQHEDEDPQDDITMKAQPVYTSEPPFPATLCALLAATNRYLRTHNTDSVLTISSDDKLAYHHSVEYGGKSYRSIFSQSSSRAAVVK
+# FGQATVLVTATADEWQVSYPIPLLFLLTHFICYTINSFFGLVYFFFEITVGNKVHKLAAMQALQGVEQNTNIYPIWYHGSGHFDRLIVVGIECISDAV
+# GILVDTTKPDIKHLVPARQPVWNLKVLTNIDDITLKLRRDQ]
+# end gene g1640
+###
+#
+##FASTA
+>scf_1992
+CAGGTCATTTAGAAGTTTCCAAACCTACCTTGTCGGGTGTATCGACAGCGAAAACTTGAA
+ACGAAGATCCTTCACAATCAGCGTGCATTATCTCGGCCATATCGCCTACATGATCCGCCA
+CCTTGGTCCAATGCCCTCTTTCTCCTGTCGCTCCCTTGAAAGAACAATCGGCCATTACAA
+ACAACGAACTCTTTCAACACAGCTACCTGGAATCAGCTACCGTAAGTTACCGAAAAGCAT
+ACAAGCCAATGGTCCTCTGTTATTGATATCTTCTTTGGCATGTCATCATTTGCATGATAT
+TATAGAACTGATGCTTGAAAACGAACTCCATATCAACCATGTGCTGGCTCTGGAGCAACA
+TGAAGATGAAGATCCACAAGACGACATAACAATGAAAGCCCAGCCCGTGTACACCTCTGA
+ACCACCTTTCCCTGCAACATTATGCGCTCTTCTTGCCGCCACCAATCGGTACCTCCGCAC
+CCACAACACCGACAGTGTCCTCACCATCAGCAGCGACGATAAATTGGCCTACCACCATTC
+TGTGGAGTATGGTGGAAAATCATACAGAAGCATATTTAGCCAGTCTTCCTCAAGGGCAGC
+CGTTGTAAAGTTTGGTCAAGCCACCGTCCTTGTCACCGCAACCGCCGATGAATGGCAAGT
+ATCATATCCCATACCACTCCTTTTTTTACTAACGCATTTTATCTGCTACACAATTAATAG
+TTTCTTTGGTCTTGTGTACTTTTTCTTCGAAATCACTGTTGGCAACAAGGTCCACAAACT
+GGCTGCTATGCAAGCCTTGCAGGGTGTAGAACAAAATACGAACATCTATCCTATTTGGTA
+TCATGGCAGTGGGCATTTCGACAGACTGATAGTAGTGGGGATAGAATGTATTTCGGATGC
+GGTCGGAATACTAGTGGATACAACTAAACCTGATATCAAGCACTTGGTGCCGGCACGCCA
+ACCGGTATGGAATCTCAAGGTCCTGACCAACATCGACGATATCACATTAAAACTCCGCCG
+TGATCAATAAAGCTAA

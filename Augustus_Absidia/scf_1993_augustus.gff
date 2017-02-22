@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 965 (length = 401, name = scf_1993) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 965 on both strands
+# start gene g1641
+scf_1993	AUGUSTUS	gene	1	381	0.21	-	.	g1641
+scf_1993	AUGUSTUS	transcript	1	381	0.21	-	.	g1641.t1
+scf_1993	AUGUSTUS	internal	1	187	0.26	-	0	transcript_id "g1641.t1"; gene_id "g1641";
+scf_1993	AUGUSTUS	initial	247	381	0.69	-	0	transcript_id "g1641.t1"; gene_id "g1641";
+scf_1993	AUGUSTUS	intron	188	246	0.84	-	.	transcript_id "g1641.t1"; gene_id "g1641";
+scf_1993	AUGUSTUS	CDS	1	187	0.26	-	0	transcript_id "g1641.t1"; gene_id "g1641";
+scf_1993	AUGUSTUS	CDS	247	381	0.69	-	0	transcript_id "g1641.t1"; gene_id "g1641";
+scf_1993	AUGUSTUS	start_codon	379	381	.	-	0	transcript_id "g1641.t1"; gene_id "g1641";
+# coding sequence = [atgatgggaacagatcaaagccatatacatggataccccgtgggcagcaccaatatcatccgacgacatttgcttgaac
+# ggcaacgacgtgctctgtgcgttgtcgcgcacaccaacgaataccttacctcccaaatctgccacgtatgtgaaactcgaatgcccaatacagtattg
+# gatcgccgtgaagtctacgccctcaaaagttgtgatcactgtgcaaagatcgtcaatcgtgacaagaacgccgcttctaatatgtatcgaataatgga
+# atctggtttggctgggcttgggcgtcctctctctctatcaagatctt]
+# protein sequence = [MMGTDQSHIHGYPVGSTNIIRRHLLERQRRALCVVAHTNEYLTSQICHVCETRMPNTVLDRREVYALKSCDHCAKIVN
+# RDKNAASNMYRIMESGLAGLGRPLSLSRS]
+# end gene g1641
+###
+#
+##FASTA
+>scf_1993
+AAGATCTTGATAGAGAGAGAGGACGCCCAAGCCCAGCCAAACCAGATTCCATTATTCGAT
+ACATATTAGAAGCGGCGTTCTTGTCACGATTGACGATCTTTGCACAGTGATCACAACTTT
+TGAGGGCGTAGACTTCACGGCGATCCAATACTGTATTGGGCATTCGAGTTTCACATACGT
+GGCAGATCTACAGAAAAGGAGAGGCGAAAGAGTAAGCTGACATAATAATTAGAAGAAAGT
+ACTTACTTGGGAGGTAAGGTATTCGTTGGTGTGCGCGACAACGCACAGAGCACGTCGTTG
+CCGTTCAAGCAAATGTCGTCGGATGATATTGGTGCTGCCCACGGGGTATCCATGTATATG
+GCTTTGATCTGTTCCCATCATTCCAGCGCCAAAAGCGACCA

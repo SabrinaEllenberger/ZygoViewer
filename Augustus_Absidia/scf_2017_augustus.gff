@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 983 (length = 389, name = scf_2017) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 983 on both strands
+# start gene g1660
+scf_2017	AUGUSTUS	gene	1	389	0.48	+	.	g1660
+scf_2017	AUGUSTUS	transcript	1	389	0.48	+	.	g1660.t1
+scf_2017	AUGUSTUS	internal	1	381	0.48	+	2	transcript_id "g1660.t1"; gene_id "g1660";
+scf_2017	AUGUSTUS	intron	382	389	0.55	+	.	transcript_id "g1660.t1"; gene_id "g1660";
+scf_2017	AUGUSTUS	CDS	1	381	0.48	+	2	transcript_id "g1660.t1"; gene_id "g1660";
+# coding sequence = [ccgaagagcaattgaaccagagagcaaccttgattgaccacctggaccctgaaatgctccaaatgttgcagggcatcat
+# ccatacacacaattgcttctcccaagggctgatgacggcgtatgaacagtatggcgccgaacaaatacaaaatgtggccataatcatcaagtctacac
+# ctgccctgggtcgaagatacgatgccccttcgtgccctgagatttcggctatggtgatggaaaattccactgatggtggttttagcccacatgacatt
+# gttattaccgaccgtaacagaggtactcgaagcgtcagctctcttaatccatcgtacatgcctctgcattatgtgttgatgttcccctatggtgaaga
+# tggatggc]
+# protein sequence = [EEQLNQRATLIDHLDPEMLQMLQGIIHTHNCFSQGLMTAYEQYGAEQIQNVAIIIKSTPALGRRYDAPSCPEISAMVM
+# ENSTDGGFSPHDIVITDRNRGTRSVSSLNPSYMPLHYVLMFPYGEDGW]
+# end gene g1660
+###
+#
+##FASTA
+>scf_2017
+CCGAAGAGCAATTGAACCAGAGAGCAACCTTGATTGACCACCTGGACCCTGAAATGCTCC
+AAATGTTGCAGGGCATCATCCATACACACAATTGCTTCTCCCAAGGGCTGATGACGGCGT
+ATGAACAGTATGGCGCCGAACAAATACAAAATGTGGCCATAATCATCAAGTCTACACCTG
+CCCTGGGTCGAAGATACGATGCCCCTTCGTGCCCTGAGATTTCGGCTATGGTGATGGAAA
+ATTCCACTGATGGTGGTTTTAGCCCACATGACATTGTTATTACCGACCGTAACAGAGGTA
+CTCGAAGCGTCAGCTCTCTTAATCCATCGTACATGCCTCTGCATTATGTGTTGATGTTCC
+CCTATGGTGAAGATGGATGGCGTAAGGGT

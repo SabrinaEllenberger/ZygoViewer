@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 951 (length = 327, name = scf_1967) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 951 on both strands
+# start gene g1636
+scf_1967	AUGUSTUS	gene	1	288	0.95	-	.	g1636
+scf_1967	AUGUSTUS	transcript	1	288	0.95	-	.	g1636.t1
+scf_1967	AUGUSTUS	internal	1	112	1	-	2	transcript_id "g1636.t1"; gene_id "g1636";
+scf_1967	AUGUSTUS	initial	183	288	0.95	-	0	transcript_id "g1636.t1"; gene_id "g1636";
+scf_1967	AUGUSTUS	intron	113	182	0.95	-	.	transcript_id "g1636.t1"; gene_id "g1636";
+scf_1967	AUGUSTUS	CDS	1	112	1	-	2	transcript_id "g1636.t1"; gene_id "g1636";
+scf_1967	AUGUSTUS	CDS	183	288	0.95	-	0	transcript_id "g1636.t1"; gene_id "g1636";
+scf_1967	AUGUSTUS	start_codon	286	288	.	-	0	transcript_id "g1636.t1"; gene_id "g1636";
+# coding sequence = [atgggcaaaatcgtatcctccgtatgcagccgatgtggcaactcagtaaaaacggcgaagcagcgggcactccatttaa
+# actgcgggcaattctacactccttatggcaacgtgcaatccagtcaacctactttgaatgtcggcatggaaaacgtgattgactcggacgacaccatg
+# gccatcgacaatgaagataacgctgaagatgaattcgacgc]
+# protein sequence = [MGKIVSSVCSRCGNSVKTAKQRALHLNCGQFYTPYGNVQSSQPTLNVGMENVIDSDDTMAIDNEDNAEDEFD]
+# end gene g1636
+###
+#
+##FASTA
+>scf_1967
+GCGTCGAATTCATCTTCAGCGTTATCTTCATTGTCGATGGCCATGGTGTCGTCCGAGTCA
+ATCACGTTTTCCATGCCGACATTCAAAGTAGGTTGACTGGATTGCACGTTGCCTAAGGAA
+TCAGGTACAACAAAATGTTAATAACTTACTGAAGTGATAATGTTTTGCTATGAGGCTCTT
+ACCATAAGGAGTGTAGAATTGCCCGCAGTTTAAATGGAGTGCCCGCTGCTTCGCCGTTTT
+TACTGAGTTGCCACATCGGCTGCATACGGAGGATACGATTTTGCCCATTAGATAAAGTAG
+TAGTGAAGAGGGGATGTAAAAAGTTAA

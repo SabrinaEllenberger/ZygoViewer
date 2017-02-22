@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 1039 (length = 462, name = scf_2114) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1039 on both strands
+# start gene g1747
+scf_2114	AUGUSTUS	gene	42	462	0.39	+	.	g1747
+scf_2114	AUGUSTUS	transcript	42	462	0.39	+	.	g1747.t1
+scf_2114	AUGUSTUS	start_codon	42	44	.	+	0	transcript_id "g1747.t1"; gene_id "g1747";
+scf_2114	AUGUSTUS	initial	42	119	0.39	+	0	transcript_id "g1747.t1"; gene_id "g1747";
+scf_2114	AUGUSTUS	internal	188	462	0.79	+	0	transcript_id "g1747.t1"; gene_id "g1747";
+scf_2114	AUGUSTUS	intron	120	187	0.8	+	.	transcript_id "g1747.t1"; gene_id "g1747";
+scf_2114	AUGUSTUS	CDS	42	119	0.39	+	0	transcript_id "g1747.t1"; gene_id "g1747";
+scf_2114	AUGUSTUS	CDS	188	462	0.79	+	0	transcript_id "g1747.t1"; gene_id "g1747";
+# coding sequence = [atgaagaacattgtcgtagaaacctttgaaaaacgctgtctcctatatcttgaacaccgtctgcgtgctgaaattccgg
+# atattgataccaagactgttaaaaagcttcgaatttacctttacaatgaactctctggggtagaagacccgccctggcccaccagcttggacaaaacg
+# gaagacttgatggtgcacctcaaccggatcactttgaccgaatatcttggtccccaacccatcactcacaaatcccttgttaccaacatctgcgagca
+# tatgtctgtcctccatcaaattttgcgaaactatgaacagtacaacaatgtgtcttcaaacgaactagcagatcaggt]
+# protein sequence = [MKNIVVETFEKRCLLYLEHRLRAEIPDIDTKTVKKLRIYLYNELSGVEDPPWPTSLDKTEDLMVHLNRITLTEYLGPQ
+# PITHKSLVTNICEHMSVLHQILRNYEQYNNVSSNELADQ]
+# end gene g1747
+###
+#
+##FASTA
+>scf_2114
+CAGCTTCATTGGCTTCAATGGCACTCACAATGGCGACAAGCATGAAGAACATTGTCGTAG
+AAACCTTTGAAAAACGCTGTCTCCTATATCTTGAACACCGTCTGCGTGCTGAAATTCCGG
+TAATAACGGGAATCTGATATTATCATCTTCTTTTGCTTTACTCATCTACCTTCTTATGCT
+GTGTTAGGATATTGATACCAAGACTGTTAAAAAGCTTCGAATTTACCTTTACAATGAACT
+CTCTGGGGTAGAAGACCCGCCCTGGCCCACCAGCTTGGACAAAACGGAAGACTTGATGGT
+GCACCTCAACCGGATCACTTTGACCGAATATCTTGGTCCCCAACCCATCACTCACAAATC
+CCTTGTTACCAACATCTGCGAGCATATGTCTGTCCTCCATCAAATTTTGCGAAACTATGA
+ACAGTACAACAATGTGTCTTCAAACGAACTAGCAGATCAGGT
