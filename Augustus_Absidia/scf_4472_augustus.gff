@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 2083 (length = 496, name = scf_4472) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2083 on both strands
+# start gene g3377
+scf_4472	AUGUSTUS	gene	1	474	0.44	-	.	g3377
+scf_4472	AUGUSTUS	transcript	1	474	0.44	-	.	g3377.t1
+scf_4472	AUGUSTUS	initial	32	474	0.44	-	0	transcript_id "g3377.t1"; gene_id "g3377";
+scf_4472	AUGUSTUS	intron	1	31	0.45	-	.	transcript_id "g3377.t1"; gene_id "g3377";
+scf_4472	AUGUSTUS	CDS	32	474	0.44	-	0	transcript_id "g3377.t1"; gene_id "g3377";
+scf_4472	AUGUSTUS	start_codon	472	474	.	-	0	transcript_id "g3377.t1"; gene_id "g3377";
+# coding sequence = [atgaagagtcgaccttttggaggcaaagtagtcgtattcggaggcgattttcgtcagattcttcctgttgttgtgaatg
+# gtaatcgcgcagacgttgtggccgattgcatatcatcatcatatctttggtcaagtatacaggttttgcaactgacagaaaacatgcgggtacaagca
+# tcaggtccagaatccatcgcttttgctcaaaaactactagccattggaaacggggagcctcctttcaatgtacatgtcccagtagatagtagctggct
+# actaaatgccgaagatatcaacggaatgattgataagatctacccacagcttcaaacttcgacagatcctatgatcttcaatggccgtgcaatactga
+# cgaccaaaaattcggaggtagattttatcaataaccaagcagccaatttatttcctggagagatccagac]
+# protein sequence = [MKSRPFGGKVVVFGGDFRQILPVVVNGNRADVVADCISSSYLWSSIQVLQLTENMRVQASGPESIAFAQKLLAIGNGE
+# PPFNVHVPVDSSWLLNAEDINGMIDKIYPQLQTSTDPMIFNGRAILTTKNSEVDFINNQAANLFPGEIQ]
+# end gene g3377
+###
+#
+##FASTA
+>scf_4472
+TTCATCGTGAATGCTGTCGCATGATTCGTACGTCTGGATCTCTCCAGGAAATAAATTGGC
+TGCTTGGTTATTGATAAAATCTACCTCCGAATTTTTGGTCGTCAGTATTGCACGGCCATT
+GAAGATCATAGGATCTGTCGAAGTTTGAAGCTGTGGGTAGATCTTATCAATCATTCCGTT
+GATATCTTCGGCATTTAGTAGCCAGCTACTATCTACTGGGACATGTACATTGAAAGGAGG
+CTCCCCGTTTCCAATGGCTAGTAGTTTTTGAGCAAAAGCGATGGATTCTGGACCTGATGC
+TTGTACCCGCATGTTTTCTGTCAGTTGCAAAACCTGTATACTTGACCAAAGATATGATGA
+TGATATGCAATCGGCCACAACGTCTGCGCGATTACCATTCACAACAACAGGAAGAATCTG
+ACGAAAATCGCCTCCGAATACGACTACTTTGCCTCCAAAAGGTCGACTCTTCATGGCGGG
+ATCAATTGCACCCATC

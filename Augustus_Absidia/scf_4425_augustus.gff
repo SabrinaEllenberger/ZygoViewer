@@ -1,0 +1,50 @@
+# ----- prediction on sequence number 2063 (length = 999, name = scf_4425) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2063 on both strands
+# start gene g3303
+scf_4425	AUGUSTUS	gene	59	999	0.7	+	.	g3303
+scf_4425	AUGUSTUS	transcript	59	999	0.7	+	.	g3303.t1
+scf_4425	AUGUSTUS	start_codon	59	61	.	+	0	transcript_id "g3303.t1"; gene_id "g3303";
+scf_4425	AUGUSTUS	initial	59	473	1	+	0	transcript_id "g3303.t1"; gene_id "g3303";
+scf_4425	AUGUSTUS	internal	532	947	0.96	+	2	transcript_id "g3303.t1"; gene_id "g3303";
+scf_4425	AUGUSTUS	intron	474	531	1	+	.	transcript_id "g3303.t1"; gene_id "g3303";
+scf_4425	AUGUSTUS	intron	948	999	0.7	+	.	transcript_id "g3303.t1"; gene_id "g3303";
+scf_4425	AUGUSTUS	CDS	59	473	1	+	0	transcript_id "g3303.t1"; gene_id "g3303";
+scf_4425	AUGUSTUS	CDS	532	947	0.96	+	2	transcript_id "g3303.t1"; gene_id "g3303";
+# coding sequence = [atgaatcctactacgccaactccaaccactcctacacctactacacgattctgctccggatgcaaagtggaaaagaatg
+# ttgcctccttccgtggatccacccgcctttacaagacatgtgatttgtgtcgctttcgccaaaccccccagccacctccagctacgatgatcacactt
+# tcggaaatcgcaaacgagtttttggaagctcatcaagttggtgacgatggaatatggctctctgctgatatagaaatggacgaacgtatgcaagacct
+# caatgacaacgacgtgcgtgacctcatcctcgaagaactgcgtcaaattgatggttacgagtacctgtggaagtacactggcgccccttctctgtcct
+# tccgtgtggcattcgaagctatttgctctcaagatagacaaggatgccgtcatatcgccgaatcaagattgaccagacgatatgtccgcaccgacgaa
+# tacgattgccatggaaaggtgcatggctttatcaacagacagcacaactggattcgtttggaggtgttccatcacatctctcatcctacacctgcaac
+# aaacgaatcgactagaatgaccactgtccccgtcactgatgaaatcaaggccttcattgctgaacgcatcaacctccatggccctaattgcgtcggtc
+# tctatgaacagattgttcaagtttatggcttcgttgtgaatcgtggccaggtgctcaatgcttggcgggctgtctttgaaacgatgtaccgaagaagt
+# gatgatcagttgcaatcaagccgaatcctggtccgtgaactccgtgaatccatgcattgtgaagag]
+# protein sequence = [MNPTTPTPTTPTPTTRFCSGCKVEKNVASFRGSTRLYKTCDLCRFRQTPQPPPATMITLSEIANEFLEAHQVGDDGIW
+# LSADIEMDERMQDLNDNDVRDLILEELRQIDGYEYLWKYTGAPSLSFRVAFEAICSQDRQGCRHIAESRLTRRYVRTDEYDCHGKVHGFINRQHNWIR
+# LEVFHHISHPTPATNESTRMTTVPVTDEIKAFIAERINLHGPNCVGLYEQIVQVYGFVVNRGQVLNAWRAVFETMYRRSDDQLQSSRILVRELRESMH
+# CEE]
+# end gene g3303
+###
+#
+##FASTA
+>scf_4425
+TTTTTTTTTTCCAACGCTCTTTTTCTTTCTCTCTTTCTCTCTCTGCTTTTTTATAAACAT
+GAATCCTACTACGCCAACTCCAACCACTCCTACACCTACTACACGATTCTGCTCCGGATG
+CAAAGTGGAAAAGAATGTTGCCTCCTTCCGTGGATCCACCCGCCTTTACAAGACATGTGA
+TTTGTGTCGCTTTCGCCAAACCCCCCAGCCACCTCCAGCTACGATGATCACACTTTCGGA
+AATCGCAAACGAGTTTTTGGAAGCTCATCAAGTTGGTGACGATGGAATATGGCTCTCTGC
+TGATATAGAAATGGACGAACGTATGCAAGACCTCAATGACAACGACGTGCGTGACCTCAT
+CCTCGAAGAACTGCGTCAAATTGATGGTTACGAGTACCTGTGGAAGTACACTGGCGCCCC
+TTCTCTGTCCTTCCGTGTGGCATTCGAAGCTATTTGCTCTCAAGATAGACAAGGTATATG
+TATAAAGAGTAGAATGGTTGACGCAACTAACCTTTGCCTTTACCACAAAAGGATGCCGTC
+ATATCGCCGAATCAAGATTGACCAGACGATATGTCCGCACCGACGAATACGATTGCCATG
+GAAAGGTGCATGGCTTTATCAACAGACAGCACAACTGGATTCGTTTGGAGGTGTTCCATC
+ACATCTCTCATCCTACACCTGCAACAAACGAATCGACTAGAATGACCACTGTCCCCGTCA
+CTGATGAAATCAAGGCCTTCATTGCTGAACGCATCAACCTCCATGGCCCTAATTGCGTCG
+GTCTCTATGAACAGATTGTTCAAGTTTATGGCTTCGTTGTGAATCGTGGCCAGGTGCTCA
+ATGCTTGGCGGGCTGTCTTTGAAACGATGTACCGAAGAAGTGATGATCAGTTGCAATCAA
+GCCGAATCCTGGTCCGTGAACTCCGTGAATCCATGCATTGTGAAGAGGTAAGAAAGTCGC
+CATGTATGGCTCTAATAGTAGAATGTATAGAATGGGGAA

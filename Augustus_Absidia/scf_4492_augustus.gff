@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 2092 (length = 400, name = scf_4492) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2092 on both strands
+# start gene g3379
+scf_4492	AUGUSTUS	gene	1	400	0.9	-	.	g3379
+scf_4492	AUGUSTUS	transcript	1	400	0.9	-	.	g3379.t1
+scf_4492	AUGUSTUS	internal	110	400	0.9	-	0	transcript_id "g3379.t1"; gene_id "g3379";
+scf_4492	AUGUSTUS	intron	1	109	0.92	-	.	transcript_id "g3379.t1"; gene_id "g3379";
+scf_4492	AUGUSTUS	CDS	110	400	0.9	-	0	transcript_id "g3379.t1"; gene_id "g3379";
+# coding sequence = [ctctatgaaagaagaagtgagcgagaacgagatgcctaccagcaccgtaccaatccaagatggaacacccatcctcatc
+# gaggatcacttgccacacaccgccagcatcaatctggacctactcccatggaactcgatatggtcgacgaacaagaatcccatgatgtactcgaaaca
+# tctcatcaagacctgacccctgagccaacgaaacgggcacccctgactgccgaagagcgacaacgccgcatcacccaccggttatgcctctactgtgg
+# aaaaccaggtcatatc]
+# protein sequence = [LYERRSERERDAYQHRTNPRWNTHPHRGSLATHRQHQSGPTPMELDMVDEQESHDVLETSHQDLTPEPTKRAPLTAEE
+# RQRRITHRLCLYCGKPGHI]
+# end gene g3379
+###
+#
+##FASTA
+>scf_4492
+CGGGTACTAGGAGGTGCGTTTTTCGTTGTATCAAATCTTCTGCGTTTCCACTGGTGGTTG
+CTATGGAGTGAGGTTTCGGGCGAGTAGGGCGGATTGGGCAGTCATTTACGATATGACCTG
+GTTTTCCACAGTAGAGGCATAACCGGTGGGTGATGCGGCGTTGTCGCTCTTCGGCAGTCA
+GGGGTGCCCGTTTCGTTGGCTCAGGGGTCAGGTCTTGATGAGATGTTTCGAGTACATCAT
+GGGATTCTTGTTCGTCGACCATATCGAGTTCCATGGGAGTAGGTCCAGATTGATGCTGGC
+GGTGTGTGGCAAGTGATCCTCGATGAGGATGGGTGTTCCATCTTGGATTGGTACGGTGCT
+GGTAGGCATCTCGTTCTCGCTCACTTCTTCTTTCATAGAG

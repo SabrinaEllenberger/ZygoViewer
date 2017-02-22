@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 2128 (length = 601, name = scf_4543) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2128 on both strands
+# start gene g3390
+scf_4543	AUGUSTUS	gene	35	601	0.49	+	.	g3390
+scf_4543	AUGUSTUS	transcript	35	601	0.49	+	.	g3390.t1
+scf_4543	AUGUSTUS	start_codon	35	37	.	+	0	transcript_id "g3390.t1"; gene_id "g3390";
+scf_4543	AUGUSTUS	initial	35	601	0.49	+	0	transcript_id "g3390.t1"; gene_id "g3390";
+scf_4543	AUGUSTUS	CDS	35	601	0.49	+	0	transcript_id "g3390.t1"; gene_id "g3390";
+# coding sequence = [atgatacagatccactacaactacaaaacttatacagccgcgtttgatgtcatggacctagcagatggcaaagaaatga
+# gcttaggcacggatatgatggcaacgttgggcattggatatactggtttagctgtgtcctggacaccaccagtgaagacagaagaggagagtcctttc
+# aaagatgttgtagttccaaatgaggatccgtacggtactcaggcacaacaaagtcgtttcctcgcccaagtgcaagcccacatagatcgtaaccaagc
+# cattgacaagcacagcctatgcacgcaccctgatgctgttgtaagattagacacaccacctgatgcccaaggcttccgaatccaatacaagatcccag
+# agactttgattccgaaggtgcgtgaaactgtcgaaaaatggttagcagacggtgtcattgaacgggtaccttcgaatacagataaccgttggaacagc
+# cctttgacactagcgccgaaaaaagatagtacaggcaaatacacggacaagcgcccatgccttgatcctcgccacattaataagtacttgaaagcg]
+# protein sequence = [MIQIHYNYKTYTAAFDVMDLADGKEMSLGTDMMATLGIGYTGLAVSWTPPVKTEEESPFKDVVVPNEDPYGTQAQQSR
+# FLAQVQAHIDRNQAIDKHSLCTHPDAVVRLDTPPDAQGFRIQYKIPETLIPKVRETVEKWLADGVIERVPSNTDNRWNSPLTLAPKKDSTGKYTDKRP
+# CLDPRHINKYLKA]
+# end gene g3390
+###
+#
+##FASTA
+>scf_4543
+CAAACTAAAAAGTGTCATTTGCGGTAAAACCGATATGATACAGATCCACTACAACTACAA
+AACTTATACAGCCGCGTTTGATGTCATGGACCTAGCAGATGGCAAAGAAATGAGCTTAGG
+CACGGATATGATGGCAACGTTGGGCATTGGATATACTGGTTTAGCTGTGTCCTGGACACC
+ACCAGTGAAGACAGAAGAGGAGAGTCCTTTCAAAGATGTTGTAGTTCCAAATGAGGATCC
+GTACGGTACTCAGGCACAACAAAGTCGTTTCCTCGCCCAAGTGCAAGCCCACATAGATCG
+TAACCAAGCCATTGACAAGCACAGCCTATGCACGCACCCTGATGCTGTTGTAAGATTAGA
+CACACCACCTGATGCCCAAGGCTTCCGAATCCAATACAAGATCCCAGAGACTTTGATTCC
+GAAGGTGCGTGAAACTGTCGAAAAATGGTTAGCAGACGGTGTCATTGAACGGGTACCTTC
+GAATACAGATAACCGTTGGAACAGCCCTTTGACACTAGCGCCGAAAAAAGATAGTACAGG
+CAAATACACGGACAAGCGCCCATGCCTTGATCCTCGCCACATTAATAAGTACTTGAAAGC
+G

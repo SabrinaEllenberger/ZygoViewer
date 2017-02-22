@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 2098 (length = 365, name = scf_4499) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2098 on both strands
+# start gene g3383
+scf_4499	AUGUSTUS	gene	1	337	0.6	-	.	g3383
+scf_4499	AUGUSTUS	transcript	1	337	0.6	-	.	g3383.t1
+scf_4499	AUGUSTUS	initial	17	337	0.6	-	0	transcript_id "g3383.t1"; gene_id "g3383";
+scf_4499	AUGUSTUS	intron	1	16	0.78	-	.	transcript_id "g3383.t1"; gene_id "g3383";
+scf_4499	AUGUSTUS	CDS	17	337	0.6	-	0	transcript_id "g3383.t1"; gene_id "g3383";
+scf_4499	AUGUSTUS	start_codon	335	337	.	-	0	transcript_id "g3383.t1"; gene_id "g3383";
+# coding sequence = [atggcaaaatgggacagcaattcttgcttcattgactgcatcattgaagttatacaaagaatagtattaaaagaaacgg
+# atgttgctgcactgaaaattggaagccaaatggactcttcgttgttggatcttctgatcgaaatacagcaaaatgtgcgttgtggtgactatgtcaaa
+# ggaaccaagctggcaagaaactacttttgggcgaatggaatgaagaagggtgcgcaaaatgactgtcaagttattttccaccagttaactgacgacag
+# ccctctgacgacaatcttttcttgtactaaagaagacggaaaacaa]
+# protein sequence = [MAKWDSNSCFIDCIIEVIQRIVLKETDVAALKIGSQMDSSLLDLLIEIQQNVRCGDYVKGTKLARNYFWANGMKKGAQ
+# NDCQVIFHQLTDDSPLTTIFSCTKEDGKQ]
+# end gene g3383
+###
+#
+##FASTA
+>scf_4499
+TTTCAAAAGCTTTTACTTGTTTTCCGTCTTCTTTAGTACAAGAAAAGATTGTCGTCAGAG
+GGCTGTCGTCAGTTAACTGGTGGAAAATAACTTGACAGTCATTTTGCGCACCCTTCTTCA
+TTCCATTCGCCCAAAAGTAGTTTCTTGCCAGCTTGGTTCCTTTGACATAGTCACCACAAC
+GCACATTTTGCTGTATTTCGATCAGAAGATCCAACAACGAAGAGTCCATTTGGCTTCCAA
+TTTTCAGTGCAGCAACATCCGTTTCTTTTAATACTATTCTTTGTATAACTTCAATGATGC
+AGTCAATGAAGCAAGAATTGCTGTCCCATTTTGCCATAGTTCTTTCGGTAGGAGCTGCAT
+CAGAT

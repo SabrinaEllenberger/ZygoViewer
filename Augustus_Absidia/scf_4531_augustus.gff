@@ -1,0 +1,38 @@
+# ----- prediction on sequence number 2121 (length = 650, name = scf_4531) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2121 on both strands
+# start gene g3389
+scf_4531	AUGUSTUS	gene	1	583	0.99	+	.	g3389
+scf_4531	AUGUSTUS	transcript	1	583	0.99	+	.	g3389.t1
+scf_4531	AUGUSTUS	internal	1	177	1	+	1	transcript_id "g3389.t1"; gene_id "g3389";
+scf_4531	AUGUSTUS	terminal	247	583	0.99	+	1	transcript_id "g3389.t1"; gene_id "g3389";
+scf_4531	AUGUSTUS	intron	178	246	0.99	+	.	transcript_id "g3389.t1"; gene_id "g3389";
+scf_4531	AUGUSTUS	CDS	1	177	1	+	1	transcript_id "g3389.t1"; gene_id "g3389";
+scf_4531	AUGUSTUS	CDS	247	580	0.99	+	1	transcript_id "g3389.t1"; gene_id "g3389";
+scf_4531	AUGUSTUS	stop_codon	581	583	.	+	0	transcript_id "g3389.t1"; gene_id "g3389";
+# coding sequence = [gggccttggtggtggtaacgatggtgtggaaggctggtccttttacggtcagatggaacgggatggaaaggtatatcga
+# agcgtgtgctcagtaggtggagacattgcaggaatgccttctggaaaggaagtcgttttggtgcttgcacctgaagatcctggaaagaaaaagaactg
+# cttcttcgctatgctactttactacttcgaagtgaccatcaacaacaactctgtcacactggctgcagtgtatgctttggatggtgtgactcaagaca
+# aaaaggctctcaggggtgcaatacatgacaagcacgtagatgggcgcttatatccgtattggcaacaagaccatggcctcctaccccgtctgattgtt
+# attgacgcaagtcaaataggtgctgccgttctccttggacacgatgaaaatcgaccatccttcaagaatctgattgtggcgaaactgcttgtatggga
+# ataccaggtgttggatcgaagaagcatcatagcaatgtattag]
+# protein sequence = [GLGGGNDGVEGWSFYGQMERDGKVYRSVCSVGGDIAGMPSGKEVVLVLAPEDPGKKKNCFFAMLLYYFEVTINNNSVT
+# LAAVYALDGVTQDKKALRGAIHDKHVDGRLYPYWQQDHGLLPRLIVIDASQIGAAVLLGHDENRPSFKNLIVAKLLVWEYQVLDRRSIIAMY]
+# end gene g3389
+###
+#
+##FASTA
+>scf_4531
+GGGCCTTGGTGGTGGTAACGATGGTGTGGAAGGCTGGTCCTTTTACGGTCAGATGGAACG
+GGATGGAAAGGTATATCGAAGCGTGTGCTCAGTAGGTGGAGACATTGCAGGAATGCCTTC
+TGGAAAGGAAGTCGTTTTGGTGCTTGCACCTGAAGATCCTGGAAAGAAAAAGAACTGGTA
+AGTCAAAGAACGTCGATGGGCTATAGAACTGTTACTGATCCAATCTTCTTTGCGAACACA
+ACGTAGCTTCTTCGCTATGCTACTTTACTACTTCGAAGTGACCATCAACAACAACTCTGT
+CACACTGGCTGCAGTGTATGCTTTGGATGGTGTGACTCAAGACAAAAAGGCTCTCAGGGG
+TGCAATACATGACAAGCACGTAGATGGGCGCTTATATCCGTATTGGCAACAAGACCATGG
+CCTCCTACCCCGTCTGATTGTTATTGACGCAAGTCAAATAGGTGCTGCCGTTCTCCTTGG
+ACACGATGAAAATCGACCATCCTTCAAGAATCTGATTGTGGCGAAACTGCTTGTATGGGA
+ATACCAGGTGTTGGATCGAAGAAGCATCATAGCAATGTATTAGTGAATAGTTGGAACTCC
+GACCCCCTATAATAAAAACTTTTTCACTTTTTTTGTCTCTTTCTCTCTCT

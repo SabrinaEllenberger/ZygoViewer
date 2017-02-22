@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 2048 (length = 447, name = scf_4383) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2048 on both strands
+# start gene g3298
+scf_4383	AUGUSTUS	gene	1	366	0.8	-	.	g3298
+scf_4383	AUGUSTUS	transcript	1	366	0.8	-	.	g3298.t1
+scf_4383	AUGUSTUS	initial	46	366	0.8	-	0	transcript_id "g3298.t1"; gene_id "g3298";
+scf_4383	AUGUSTUS	intron	1	45	0.81	-	.	transcript_id "g3298.t1"; gene_id "g3298";
+scf_4383	AUGUSTUS	CDS	46	366	0.8	-	0	transcript_id "g3298.t1"; gene_id "g3298";
+scf_4383	AUGUSTUS	start_codon	364	366	.	-	0	transcript_id "g3298.t1"; gene_id "g3298";
+# coding sequence = [atgcctcttggtccttttttgctgcatcccgctggcaatggcaccttggttcccggtcccttcttccaccgctcgccta
+# tgtccgcgatcctctctcttcgtctcgatggtcctggccttgcctggaaagacccagttcaactctccgctccctatcgtagcctgtctctctccctc
+# caagatggtactttgcgtttccctgccccccttcagcgccacctatcagaccctcgtcatcccgatgccgctactgccaccctgtcctcccttagtga
+# tcagttactccagcttccttgttcgttctccaatctctccacgaag]
+# protein sequence = [MPLGPFLLHPAGNGTLVPGPFFHRSPMSAILSLRLDGPGLAWKDPVQLSAPYRSLSLSLQDGTLRFPAPLQRHLSDPR
+# HPDAATATLSSLSDQLLQLPCSFSNLSTK]
+# end gene g3298
+###
+#
+##FASTA
+>scf_4383
+ACCCAGGTGGACATTGGGTGGGAGGGGCAGTATGGACCGGAAAACCTTCGTGGAGAGATT
+GGAGAACGAACAAGGAAGCTGGAGTAACTGATCACTAAGGGAGGACAGGGTGGCAGTAGC
+GGCATCGGGATGACGAGGGTCTGATAGGTGGCGCTGAAGGGGGGCAGGGAAACGCAAAGT
+ACCATCTTGGAGGGAGAGAGACAGGCTACGATAGGGAGCGGAGAGTTGAACTGGGTCTTT
+CCAGGCAAGGCCAGGACCATCGAGACGAAGAGAGAGGATCGCGGACATAGGCGAGCGGTG
+GAAGAAGGGACCGGGAACCAAGGTGCCATTGCCAGCGGGATGCAGCAAAAAAGGACCAAG
+AGGCATACAAAGCCAGGAAGCAGGAGAGAGAAGAAGATCGTGATGGGCCAAACGGGGGAG
+GGCATCAAAGGACCGATAGAGCAAGTG

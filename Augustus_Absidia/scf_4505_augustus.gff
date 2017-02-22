@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 2102 (length = 330, name = scf_4505) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2102 on both strands
+# start gene g3385
+scf_4505	AUGUSTUS	gene	1	293	0.69	-	.	g3385
+scf_4505	AUGUSTUS	transcript	1	293	0.69	-	.	g3385.t1
+scf_4505	AUGUSTUS	initial	97	293	0.72	-	0	transcript_id "g3385.t1"; gene_id "g3385";
+scf_4505	AUGUSTUS	intron	1	96	0.71	-	.	transcript_id "g3385.t1"; gene_id "g3385";
+scf_4505	AUGUSTUS	CDS	97	293	0.72	-	0	transcript_id "g3385.t1"; gene_id "g3385";
+scf_4505	AUGUSTUS	start_codon	291	293	.	-	0	transcript_id "g3385.t1"; gene_id "g3385";
+# coding sequence = [atggaagttttgcaagctaccatcctcaactattgcactcaacaagggttttcctctccatctggtccattctcttatt
+# tcaaaactgcctcaatccgaaacaagatctacagaagcctttcttatgtatcaagcagatcagaagttgtaacctttggtcgggcaactgtccttctc
+# gaaaatggtgtcggtcaaca]
+# protein sequence = [MEVLQATILNYCTQQGFSSPSGPFSYFKTASIRNKIYRSLSYVSSRSEVVTFGRATVLLENGVGQ]
+# end gene g3385
+###
+#
+##FASTA
+>scf_4505
+CACACCAAAGAAGCTATTTGTTACATGGTAAGGCAAATATGTTAGTAACGAATGCTACAA
+AAGGTGTCTACCCAGTCTATTTCCTCTTTTCCTTACTGTTGACCGACACCATTTTCGAGA
+AGGACAGTTGCCCGACCAAAGGTTACAACTTCTGATCTGCTTGATACATAAGAAAGGCTT
+CTGTAGATCTTGTTTCGGATTGAGGCAGTTTTGAAATAAGAGAATGGACCAGATGGAGAG
+GAAAACCCTTGTTGAGTGCAATAGTTGAGGATGGTAGCTTGCAAAACTTCCATGGAGACA
+GGTTCAGGAGGAGAGGTGGTGGTGGATGCT

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2041 (length = 282, name = scf_4366) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2041 on both strands
+# start gene g3297
+scf_4366	AUGUSTUS	gene	1	146	1	-	.	g3297
+scf_4366	AUGUSTUS	transcript	1	146	1	-	.	g3297.t1
+scf_4366	AUGUSTUS	initial	77	146	1	-	0	transcript_id "g3297.t1"; gene_id "g3297";
+scf_4366	AUGUSTUS	intron	1	76	1	-	.	transcript_id "g3297.t1"; gene_id "g3297";
+scf_4366	AUGUSTUS	CDS	77	146	1	-	0	transcript_id "g3297.t1"; gene_id "g3297";
+scf_4366	AUGUSTUS	start_codon	144	146	.	-	0	transcript_id "g3297.t1"; gene_id "g3297";
+# coding sequence = [atgtctcaacgaagaactatcgaaaaccaacgccgtactcgctcctctgttgaaggtgaacgtagaagag]
+# protein sequence = [MSQRRTIENQRRTRSSVEGERRR]
+# end gene g3297
+###
+#
+##FASTA
+>scf_4366
+TCGATCTATATCGACAAAGAAGACATGTTAGCTTACGGAAATACATGAGAGTGCATCTAT
+GGCTACTACCGTTTACCTCTTCTACGTTCACCTTCAACAGAGGAGCGAGTACGGCGTTGG
+TTTTCGATAGTTCTTCGTTGAGACATTAGATATGAATGAGGAATGAGAGAAAGAAGAAAG
+AAAGGAAAGGGGAAGCCCCAAACAAATAAATACTTGCACCGAAAAAAAACAAGCCTCAAA
+ATCTGAAACTTTCAAACGCCGCTTGACACTTTCCCCTTTTTT
