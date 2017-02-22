@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 1167 (length = 317, name = scf_2422) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1167 on both strands
+# start gene g1848
+scf_2422	AUGUSTUS	gene	1	261	0.43	+	.	g1848
+scf_2422	AUGUSTUS	transcript	1	261	0.43	+	.	g1848.t1
+scf_2422	AUGUSTUS	internal	1	46	0.48	+	2	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	internal	107	193	0.64	+	1	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	terminal	258	261	0.61	+	1	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	intron	47	106	0.48	+	.	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	intron	194	257	0.61	+	.	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	CDS	1	46	0.48	+	2	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	CDS	107	193	0.64	+	1	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	CDS	258	258	0.61	+	1	transcript_id "g1848.t1"; gene_id "g1848";
+scf_2422	AUGUSTUS	stop_codon	259	261	.	+	0	transcript_id "g1848.t1"; gene_id "g1848";
+# coding sequence = [tctgccaacatcagcctcaatgtcggcctaatccatctcctggaagactattcttgtggcgtatcctgatgatgcattc
+# ctttgcttactatcagaatcaatcctatcctctgcctgattctgtgactgaaagataa]
+# protein sequence = [CQHQPQCRPNPSPGRLFLWRILMMHSFAYYQNQSYPLPDSVTER]
+# end gene g1848
+###
+#
+##FASTA
+>scf_2422
+TCTGCCAACATCAGCCTCAATGTCGGCCTAATCCATCTCCTGGAAGGTAAAGTAGCATTC
+GCCTTTGGGCTGCTCCATGATGACTGACTGTATCATATGCTAATAGACTATTCTTGTGGC
+GTATCCTGATGATGCATTCCTTTGCTTACTATCAGAATCAATCCTATCCTCTGCCTGATT
+CTGTGACTGAAAGGTAAAGAAGCATACACGATTTTCTGTATAACATGTTGACTGATTATT
+CTTTTTCTTCATAACAGATAACCCTCTTATGCTACTACTTTGATGATGCTCCTCTAGTTG
+ATATCATGTCGTCTGTT

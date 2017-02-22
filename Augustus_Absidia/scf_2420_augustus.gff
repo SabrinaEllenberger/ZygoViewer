@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1166 (length = 223, name = scf_2420) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1166 on both strands
+# start gene g1847
+scf_2420	AUGUSTUS	gene	1	199	0.84	-	.	g1847
+scf_2420	AUGUSTUS	transcript	1	199	0.84	-	.	g1847.t1
+scf_2420	AUGUSTUS	initial	38	199	0.84	-	0	transcript_id "g1847.t1"; gene_id "g1847";
+scf_2420	AUGUSTUS	intron	1	37	0.85	-	.	transcript_id "g1847.t1"; gene_id "g1847";
+scf_2420	AUGUSTUS	CDS	38	199	0.84	-	0	transcript_id "g1847.t1"; gene_id "g1847";
+scf_2420	AUGUSTUS	start_codon	197	199	.	-	0	transcript_id "g1847.t1"; gene_id "g1847";
+# coding sequence = [atgcctaatctgaagaaggtgcctcgaaagccccactcaattggacaagaatacaagacgattgcggacaatgtaacat
+# gtgtgatcatgcgcatggacttctgcggcgacccaactcaacgaaagccccgtcctaccgaagatcgatcgatcgtggcgact]
+# protein sequence = [MPNLKKVPRKPHSIGQEYKTIADNVTCVIMRMDFCGDPTQRKPRPTEDRSIVAT]
+# end gene g1847
+###
+#
+##FASTA
+>scf_2420
+TGCCAGAATGATGCCATGGTTCAGTTAACCGCTTTACAGTCGCCACGATCGATCGATCTT
+CGGTAGGACGGGGCTTTCGTTGAGTTGGGTCGCCGCAGAAGTCCATGCGCATGATCACAC
+ATGTTACATTGTCCGCAATCGTCTTGTATTCTTGTCCAATTGAGTGGGGCTTTCGAGGCA
+CCTTCTTCAGATTAGGCATACCTTCACCGAGCCATTGATTCAT

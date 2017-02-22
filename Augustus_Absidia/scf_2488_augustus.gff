@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1207 (length = 364, name = scf_2488) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1207 on both strands
+# start gene g1860
+scf_2488	AUGUSTUS	gene	1	290	0.87	+	.	g1860
+scf_2488	AUGUSTUS	transcript	1	290	0.87	+	.	g1860.t1
+scf_2488	AUGUSTUS	terminal	117	290	1	+	0	transcript_id "g1860.t1"; gene_id "g1860";
+scf_2488	AUGUSTUS	intron	1	116	0.87	+	.	transcript_id "g1860.t1"; gene_id "g1860";
+scf_2488	AUGUSTUS	CDS	117	287	1	+	0	transcript_id "g1860.t1"; gene_id "g1860";
+scf_2488	AUGUSTUS	stop_codon	288	290	.	+	0	transcript_id "g1860.t1"; gene_id "g1860";
+# coding sequence = [gctgatgaagaccgacaagacgaagaaggaggacttggacaagatggagaagatgaagaagaagtgggctggcatgtat
+# gtgaacaagatggctcactttgggtgtcaatcgacgaaccgggtggaaggtggccatgcaacgatgaagtctatcctcagcaattcaagtggtag]
+# protein sequence = [ADEDRQDEEGGLGQDGEDEEEVGWHVCEQDGSLWVSIDEPGGRWPCNDEVYPQQFKW]
+# end gene g1860
+###
+#
+##FASTA
+>scf_2488
+AAAATTCACCAACGATAAAGGTGCTGCCGTTGCTGCTTTTCTGGGAAGGTAATAATGAAT
+AATACAGTAACCTTTACAGAAACATCGAACTCATAACTTTTACGATTTATATGTAGGCTG
+ATGAAGACCGACAAGACGAAGAAGGAGGACTTGGACAAGATGGAGAAGATGAAGAAGAAG
+TGGGCTGGCATGTATGTGAACAAGATGGCTCACTTTGGGTGTCAATCGACGAACCGGGTG
+GAAGGTGGCCATGCAACGATGAAGTCTATCCTCAGCAATTCAAGTGGTAGTCTTCAAAAA
+GCGTTTGAAAGTATCCACAAGTGGTACACAGGAATGGTAGGTTGTCAAGGCAACGAACAG
+ATGA

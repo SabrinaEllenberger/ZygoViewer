@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 1201 (length = 549, name = scf_2480) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1201 on both strands
+# start gene g1859
+scf_2480	AUGUSTUS	gene	1	461	0.9	+	.	g1859
+scf_2480	AUGUSTUS	transcript	1	461	0.9	+	.	g1859.t1
+scf_2480	AUGUSTUS	terminal	93	461	0.97	+	0	transcript_id "g1859.t1"; gene_id "g1859";
+scf_2480	AUGUSTUS	intron	1	92	0.9	+	.	transcript_id "g1859.t1"; gene_id "g1859";
+scf_2480	AUGUSTUS	CDS	93	458	0.97	+	0	transcript_id "g1859.t1"; gene_id "g1859";
+scf_2480	AUGUSTUS	stop_codon	459	461	.	+	0	transcript_id "g1859.t1"; gene_id "g1859";
+# coding sequence = [atcagtcgttacaatgctgctgccggcttcaacactgccgaatatgccgttgctctgcacgccaccaacaacttgaatg
+# catttgccgcctccttttaccaccgtgtgaaccccgaccttgaagcctctggtaaggctgcctgggacgccaccaagcaaaatgccgttgctctcgaa
+# gtcggtgccaagctcaagttggacagcactacttttgtaaaggccaagatctcaaacgccggtgtgctcggtgtcgcctacacccaagccctccgccc
+# cggtgtcaagatcaacctcggcgccgccgtcgataccactcgtctgaacgaaaacgctcacaagattggcgtcgctttcactttggaaaactag]
+# protein sequence = [ISRYNAAAGFNTAEYAVALHATNNLNAFAASFYHRVNPDLEASGKAAWDATKQNAVALEVGAKLKLDSTTFVKAKISN
+# AGVLGVAYTQALRPGVKINLGAAVDTTRLNENAHKIGVAFTLEN]
+# end gene g1859
+###
+#
+##FASTA
+>scf_2480
+TTTGGACGGAAAGGTAAATTTTAAAAAAAAAAAAAAAAAAAAAAAACGTGGTGCAAGCTA
+GGGACTGACTTTTTTTTTTTCCTCCACTACAGATCAGTCGTTACAATGCTGCTGCCGGCT
+TCAACACTGCCGAATATGCCGTTGCTCTGCACGCCACCAACAACTTGAATGCATTTGCCG
+CCTCCTTTTACCACCGTGTGAACCCCGACCTTGAAGCCTCTGGTAAGGCTGCCTGGGACG
+CCACCAAGCAAAATGCCGTTGCTCTCGAAGTCGGTGCCAAGCTCAAGTTGGACAGCACTA
+CTTTTGTAAAGGCCAAGATCTCAAACGCCGGTGTGCTCGGTGTCGCCTACACCCAAGCCC
+TCCGCCCCGGTGTCAAGATCAACCTCGGCGCCGCCGTCGATACCACTCGTCTGAACGAAA
+ACGCTCACAAGATTGGCGTCGCTTTCACTTTGGAAAACTAGATCCCTGGTGGTCGCTCGT
+TAGTCTCTCATTGTCTTTTTAATCAATAAAAACTGGCTTGTTTTAGATAGTGTCTTGTTT
+TTTTTTTTT

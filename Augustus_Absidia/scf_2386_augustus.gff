@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 1147 (length = 321, name = scf_2386) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1147 on both strands
+# start gene g1826
+scf_2386	AUGUSTUS	gene	1	321	1	+	.	g1826
+scf_2386	AUGUSTUS	transcript	1	321	1	+	.	g1826.t1
+scf_2386	AUGUSTUS	internal	1	97	1	+	1	transcript_id "g1826.t1"; gene_id "g1826";
+scf_2386	AUGUSTUS	internal	163	321	1	+	0	transcript_id "g1826.t1"; gene_id "g1826";
+scf_2386	AUGUSTUS	intron	98	162	1	+	.	transcript_id "g1826.t1"; gene_id "g1826";
+scf_2386	AUGUSTUS	CDS	1	97	1	+	1	transcript_id "g1826.t1"; gene_id "g1826";
+scf_2386	AUGUSTUS	CDS	163	321	1	+	0	transcript_id "g1826.t1"; gene_id "g1826";
+# coding sequence = [attcgaacgtctcttgcctcatgtcaagggtaacattggtttcgtcttcaccaacaacgacctgaaggaaatccgtgaa
+# aagatcctctccaaccgtgtcgctgctcctgctcgtgctaacgctgttgcccctagcgacgtcgttgtgcccggtggtaacactggtatggaacccgg
+# taagacctccttcttccaagccctcggtatccctaccaagatttctcgtggtaccattgaaatcgtgtccgatgtgcaa]
+# protein sequence = [FERLLPHVKGNIGFVFTNNDLKEIREKILSNRVAAPARANAVAPSDVVVPGGNTGMEPGKTSFFQALGIPTKISRGTI
+# EIVSDVQ]
+# end gene g1826
+###
+#
+##FASTA
+>scf_2386
+ATTCGAACGTCTCTTGCCTCATGTCAAGGGTAACATTGGTTTCGTCTTCACCAACAACGA
+CCTGAAGGAAATCCGTGAAAAGATCCTCTCCAACCGTGTAAGTAACCCTCTACAATAGCC
+AGGTGTGATATGATGACTGACATTGGGCTTTTATGAATTTAGGTCGCTGCTCCTGCTCGT
+GCTAACGCTGTTGCCCCTAGCGACGTCGTTGTGCCCGGTGGTAACACTGGTATGGAACCC
+GGTAAGACCTCCTTCTTCCAAGCCCTCGGTATCCCTACCAAGATTTCTCGTGGTACCATT
+GAAATCGTGTCCGATGTGCAA
