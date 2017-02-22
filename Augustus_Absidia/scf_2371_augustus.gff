@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 1139 (length = 386, name = scf_2371) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1139 on both strands
+# start gene g1822
+scf_2371	AUGUSTUS	gene	1	386	0.61	+	.	g1822
+scf_2371	AUGUSTUS	transcript	1	386	0.61	+	.	g1822.t1
+scf_2371	AUGUSTUS	internal	74	386	0.61	+	2	transcript_id "g1822.t1"; gene_id "g1822";
+scf_2371	AUGUSTUS	intron	1	73	0.61	+	.	transcript_id "g1822.t1"; gene_id "g1822";
+scf_2371	AUGUSTUS	CDS	74	386	0.61	+	2	transcript_id "g1822.t1"; gene_id "g1822";
+# coding sequence = [acaccatcaaaggtatagagcagcgacttcaagctatggaaaccgacaaacgccagctccgtgacgaggtaagtcaaca
+# gcgcaaatcatcggagcgcattgaagaagccctagaacttgttttgcaacaacaacgacagctcatggaacgcatggagcagttgcagcaactgtgct
+# tcgacttacctgctcagccaacacagcagcaaacgatcatcaacaccgaccagcactacccggagcgcgacattccccatcccactcatgaaaagcca
+# gataagccaggaaaaaaatatctaaaccagctaattga]
+# protein sequence = [TIKGIEQRLQAMETDKRQLRDEVSQQRKSSERIEEALELVLQQQRQLMERMEQLQQLCFDLPAQPTQQQTIINTDQHY
+# PERDIPHPTHEKPDKPGKKYLNQLI]
+# end gene g1822
+###
+#
+##FASTA
+>scf_2371
+TACTTAAAAGTTAAAACATTGTTATTGCGTTGCTTAGAAATGTCGAAATCTCAAAAAACC
+AAATTCCTACTAGACACCATCAAAGGTATAGAGCAGCGACTTCAAGCTATGGAAACCGAC
+AAACGCCAGCTCCGTGACGAGGTAAGTCAACAGCGCAAATCATCGGAGCGCATTGAAGAA
+GCCCTAGAACTTGTTTTGCAACAACAACGACAGCTCATGGAACGCATGGAGCAGTTGCAG
+CAACTGTGCTTCGACTTACCTGCTCAGCCAACACAGCAGCAAACGATCATCAACACCGAC
+CAGCACTACCCGGAGCGCGACATTCCCCATCCCACTCATGAAAAGCCAGATAAGCCAGGA
+AAAAAATATCTAAACCAGCTAATTGA

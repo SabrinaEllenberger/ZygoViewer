@@ -1,0 +1,57 @@
+# ----- prediction on sequence number 1110 (length = 1163, name = scf_2298) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1110 on both strands
+# start gene g1798
+scf_2298	AUGUSTUS	gene	1	1123	0.6	+	.	g1798
+scf_2298	AUGUSTUS	transcript	1	1123	0.6	+	.	g1798.t1
+scf_2298	AUGUSTUS	internal	43	166	0.8	+	1	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	internal	241	1023	0.74	+	0	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	terminal	1085	1123	0.74	+	0	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	intron	1	42	0.8	+	.	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	intron	167	240	1	+	.	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	intron	1024	1084	0.74	+	.	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	CDS	43	166	0.8	+	1	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	CDS	241	1023	0.74	+	0	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	CDS	1085	1120	0.74	+	0	transcript_id "g1798.t1"; gene_id "g1798";
+scf_2298	AUGUSTUS	stop_codon	1121	1123	.	+	0	transcript_id "g1798.t1"; gene_id "g1798";
+# coding sequence = [tcttgtcaatatgctacgcatgggtttaaccaagcaaccaagtgaatctgatgggcatgatttaccactctcgatcaaa
+# agcctccgcagacgaattcgtaacgaaggatctcatgttttgcagccatttaccgcaacacccatcgatctcacaactgtcgccaacttcccgttaga
+# acacctcgccgatttcgaaaaagctactgatcctatgatattcttgcaccgcaacatttacgatcttactcagcatatcttttcgctacctcatcttg
+# cccagcatatgatcctatcgccagcaatagcaacacgctataacgaagttgtatatgatgatctgcacacaagtcaatggtggtctgatttgcagcgc
+# agtgttggtgacgacgacgttgtgatcctacccctaatgctatcatctgacgctaccttggtttccggaaatggcaagaacaaggcatggccgatcta
+# tatgactattggcaatgtgcccaaaggtgtgcgatataagaaggaatacggtgcctgtcgtgtcctgggttacctacctgtcatcaatgtgctccctg
+# aatatgctggaaaaccatggatatcgaagtgcaagatggccatatatcaccattgcatgaagttgttgatggcgcccttctctggctcgacctctcaa
+# acaaaatttttccaaggaccatttggctcggtgtacaagtgtttacctaggctggcaacctatagcgctgactaccccgaacaaaacttgttggcatt
+# gacgaagtcctggaccaatggttatggctgtccccggtgcactgtggaatccagtgaatatcgaaaaggcgtgaatggtgtagcggtccgacgaagca
+# acagcaacatgatccaattcgcatcaacggaagactttggaacgatgatcttcaccagcttggtggcgtatatcggcacctga]
+# protein sequence = [LVNMLRMGLTKQPSESDGHDLPLSIKSLRRRIRNEGSHVLQPFTATPIDLTTVANFPLEHLADFEKATDPMIFLHRNI
+# YDLTQHIFSLPHLAQHMILSPAIATRYNEVVYDDLHTSQWWSDLQRSVGDDDVVILPLMLSSDATLVSGNGKNKAWPIYMTIGNVPKGVRYKKEYGAC
+# RVLGYLPVINVLPEYAGKPWISKCKMAIYHHCMKLLMAPFSGSTSQTKFFQGPFGSVYKCLPRLATYSADYPEQNLLALTKSWTNGYGCPRCTVESSE
+# YRKGVNGVAVRRSNSNMIQFASTEDFGTMIFTSLVAYIGT]
+# end gene g1798
+###
+#
+##FASTA
+>scf_2298
+TATGCCATCGGATACACTAACATAGTTCTATTCTGTTACTAGTCTTGTCAATATGCTACG
+CATGGGTTTAACCAAGCAACCAAGTGAATCTGATGGGCATGATTTACCACTCTCGATCAA
+AAGCCTCCGCAGACGAATTCGTAACGAAGGATCTCATGTTTTGCAGGTAAATTTGAGGCT
+TTTGATGAGATACATGATCACTTATGATTAACCACTCTTCGTATCTTTCTATATCTTTAG
+CCATTTACCGCAACACCCATCGATCTCACAACTGTCGCCAACTTCCCGTTAGAACACCTC
+GCCGATTTCGAAAAAGCTACTGATCCTATGATATTCTTGCACCGCAACATTTACGATCTT
+ACTCAGCATATCTTTTCGCTACCTCATCTTGCCCAGCATATGATCCTATCGCCAGCAATA
+GCAACACGCTATAACGAAGTTGTATATGATGATCTGCACACAAGTCAATGGTGGTCTGAT
+TTGCAGCGCAGTGTTGGTGACGACGACGTTGTGATCCTACCCCTAATGCTATCATCTGAC
+GCTACCTTGGTTTCCGGAAATGGCAAGAACAAGGCATGGCCGATCTATATGACTATTGGC
+AATGTGCCCAAAGGTGTGCGATATAAGAAGGAATACGGTGCCTGTCGTGTCCTGGGTTAC
+CTACCTGTCATCAATGTGCTCCCTGAATATGCTGGAAAACCATGGATATCGAAGTGCAAG
+ATGGCCATATATCACCATTGCATGAAGTTGTTGATGGCGCCCTTCTCTGGCTCGACCTCT
+CAAACAAAATTTTTCCAAGGACCATTTGGCTCGGTGTACAAGTGTTTACCTAGGCTGGCA
+ACCTATAGCGCTGACTACCCCGAACAAAACTTGTTGGCATTGACGAAGTCCTGGACCAAT
+GGTTATGGCTGTCCCCGGTGCACTGTGGAATCCAGTGAATATCGAAAAGGCGTGAATGGT
+GTAGCGGTCCGACGAAGCAACAGCAACATGATCCAATTCGCATCAACGGAAGACTTTGGA
+ACGGTGAACCTACGCAATGCTTTTTGGGACACTCCATTCGACATTTACGACGCATTGACT
+GTAGATGATCTTCACCAGCTTGGTGGCGTATATCGGCACCTGATCGGATTTGTGGAAAAA
+ATCATCAAGCAACAAAGGGGAAA

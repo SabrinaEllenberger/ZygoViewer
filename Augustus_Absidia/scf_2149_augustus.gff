@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 1066 (length = 378, name = scf_2149) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1066 on both strands
+# start gene g1791
+scf_2149	AUGUSTUS	gene	1	378	0.98	-	.	g1791
+scf_2149	AUGUSTUS	transcript	1	378	0.98	-	.	g1791.t1
+scf_2149	AUGUSTUS	internal	44	332	0.98	-	0	transcript_id "g1791.t1"; gene_id "g1791";
+scf_2149	AUGUSTUS	intron	1	43	1	-	.	transcript_id "g1791.t1"; gene_id "g1791";
+scf_2149	AUGUSTUS	intron	333	378	0.98	-	.	transcript_id "g1791.t1"; gene_id "g1791";
+scf_2149	AUGUSTUS	CDS	44	332	0.98	-	0	transcript_id "g1791.t1"; gene_id "g1791";
+# coding sequence = [gctaagaaggacgtcgctgctaagcctagctcctcatctggaggcaagaaagccaagaaaaagtggtctgccaaaaagg
+# tcaaggacaaggccaacaacatggttgtcttggacaagcctacgtacgaacgcctcttcaaggaagtgcctacctacaagctcattagccaatctgtc
+# ttggtcgatcgtctcaagttgaacggatctctggcccgtgtcgctctcaaggaactcaccgcccaaggtctcatcaagcctcttaccattcaccacgc
+# tcaagtcatctaca]
+# protein sequence = [AKKDVAAKPSSSSGGKKAKKKWSAKKVKDKANNMVVLDKPTYERLFKEVPTYKLISQSVLVDRLKLNGSLARVALKEL
+# TAQGLIKPLTIHHAQVIY]
+# end gene g1791
+###
+#
+##FASTA
+>scf_2149
+TTTTTTTTTTTTTTTTTTTTTTTGGGGAGTGCCAGAAACTTACTGTAGATGACTTGAGCG
+TGGTGAATGGTAAGAGGCTTGATGAGACCTTGGGCGGTGAGTTCCTTGAGAGCGACACGG
+GCCAGAGATCCGTTCAACTTGAGACGATCGACCAAGACAGATTGGCTAATGAGCTTGTAG
+GTAGGCACTTCCTTGAAGAGGCGTTCGTACGTAGGCTTGTCCAAGACAACCATGTTGTTG
+GCCTTGTCCTTGACCTTTTTGGCAGACCACTTTTTCTTGGCTTTCTTGCCTCCAGATGAG
+GAGCTAGGCTTAGCAGCGACGTCCTTCTTAGCCTAATGCATAACATTCATTAGTGAAAAA
+AAAAAAAAAAAAAAAAAA

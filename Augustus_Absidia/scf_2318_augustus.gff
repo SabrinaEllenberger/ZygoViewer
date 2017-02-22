@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 1120 (length = 375, name = scf_2318) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1120 on both strands
+# start gene g1800
+scf_2318	AUGUSTUS	gene	1	241	0.53	-	.	g1800
+scf_2318	AUGUSTUS	transcript	1	241	0.53	-	.	g1800.t1
+scf_2318	AUGUSTUS	initial	11	241	0.53	-	0	transcript_id "g1800.t1"; gene_id "g1800";
+scf_2318	AUGUSTUS	intron	1	10	0.96	-	.	transcript_id "g1800.t1"; gene_id "g1800";
+scf_2318	AUGUSTUS	CDS	11	241	0.53	-	0	transcript_id "g1800.t1"; gene_id "g1800";
+scf_2318	AUGUSTUS	start_codon	239	241	.	-	0	transcript_id "g1800.t1"; gene_id "g1800";
+# coding sequence = [atgaagaagctgatacgacaaactgggtgggatcaatcatcatcagatcacatatcccctcggccgctcaacatcaaag
+# catttcggcatttggacctgacggaaacgaacgaagatggtacgatcaacaaatcaataatgcgcacaggtgtcttttacagcaacaagtgtgaagat
+# catgtcaaggccatggatgtgacagaaactcaacttgaatctgacgactatctg]
+# protein sequence = [MKKLIRQTGWDQSSSDHISPRPLNIKAFRHLDLTETNEDGTINKSIMRTGVFYSNKCEDHVKAMDVTETQLESDDYL]
+# end gene g1800
+###
+#
+##FASTA
+>scf_2318
+CGTAGTATACCAGATAGTCGTCAGATTCAAGTTGAGTTTCTGTCACATCCATGGCCTTGA
+CATGATCTTCACACTTGTTGCTGTAAAAGACACCTGTGCGCATTATTGATTTGTTGATCG
+TACCATCTTCGTTCGTTTCCGTCAGGTCCAAATGCCGAAATGCTTTGATGTTGAGCGGCC
+GAGGGGATATGTGATCTGATGATGATTGATCCCACCCAGTTTGTCGTATCAGCTTCTTCA
+TAAACGTTTCCACTTGTTGCTGTAGCTCGTCCAAATTGGTGTCACTATGCTCCAGGTAGT
+CAAGTCGCTGGTACTTGGCATCTTTCAGGAGAGATTTGAGCGTGAAAATGGGTCGATTTT
+GGCCAAGCGGTGTCG

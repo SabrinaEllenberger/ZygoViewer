@@ -1,0 +1,49 @@
+# ----- prediction on sequence number 1055 (length = 937, name = scf_2135) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1055 on both strands
+# start gene g1768
+scf_2135	AUGUSTUS	gene	1	937	0.7	+	.	g1768
+scf_2135	AUGUSTUS	transcript	1	937	0.7	+	.	g1768.t1
+scf_2135	AUGUSTUS	internal	1	174	0.7	+	1	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	internal	238	320	1	+	1	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	internal	385	937	1	+	2	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	intron	175	237	1	+	.	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	intron	321	384	1	+	.	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	CDS	1	174	0.7	+	1	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	CDS	238	320	1	+	1	transcript_id "g1768.t1"; gene_id "g1768";
+scf_2135	AUGUSTUS	CDS	385	937	1	+	2	transcript_id "g1768.t1"; gene_id "g1768";
+# coding sequence = [ttgtagtgaacccgaaatgcctggtttgatggccatccgtgaaaagtacggtcctagccaacctttgaagggtgctcgt
+# atcgccggttgtttgcacatgactatccaaactgctgtcttgattgaaacccttaccgctcttggtgctgaagtgacctggtcttcttgcaacatctt
+# ctctactcaagaccatgccgccgctgctattgctgctaccggtgttcccgtctacgcctggaagggtgaaaccgacgaagaattcgtctggtgtatca
+# agcaaaccttgttcttccctgatggcaagcctttgaacatgatcttggatgatggtggtgatttgaccaacattgtgcacgaagaataccctgaattg
+# ttggctggtatcaagggtctctctgaagaaaccaccactggtgtccacaacttgtacaagatgatgaagaacggtaccttgaagctcccctccatcaa
+# cgtcaacgactccgtcaccaagtccaagttcgataacctttacggttgccgtgaatccctcgtcgatggtatcaagcgtgctactgatgtcatgatcg
+# ccggtaaggtgtctgttgttgctggttacggtgatgtcggtaagggttgcgctgctgctctccgtgctttcggttctcgtgtcctcgtcaccgaagtc
+# gatcccatcaacgctctccaagctgctatggaaggttacgaagtcaccactatggaagaagctgtcaaggaaggtcaaatctacgttacaaccactgg
+# ctgccgtgacattatcaccggtgctcactttgaacaaatgaagga]
+# protein sequence = [CSEPEMPGLMAIREKYGPSQPLKGARIAGCLHMTIQTAVLIETLTALGAEVTWSSCNIFSTQDHAAAAIAATGVPVYA
+# WKGETDEEFVWCIKQTLFFPDGKPLNMILDDGGDLTNIVHEEYPELLAGIKGLSEETTTGVHNLYKMMKNGTLKLPSINVNDSVTKSKFDNLYGCRES
+# LVDGIKRATDVMIAGKVSVVAGYGDVGKGCAAALRAFGSRVLVTEVDPINALQAAMEGYEVTTMEEAVKEGQIYVTTTGCRDIITGAHFEQMK]
+# end gene g1768
+###
+#
+##FASTA
+>scf_2135
+TTGTAGTGAACCCGAAATGCCTGGTTTGATGGCCATCCGTGAAAAGTACGGTCCTAGCCA
+ACCTTTGAAGGGTGCTCGTATCGCCGGTTGTTTGCACATGACTATCCAAACTGCTGTCTT
+GATTGAAACCCTTACCGCTCTTGGTGCTGAAGTGACCTGGTCTTCTTGCAACATGTAAGT
+CTATTTTTCATGGTAAAGGATGACCTATTCTGACACGTATGGATATTTTGACTGTAGCTT
+CTCTACTCAAGACCATGCCGCCGCTGCTATTGCTGCTACCGGTGTTCCCGTCTACGCCTG
+GAAGGGTGAAACCGACGAAGGTGAGAACAGGGCGGAGGAACCGCGCAAAGGAAAAGGATG
+GATTCTCAACTCTTGAATGCATAGAATTCGTCTGGTGTATCAAGCAAACCTTGTTCTTCC
+CTGATGGCAAGCCTTTGAACATGATCTTGGATGATGGTGGTGATTTGACCAACATTGTGC
+ACGAAGAATACCCTGAATTGTTGGCTGGTATCAAGGGTCTCTCTGAAGAAACCACCACTG
+GTGTCCACAACTTGTACAAGATGATGAAGAACGGTACCTTGAAGCTCCCCTCCATCAACG
+TCAACGACTCCGTCACCAAGTCCAAGTTCGATAACCTTTACGGTTGCCGTGAATCCCTCG
+TCGATGGTATCAAGCGTGCTACTGATGTCATGATCGCCGGTAAGGTGTCTGTTGTTGCTG
+GTTACGGTGATGTCGGTAAGGGTTGCGCTGCTGCTCTCCGTGCTTTCGGTTCTCGTGTCC
+TCGTCACCGAAGTCGATCCCATCAACGCTCTCCAAGCTGCTATGGAAGGTTACGAAGTCA
+CCACTATGGAAGAAGCTGTCAAGGAAGGTCAAATCTACGTTACAACCACTGGCTGCCGTG
+ACATTATCACCGGTGCTCACTTTGAACAAATGAAGGA
