@@ -1,0 +1,42 @@
+# ----- prediction on sequence number 2183 (length = 666, name = scf_4707) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2183 on both strands
+# start gene g3954
+scf_4707	AUGUSTUS	gene	20	660	0.47	+	.	g3954
+scf_4707	AUGUSTUS	transcript	20	660	0.47	+	.	g3954.t1
+scf_4707	AUGUSTUS	start_codon	20	22	.	+	0	transcript_id "g3954.t1"; gene_id "g3954";
+scf_4707	AUGUSTUS	initial	20	576	0.47	+	0	transcript_id "g3954.t1"; gene_id "g3954";
+scf_4707	AUGUSTUS	terminal	642	660	0.56	+	1	transcript_id "g3954.t1"; gene_id "g3954";
+scf_4707	AUGUSTUS	intron	577	641	0.56	+	.	transcript_id "g3954.t1"; gene_id "g3954";
+scf_4707	AUGUSTUS	CDS	20	576	0.47	+	0	transcript_id "g3954.t1"; gene_id "g3954";
+scf_4707	AUGUSTUS	CDS	642	657	0.56	+	1	transcript_id "g3954.t1"; gene_id "g3954";
+scf_4707	AUGUSTUS	stop_codon	658	660	.	+	0	transcript_id "g3954.t1"; gene_id "g3954";
+# coding sequence = [atggatttaccggagtttgaaaaataccaatgtgtgattggtacagaattactcagccctttaggtatctacctggtag
+# gactagctgtatcattcgatgatacacctacgtttgaatatgatgatgaagaagaagacattccaaagccggatgaatcaccagcaggaacagaacag
+# caaagaaaagactttttcagtcagattgacgaaagtatggatctcaatcagaaagtcgatccaaaaagcttctgttcagtacccgaaagtaaggttac
+# actagatacacccgaaggaaaaacgtgttatcgaagacagtaccctataccagatacacttatgccattagtagatgaagcagtagcaaaatggaaag
+# cagatggcactgtgattcgatccacttccaataatcaatggaatagcccattaactttagctccaaagaaggatgcagatggtaaaaagacgaaaaag
+# agaccatgtcttgatccaagacacataaacaatcttttaccagatgacaagtttcccataccactgatacgtgaaatctttgaaaaatccaaaggacc
+# aacataa]
+# protein sequence = [MDLPEFEKYQCVIGTELLSPLGIYLVGLAVSFDDTPTFEYDDEEEDIPKPDESPAGTEQQRKDFFSQIDESMDLNQKV
+# DPKSFCSVPESKVTLDTPEGKTCYRRQYPIPDTLMPLVDEAVAKWKADGTVIRSTSNNQWNSPLTLAPKKDADGKKTKKRPCLDPRHINNLLPDDKFP
+# IPLIREIFEKSKGPT]
+# end gene g3954
+###
+#
+##FASTA
+>scf_4707
+TTTTCATCAATTTGAAGCTATGGATTTACCGGAGTTTGAAAAATACCAATGTGTGATTGG
+TACAGAATTACTCAGCCCTTTAGGTATCTACCTGGTAGGACTAGCTGTATCATTCGATGA
+TACACCTACGTTTGAATATGATGATGAAGAAGAAGACATTCCAAAGCCGGATGAATCACC
+AGCAGGAACAGAACAGCAAAGAAAAGACTTTTTCAGTCAGATTGACGAAAGTATGGATCT
+CAATCAGAAAGTCGATCCAAAAAGCTTCTGTTCAGTACCCGAAAGTAAGGTTACACTAGA
+TACACCCGAAGGAAAAACGTGTTATCGAAGACAGTACCCTATACCAGATACACTTATGCC
+ATTAGTAGATGAAGCAGTAGCAAAATGGAAAGCAGATGGCACTGTGATTCGATCCACTTC
+CAATAATCAATGGAATAGCCCATTAACTTTAGCTCCAAAGAAGGATGCAGATGGTAAAAA
+GACGAAAAAGAGACCATGTCTTGATCCAAGACACATAAACAATCTTTTACCAGATGACAA
+GTTTCCCATACCACTGATACGTGAAATCTTTGAAAAGTTAAAAAACAGTCGAGTGTTTAC
+CACTTTAGATTTGAAGAATGCTTTTCATAGATTCCAAATAGATCCAAAGGACCAACATAA
+AACAAC

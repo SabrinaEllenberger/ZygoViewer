@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 2160 (length = 557, name = scf_4641) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2160 on both strands
+# start gene g3730
+scf_4641	AUGUSTUS	gene	1	557	1	+	.	g3730
+scf_4641	AUGUSTUS	transcript	1	557	1	+	.	g3730.t1
+scf_4641	AUGUSTUS	internal	1	129	1	+	0	transcript_id "g3730.t1"; gene_id "g3730";
+scf_4641	AUGUSTUS	internal	195	557	1	+	0	transcript_id "g3730.t1"; gene_id "g3730";
+scf_4641	AUGUSTUS	intron	130	194	1	+	.	transcript_id "g3730.t1"; gene_id "g3730";
+scf_4641	AUGUSTUS	CDS	1	129	1	+	0	transcript_id "g3730.t1"; gene_id "g3730";
+scf_4641	AUGUSTUS	CDS	195	557	1	+	0	transcript_id "g3730.t1"; gene_id "g3730";
+# coding sequence = [gccatccatgaacatgttgaaaagaagaaatctcatgctggtgttattgctggatctatcgctgctggtactgccgttg
+# ttggtggtggcatcgtcaaggttcatcatgacactgaaaagaaggctcacgaaatcgaacatcatgccgaagccaacgctggagctgtgattgaaact
+# gtgaaggtgaccgtgtttggctggtacaagactcttaatgaacgcattgctgcccgcttacaacaaggtggtgacaacgccaaggaagatgtcgaacg
+# tattaccaaggaagctcgtgaagaacttactgtgatcatcaaggaatccaaggacaaggcccacaagggattggcttctgacgaaaaggctaacgctg
+# aattggaaattgctctcgaaaaggtgcaaggtaccgttttggaacaagttaccgaagtggaaaccattgtcaagaccaccactgaagttgatgtgatc
+# accgaaaagttgactgctgct]
+# protein sequence = [AIHEHVEKKKSHAGVIAGSIAAGTAVVGGGIVKVHHDTEKKAHEIEHHAEANAGAVIETVKVTVFGWYKTLNERIAAR
+# LQQGGDNAKEDVERITKEAREELTVIIKESKDKAHKGLASDEKANAELEIALEKVQGTVLEQVTEVETIVKTTTEVDVITEKLTAA]
+# end gene g3730
+###
+#
+##FASTA
+>scf_4641
+GCCATCCATGAACATGTTGAAAAGAAGAAATCTCATGCTGGTGTTATTGCTGGATCTATC
+GCTGCTGGTACTGCCGTTGTTGGTGGTGGCATCGTCAAGGTTCATCATGACACTGAAAAG
+AAGGCTCACGTAAGTATTTCTCAGGACTGATATTAGAAGGGTAAATGTATTAATACCTTA
+TTTTCTATGTTTAGGAAATCGAACATCATGCCGAAGCCAACGCTGGAGCTGTGATTGAAA
+CTGTGAAGGTGACCGTGTTTGGCTGGTACAAGACTCTTAATGAACGCATTGCTGCCCGCT
+TACAACAAGGTGGTGACAACGCCAAGGAAGATGTCGAACGTATTACCAAGGAAGCTCGTG
+AAGAACTTACTGTGATCATCAAGGAATCCAAGGACAAGGCCCACAAGGGATTGGCTTCTG
+ACGAAAAGGCTAACGCTGAATTGGAAATTGCTCTCGAAAAGGTGCAAGGTACCGTTTTGG
+AACAAGTTACCGAAGTGGAAACCATTGTCAAGACCACCACTGAAGTTGATGTGATCACCG
+AAAAGTTGACTGCTGCT

@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 2163 (length = 583, name = scf_4650) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2163 on both strands
+# start gene g3732
+scf_4650	AUGUSTUS	gene	1	583	0.89	-	.	g3732
+scf_4650	AUGUSTUS	transcript	1	583	0.89	-	.	g3732.t1
+scf_4650	AUGUSTUS	internal	59	539	0.89	-	2	transcript_id "g3732.t1"; gene_id "g3732";
+scf_4650	AUGUSTUS	intron	1	58	0.95	-	.	transcript_id "g3732.t1"; gene_id "g3732";
+scf_4650	AUGUSTUS	intron	540	583	0.93	-	.	transcript_id "g3732.t1"; gene_id "g3732";
+scf_4650	AUGUSTUS	CDS	59	539	0.89	-	2	transcript_id "g3732.t1"; gene_id "g3732";
+# coding sequence = [atcctactgctgcccccattccctcctcctatcgtatcaagaaaacattgaaggaaaacagcaaagttggtgtcaagtg
+# cttccattcatgtgtaggtggatgcatgatgtatttggacgaaacggtgccacacttgacagagtgccctgattgccatcaaccaagataccacccac
+# aacatggctcccccaactcctatgtatatgtggtttccatcggtgacatcctggcatcaaagctatactatccagcaacccgccagcagctcctgtat
+# cgccacagttatacgaacaacacagacaacatgaaggacatattcgatggaaaggtgtaccaagctcttttagcagatggcaagtttgaatttcagta
+# cgacattgctatcggtctgtctatcgatggcttcactttctttgacggatcaaacttccaaggcactatggtgaatatgatcatatttaacatccatc
+# caaagcaaag]
+# protein sequence = [PTAAPIPSSYRIKKTLKENSKVGVKCFHSCVGGCMMYLDETVPHLTECPDCHQPRYHPQHGSPNSYVYVVSIGDILAS
+# KLYYPATRQQLLYRHSYTNNTDNMKDIFDGKVYQALLADGKFEFQYDIAIGLSIDGFTFFDGSNFQGTMVNMIIFNIHPKQ]
+# end gene g3732
+###
+#
+##FASTA
+>scf_4650
+TGAGAAAAGGGGTTACTTTCTCTCCGTCTTACAATGCTTATGCTAAAATGAAGGTTACCT
+TTGCTTTGGATGGATGTTAAATATGATCATATTCACCATAGTGCCTTGGAAGTTTGATCC
+GTCAAAGAAAGTGAAGCCATCGATAGACAGACCGATAGCAATGTCGTACTGAAATTCAAA
+CTTGCCATCTGCTAAAAGAGCTTGGTACACCTTTCCATCGAATATGTCCTTCATGTTGTC
+TGTGTTGTTCGTATAACTGTGGCGATACAGGAGCTGCTGGCGGGTTGCTGGATAGTATAG
+CTTTGATGCCAGGATGTCACCGATGGAAACCACATATACATAGGAGTTGGGGGAGCCATG
+TTGTGGGTGGTATCTTGGTTGATGGCAATCAGGGCACTCTGTCAAGTGTGGCACCGTTTC
+GTCCAAATACATCATGCATCCACCTACACATGAATGGAAGCACTTGACACCAACTTTGCT
+GTTTTCCTTCAATGTTTTCTTGATACGATAGGAGGAGGGAATGGGGGCAGCAGTAGGATC
+TAAGAGCACATGTAAGTTAACAATTCCGTTGCAGCAAGCTATT

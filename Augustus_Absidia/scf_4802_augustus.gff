@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2224 (length = 217, name = scf_4802) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2224 on both strands
+# start gene g4045
+scf_4802	AUGUSTUS	gene	1	201	0.87	+	.	g4045
+scf_4802	AUGUSTUS	transcript	1	201	0.87	+	.	g4045.t1
+scf_4802	AUGUSTUS	terminal	88	201	0.87	+	0	transcript_id "g4045.t1"; gene_id "g4045";
+scf_4802	AUGUSTUS	intron	1	87	0.87	+	.	transcript_id "g4045.t1"; gene_id "g4045";
+scf_4802	AUGUSTUS	CDS	88	198	0.87	+	0	transcript_id "g4045.t1"; gene_id "g4045";
+scf_4802	AUGUSTUS	stop_codon	199	201	.	+	0	transcript_id "g4045.t1"; gene_id "g4045";
+# coding sequence = [tggtttgagcccgaatggacatccttggaacatgtattgacgtccattgtgggtaaacgtggtcttatgttggtcatct
+# gggtgaatcaagaacctatggaaggcgctctttaa]
+# protein sequence = [WFEPEWTSLEHVLTSIVGKRGLMLVIWVNQEPMEGAL]
+# end gene g4045
+###
+#
+##FASTA
+>scf_4802
+ATGGATAATCACATCATCTACAAAGGTATGTACATAGGGCATGTCATCAAATATAAAGTG
+CATAACTCTTTGGAACTTTGCGGATAGTGGTTTGAGCCCGAATGGACATCCTTGGAACAT
+GTATTGACGTCCATTGTGGGTAAACGTGGTCTTATGTTGGTCATCTGGGTGAATCAAGAA
+CCTATGGAAGGCGCTCTTTAAATCAAGGGTGGTGAAC

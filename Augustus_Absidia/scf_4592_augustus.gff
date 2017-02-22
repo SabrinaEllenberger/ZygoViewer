@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 2144 (length = 358, name = scf_4592) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2144 on both strands
+# start gene g3405
+scf_4592	AUGUSTUS	gene	1	326	0.28	-	.	g3405
+scf_4592	AUGUSTUS	transcript	1	326	0.28	-	.	g3405.t1
+scf_4592	AUGUSTUS	internal	57	266	0.28	-	0	transcript_id "g3405.t1"; gene_id "g3405";
+scf_4592	AUGUSTUS	initial	318	326	0.51	-	0	transcript_id "g3405.t1"; gene_id "g3405";
+scf_4592	AUGUSTUS	intron	1	56	0.31	-	.	transcript_id "g3405.t1"; gene_id "g3405";
+scf_4592	AUGUSTUS	intron	267	317	0.51	-	.	transcript_id "g3405.t1"; gene_id "g3405";
+scf_4592	AUGUSTUS	CDS	57	266	0.28	-	0	transcript_id "g3405.t1"; gene_id "g3405";
+scf_4592	AUGUSTUS	CDS	318	326	0.51	-	0	transcript_id "g3405.t1"; gene_id "g3405";
+scf_4592	AUGUSTUS	start_codon	324	326	.	-	0	transcript_id "g3405.t1"; gene_id "g3405";
+# coding sequence = [atggataaggcagaggatccatttgccacattgatgacggtagaggaggagcgcagttccttgattccaagagctttaa
+# cgaaatccaggcacaaaatgtccaccgaagagccaccatccaagacaattggagtgttgttagagtttacggatcccattgtccacggagcacaattc
+# ccaaggggtttgccagtagttagagcagaatccaccttcttg]
+# protein sequence = [MDKAEDPFATLMTVEEERSSLIPRALTKSRHKMSTEEPPSKTIGVLLEFTDPIVHGAQFPRGLPVVRAESTFL]
+# end gene g3405
+###
+#
+##FASTA
+>scf_4592
+GCTTCGCATCCAACTTGGCGATCGCAGATCAAGGACGCTCTAACAAAAAGGTATACCAAG
+AAGGTGGATTCTGCTCTAACTACTGGCAAACCCCTTGGGAATTGTGCTCCGTGGACAATG
+GGATCCGTAAACTCTAACAACACTCCAATTGTCTTGGATGGTGGCTCTTCGGTGGACATT
+TTGTGCCTGGATTTCGTTAAAGCTCTTGGAATCAAGGAACTGCGCTCCTCCTCTACCGTC
+ATCAATGTGGCAAATGGATCCTCTGCCTATCCTGTAGGCGAAGTTGAATCTCTATCGGTG
+TCTCTTGGAAATCGAACCTTATCCATTAAGAATGCTCTTGTATTCGAACACTTGCCCT

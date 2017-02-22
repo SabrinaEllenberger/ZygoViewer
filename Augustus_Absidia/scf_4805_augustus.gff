@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 2226 (length = 285, name = scf_4805) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2226 on both strands
+# start gene g4046
+scf_4805	AUGUSTUS	gene	1	206	0.54	-	.	g4046
+scf_4805	AUGUSTUS	transcript	1	206	0.54	-	.	g4046.t1
+scf_4805	AUGUSTUS	internal	12	119	0.54	-	1	transcript_id "g4046.t1"; gene_id "g4046";
+scf_4805	AUGUSTUS	initial	175	206	0.97	-	0	transcript_id "g4046.t1"; gene_id "g4046";
+scf_4805	AUGUSTUS	intron	1	11	0.54	-	.	transcript_id "g4046.t1"; gene_id "g4046";
+scf_4805	AUGUSTUS	intron	120	174	0.97	-	.	transcript_id "g4046.t1"; gene_id "g4046";
+scf_4805	AUGUSTUS	CDS	12	119	0.54	-	1	transcript_id "g4046.t1"; gene_id "g4046";
+scf_4805	AUGUSTUS	CDS	175	206	0.97	-	0	transcript_id "g4046.t1"; gene_id "g4046";
+scf_4805	AUGUSTUS	start_codon	204	206	.	-	0	transcript_id "g4046.t1"; gene_id "g4046";
+# coding sequence = [atgacgacttcgtccatctcttcaggagtgaagtcatcaaccacctacgcattgacttacgtgggtacgtcagtgtcgt
+# ctgtggtcggtcttcgtgcttgcacagatggttcaggtacgggtgaagggcctatacagaa]
+# protein sequence = [MTTSSISSGVKSSTTYALTYVGTSVSSVVGLRACTDGSGTGEGPIQ]
+# end gene g4046
+###
+#
+##FASTA
+>scf_4805
+CCTCCGTCTACTTCTGTATAGGCCCTTCACCCGTACCTGAACCATCTGTGCAAGCACGAA
+GACCGACCACAGACGACACTGACGTACCCACGTAAGTCAATGCGTAGGTGGTTGATGACC
+TGTTACACTTTTTAATCCCTTTTTGCTGTATGCCTTAGTGAAGTGCTTCATTACTTCACT
+CCTGAAGAGATGGACGAAGTCGTCATATTTGCTCGCTTCGATGTCCATACGACAGATTGC
+TTCCCCGACGAAATGAACGGCCGCAGGCTCGCAAGATCCAGAATT

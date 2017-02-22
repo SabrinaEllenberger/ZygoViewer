@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 2207 (length = 380, name = scf_4761) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2207 on both strands
+# start gene g3961
+scf_4761	AUGUSTUS	gene	1	345	0.83	-	.	g3961
+scf_4761	AUGUSTUS	transcript	1	345	0.83	-	.	g3961.t1
+scf_4761	AUGUSTUS	internal	1	109	0.97	-	2	transcript_id "g3961.t1"; gene_id "g3961";
+scf_4761	AUGUSTUS	initial	165	345	0.85	-	0	transcript_id "g3961.t1"; gene_id "g3961";
+scf_4761	AUGUSTUS	intron	110	164	1	-	.	transcript_id "g3961.t1"; gene_id "g3961";
+scf_4761	AUGUSTUS	CDS	1	109	0.97	-	2	transcript_id "g3961.t1"; gene_id "g3961";
+scf_4761	AUGUSTUS	CDS	165	345	0.85	-	0	transcript_id "g3961.t1"; gene_id "g3961";
+scf_4761	AUGUSTUS	start_codon	343	345	.	-	0	transcript_id "g3961.t1"; gene_id "g3961";
+# coding sequence = [atgaagttcagcccgcggtaccttactggttttggccttactgacggtgaatggatggagcgactatggtcgtatcttg
+# gggggtttgtgaaggtgactcgggctatgtcaaagtcgtatcgtcttttgacgttggcatcggctttgaagcactttaagaaggagaagatggtgacg
+# atgggtgctgctcttgtggtgaggcacaaccgtgctgttgatatccgtggtaaacgctctgttgatctctgtggtgaatcgcgtttgctgactgaaga
+# agaagaagaacgata]
+# protein sequence = [MKFSPRYLTGFGLTDGEWMERLWSYLGGFVKVTRAMSKSYRLLTLASALKHFKKEKMVTMGAALVVRHNRAVDIRGKR
+# SVDLCGESRLLTEEEEER]
+# end gene g3961
+###
+#
+##FASTA
+>scf_4761
+TATCGTTCTTCTTCTTCTTCAGTCAGCAAACGCGATTCACCACAGAGATCAACAGAGCGT
+TTACCACGGATATCAACAGCACGGTTGTGCCTCACCACAAGAGCAGCACCTATTGAATCA
+AAAAGATTTATGTGAGTGGAGCGCTTTGTTCTTTTGTACCTTACCCATCGTCACCATCTT
+CTCCTTCTTAAAGTGCTTCAAAGCCGATGCCAACGTCAAAAGACGATACGACTTTGACAT
+AGCCCGAGTCACCTTCACAAACCCCCCAAGATACGACCATAGTCGCTCCATCCATTCACC
+GTCAGTAAGGCCAAAACCAGTAAGGTACCGCGGGCTGAACTTCATTTGGCAGTCAATCGA
+GTGAGCATAAGAGTGGAAGA

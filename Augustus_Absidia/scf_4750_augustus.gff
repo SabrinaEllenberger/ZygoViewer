@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 2199 (length = 217, name = scf_4750) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2199 on both strands
+# start gene g3957
+scf_4750	AUGUSTUS	gene	1	153	0.67	+	.	g3957
+scf_4750	AUGUSTUS	transcript	1	153	0.67	+	.	g3957.t1
+scf_4750	AUGUSTUS	terminal	1	153	0.67	+	0	transcript_id "g3957.t1"; gene_id "g3957";
+scf_4750	AUGUSTUS	CDS	1	150	0.67	+	0	transcript_id "g3957.t1"; gene_id "g3957";
+scf_4750	AUGUSTUS	stop_codon	151	153	.	+	0	transcript_id "g3957.t1"; gene_id "g3957";
+# coding sequence = [aacgtggtcaccaaccgccgcaccatgcagcactgtagcgaactcctcgacgaacttcaccggattttggtcccgacgg
+# cacttcatgttgatgagtcgctccatatatcactgcaacgtgaaatcaccgccaaattgctgttcgatgattga]
+# protein sequence = [NVVTNRRTMQHCSELLDELHRILVPTALHVDESLHISLQREITAKLLFDD]
+# end gene g3957
+###
+#
+##FASTA
+>scf_4750
+AACGTGGTCACCAACCGCCGCACCATGCAGCACTGTAGCGAACTCCTCGACGAACTTCAC
+CGGATTTTGGTCCCGACGGCACTTCATGTTGATGAGTCGCTCCATATATCACTGCAACGT
+GAAATCACCGCCAAATTGCTGTTCGATGATTGATCTTGCTTGCGACCAGTCCAACTTCTG
+GCCTTCCAGTTGCTTTTTGAACCAAGTGGTCTTGTCC

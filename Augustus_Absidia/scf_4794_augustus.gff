@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2220 (length = 242, name = scf_4794) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2220 on both strands
+# start gene g4044
+scf_4794	AUGUSTUS	gene	1	188	1	+	.	g4044
+scf_4794	AUGUSTUS	transcript	1	188	1	+	.	g4044.t1
+scf_4794	AUGUSTUS	terminal	1	188	1	+	2	transcript_id "g4044.t1"; gene_id "g4044";
+scf_4794	AUGUSTUS	CDS	1	185	1	+	2	transcript_id "g4044.t1"; gene_id "g4044";
+scf_4794	AUGUSTUS	stop_codon	186	188	.	+	0	transcript_id "g4044.t1"; gene_id "g4044";
+# coding sequence = [tggaggtggtctacgaatgggttcacctgaaccatgatcctgctgactgggatgaagtcgctgccgaagctttggatca
+# aggcaccaaggaatggctcaagaagcaggcggacaacgagataaactggacgtcgatcagtgcgctgcttcgtttgaacgacgacgagatggacatgc
+# ttgtaagttaa]
+# protein sequence = [EVVYEWVHLNHDPADWDEVAAEALDQGTKEWLKKQADNEINWTSISALLRLNDDEMDMLVS]
+# end gene g4044
+###
+#
+##FASTA
+>scf_4794
+TGGAGGTGGTCTACGAATGGGTTCACCTGAACCATGATCCTGCTGACTGGGATGAAGTCG
+CTGCCGAAGCTTTGGATCAAGGCACCAAGGAATGGCTCAAGAAGCAGGCGGACAACGAGA
+TAAACTGGACGTCGATCAGTGCGCTGCTTCGTTTGAACGACGACGAGATGGACATGCTTG
+TAAGTTAAAAAGTTGAACAATCATAACCGACTATCTTATTAGTTATGTGAACTCATTTGT
+CA

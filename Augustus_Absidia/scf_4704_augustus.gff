@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 2181 (length = 616, name = scf_4704) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2181 on both strands
+# start gene g3953
+scf_4704	AUGUSTUS	gene	1	547	0.55	+	.	g3953
+scf_4704	AUGUSTUS	transcript	1	547	0.55	+	.	g3953.t1
+scf_4704	AUGUSTUS	terminal	60	547	0.55	+	2	transcript_id "g3953.t1"; gene_id "g3953";
+scf_4704	AUGUSTUS	intron	1	59	0.55	+	.	transcript_id "g3953.t1"; gene_id "g3953";
+scf_4704	AUGUSTUS	CDS	60	544	0.55	+	2	transcript_id "g3953.t1"; gene_id "g3953";
+scf_4704	AUGUSTUS	stop_codon	545	547	.	+	0	transcript_id "g3953.t1"; gene_id "g3953";
+# coding sequence = [gggcgtcgcttgctctttcctttcctttgatggaggatcgggtggtgcgggtggtgcgggtggtgcgggatggtttgcg
+# gggaggtgaaggtgaaggtgaaggtgaaggtgaaggtgagcttgatcttgatggcgatcttgacgacgacgacgacgacgacgatgatgatgatgatg
+# atgatgaccacccttggagtcccacaaatagtgttggcgaagaaggaggagctgattgcagtgatgacatcgctactgatgacacgagtcgggttgtc
+# gctttcgtggatgtctatttcatgtgcataaacgttatcaatccaactcatacattgaccaaattcatgttcatcaaatttttaccttgcgagggatt
+# ttctgcgcccattcgatacgcaaaaggttcttggcaaaccaatggttttgacaccgcacgatggccaaagatcgattccaagcttgtagttccagttc
+# atcgattccccaagtga]
+# protein sequence = [ASLALSFPLMEDRVVRVVRVVRDGLRGGEGEGEGEGEGELDLDGDLDDDDDDDDDDDDDDDHPWSPTNSVGEEGGADC
+# SDDIATDDTSRVVAFVDVYFMCINVINPTHTLTKFMFIKFLPCEGFSAPIRYAKGSWQTNGFDTARWPKIDSKLVVPVHRFPK]
+# end gene g3953
+###
+#
+##FASTA
+>scf_4704
+AGAGAGAGAGAGAGAGAGAGAGGCTTTTCAAAGACGTCGTCGTTTTTGCTGGGTAGTAGG
+GGCGTCGCTTGCTCTTTCCTTTCCTTTGATGGAGGATCGGGTGGTGCGGGTGGTGCGGGT
+GGTGCGGGATGGTTTGCGGGGAGGTGAAGGTGAAGGTGAAGGTGAAGGTGAAGGTGAGCT
+TGATCTTGATGGCGATCTTGACGACGACGACGACGACGACGATGATGATGATGATGATGA
+TGACCACCCTTGGAGTCCCACAAATAGTGTTGGCGAAGAAGGAGGAGCTGATTGCAGTGA
+TGACATCGCTACTGATGACACGAGTCGGGTTGTCGCTTTCGTGGATGTCTATTTCATGTG
+CATAAACGTTATCAATCCAACTCATACATTGACCAAATTCATGTTCATCAAATTTTTACC
+TTGCGAGGGATTTTCTGCGCCCATTCGATACGCAAAAGGTTCTTGGCAAACCAATGGTTT
+TGACACCGCACGATGGCCAAAGATCGATTCCAAGCTTGTAGTTCCAGTTCATCGATTCCC
+CAAGTGATGATCTTGCCATCCAGTTGACTCCAAGTTGTTTCGCTAACTTCAGGGTGCTTA
+TCCTTGATGACTTTGA

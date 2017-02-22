@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 2185 (length = 309, name = scf_4712) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2185 on both strands
+# start gene g3955
+scf_4712	AUGUSTUS	gene	1	250	0.88	+	.	g3955
+scf_4712	AUGUSTUS	transcript	1	250	0.88	+	.	g3955.t1
+scf_4712	AUGUSTUS	internal	1	194	0.88	+	0	transcript_id "g3955.t1"; gene_id "g3955";
+scf_4712	AUGUSTUS	terminal	247	250	0.89	+	1	transcript_id "g3955.t1"; gene_id "g3955";
+scf_4712	AUGUSTUS	intron	195	246	0.89	+	.	transcript_id "g3955.t1"; gene_id "g3955";
+scf_4712	AUGUSTUS	CDS	1	194	0.88	+	0	transcript_id "g3955.t1"; gene_id "g3955";
+scf_4712	AUGUSTUS	CDS	247	247	0.89	+	1	transcript_id "g3955.t1"; gene_id "g3955";
+scf_4712	AUGUSTUS	stop_codon	248	250	.	+	0	transcript_id "g3955.t1"; gene_id "g3955";
+# coding sequence = [cctggtgacgctgaaggagagtttgactttgtggatggtcatttcagacctatggccaacgaaatgcgtcggacaggta
+# ctctgatggcaacagatgagcagcaaaagaaaattttgacgatgatgggtatccattactgccgtcatgagctgattcccatcggtaaggctattacc
+# aaaaaaggaaaatccagttag]
+# protein sequence = [PGDAEGEFDFVDGHFRPMANEMRRTGTLMATDEQQKKILTMMGIHYCRHELIPIGKAITKKGKSS]
+# end gene g3955
+###
+#
+##FASTA
+>scf_4712
+CCTGGTGACGCTGAAGGAGAGTTTGACTTTGTGGATGGTCATTTCAGACCTATGGCCAAC
+GAAATGCGTCGGACAGGTACTCTGATGGCAACAGATGAGCAGCAAAAGAAAATTTTGACG
+ATGATGGGTATCCATTACTGCCGTCATGAGCTGATTCCCATCGGTAAGGCTATTACCAAA
+AAAGGAAAATCCAGGTACGGTGCATGGTAAGTGCGTAAGGGTGGGATAATGCAACGTGGG
+ATATAGTTAGCACGCGAAACAACGTTTCAAACTCCGACCCACAGTTGTGGGTTGGCATAT
+AGAGCGTAA

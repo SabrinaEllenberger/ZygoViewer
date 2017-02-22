@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2216 (length = 249, name = scf_4787) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2216 on both strands
+# start gene g4042
+scf_4787	AUGUSTUS	gene	1	215	0.48	+	.	g4042
+scf_4787	AUGUSTUS	transcript	1	215	0.48	+	.	g4042.t1
+scf_4787	AUGUSTUS	terminal	1	215	0.48	+	2	transcript_id "g4042.t1"; gene_id "g4042";
+scf_4787	AUGUSTUS	CDS	1	212	0.48	+	2	transcript_id "g4042.t1"; gene_id "g4042";
+scf_4787	AUGUSTUS	stop_codon	213	215	.	+	0	transcript_id "g4042.t1"; gene_id "g4042";
+# coding sequence = [acttgtatgaaaccgttgttgaaagatttggttacgtggtgaactatggacaggtccagaacctttggaaggaatcttt
+# tgtcgcattgtacaagatggatgaagacctgctgcgatcaagccgcatgctcgtggaaaggttccgtgaaagtgccgattgtgaagaggtaagaagaa
+# tatcatgtttaatcatgcattgggatggtcgtgtgtag]
+# protein sequence = [LYETVVERFGYVVNYGQVQNLWKESFVALYKMDEDLLRSSRMLVERFRESADCEEVRRISCLIMHWDGRV]
+# end gene g4042
+###
+#
+##FASTA
+>scf_4787
+ACTTGTATGAAACCGTTGTTGAAAGATTTGGTTACGTGGTGAACTATGGACAGGTCCAGA
+ACCTTTGGAAGGAATCTTTTGTCGCATTGTACAAGATGGATGAAGACCTGCTGCGATCAA
+GCCGCATGCTCGTGGAAAGGTTCCGTGAAAGTGCCGATTGTGAAGAGGTAAGAAGAATAT
+CATGTTTAATCATGCATTGGGATGGTCGTGTGTAGATTATGGATTCTGGTGCCGGTGGTG
+AAAACGAAG

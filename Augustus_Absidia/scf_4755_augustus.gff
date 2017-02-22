@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 2203 (length = 217, name = scf_4755) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2203 on both strands
+# start gene g3959
+scf_4755	AUGUSTUS	gene	1	99	0.47	+	.	g3959
+scf_4755	AUGUSTUS	transcript	1	99	0.47	+	.	g3959.t1
+scf_4755	AUGUSTUS	terminal	1	99	0.47	+	0	transcript_id "g3959.t1"; gene_id "g3959";
+scf_4755	AUGUSTUS	CDS	1	96	0.47	+	0	transcript_id "g3959.t1"; gene_id "g3959";
+scf_4755	AUGUSTUS	stop_codon	97	99	.	+	0	transcript_id "g3959.t1"; gene_id "g3959";
+# coding sequence = [cagggcagcccaccttctttgacaccttctgtcgtttacgttgatcgtggtgtgcatgatgacgattacgtccacggtg
+# acagtagctctggacactga]
+# protein sequence = [QGSPPSLTPSVVYVDRGVHDDDYVHGDSSSGH]
+# end gene g3959
+###
+#
+##FASTA
+>scf_4755
+CAGGGCAGCCCACCTTCTTTGACACCTTCTGTCGTTTACGTTGATCGTGGTGTGCATGAT
+GACGATTACGTCCACGGTGACAGTAGCTCTGGACACTGAAGTCAATACCGCGCTGAGGGA
+CTCCAGCTATCCCTGTAGATGGCACGTCCAAGTTGTCCTCGTACACATCGATTTCACCGT
+CGAAGTTCTTGACGATTTTGCTGCTGATCCATTTGTA
