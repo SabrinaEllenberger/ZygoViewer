@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 761 (length = 552, name = scf_1583) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 761 on both strands
+# start gene g1509
+scf_1583	AUGUSTUS	gene	1	510	0.95	-	.	g1509
+scf_1583	AUGUSTUS	transcript	1	510	0.95	-	.	g1509.t1
+scf_1583	AUGUSTUS	internal	1	440	0.95	-	1	transcript_id "g1509.t1"; gene_id "g1509";
+scf_1583	AUGUSTUS	initial	503	510	0.98	-	0	transcript_id "g1509.t1"; gene_id "g1509";
+scf_1583	AUGUSTUS	intron	441	502	0.98	-	.	transcript_id "g1509.t1"; gene_id "g1509";
+scf_1583	AUGUSTUS	CDS	1	440	0.95	-	1	transcript_id "g1509.t1"; gene_id "g1509";
+scf_1583	AUGUSTUS	CDS	503	510	0.98	-	0	transcript_id "g1509.t1"; gene_id "g1509";
+scf_1583	AUGUSTUS	start_codon	508	510	.	-	0	transcript_id "g1509.t1"; gene_id "g1509";
+# coding sequence = [atgacaagaacgaaagtgaagagagtgaagacagaagccgacaatgtgctgatgggccaccgacatcaccaccgtttgc
+# tgaaatatcgactatggaaacacaagaagcgtttgcggaaaatgagcccatcagatcaaaagtacgaatacgaaaaggcaaaagtagcgtccattgtg
+# tctgagcttgctgcgtctaaatcactcatcgctgctgccaagcgctcaaaccgccaacatgacgacgaggacgaagatgacgacgatgctcctagcga
+# caatgaagacaatctagcgtctaccgacgatgacctggcggatgacttggcggacaaccagtatgaagaacctagtgcagcaacaatcaagaaagtct
+# gtggcttgattgtggacctcttgcgtaaaaaggacgaagattactgtatcaatacgaacgacttgttggaaagag]
+# protein sequence = [MTRTKVKRVKTEADNVLMGHRHHHRLLKYRLWKHKKRLRKMSPSDQKYEYEKAKVASIVSELAASKSLIAAAKRSNRQ
+# HDDEDEDDDDAPSDNEDNLASTDDDLADDLADNQYEEPSAATIKKVCGLIVDLLRKKDEDYCINTNDLLER]
+# end gene g1509
+###
+#
+##FASTA
+>scf_1583
+CTCTTTCCAACAAGTCGTTCGTATTGATACAGTAATCTTCGTCCTTTTTACGCAAGAGGT
+CCACAATCAAGCCACAGACTTTCTTGATTGTTGCTGCACTAGGTTCTTCATACTGGTTGT
+CCGCCAAGTCATCCGCCAGGTCATCGTCGGTAGACGCTAGATTGTCTTCATTGTCGCTAG
+GAGCATCGTCGTCATCTTCGTCCTCGTCGTCATGTTGGCGGTTTGAGCGCTTGGCAGCAG
+CGATGAGTGATTTAGACGCAGCAAGCTCAGACACAATGGACGCTACTTTTGCCTTTTCGT
+ATTCGTACTTTTGATCTGATGGGCTCATTTTCCGCAAACGCTTCTTGTGTTTCCATAGTC
+GATATTTCAGCAAACGGTGGTGATGTCGGTGGCCCATCAGCACATTGTCGGCTTCTGTCT
+TCACTCTCTTCACTTTCGTTCTAGGAAATAGAATTGTGTACTTTAGTATCTCGATTCTCA
+CATAAAGGAATATGCCGGTTACCTTGTCATTCGTTTTCTTCGCAGATCTTCTCTCTTAGG
+CGCAATGTATAT

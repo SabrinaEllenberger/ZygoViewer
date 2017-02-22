@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 826 (length = 272, name = scf_1688) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 826 on both strands
+# start gene g1555
+scf_1688	AUGUSTUS	gene	1	272	1	+	.	g1555
+scf_1688	AUGUSTUS	transcript	1	272	1	+	.	g1555.t1
+scf_1688	AUGUSTUS	internal	1	73	1	+	0	transcript_id "g1555.t1"; gene_id "g1555";
+scf_1688	AUGUSTUS	internal	140	272	1	+	2	transcript_id "g1555.t1"; gene_id "g1555";
+scf_1688	AUGUSTUS	intron	74	139	1	+	.	transcript_id "g1555.t1"; gene_id "g1555";
+scf_1688	AUGUSTUS	CDS	1	73	1	+	0	transcript_id "g1555.t1"; gene_id "g1555";
+scf_1688	AUGUSTUS	CDS	140	272	1	+	2	transcript_id "g1555.t1"; gene_id "g1555";
+# coding sequence = [cgtctcgtcctcgaagttgctcaacacttgggtgaaaacactgtgcgtactattgctatggatggtaccgaaggtctcg
+# tccgtggtcaaaaggtcgttgacactggtgctcccatcaccattcctgtcggtaaggaagtccttggtcgtatcatcaacgttatcggtgaacccatt
+# gacgaacgtggtcccatcaacgccaagac]
+# protein sequence = [RLVLEVAQHLGENTVRTIAMDGTEGLVRGQKVVDTGAPITIPVGKEVLGRIINVIGEPIDERGPINAK]
+# end gene g1555
+###
+#
+##FASTA
+>scf_1688
+CGTCTCGTCCTCGAAGTTGCTCAACACTTGGGTGAAAACACTGTGCGTACTATTGCTATG
+GATGGTACCGAAGGTAAGTAAGGACAATGGACACTGAAAGGGCAGGGCATAACCTCCATC
+ATCCCTCTACTTTGACTAGGTCTCGTCCGTGGTCAAAAGGTCGTTGACACTGGTGCTCCC
+ATCACCATTCCTGTCGGTAAGGAAGTCCTTGGTCGTATCATCAACGTTATCGGTGAACCC
+ATTGACGAACGTGGTCCCATCAACGCCAAGAC
