@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 1443 (length = 422, name = scf_2953) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1443 on both strands
+# start gene g2271
+scf_2953	AUGUSTUS	gene	1	422	0.43	+	.	g2271
+scf_2953	AUGUSTUS	transcript	1	422	0.43	+	.	g2271.t1
+scf_2953	AUGUSTUS	internal	1	408	0.43	+	0	transcript_id "g2271.t1"; gene_id "g2271";
+scf_2953	AUGUSTUS	intron	409	422	0.66	+	.	transcript_id "g2271.t1"; gene_id "g2271";
+scf_2953	AUGUSTUS	CDS	1	408	0.43	+	0	transcript_id "g2271.t1"; gene_id "g2271";
+# coding sequence = [cgggaagaaatggaaatcgacgtacctgaaactcaaaatcttccaagagccgatgctacaaacatctttgacatggacg
+# accttgtctcaaacttcgatgtcgacgatctattggatgtatcggcttctaacgactctgatgatgaatcacaagaaacaagtgatggcgaagcagtc
+# gaagcacctgcgtcgtacttcgttagtagactcaattccattgatgatcaccctacggatctcaacaaccttgctgcctctgatatcgaaacatgggg
+# acaatcgcaagacttttacccattttccgatctccaatcgatgatcctccatgcgttggtgaatggtgatcaagataggctctctgaacgtatggtaa
+# agaagatcatgtacaccatcgctgccatactgaag]
+# protein sequence = [REEMEIDVPETQNLPRADATNIFDMDDLVSNFDVDDLLDVSASNDSDDESQETSDGEAVEAPASYFVSRLNSIDDHPT
+# DLNNLAASDIETWGQSQDFYPFSDLQSMILHALVNGDQDRLSERMVKKIMYTIAAILK]
+# end gene g2271
+###
+#
+##FASTA
+>scf_2953
+CGGGAAGAAATGGAAATCGACGTACCTGAAACTCAAAATCTTCCAAGAGCCGATGCTACA
+AACATCTTTGACATGGACGACCTTGTCTCAAACTTCGATGTCGACGATCTATTGGATGTA
+TCGGCTTCTAACGACTCTGATGATGAATCACAAGAAACAAGTGATGGCGAAGCAGTCGAA
+GCACCTGCGTCGTACTTCGTTAGTAGACTCAATTCCATTGATGATCACCCTACGGATCTC
+AACAACCTTGCTGCCTCTGATATCGAAACATGGGGACAATCGCAAGACTTTTACCCATTT
+TCCGATCTCCAATCGATGATCCTCCATGCGTTGGTGAATGGTGATCAAGATAGGCTCTCT
+GAACGTATGGTAAAGAAGATCATGTACACCATCGCTGCCATACTGAAGGTGAAAGATCAT
+GT

@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 1464 (length = 255, name = scf_3070) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1464 on both strands
+# start gene g2278
+scf_3070	AUGUSTUS	gene	1	255	1	+	.	g2278
+scf_3070	AUGUSTUS	transcript	1	255	1	+	.	g2278.t1
+scf_3070	AUGUSTUS	internal	1	244	1	+	1	transcript_id "g2278.t1"; gene_id "g2278";
+scf_3070	AUGUSTUS	intron	245	255	1	+	.	transcript_id "g2278.t1"; gene_id "g2278";
+scf_3070	AUGUSTUS	CDS	1	244	1	+	1	transcript_id "g2278.t1"; gene_id "g2278";
+# coding sequence = [aaaggaagctgctgaactcggtaagggttccttcaagtacgcctgggtgttggacaagctcaaggccgaacgtgaacgt
+# ggtatcaccatcgatatcgctctctggaaattcgaaacccccaagtaccacgtcaccgtcattgacgctcctggccatcgtgatttcatcaagaacat
+# gattactggtacttctcaagctgattgcggtattcttatcattgctgccggtactggtgaattcgaa]
+# protein sequence = [KEAAELGKGSFKYAWVLDKLKAERERGITIDIALWKFETPKYHVTVIDAPGHRDFIKNMITGTSQADCGILIIAAGTG
+# EFE]
+# end gene g2278
+###
+#
+##FASTA
+>scf_3070
+AAAGGAAGCTGCTGAACTCGGTAAGGGTTCCTTCAAGTACGCCTGGGTGTTGGACAAGCT
+CAAGGCCGAACGTGAACGTGGTATCACCATCGATATCGCTCTCTGGAAATTCGAAACCCC
+CAAGTACCACGTCACCGTCATTGACGCTCCTGGCCATCGTGATTTCATCAAGAACATGAT
+TACTGGTACTTCTCAAGCTGATTGCGGTATTCTTATCATTGCTGCCGGTACTGGTGAATT
+CGAAGTAAGTAGATA

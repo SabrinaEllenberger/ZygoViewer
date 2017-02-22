@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1469 (length = 339, name = scf_3110) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1469 on both strands
+# start gene g2279
+scf_3110	AUGUSTUS	gene	1	317	0.67	+	.	g2279
+scf_3110	AUGUSTUS	transcript	1	317	0.67	+	.	g2279.t1
+scf_3110	AUGUSTUS	terminal	131	317	0.67	+	1	transcript_id "g2279.t1"; gene_id "g2279";
+scf_3110	AUGUSTUS	intron	1	130	0.67	+	.	transcript_id "g2279.t1"; gene_id "g2279";
+scf_3110	AUGUSTUS	CDS	131	314	0.67	+	1	transcript_id "g2279.t1"; gene_id "g2279";
+scf_3110	AUGUSTUS	stop_codon	315	317	.	+	0	transcript_id "g2279.t1"; gene_id "g2279";
+# coding sequence = [tcttccacatcaagcttgctttgaatctccattaaccagtacctcgccatctcattacgaccatgacaaacaacaacga
+# ttccactcttcagctctctctgaacatgcaattcgacactatggacgaagctcgactctactgcaaaaaggtgtcgaagcaacaacaattcctcacgg
+# tgacaactga]
+# protein sequence = [LPHQACFESPLTSTSPSHYDHDKQQRFHSSALSEHAIRHYGRSSTLLQKGVEATTIPHGDN]
+# end gene g2279
+###
+#
+##FASTA
+>scf_3110
+AGCTTCTACTTATCTCATTGGTAATGTCCCTCATAAACATATACATCTTATTTTTTATAG
+GAGTAGTATAAACCCTTGACTCTTTCTGTTTCAATAAAGACTTACCTTAATCTATCTCAA
+TTGACCGTAGTCTTCCACATCAAGCTTGCTTTGAATCTCCATTAACCAGTACCTCGCCAT
+CTCATTACGACCATGACAAACAACAACGATTCCACTCTTCAGCTCTCTCTGAACATGCAA
+TTCGACACTATGGACGAAGCTCGACTCTACTGCAAAAAGGTGTCGAAGCAACAACAATTC
+CTCACGGTGACAACTGACAGTAAAGACGACGAGAAAGCC

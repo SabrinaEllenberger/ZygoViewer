@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1507 (length = 217, name = scf_3209) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1507 on both strands
+# start gene g2306
+scf_3209	AUGUSTUS	gene	1	168	0.93	-	.	g2306
+scf_3209	AUGUSTUS	transcript	1	168	0.93	-	.	g2306.t1
+scf_3209	AUGUSTUS	initial	20	168	0.93	-	0	transcript_id "g2306.t1"; gene_id "g2306";
+scf_3209	AUGUSTUS	intron	1	19	0.93	-	.	transcript_id "g2306.t1"; gene_id "g2306";
+scf_3209	AUGUSTUS	CDS	20	168	0.93	-	0	transcript_id "g2306.t1"; gene_id "g2306";
+scf_3209	AUGUSTUS	start_codon	166	168	.	-	0	transcript_id "g2306.t1"; gene_id "g2306";
+# coding sequence = [atggagaccgccaaaaaggtggctcaattgacgatggctaaggtggcggcgaaagaagaaatgctgctgctcttggatc
+# acgcctccgaccaagcagctgtggaccgatggaccgtcttggaaaccaagctcaagaccgatgaaactag]
+# protein sequence = [METAKKVAQLTMAKVAAKEEMLLLLDHASDQAAVDRWTVLETKLKTDET]
+# end gene g2306
+###
+#
+##FASTA
+>scf_3209
+GTCCTTCAACAGATCCAACCTAGTTTCATCGGTCTTGAGCTTGGTTTCCAAGACGGTCCA
+TCGGTCCACAGCTGCTTGGTCGGAGGCGTGATCCAAGAGCAGCAGCATTTCTTCTTTCGC
+CGCCACCTTAGCCATCGTCAATTGAGCCACCTTTTTGGCGGTCTCCATCGCGGGTTGTTG
+TTGATGGACAGGAAGTCGGCTGATAAAGTCCACCTGA
