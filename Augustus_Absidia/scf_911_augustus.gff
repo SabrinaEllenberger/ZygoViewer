@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 414 (length = 531, name = scf_911) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 414 on both strands
+# start gene g698
+scf_911	AUGUSTUS	gene	1	531	0.31	-	.	g698
+scf_911	AUGUSTUS	transcript	1	531	0.31	-	.	g698.t1
+scf_911	AUGUSTUS	internal	1	496	0.31	-	2	transcript_id "g698.t1"; gene_id "g698";
+scf_911	AUGUSTUS	intron	497	531	0.93	-	.	transcript_id "g698.t1"; gene_id "g698";
+scf_911	AUGUSTUS	CDS	1	496	0.31	-	2	transcript_id "g698.t1"; gene_id "g698";
+# coding sequence = [atgatattgtcatctatagcgcttctcccgaacaacatgcacaccatgttcgatctgtcatcgacgaactcaccagggt
+# caatttgatgttgaatcccaacaagtgtcactttgcacaaaaaacgatctatttattaggtttctgtattgaagctaatggtaaatctagactagatg
+# atcgcaaagtcactaatgtgcaggaatggccagaacctaccacaggcaaacaaatccaacagttccttgggttagtgaattacttccgtacctacata
+# ccctactttgccgacttgacagcacctctagacacacttcgcagccatgagggcaaactgagacacagatggacatcgtaccattcgcatgcctttca
+# gagaatcaaagatgcattagtacactccacagtccttcatgccccaaaaacagatctacctttccatttggccacagatgcttccgacgtaggcattg
+# gcgccgtgttataccagatcggtct]
+# protein sequence = [DIVIYSASPEQHAHHVRSVIDELTRVNLMLNPNKCHFAQKTIYLLGFCIEANGKSRLDDRKVTNVQEWPEPTTGKQIQ
+# QFLGLVNYFRTYIPYFADLTAPLDTLRSHEGKLRHRWTSYHSHAFQRIKDALVHSTVLHAPKTDLPFHLATDASDVGIGAVLYQIG]
+# end gene g698
+###
+#
+##FASTA
+>scf_911
+AGACCGATCTGGTATAACACGGCGCCAATGCCTACGTCGGAAGCATCTGTGGCCAAATGG
+AAAGGTAGATCTGTTTTTGGGGCATGAAGGACTGTGGAGTGTACTAATGCATCTTTGATT
+CTCTGAAAGGCATGCGAATGGTACGATGTCCATCTGTGTCTCAGTTTGCCCTCATGGCTG
+CGAAGTGTGTCTAGAGGTGCTGTCAAGTCGGCAAAGTAGGGTATGTAGGTACGGAAGTAA
+TTCACTAACCCAAGGAACTGTTGGATTTGTTTGCCTGTGGTAGGTTCTGGCCATTCCTGC
+ACATTAGTGACTTTGCGATCATCTAGTCTAGATTTACCATTAGCTTCAATACAGAAACCT
+AATAAATAGATCGTTTTTTGTGCAAAGTGACACTTGTTGGGATTCAACATCAAATTGACC
+CTGGTGAGTTCGTCGATGACAGATCGAACATGGTGTGCATGTTGTTCGGGAGAAGCGCTA
+TAGATGACAATATCATCTACGAATGTGGCTACATAGGAGTGGAATGGGTTT

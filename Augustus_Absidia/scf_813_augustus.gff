@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 370 (length = 309, name = scf_813) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 370 on both strands
+# start gene g500
+scf_813	AUGUSTUS	gene	1	196	0.91	+	.	g500
+scf_813	AUGUSTUS	transcript	1	196	0.91	+	.	g500.t1
+scf_813	AUGUSTUS	terminal	60	196	0.91	+	2	transcript_id "g500.t1"; gene_id "g500";
+scf_813	AUGUSTUS	intron	1	59	0.91	+	.	transcript_id "g500.t1"; gene_id "g500";
+scf_813	AUGUSTUS	CDS	60	193	0.91	+	2	transcript_id "g500.t1"; gene_id "g500";
+scf_813	AUGUSTUS	stop_codon	194	196	.	+	0	transcript_id "g500.t1"; gene_id "g500";
+# coding sequence = [ttgagcgactcctgggcatatctgtaccgccggtggtatactgcagcaatgtggaaactttgggcaagaagcgtggtgg
+# atcatatccccaacggcaagtcaacaatgatgatcgaatcgcattggcgggtgcttaa]
+# protein sequence = [ERLLGISVPPVVYCSNVETLGKKRGGSYPQRQVNNDDRIALAGA]
+# end gene g500
+###
+#
+##FASTA
+>scf_813
+CCGCGCAAATCCATTACGATTCTGCACAAGAAATGTATAACTTTTGTGTGGATAACCAGT
+TGAGCGACTCCTGGGCATATCTGTACCGCCGGTGGTATACTGCAGCAATGTGGAAACTTT
+GGGCAAGAAGCGTGGTGGATCATATCCCCAACGGCAAGTCAACAATGATGATCGAATCGC
+ATTGGCGGGTGCTTAAACGTAATCACCTGCACTACAACAATCGCCCTCGCCTAGACTATC
+TTGTGTACACCATAACGCAGAAACAGTGCACGGACCTTCTTTTCGACTATGAACAGAAAG
+TCATTTTGC

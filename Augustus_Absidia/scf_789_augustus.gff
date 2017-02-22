@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 367 (length = 578, name = scf_789) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 367 on both strands
+# start gene g497
+scf_789	AUGUSTUS	gene	1	524	0.97	+	.	g497
+scf_789	AUGUSTUS	transcript	1	524	0.97	+	.	g497.t1
+scf_789	AUGUSTUS	terminal	40	524	0.97	+	2	transcript_id "g497.t1"; gene_id "g497";
+scf_789	AUGUSTUS	intron	1	39	0.99	+	.	transcript_id "g497.t1"; gene_id "g497";
+scf_789	AUGUSTUS	CDS	40	521	0.97	+	2	transcript_id "g497.t1"; gene_id "g497";
+scf_789	AUGUSTUS	stop_codon	522	524	.	+	0	transcript_id "g497.t1"; gene_id "g497";
+# coding sequence = [atcctactgctgcccccattccctcctcctatcgtatcaagaaaacattgaaggaaaacagcaaggttggtgtcaagtg
+# cttccattcatgtgtaggtggatgcatgatgtatttggacgaaacggtgccacacttgacagagtgccctgattgccaccaaccaaggtaccacccac
+# aacatggctcccccaactcctatgtatatgtggtttccatcggtgacatcctggcatcaaagctatactatccggcaacccgccagcagctcctgtat
+# cgccacagttatatgaacaacacagacaacatgaaggacatattcgatggaaaggtgtaccaagctcttttagcagatggcaagtttgaatctcagta
+# cgacattgctatcggtctgtctatcgatggcttcactttctttgacggatcaaactttcaaggcactatggtgaatatgatcatatttaacatccatc
+# caaagcaaaggtaa]
+# protein sequence = [PTAAPIPSSYRIKKTLKENSKVGVKCFHSCVGGCMMYLDETVPHLTECPDCHQPRYHPQHGSPNSYVYVVSIGDILAS
+# KLYYPATRQQLLYRHSYMNNTDNMKDIFDGKVYQALLADGKFESQYDIAIGLSIDGFTFFDGSNFQGTMVNMIIFNIHPKQR]
+# end gene g497
+###
+#
+##FASTA
+>scf_789
+CTTGCTGCAACGGAATTGTTAACTTACATGTGCTCTTAGATCCTACTGCTGCCCCCATTC
+CCTCCTCCTATCGTATCAAGAAAACATTGAAGGAAAACAGCAAGGTTGGTGTCAAGTGCT
+TCCATTCATGTGTAGGTGGATGCATGATGTATTTGGACGAAACGGTGCCACACTTGACAG
+AGTGCCCTGATTGCCACCAACCAAGGTACCACCCACAACATGGCTCCCCCAACTCCTATG
+TATATGTGGTTTCCATCGGTGACATCCTGGCATCAAAGCTATACTATCCGGCAACCCGCC
+AGCAGCTCCTGTATCGCCACAGTTATATGAACAACACAGACAACATGAAGGACATATTCG
+ATGGAAAGGTGTACCAAGCTCTTTTAGCAGATGGCAAGTTTGAATCTCAGTACGACATTG
+CTATCGGTCTGTCTATCGATGGCTTCACTTTCTTTGACGGATCAAACTTTCAAGGCACTA
+TGGTGAATATGATCATATTTAACATCCATCCAAAGCAAAGGTAACCTTCATTTTAGCATA
+AGCATTGTAAGACGGAGAGAAAGTAACCCCTTTTCTCA

@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 361 (length = 461, name = scf_783) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 361 on both strands
+# start gene g480
+scf_783	AUGUSTUS	gene	1	410	0.55	-	.	g480
+scf_783	AUGUSTUS	transcript	1	410	0.55	-	.	g480.t1
+scf_783	AUGUSTUS	initial	66	410	0.55	-	0	transcript_id "g480.t1"; gene_id "g480";
+scf_783	AUGUSTUS	intron	1	65	0.55	-	.	transcript_id "g480.t1"; gene_id "g480";
+scf_783	AUGUSTUS	CDS	66	410	0.55	-	0	transcript_id "g480.t1"; gene_id "g480";
+scf_783	AUGUSTUS	start_codon	408	410	.	-	0	transcript_id "g480.t1"; gene_id "g480";
+# coding sequence = [atggaaacttttctgggacctgaattttggggactagatgaaatgcatctgctaggctacggccagtccaagctcatct
+# atggtatgttggatcacaaatacgaccatgtggactgtgccaaagagtttggacccttcaacttttgcgatggtgtgactctcgccagtattggtttg
+# gccatggaaaaatcgaagcaatacattccatcagtcttctctggaaactggagcaatgtcaaaaatcatcatggcgtctatcgggcggtggattggct
+# tgactttttactctttgtggttccgacgttggtcatccctaatctacataatcaagcttctgcatatgcc]
+# protein sequence = [METFLGPEFWGLDEMHLLGYGQSKLIYGMLDHKYDHVDCAKEFGPFNFCDGVTLASIGLAMEKSKQYIPSVFSGNWSN
+# VKNHHGVYRAVDWLDFLLFVVPTLVIPNLHNQASAYA]
+# end gene g480
+###
+#
+##FASTA
+>scf_783
+GGAAGCTCGTTTGATCGCACCGCCCAACTTGCCGCAATAAAGATTCCTTGAACCAAGCAG
+TTTACGGCATATGCAGAAGCTTGATTATGTAGATTAGGGATGACCAACGTCGGAACCACA
+AAGAGTAAAAAGTCAAGCCAATCCACCGCCCGATAGACGCCATGATGATTTTTGACATTG
+CTCCAGTTTCCAGAGAAGACTGATGGAATGTATTGCTTCGATTTTTCCATGGCCAAACCA
+ATACTGGCGAGAGTCACACCATCGCAAAAGTTGAAGGGTCCAAACTCTTTGGCACAGTCC
+ACATGGTCGTATTTGTGATCCAACATACCATAGATGAGCTTGGACTGGCCGTAGCCTAGC
+AGATGCATTTCATCTAGTCCCCAAAATTCAGGTCCCAGAAAAGTTTCCATACTTGTGAAT
+AGACCACCAGTCAGTAGTCCAACAGCGAACCTTCTTTCAGA

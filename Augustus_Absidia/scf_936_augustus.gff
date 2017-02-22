@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 426 (length = 245, name = scf_936) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 426 on both strands
+# start gene g742
+scf_936	AUGUSTUS	gene	1	206	0.4	+	.	g742
+scf_936	AUGUSTUS	transcript	1	206	0.4	+	.	g742.t1
+scf_936	AUGUSTUS	terminal	1	206	0.4	+	2	transcript_id "g742.t1"; gene_id "g742";
+scf_936	AUGUSTUS	CDS	1	203	0.4	+	2	transcript_id "g742.t1"; gene_id "g742";
+scf_936	AUGUSTUS	stop_codon	204	206	.	+	0	transcript_id "g742.t1"; gene_id "g742";
+# coding sequence = [aaccacgattatcaagaatcatcatgaaccatattatcaagaatcatcatgaaccacattatcaagaatcatcatcaac
+# cacgattatcaagaatcatcatcaaccacgattatcaagaatcatcatcaaccacgattatcaagaatcatcatcaaccacgattatcaagaatcatc
+# atcaaccacattatcaagaatcatcatga]
+# protein sequence = [PRLSRIIMNHIIKNHHEPHYQESSSTTIIKNHHQPRLSRIIINHDYQESSSTTIIKNHHQPHYQESS]
+# end gene g742
+###
+#
+##FASTA
+>scf_936
+AACCACGATTATCAAGAATCATCATGAACCATATTATCAAGAATCATCATGAACCACATT
+ATCAAGAATCATCATCAACCACGATTATCAAGAATCATCATCAACCACGATTATCAAGAA
+TCATCATCAACCACGATTATCAAGAATCATCATCAACCACGATTATCAAGAATCATCATC
+AACCACATTATCAAGAATCATCATGAACCACGATTATCAAGAATCATCATCAACCACATT
+ATCAA

@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 413 (length = 496, name = scf_910) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 413 on both strands
+# start gene g697
+scf_910	AUGUSTUS	gene	1	496	0.9	+	.	g697
+scf_910	AUGUSTUS	transcript	1	496	0.9	+	.	g697.t1
+scf_910	AUGUSTUS	internal	1	250	0.92	+	2	transcript_id "g697.t1"; gene_id "g697";
+scf_910	AUGUSTUS	internal	308	496	0.97	+	1	transcript_id "g697.t1"; gene_id "g697";
+scf_910	AUGUSTUS	intron	251	307	0.99	+	.	transcript_id "g697.t1"; gene_id "g697";
+scf_910	AUGUSTUS	CDS	1	250	0.92	+	2	transcript_id "g697.t1"; gene_id "g697";
+scf_910	AUGUSTUS	CDS	308	496	0.97	+	1	transcript_id "g697.t1"; gene_id "g697";
+# coding sequence = [ccagcaagctctaccatcctctcacccgatcgcagctcctccaccgctcaacccgccaaactgaagtggacaagatgac
+# tgatatcttcgatggtgctgtttataaagacatggtgaaacgtggctgctttgactccccatacgatgtcgctatcacccttggcatcgatggattct
+# cgccgttcaacaaaggtctcttccaatcaaccattgtcaacatgatcataatgaacacagaccccaaggaccgatacaagaagcacaacatgtcgcaa
+# attatgatgattcctggctacaacaagccgaaggatttggaatctttcttgtctcctatgtatcaagaactcgatcatctttcgcggattgggatcaa
+# gatcaaaaccgtggaccaagaaatcatcactgccaaagtgcacctcatggccttcattggtgacat]
+# protein sequence = [SKLYHPLTRSQLLHRSTRQTEVDKMTDIFDGAVYKDMVKRGCFDSPYDVAITLGIDGFSPFNKGLFQSTIVNMIIMNT
+# DPKDRYKKHNMSQIMMIPGYNKPKDLESFLSPMYQELDHLSRIGIKIKTVDQEIITAKVHLMAFIGD]
+# end gene g697
+###
+#
+##FASTA
+>scf_910
+CCAGCAAGCTCTACCATCCTCTCACCCGATCGCAGCTCCTCCACCGCTCAACCCGCCAAA
+CTGAAGTGGACAAGATGACTGATATCTTCGATGGTGCTGTTTATAAAGACATGGTGAAAC
+GTGGCTGCTTTGACTCCCCATACGATGTCGCTATCACCCTTGGCATCGATGGATTCTCGC
+CGTTCAACAAAGGTCTCTTCCAATCAACCATTGTCAACATGATCATAATGAACACAGACC
+CCAAGGACCGGTAATAATAACATGTAATCGTAGAACATAGTAGACTGACATGTTACTTCT
+TTTATAGATACAAGAAGCACAACATGTCGCAAATTATGATGATTCCTGGCTACAACAAGC
+CGAAGGATTTGGAATCTTTCTTGTCTCCTATGTATCAAGAACTCGATCATCTTTCGCGGA
+TTGGGATCAAGATCAAAACCGTGGACCAAGAAATCATCACTGCCAAAGTGCACCTCATGG
+CCTTCATTGGTGACAT

@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 428 (length = 257, name = scf_939) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 428 on both strands
+# start gene g743
+scf_939	AUGUSTUS	gene	1	192	0.63	-	.	g743
+scf_939	AUGUSTUS	transcript	1	192	0.63	-	.	g743.t1
+scf_939	AUGUSTUS	initial	11	192	0.63	-	0	transcript_id "g743.t1"; gene_id "g743";
+scf_939	AUGUSTUS	intron	1	10	0.64	-	.	transcript_id "g743.t1"; gene_id "g743";
+scf_939	AUGUSTUS	CDS	11	192	0.63	-	0	transcript_id "g743.t1"; gene_id "g743";
+scf_939	AUGUSTUS	start_codon	190	192	.	-	0	transcript_id "g743.t1"; gene_id "g743";
+# coding sequence = [atgcgtgcccttggtgacattcagactcagctccaaagctgccaaagtggactcgaccaatttccttctctgcctcagc
+# aatacatcacaccagccgatcggttacctactctggaggggatggaaatcatggaaagggaagcatatcctcaagatctacaacacgctgaatcggtg
+# cgact]
+# protein sequence = [MRALGDIQTQLQSCQSGLDQFPSLPQQYITPADRLPTLEGMEIMEREAYPQDLQHAESVR]
+# end gene g743
+###
+#
+##FASTA
+>scf_939
+TAGAGCGGACAGTCGCACCGATTCAGCGTGTTGTAGATCTTGAGGATATGCTTCCCTTTC
+CATGATTTCCATCCCCTCCAGAGTAGGTAACCGATCGGCTGGTGTGATGTATTGCTGAGG
+CAGAGAAGGAAATTGGTCGAGTCCACTTTGGCAGCTTTGGAGCTGAGTCTGAATGTCACC
+AAGGGCACGCATATATGCAGTGTGTTGTTGTTCCTCGGTCAAATCTTCTTCCCTTTGCAG
+TCGAAGCTCTTGGCGCA

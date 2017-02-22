@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 439 (length = 511, name = scf_957) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 439 on both strands
+# start gene g753
+scf_957	AUGUSTUS	gene	166	511	0.96	-	.	g753
+scf_957	AUGUSTUS	transcript	166	511	0.96	-	.	g753.t1
+scf_957	AUGUSTUS	stop_codon	166	168	.	-	0	transcript_id "g753.t1"; gene_id "g753";
+scf_957	AUGUSTUS	terminal	166	511	0.96	-	1	transcript_id "g753.t1"; gene_id "g753";
+scf_957	AUGUSTUS	CDS	169	511	0.96	-	1	transcript_id "g753.t1"; gene_id "g753";
+# coding sequence = [aaccgctgacctgaacaaagcaccatcatcaccttcgccctcgtcatcgtcctcgccctcgtcatcgccctcgccctca
+# tcagccttggaagaagatcgtcccacgaaagttagaagactctacgctggactggagttcaaggacggctgccttggcgaaaaggtctacaagctact
+# tttggacgaaacgaagccgctgaaggtcaaggctatcaacgatggcaagccgatcgactggactgatgcagttgaaaccttcaagcttcgtttggcga
+# cagtttgtggtccccctcctgaggtcgaagaaatcactgccaatgatctcattgaagctgccttcatgtga]
+# protein sequence = [TADLNKAPSSPSPSSSSSPSSSPSPSSALEEDRPTKVRRLYAGLEFKDGCLGEKVYKLLLDETKPLKVKAINDGKPID
+# WTDAVETFKLRLATVCGPPPEVEEITANDLIEAAFM]
+# end gene g753
+###
+#
+##FASTA
+>scf_957
+CTATATAGACAAAACGAGTGCGGTATAGACAAAAGAAGACCGGTATAGGCAAGATATAGA
+AGAGATGATGCCTCAGGTTTCATTTGCTTTTATTGATCATTGCTATACTATACTATTTAC
+TATACTATACTATACTAATCTAATCTAACTTGCATACATTCACATTCACATGAAGGCAGC
+TTCAATGAGATCATTGGCAGTGATTTCTTCGACCTCAGGAGGGGGACCACAAACTGTCGC
+CAAACGAAGCTTGAAGGTTTCAACTGCATCAGTCCAGTCGATCGGCTTGCCATCGTTGAT
+AGCCTTGACCTTCAGCGGCTTCGTTTCGTCCAAAAGTAGCTTGTAGACCTTTTCGCCAAG
+GCAGCCGTCCTTGAACTCCAGTCCAGCGTAGAGTCTTCTAACTTTCGTGGGACGATCTTC
+TTCCAAGGCTGATGAGGGCGAGGGCGATGACGAGGGCGAGGACGATGACGAGGGCGAAGG
+TGATGATGGTGCTTTGTTCAGGTCAGCGGTT

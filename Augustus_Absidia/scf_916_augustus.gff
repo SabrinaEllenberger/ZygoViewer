@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 416 (length = 280, name = scf_916) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 416 on both strands
+# start gene g708
+scf_916	AUGUSTUS	gene	1	280	0.94	-	.	g708
+scf_916	AUGUSTUS	transcript	1	280	0.94	-	.	g708.t1
+scf_916	AUGUSTUS	internal	59	280	0.94	-	1	transcript_id "g708.t1"; gene_id "g708";
+scf_916	AUGUSTUS	intron	1	58	0.94	-	.	transcript_id "g708.t1"; gene_id "g708";
+scf_916	AUGUSTUS	CDS	59	280	0.94	-	1	transcript_id "g708.t1"; gene_id "g708";
+# coding sequence = [tgctgctcttgtggtgaggcacaaccgtgctgttgatatccgtggtaaacgctctgttgatctctgtggtgaatcgcgt
+# ttgctgactgaagaagaagaagaacgataccaaaggaagtttgatgactatctcaaccatcatcaacagcaatcaactttcctggacaacgccgatca
+# aacgacccggttttactttgcgtgtgttgaattatacgatgtgat]
+# protein sequence = [AALVVRHNRAVDIRGKRSVDLCGESRLLTEEEEERYQRKFDDYLNHHQQQSTFLDNADQTTRFYFACVELYDV]
+# end gene g708
+###
+#
+##FASTA
+>scf_916
+TATACCGCAATAGTGAATCTCCATGGTGTATATCATCTGCATTCATCATTTGTCTTACAT
+CACATCGTATAATTCAACACACGCAAAGTAAAACCGGGTCGTTTGATCGGCGTTGTCCAG
+GAAAGTTGATTGCTGTTGATGATGGTTGAGATAGTCATCAAACTTCCTTTGGTATCGTTC
+TTCTTCTTCTTCAGTCAGCAAACGCGATTCACCACAGAGATCAACAGAGCGTTTACCACG
+GATATCAACAGCACGGTTGTGCCTCACCACAAGAGCAGCA

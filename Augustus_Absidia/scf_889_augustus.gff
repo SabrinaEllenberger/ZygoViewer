@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 400 (length = 217, name = scf_889) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 400 on both strands
+# start gene g691
+scf_889	AUGUSTUS	gene	1	166	0.66	-	.	g691
+scf_889	AUGUSTUS	transcript	1	166	0.66	-	.	g691.t1
+scf_889	AUGUSTUS	initial	17	166	0.66	-	0	transcript_id "g691.t1"; gene_id "g691";
+scf_889	AUGUSTUS	intron	1	16	0.88	-	.	transcript_id "g691.t1"; gene_id "g691";
+scf_889	AUGUSTUS	CDS	17	166	0.66	-	0	transcript_id "g691.t1"; gene_id "g691";
+scf_889	AUGUSTUS	start_codon	164	166	.	-	0	transcript_id "g691.t1"; gene_id "g691";
+# coding sequence = [atggcgaatttcggtggagattggcccagtcattggaattctacatcaaggagcttcgagaaggacctaccatggagca
+# acgccgaacaagaagtcgtctgggtagaccaaatggccatcgcttggttactatgggcaaaaatggtcaag]
+# protein sequence = [MANFGGDWPSHWNSTSRSFEKDLPWSNAEQEVVWVDQMAIAWLLWAKMVK]
+# end gene g691
+###
+#
+##FASTA
+>scf_889
+CTTCTAATGTAGTTACCTTGACCATTTTTGCCCATAGTAACCAAGCGATGGCCATTTGGT
+CTACCCAGACGACTTCTTGTTCGGCGTTGCTCCATGGTAGGTCCTTCTCGAAGCTCCTTG
+ATGTAGAATTCCAATGACTGGGCCAATCTCCACCGAAATTCGCCATGATTGACCTGTTCG
+CCACCAGGATTAAAGTACTTGTATGCTGAGAATGCGT

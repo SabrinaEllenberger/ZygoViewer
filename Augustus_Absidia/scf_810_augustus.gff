@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 368 (length = 383, name = scf_810) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 368 on both strands
+# start gene g498
+scf_810	AUGUSTUS	gene	1	265	0.59	+	.	g498
+scf_810	AUGUSTUS	transcript	1	265	0.59	+	.	g498.t1
+scf_810	AUGUSTUS	terminal	202	265	0.59	+	1	transcript_id "g498.t1"; gene_id "g498";
+scf_810	AUGUSTUS	intron	1	201	0.65	+	.	transcript_id "g498.t1"; gene_id "g498";
+scf_810	AUGUSTUS	CDS	202	262	0.59	+	1	transcript_id "g498.t1"; gene_id "g498";
+scf_810	AUGUSTUS	stop_codon	263	265	.	+	0	transcript_id "g498.t1"; gene_id "g498";
+# coding sequence = [gttggaaggccacgaatcttctgatgttatgcctatcatgggtgttcaaagcgtcaatagttag]
+# protein sequence = [LEGHESSDVMPIMGVQSVNS]
+# end gene g498
+###
+#
+##FASTA
+>scf_810
+CCGCTACACAATCAAAGCGCCGTTTAAACCGACATCATGATCATTTGTTCTTCAATTTGC
+CCCTGACATTCCATCCCTTCACAAACACATTCCAGTTGCTTTGACAATTCAGTTTTAGTA
+AAAATTACAATCGTTTATTGGGAGTAATTTTGTAGATCTATCACCAAAACTATACAACAC
+ACTATTCTTCACATACATCAGGTTGGAAGGCCACGAATCTTCTGATGTTATGCCTATCAT
+GGGTGTTCAAAGCGTCAATAGTTAGTATGTTCCTTGCATGAGCTGTTTTACTTACAATGA
+GGGTAGTTCTTCCTCTCTTGGTTGTGTCGAGGGATCAGGTGCTATCTACCAATAAAGAGT
+GAGCTGGCGGTTACGACTGTATT

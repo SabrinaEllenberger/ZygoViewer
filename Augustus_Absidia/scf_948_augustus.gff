@@ -1,0 +1,40 @@
+# ----- prediction on sequence number 434 (length = 717, name = scf_948) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 434 on both strands
+# start gene g750
+scf_948	AUGUSTUS	gene	1	639	0.55	+	.	g750
+scf_948	AUGUSTUS	transcript	1	639	0.55	+	.	g750.t1
+scf_948	AUGUSTUS	internal	90	498	0.55	+	1	transcript_id "g750.t1"; gene_id "g750";
+scf_948	AUGUSTUS	terminal	541	639	1	+	0	transcript_id "g750.t1"; gene_id "g750";
+scf_948	AUGUSTUS	intron	1	89	0.55	+	.	transcript_id "g750.t1"; gene_id "g750";
+scf_948	AUGUSTUS	intron	499	540	1	+	.	transcript_id "g750.t1"; gene_id "g750";
+scf_948	AUGUSTUS	CDS	90	498	0.55	+	1	transcript_id "g750.t1"; gene_id "g750";
+scf_948	AUGUSTUS	CDS	541	636	1	+	0	transcript_id "g750.t1"; gene_id "g750";
+scf_948	AUGUSTUS	stop_codon	637	639	.	+	0	transcript_id "g750.t1"; gene_id "g750";
+# coding sequence = [atgcatgcaacgatcggatctccaccagccactcaacgcagatgatcgcatcagacaggtcgttgctgttcccacccac
+# gactgccaaggtgaaatctctggccacatccatagggatcaaaattggattcacttggaaatcgatcaccacagcaaccatcaaccgcaaccaagccg
+# acgtgtcttcctcacccaagaagaggtggactacatcaccgccaatgccgcaaccatgaccaccccggacttgtaccatgctgcagtgcgtcactttg
+# gcgatcatattaccagggcacaagtacaccattggaggttggcatctgtggaaagcagttatcgtcgtagtgatgaccaatttgtctcggcaaggacg
+# cttatcaacgaatggaacgatcgtggttttgaagagattttggttgggctcttgggacctttataccttggtatgattatggaattcgactacattgg
+# cctattggtgtggactagatttagacccttaccttag]
+# protein sequence = [CMQRSDLHQPLNADDRIRQVVAVPTHDCQGEISGHIHRDQNWIHLEIDHHSNHQPQPSRRVFLTQEEVDYITANAATM
+# TTPDLYHAAVRHFGDHITRAQVHHWRLASVESSYRRSDDQFVSARTLINEWNDRGFEEILVGLLGPLYLGMIMEFDYIGLLVWTRFRPLP]
+# end gene g750
+###
+#
+##FASTA
+>scf_948
+GACGCAATCGAGGATCAAACTGGTTACCGACACTACTTCCAGCGGGTTGGTAATCCTATT
+CTCAGCCAATCCGTTATCTTTTATGGTAGATGCATGCAACGATCGGATCTCCACCAGCCA
+CTCAACGCAGATGATCGCATCAGACAGGTCGTTGCTGTTCCCACCCACGACTGCCAAGGT
+GAAATCTCTGGCCACATCCATAGGGATCAAAATTGGATTCACTTGGAAATCGATCACCAC
+AGCAACCATCAACCGCAACCAAGCCGACGTGTCTTCCTCACCCAAGAAGAGGTGGACTAC
+ATCACCGCCAATGCCGCAACCATGACCACCCCGGACTTGTACCATGCTGCAGTGCGTCAC
+TTTGGCGATCATATTACCAGGGCACAAGTACACCATTGGAGGTTGGCATCTGTGGAAAGC
+AGTTATCGTCGTAGTGATGACCAATTTGTCTCGGCAAGGACGCTTATCAACGAATGGAAC
+GATCGTGGTTTTGAAGAGGTAAGATGAAAAGAGAAATGGGATCATATGATAATGGCTTAG
+ATTTTGGTTGGGCTCTTGGGACCTTTATACCTTGGTATGATTATGGAATTCGACTACATT
+GGCCTATTGGTGTGGACTAGATTTAGACCCTTACCTTAGACATTGATAGTATAGAACATG
+ATTTATTACACCTGGTGGCGGGTACCCTGTATTGATGATAACTTTCACTTACAATAA

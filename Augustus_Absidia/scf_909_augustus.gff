@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 412 (length = 507, name = scf_909) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 412 on both strands
+# start gene g696
+scf_909	AUGUSTUS	gene	1	409	0.75	+	.	g696
+scf_909	AUGUSTUS	transcript	1	409	0.75	+	.	g696.t1
+scf_909	AUGUSTUS	terminal	95	409	0.75	+	0	transcript_id "g696.t1"; gene_id "g696";
+scf_909	AUGUSTUS	intron	1	94	0.78	+	.	transcript_id "g696.t1"; gene_id "g696";
+scf_909	AUGUSTUS	CDS	95	406	0.75	+	0	transcript_id "g696.t1"; gene_id "g696";
+scf_909	AUGUSTUS	stop_codon	407	409	.	+	0	transcript_id "g696.t1"; gene_id "g696";
+# coding sequence = [tacggtgttatcaatcgatggtcgaaacctgcttttgttttgaagcgagtcatgacttggttcacaaactctttaccat
+# tatccgactgtactatcataggtataccaaaatcgcaaaacaccggtatgatggctttcactactgattcagctgttttgtctttgataggtctcaag
+# atgacgaatcgactacatatgtctaccatcactagtaggtatgtgttgtgttctgctgttgttggtaatggtcctgtcaagtctatagcccagtggtc
+# tccaggtaacaatgcatgtatgggtttatgggggttgtag]
+# protein sequence = [YGVINRWSKPAFVLKRVMTWFTNSLPLSDCTIIGIPKSQNTGMMAFTTDSAVLSLIGLKMTNRLHMSTITSRYVLCSA
+# VVGNGPVKSIAQWSPGNNACMGLWGL]
+# end gene g696
+###
+#
+##FASTA
+>scf_909
+ATCCCAATGCTCTGGTGCACCGTCTACTAACTTTTTTATCACCATCTTAGAAGTACCAAC
+TGTGCGCTCTGCAGAACCATTACTTTGTGGATAGTACGGTGTTATCAATCGATGGTCGAA
+ACCTGCTTTTGTTTTGAAGCGAGTCATGACTTGGTTCACAAACTCTTTACCATTATCCGA
+CTGTACTATCATAGGTATACCAAAATCGCAAAACACCGGTATGATGGCTTTCACTACTGA
+TTCAGCTGTTTTGTCTTTGATAGGTCTCAAGATGACGAATCGACTACATATGTCTACCAT
+CACTAGTAGGTATGTGTTGTGTTCTGCTGTTGTTGGTAATGGTCCTGTCAAGTCTATAGC
+CCAGTGGTCTCCAGGTAACAATGCATGTATGGGTTTATGGGGGTTGTAGCCTGTTTTCAC
+AATGTTGAATCTTTGGCATGGTGTACACTTTTTAACCAACTCTAGTGCGTCTTTCTTTAG
+GTTTGTCCAGTGCATGCCATTGTTGTG
