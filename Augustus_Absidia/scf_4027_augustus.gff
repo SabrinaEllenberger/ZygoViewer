@@ -1,0 +1,55 @@
+# ----- prediction on sequence number 1883 (length = 961, name = scf_4027) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1883 on both strands
+# start gene g2873
+scf_4027	AUGUSTUS	gene	1	453	0.99	+	.	g2873
+scf_4027	AUGUSTUS	transcript	1	453	0.99	+	.	g2873.t1
+scf_4027	AUGUSTUS	terminal	1	453	0.99	+	0	transcript_id "g2873.t1"; gene_id "g2873";
+scf_4027	AUGUSTUS	CDS	1	450	0.99	+	0	transcript_id "g2873.t1"; gene_id "g2873";
+scf_4027	AUGUSTUS	stop_codon	451	453	.	+	0	transcript_id "g2873.t1"; gene_id "g2873";
+# coding sequence = [tgtgacgacaagacgctctcgacctttgctgttgctggtgcctggatctcgaaagaagatactgactcttacacttggg
+# tgctggaacagcttgcgaagacggtttatgtggatggaaattggttgccagctctctttgtcactgatcaacagcaaaatcttatctcggcgatcgaa
+# tcggtattcccctcttcccaacacattctctgctacattcatctaacaagaaatctcaaggtcaacactaaactgtgggaaaaagcggaaaggctctt
+# caaaaccatgtgcctaaccaccaaccaagctggattcgattttgcacatgaatctctggtgtcattggcggcaaaattcaccaacgataaaggtgctg
+# cctttgctgcttttcttaacaagcactttcgctggcggacgtttccgtctgcatgtttgacctcaaattctgacaaataa]
+# protein sequence = [CDDKTLSTFAVAGAWISKEDTDSYTWVLEQLAKTVYVDGNWLPALFVTDQQQNLISAIESVFPSSQHILCYIHLTRNL
+# KVNTKLWEKAERLFKTMCLTTNQAGFDFAHESLVSLAAKFTNDKGAAFAAFLNKHFRWRTFPSACLTSNSDK]
+# end gene g2873
+###
+# start gene g2874
+scf_4027	AUGUSTUS	gene	601	888	1	+	.	g2874
+scf_4027	AUGUSTUS	transcript	601	888	1	+	.	g2874.t1
+scf_4027	AUGUSTUS	start_codon	601	603	.	+	0	transcript_id "g2874.t1"; gene_id "g2874";
+scf_4027	AUGUSTUS	single	601	888	1	+	0	transcript_id "g2874.t1"; gene_id "g2874";
+scf_4027	AUGUSTUS	CDS	601	885	1	+	0	transcript_id "g2874.t1"; gene_id "g2874";
+scf_4027	AUGUSTUS	stop_codon	886	888	.	+	0	transcript_id "g2874.t1"; gene_id "g2874";
+# coding sequence = [atgccccgccccaaccccaacattattgtgaactctcgtgtatctgctcggatgcactaccttcgacaaacagtgtttg
+# cctctgcggtcctcaacgtggacgccaacgcacccagagccagttttgaaggcaccgttaccggaacgcacaccactgatggcgtcaattaccgcgat
+# gtgaccttcgatgccctccctgacattgtcattcctctacgtttgacctgcctccgttaccttggacgtaccccttccccaggaagtagcaaacgacg
+# tggaagaacctga]
+# protein sequence = [MPRPNPNIIVNSRVSARMHYLRQTVFASAVLNVDANAPRASFEGTVTGTHTTDGVNYRDVTFDALPDIVIPLRLTCLR
+# YLGRTPSPGSSKRRGRT]
+# end gene g2874
+###
+#
+##FASTA
+>scf_4027
+TGTGACGACAAGACGCTCTCGACCTTTGCTGTTGCTGGTGCCTGGATCTCGAAAGAAGAT
+ACTGACTCTTACACTTGGGTGCTGGAACAGCTTGCGAAGACGGTTTATGTGGATGGAAAT
+TGGTTGCCAGCTCTCTTTGTCACTGATCAACAGCAAAATCTTATCTCGGCGATCGAATCG
+GTATTCCCCTCTTCCCAACACATTCTCTGCTACATTCATCTAACAAGAAATCTCAAGGTC
+AACACTAAACTGTGGGAAAAAGCGGAAAGGCTCTTCAAAACCATGTGCCTAACCACCAAC
+CAAGCTGGATTCGATTTTGCACATGAATCTCTGGTGTCATTGGCGGCAAAATTCACCAAC
+GATAAAGGTGCTGCCTTTGCTGCTTTTCTTAACAAGCACTTTCGCTGGCGGACGTTTCCG
+TCTGCATGTTTGACCTCAAATTCTGACAAATAAAGACGCTTTAGCTTGATTTTGAAACAG
+GCCCCTGGATTTACTCTGACTTCGAAAATATTACCGTGCGATTCTTTCTTTTGCTTCTTT
+CTCCCTTCTTGAATACTATCAACATTCATCTCACCCAATTACCTTTTTTATCATACAATC
+ATGCCCCGCCCCAACCCCAACATTATTGTGAACTCTCGTGTATCTGCTCGGATGCACTAC
+CTTCGACAAACAGTGTTTGCCTCTGCGGTCCTCAACGTGGACGCCAACGCACCCAGAGCC
+AGTTTTGAAGGCACCGTTACCGGAACGCACACCACTGATGGCGTCAATTACCGCGATGTG
+ACCTTCGATGCCCTCCCTGACATTGTCATTCCTCTACGTTTGACCTGCCTCCGTTACCTT
+GGACGTACCCCTTCCCCAGGAAGTAGCAAACGACGTGGAAGAACCTGACCTTTTGGAAGA
+CGCAATTCAGCCAATTGAAAGCGGTAGCGAAAGCGATGACGACGTTATCGACATGAACTG
+G

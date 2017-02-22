@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 1930 (length = 666, name = scf_4147) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1930 on both strands
+# start gene g3089
+scf_4147	AUGUSTUS	gene	1	666	0.56	+	.	g3089
+scf_4147	AUGUSTUS	transcript	1	666	0.56	+	.	g3089.t1
+scf_4147	AUGUSTUS	internal	152	666	0.56	+	1	transcript_id "g3089.t1"; gene_id "g3089";
+scf_4147	AUGUSTUS	intron	1	151	0.57	+	.	transcript_id "g3089.t1"; gene_id "g3089";
+scf_4147	AUGUSTUS	CDS	152	666	0.56	+	1	transcript_id "g3089.t1"; gene_id "g3089";
+# coding sequence = [aagtgtggaaggagctcagtatttcggtttcaagacagggttctttgatcttctcgttcgtagtgatcaagtcactgag
+# taccatgttgactctacttacagatcgaacaatgccgggtttgaactgtttggtatcgtggcaaatgtttatgggtcaggatatccgatcgcctactt
+# gctcatgaagatcaatgccagcagcaacaacaacaacaacaacaataacaacaacaacgatgaccatgaagaaaacaacagcaggatcggcgttttaa
+# aaactttttttcaacgcatgaaaagtcaaggcctgaacccgacattcatgttctgtgacaaagacatctccgaaatcaacgcgatcgaagcaacatgg
+# caatcggacaacacaattgtccgtttatgtctttggcatctcaaaagagctgtgaaaaccaagcttgcgaaaagaagatctgcccaagttccccctta
+# cttccctggtgacgctgaaggagagtttgactttgtggatggtc]
+# protein sequence = [SVEGAQYFGFKTGFFDLLVRSDQVTEYHVDSTYRSNNAGFELFGIVANVYGSGYPIAYLLMKINASSNNNNNNNNNNN
+# DDHEENNSRIGVLKTFFQRMKSQGLNPTFMFCDKDISEINAIEATWQSDNTIVRLCLWHLKRAVKTKLAKRRSAQVPPYFPGDAEGEFDFVDG]
+# end gene g3089
+###
+#
+##FASTA
+>scf_4147
+CGTATAATAGTAGATAGATTAGAGGGGTGTAGAATAGATCTTTAGAATAGTAGTAGATAT
+AGATTGGTCAACCTAGTTTAGATACCCTAACAGTTTGAACTTTTACTAACTTCAATAAAC
+ATGTTCCTGTATATCTGTAGTTGATGTTTAGAAGTGTGGAAGGAGCTCAGTATTTCGGTT
+TCAAGACAGGGTTCTTTGATCTTCTCGTTCGTAGTGATCAAGTCACTGAGTACCATGTTG
+ACTCTACTTACAGATCGAACAATGCCGGGTTTGAACTGTTTGGTATCGTGGCAAATGTTT
+ATGGGTCAGGATATCCGATCGCCTACTTGCTCATGAAGATCAATGCCAGCAGCAACAACA
+ACAACAACAACAATAACAACAACAACGATGACCATGAAGAAAACAACAGCAGGATCGGCG
+TTTTAAAAACTTTTTTTCAACGCATGAAAAGTCAAGGCCTGAACCCGACATTCATGTTCT
+GTGACAAAGACATCTCCGAAATCAACGCGATCGAAGCAACATGGCAATCGGACAACACAA
+TTGTCCGTTTATGTCTTTGGCATCTCAAAAGAGCTGTGAAAACCAAGCTTGCGAAAAGAA
+GATCTGCCCAAGTTCCCCCTTACTTCCCTGGTGACGCTGAAGGAGAGTTTGACTTTGTGG
+ATGGTC

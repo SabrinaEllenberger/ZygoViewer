@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 1912 (length = 217, name = scf_4083) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1912 on both strands
+# start gene g2928
+scf_4083	AUGUSTUS	gene	1	189	0.62	-	.	g2928
+scf_4083	AUGUSTUS	transcript	1	189	0.62	-	.	g2928.t1
+scf_4083	AUGUSTUS	initial	17	189	0.62	-	0	transcript_id "g2928.t1"; gene_id "g2928";
+scf_4083	AUGUSTUS	intron	1	16	0.65	-	.	transcript_id "g2928.t1"; gene_id "g2928";
+scf_4083	AUGUSTUS	CDS	17	189	0.62	-	0	transcript_id "g2928.t1"; gene_id "g2928";
+scf_4083	AUGUSTUS	start_codon	187	189	.	-	0	transcript_id "g2928.t1"; gene_id "g2928";
+# coding sequence = [atggaaaaactggagaaggtggaaaagaagtgggctggaatgcacgtcaacaagctggctcatcttggctgtcaatcga
+# cgaaccgtgtggaaggtggtcatgcaacgctgaagtccatcttgacgaatgccggcggaaaccttcaaaaggcgtatgaaagcgtacataaatg]
+# protein sequence = [MEKLEKVEKKWAGMHVNKLAHLGCQSTNRVEGGHATLKSILTNAGGNLQKAYESVHK]
+# end gene g2928
+###
+#
+##FASTA
+>scf_4083
+TACCATTCCAGTGTACCATTTATGTACGCTTTCATACGCCTTTTGAAGGTTTCCGCCGGC
+ATTCGTCAAGATGGACTTCAGCGTTGCATGACCACCTTCCACACGGTTCGTCGATTGACA
+GCCAAGATGAGCCAGCTTGTTGACGTGCATTCCAGCCCACTTCTTTTCCACCTTCTCCAG
+TTTTTCCATATCCTTTGGGTCGGTTTCTTTTGTCACC

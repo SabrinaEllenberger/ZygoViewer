@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 1873 (length = 376, name = scf_4013) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1873 on both strands
+# start gene g2862
+scf_4013	AUGUSTUS	gene	1	274	0.76	+	.	g2862
+scf_4013	AUGUSTUS	transcript	1	274	0.76	+	.	g2862.t1
+scf_4013	AUGUSTUS	terminal	43	274	0.76	+	1	transcript_id "g2862.t1"; gene_id "g2862";
+scf_4013	AUGUSTUS	intron	1	42	0.79	+	.	transcript_id "g2862.t1"; gene_id "g2862";
+scf_4013	AUGUSTUS	CDS	43	271	0.76	+	1	transcript_id "g2862.t1"; gene_id "g2862";
+scf_4013	AUGUSTUS	stop_codon	272	274	.	+	0	transcript_id "g2862.t1"; gene_id "g2862";
+# coding sequence = [gtacagtatgccctatggtcgcaagggggaaaattctgccaaagaaccttccaccccgccactcatgcgcacatccacc
+# accgccacttacagatggtttcaatatgtaactcttcttttatgtctcaaagttgtggtccctttgttccccttggaagaagaccggaaaagctggca
+# tgtgggggtcatcttgaagcaactagatgctatggccgtccattccttgtcctga]
+# protein sequence = [YSMPYGRKGENSAKEPSTPPLMRTSTTATYRWFQYVTLLLCLKVVVPLFPLEEDRKSWHVGVILKQLDAMAVHSLS]
+# end gene g2862
+###
+#
+##FASTA
+>scf_4013
+ATCTGTGGGTTCCACCTAAGGGCAATCACTGTAATTGTATAGGTACAGTATGCCCTATGG
+TCGCAAGGGGGAAAATTCTGCCAAAGAACCTTCCACCCCGCCACTCATGCGCACATCCAC
+CACCGCCACTTACAGATGGTTTCAATATGTAACTCTTCTTTTATGTCTCAAAGTTGTGGT
+CCCTTTGTTCCCCTTGGAAGAAGACCGGAAAAGCTGGCATGTGGGGGTCATCTTGAAGCA
+ACTAGATGCTATGGCCGTCCATTCCTTGTCCTGATCCTGCCTTTTTGGACGTCTGATTGT
+TCTTAAAAGCAGTGGATTAACGCTACTCAATAATTCACAGTAGCAACACTACACAAACAC
+ACACTTTCCGTATTCA

@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 1863 (length = 394, name = scf_3999) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1863 on both strands
+# start gene g2817
+scf_3999	AUGUSTUS	gene	1	381	0.9	-	.	g2817
+scf_3999	AUGUSTUS	transcript	1	381	0.9	-	.	g2817.t1
+scf_3999	AUGUSTUS	initial	7	381	0.9	-	0	transcript_id "g2817.t1"; gene_id "g2817";
+scf_3999	AUGUSTUS	intron	1	6	0.91	-	.	transcript_id "g2817.t1"; gene_id "g2817";
+scf_3999	AUGUSTUS	CDS	7	381	0.9	-	0	transcript_id "g2817.t1"; gene_id "g2817";
+scf_3999	AUGUSTUS	start_codon	379	381	.	-	0	transcript_id "g2817.t1"; gene_id "g2817";
+# coding sequence = [atgcagtacaacgtaacggtgaaaggctataaccctttagcttcaatcaccgccggcttaccaggagatcactgggcca
+# tagatctggctggaccttttgatcaaacacacagaggcaacatttacatattggtgatggtggacatctgtaccaagtttgtcatattaaaagcaatc
+# cccgacaaaatgtcgaccacaatagcagaatcgctgttggatgtattttgtacttttggattcccaaaggtactgcaatcggacaatggaacagagtt
+# tgtaaatgagattatcaagctcatgaccagatcaactaaaattgaccatagactcatatcggcttaccaccctagagctaatggcgctgctgaaagaa
+# ca]
+# protein sequence = [MQYNVTVKGYNPLASITAGLPGDHWAIDLAGPFDQTHRGNIYILVMVDICTKFVILKAIPDKMSTTIAESLLDVFCTF
+# GFPKVLQSDNGTEFVNEIIKLMTRSTKIDHRLISAYHPRANGAAERT]
+# end gene g2817
+###
+#
+##FASTA
+>scf_3999
+TTTTACTGTTCTTTCAGCAGCGCCATTAGCTCTAGGGTGGTAAGCCGATATGAGTCTATG
+GTCAATTTTAGTTGATCTGGTCATGAGCTTGATAATCTCATTTACAAACTCTGTTCCATT
+GTCCGATTGCAGTACCTTTGGGAATCCAAAAGTACAAAATACATCCAACAGCGATTCTGC
+TATTGTGGTCGACATTTTGTCGGGGATTGCTTTTAATATGACAAACTTGGTACAGATGTC
+CACCATCACCAATATGTAAATGTTGCCTCTGTGTGTTTGATCAAAAGGTCCAGCCAGATC
+TATGGCCCAGTGATCTCCTGGTAAGCCGGCGGTGATTGAAGCTAAAGGGTTATAGCCTTT
+CACCGTTACGTTGTACTGCATACAGGCATTGCAC
