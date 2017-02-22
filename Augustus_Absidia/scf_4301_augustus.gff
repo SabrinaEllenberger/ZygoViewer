@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 2024 (length = 379, name = scf_4301) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2024 on both strands
+# start gene g3294
+scf_4301	AUGUSTUS	gene	1	367	0.96	-	.	g3294
+scf_4301	AUGUSTUS	transcript	1	367	0.96	-	.	g3294.t1
+scf_4301	AUGUSTUS	initial	12	367	0.96	-	0	transcript_id "g3294.t1"; gene_id "g3294";
+scf_4301	AUGUSTUS	intron	1	11	0.98	-	.	transcript_id "g3294.t1"; gene_id "g3294";
+scf_4301	AUGUSTUS	CDS	12	367	0.96	-	0	transcript_id "g3294.t1"; gene_id "g3294";
+scf_4301	AUGUSTUS	start_codon	365	367	.	-	0	transcript_id "g3294.t1"; gene_id "g3294";
+# coding sequence = [atgtataccgatgatggtgaacctcttttgcgccaatgccctgactgtaatgcgcctcgaaaagcaagctcttatgtct
+# ctgtggcctctgttagcgatatcattgccggaaagctgtttaatcctctcaccagacagcaaatgatgtacccttcccgccgccagaacgtaccaggt
+# gtcatgactgacatattcgatgcttcggtgtaccgcaacatgatggaacgccaatactttacctctgctttcgatgtggctattggcctctctattga
+# cggattctcccctttcaacaaaggaaggttccagtgcactctcgttaacatggtgatctacaatattgatcctttagaaag]
+# protein sequence = [MYTDDGEPLLRQCPDCNAPRKASSYVSVASVSDIIAGKLFNPLTRQQMMYPSRRQNVPGVMTDIFDASVYRNMMERQY
+# FTSAFDVAIGLSIDGFSPFNKGRFQCTLVNMVIYNIDPLE]
+# end gene g3294
+###
+#
+##FASTA
+>scf_4301
+AAACGCATTACCTTTCTAAAGGATCAATATTGTAGATCACCATGTTAACGAGAGTGCACT
+GGAACCTTCCTTTGTTGAAAGGGGAGAATCCGTCAATAGAGAGGCCAATAGCCACATCGA
+AAGCAGAGGTAAAGTATTGGCGTTCCATCATGTTGCGGTACACCGAAGCATCGAATATGT
+CAGTCATGACACCTGGTACGTTCTGGCGGCGGGAAGGGTACATCATTTGCTGTCTGGTGA
+GAGGATTAAACAGCTTTCCGGCAATGATATCGCTAACAGAGGCCACAGAGACATAAGAGC
+TTGCTTTTCGAGGCGCATTACAGTCAGGGCATTGGCGCAAAAGAGGTTCACCATCATCGG
+TATACATGCGGCAACCCGT

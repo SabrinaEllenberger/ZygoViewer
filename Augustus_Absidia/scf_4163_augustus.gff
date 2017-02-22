@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 1939 (length = 278, name = scf_4163) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1939 on both strands
+# start gene g3093
+scf_4163	AUGUSTUS	gene	1	212	0.72	-	.	g3093
+scf_4163	AUGUSTUS	transcript	1	212	0.72	-	.	g3093.t1
+scf_4163	AUGUSTUS	initial	108	212	0.92	-	0	transcript_id "g3093.t1"; gene_id "g3093";
+scf_4163	AUGUSTUS	intron	1	107	0.75	-	.	transcript_id "g3093.t1"; gene_id "g3093";
+scf_4163	AUGUSTUS	CDS	108	212	0.92	-	0	transcript_id "g3093.t1"; gene_id "g3093";
+scf_4163	AUGUSTUS	start_codon	210	212	.	-	0	transcript_id "g3093.t1"; gene_id "g3093";
+# coding sequence = [atggtcgtcggacatacgatccttgtacttttcccagagaagacttggattgcttggggagcagttcaaaaggatgtag
+# cagaaaagtcttctgatcatggaagg]
+# protein sequence = [MVVGHTILVLFPEKTWIAWGAVQKDVAEKSSDHGR]
+# end gene g3093
+###
+#
+##FASTA
+>scf_4163
+GTACAGTGCACGAGACATTCCAGGATGCGGCACTTGCCAGAGGGCTATTGGAAAACGATG
+ACGAGTGGGATCACTGCCTCGAAGAAGCTTCTGCCCTGGCCGCTTACCCTTCCATGATCA
+GAAGACTTTTCTGCTACATCCTTTTGAACTGCTCCCCAAGCAATCCAAGTCTTCTCTGGG
+AAAAGTACAAGGATCGTATGTCCGACGACCATTTTTACGCTTTCCGACGCCAGTACCATT
+TAAGCAACGAACAAGAATTGGATCACGATCAAATGCAA

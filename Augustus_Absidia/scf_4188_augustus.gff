@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 1955 (length = 504, name = scf_4188) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1955 on both strands
+# start gene g3097
+scf_4188	AUGUSTUS	gene	1	493	0.52	+	.	g3097
+scf_4188	AUGUSTUS	transcript	1	493	0.52	+	.	g3097.t1
+scf_4188	AUGUSTUS	internal	50	390	0.52	+	2	transcript_id "g3097.t1"; gene_id "g3097";
+scf_4188	AUGUSTUS	terminal	452	493	1	+	0	transcript_id "g3097.t1"; gene_id "g3097";
+scf_4188	AUGUSTUS	intron	1	49	0.52	+	.	transcript_id "g3097.t1"; gene_id "g3097";
+scf_4188	AUGUSTUS	intron	391	451	1	+	.	transcript_id "g3097.t1"; gene_id "g3097";
+scf_4188	AUGUSTUS	CDS	50	390	0.52	+	2	transcript_id "g3097.t1"; gene_id "g3097";
+scf_4188	AUGUSTUS	CDS	452	490	1	+	0	transcript_id "g3097.t1"; gene_id "g3097";
+scf_4188	AUGUSTUS	stop_codon	491	493	.	+	0	transcript_id "g3097.t1"; gene_id "g3097";
+# coding sequence = [taacaagaaaagcgatttacaagcccgaaaaaatgaacaaattggtaaatcaaaacataacaaaagatgaaaagatgga
+# tgaacaggaatacatcacaccgcacgaagaagtacgaaaagacttgatacggatgtaccatagaactgcaaccatctattcagaagcacatctggatc
+# agcctgaagaacgcaataaaaagaccatagagtcaaaagaagagcgtaacgaagtactggaacgacaacatgcttttggtcacttcggtgccatagcg
+# atggaaaaggcaattcatgctgatggcatgcattggccgaatttaagacaggatgccataaacatgcttcaatcaccgccggcttaccaggagatcac
+# tgggccatag]
+# protein sequence = [TRKAIYKPEKMNKLVNQNITKDEKMDEQEYITPHEEVRKDLIRMYHRTATIYSEAHLDQPEERNKKTIESKEERNEVL
+# ERQHAFGHFGAIAMEKAIHADGMHWPNLRQDAINMLQSPPAYQEITGP]
+# end gene g3097
+###
+#
+##FASTA
+>scf_4188
+CGTCTTTTTCCCATAGAAAAAGAACTGGTGGGGGATAATACGGTAACAGTAACAAGAAAA
+GCGATTTACAAGCCCGAAAAAATGAACAAATTGGTAAATCAAAACATAACAAAAGATGAA
+AAGATGGATGAACAGGAATACATCACACCGCACGAAGAAGTACGAAAAGACTTGATACGG
+ATGTACCATAGAACTGCAACCATCTATTCAGAAGCACATCTGGATCAGCCTGAAGAACGC
+AATAAAAAGACCATAGAGTCAAAAGAAGAGCGTAACGAAGTACTGGAACGACAACATGCT
+TTTGGTCACTTCGGTGCCATAGCGATGGAAAAGGCAATTCATGCTGATGGCATGCATTGG
+CCGAATTTAAGACAGGATGCCATAAACATGGTAAAAAAGTGCAATGCCTGTATGCAGTAC
+AACGTAACGGTGAAAGGCTATAACCCTTTAGCTTCAATCACCGCCGGCTTACCAGGAGAT
+CACTGGGCCATAGATCTGGCTGGA

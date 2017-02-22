@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 1947 (length = 521, name = scf_4176) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1947 on both strands
+# start gene g3095
+scf_4176	AUGUSTUS	gene	1	499	1	-	.	g3095
+scf_4176	AUGUSTUS	transcript	1	499	1	-	.	g3095.t1
+scf_4176	AUGUSTUS	initial	89	499	1	-	0	transcript_id "g3095.t1"; gene_id "g3095";
+scf_4176	AUGUSTUS	intron	1	88	1	-	.	transcript_id "g3095.t1"; gene_id "g3095";
+scf_4176	AUGUSTUS	CDS	89	499	1	-	0	transcript_id "g3095.t1"; gene_id "g3095";
+scf_4176	AUGUSTUS	start_codon	497	499	.	-	0	transcript_id "g3095.t1"; gene_id "g3095";
+# coding sequence = [atgcgcgcatcaaggtatgagaaccccgttcgattcgtggaccggtttgcgaccaccctccgtagcactggcgtaactg
+# attccgtcgggtatggcacgatcttgcttaaggcgcttcaaacgaaccaccagcagtttgtccagcagatcagattggcgtacgcagctgcacctcgt
+# ttaaaccgaccagagatgacagttgattacatcaatgaggtggcaccgatcctagcaacagaagatcctgtggagccccaacaaggcggacctaatcc
+# taatcgtgcgagtcatcgtccaaggtaccctagccgccaacaaaatggttccaacggtagaaatcaagcaggatcaagtcgacctaggccctatccta
+# tcccgacacaagcaggcccctccaagcaaaaagaaaag]
+# protein sequence = [MRASRYENPVRFVDRFATTLRSTGVTDSVGYGTILLKALQTNHQQFVQQIRLAYAAAPRLNRPEMTVDYINEVAPILA
+# TEDPVEPQQGGPNPNRASHRPRYPSRQQNGSNGRNQAGSSRPRPYPIPTQAGPSKQKEK]
+# end gene g3095
+###
+#
+##FASTA
+>scf_4176
+CGGCAAACTTATCGGCTTTTTTCTGTAGGAATTCTTGACAGCGGTGTTTGGGGTCCCAAG
+GCTTGTGGCAGTGATAACACTCATTTACCTTTTCTTTTTGCTTGGAGGGGCCTGCTTGTG
+TCGGGATAGGATAGGGCCTAGGTCGACTTGATCCTGCTTGATTTCTACCGTTGGAACCAT
+TTTGTTGGCGGCTAGGGTACCTTGGACGATGACTCGCACGATTAGGATTAGGTCCGCCTT
+GTTGGGGCTCCACAGGATCTTCTGTTGCTAGGATCGGTGCCACCTCATTGATGTAATCAA
+CTGTCATCTCTGGTCGGTTTAAACGAGGTGCAGCTGCGTACGCCAATCTGATCTGCTGGA
+CAAACTGCTGGTGGTTCGTTTGAAGCGCCTTAAGCAAGATCGTGCCATACCCGACGGAAT
+CAGTTACGCCAGTGCTACGGAGGGTGGTCGCAAACCGGTCCACGAATCGAACGGGGTTCT
+CATACCTTGATGCGCGCATGTCAACCAGTTGTTGTAAGTAA

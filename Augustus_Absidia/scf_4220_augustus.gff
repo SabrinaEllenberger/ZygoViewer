@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1978 (length = 379, name = scf_4220) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1978 on both strands
+# start gene g3103
+scf_4220	AUGUSTUS	gene	1	324	0.63	-	.	g3103
+scf_4220	AUGUSTUS	transcript	1	324	0.63	-	.	g3103.t1
+scf_4220	AUGUSTUS	initial	210	324	0.7	-	0	transcript_id "g3103.t1"; gene_id "g3103";
+scf_4220	AUGUSTUS	intron	1	209	0.73	-	.	transcript_id "g3103.t1"; gene_id "g3103";
+scf_4220	AUGUSTUS	CDS	210	324	0.7	-	0	transcript_id "g3103.t1"; gene_id "g3103";
+scf_4220	AUGUSTUS	start_codon	322	324	.	-	0	transcript_id "g3103.t1"; gene_id "g3103";
+# coding sequence = [atgaatgatgacgccgatgtggatgaaatggaatcagaaagtgaagacgaagccttggatcctacaatcgatcagaatc
+# aaggcctccccgataatgatggtttggaagattttg]
+# protein sequence = [MNDDADVDEMESESEDEALDPTIDQNQGLPDNDGLEDF]
+# end gene g3103
+###
+#
+##FASTA
+>scf_4220
+TCTGACCTTAGTGTTATAGTACTTTATATACATAGTTATAGACTTCCTTTATAATAAAAG
+CATTCCTTTATTCTTCTAAAGCCTGCCTCTATTTGGCTGATACGACAGGGGGTTTTTAAT
+GAGTGGATAATGCTATACTACTGGTAAATATCTAATCTAATCTATGCTATGCTATTCTAT
+AAAAGTTCCATGTCACTATGCGAATGTACCAAAATCTTCCAAACCATCATTATCGGGGAG
+GCCTTGATTCTGATCGATTGTAGGATCCAAGGCTTCGTCTTCACTTTCTGATTCCATTTC
+ATCCACATCGGCGTCATCATTCATTTGCCATCCTTCTATGTCGACCAAGTTGGGGAGTTG
+CGGCGAGGCGTTAGTCCAA

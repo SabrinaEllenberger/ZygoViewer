@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 1987 (length = 304, name = scf_4238) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1987 on both strands
+# start gene g3150
+scf_4238	AUGUSTUS	gene	1	304	1	+	.	g3150
+scf_4238	AUGUSTUS	transcript	1	304	1	+	.	g3150.t1
+scf_4238	AUGUSTUS	internal	1	304	1	+	1	transcript_id "g3150.t1"; gene_id "g3150";
+scf_4238	AUGUSTUS	CDS	1	304	1	+	1	transcript_id "g3150.t1"; gene_id "g3150";
+# coding sequence = [tgcacctcgacacaatgaggtctgccatgtccttaaggccaagttgaccaagacttccgctaacggcacccccctcaac
+# caccgcaagtccaacaacagacagtggacaaaccaggacaagcaagaggacagcaagaagtatgcgcgagttgcccgcaagcaaggcaacagcaagca
+# gcaaggacaagctgaaaacacaccagcccctgtcattatcaaccccaagtccgatctttgcaagtccaagcatgcacctcagaaggacatgtttacca
+# cgatctcagaagacttatacgctgatgac]
+# protein sequence = [APRHNEVCHVLKAKLTKTSANGTPLNHRKSNNRQWTNQDKQEDSKKYARVARKQGNSKQQGQAENTPAPVIINPKSDL
+# CKSKHAPQKDMFTTISEDLYADD]
+# end gene g3150
+###
+#
+##FASTA
+>scf_4238
+TGCACCTCGACACAATGAGGTCTGCCATGTCCTTAAGGCCAAGTTGACCAAGACTTCCGC
+TAACGGCACCCCCCTCAACCACCGCAAGTCCAACAACAGACAGTGGACAAACCAGGACAA
+GCAAGAGGACAGCAAGAAGTATGCGCGAGTTGCCCGCAAGCAAGGCAACAGCAAGCAGCA
+AGGACAAGCTGAAAACACACCAGCCCCTGTCATTATCAACCCCAAGTCCGATCTTTGCAA
+GTCCAAGCATGCACCTCAGAAGGACATGTTTACCACGATCTCAGAAGACTTATACGCTGA
+TGAC

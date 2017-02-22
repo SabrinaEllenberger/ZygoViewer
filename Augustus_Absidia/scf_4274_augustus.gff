@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2010 (length = 289, name = scf_4274) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2010 on both strands
+# start gene g3215
+scf_4274	AUGUSTUS	gene	1	224	0.8	+	.	g3215
+scf_4274	AUGUSTUS	transcript	1	224	0.8	+	.	g3215.t1
+scf_4274	AUGUSTUS	terminal	1	224	0.8	+	2	transcript_id "g3215.t1"; gene_id "g3215";
+scf_4274	AUGUSTUS	CDS	1	221	0.8	+	2	transcript_id "g3215.t1"; gene_id "g3215";
+scf_4274	AUGUSTUS	stop_codon	222	224	.	+	0	transcript_id "g3215.t1"; gene_id "g3215";
+# coding sequence = [gcagcgtgccaaggttcaaacaagagcccgacgattgctcaaggcagcctcaagaattccaaggcaaagagacgacttg
+# ccaccaagtgacaccctacaagagagcatccactgccctcgtcggtacctacagtttgaagtgtaaaagccagtggaccatgggtgacaatgtgaccg
+# atcatcgaaagcgtatagctactacggtataccaaacaagtccttag]
+# protein sequence = [SVPRFKQEPDDCSRQPQEFQGKETTCHQVTPYKRASTALVGTYSLKCKSQWTMGDNVTDHRKRIATTVYQTSP]
+# end gene g3215
+###
+#
+##FASTA
+>scf_4274
+GCAGCGTGCCAAGGTTCAAACAAGAGCCCGACGATTGCTCAAGGCAGCCTCAAGAATTCC
+AAGGCAAAGAGACGACTTGCCACCAAGTGACACCCTACAAGAGAGCATCCACTGCCCTCG
+TCGGTACCTACAGTTTGAAGTGTAAAAGCCAGTGGACCATGGGTGACAATGTGACCGATC
+ATCGAAAGCGTATAGCTACTACGGTATACCAAACAAGTCCTTAGCTTACCATAGAGTTGA
+TATCCCGAGCCCCTAAAAACATCGAGCACAATGTCGGCCACCATACTTG
