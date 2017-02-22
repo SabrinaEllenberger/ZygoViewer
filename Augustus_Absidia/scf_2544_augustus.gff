@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 1253 (length = 258, name = scf_2544) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1253 on both strands
+# start gene g1925
+scf_2544	AUGUSTUS	gene	1	219	0.92	-	.	g1925
+scf_2544	AUGUSTUS	transcript	1	219	0.92	-	.	g1925.t1
+scf_2544	AUGUSTUS	internal	9	144	0.92	-	0	transcript_id "g1925.t1"; gene_id "g1925";
+scf_2544	AUGUSTUS	initial	199	219	0.93	-	0	transcript_id "g1925.t1"; gene_id "g1925";
+scf_2544	AUGUSTUS	intron	1	8	0.92	-	.	transcript_id "g1925.t1"; gene_id "g1925";
+scf_2544	AUGUSTUS	intron	145	198	0.93	-	.	transcript_id "g1925.t1"; gene_id "g1925";
+scf_2544	AUGUSTUS	CDS	9	144	0.92	-	0	transcript_id "g1925.t1"; gene_id "g1925";
+scf_2544	AUGUSTUS	CDS	199	219	0.93	-	0	transcript_id "g1925.t1"; gene_id "g1925";
+scf_2544	AUGUSTUS	start_codon	217	219	.	-	0	transcript_id "g1925.t1"; gene_id "g1925";
+# coding sequence = [atgaacacatcaggaagcgcactggacaccattcttgatgaagccgcgaacgaagaagttgatcctcaattgcttctcg
+# cagaactaaccgaacaaaagaggtcagccttccgaaaggtgcagccttggaatgccttccttcgtgaagaagccaaag]
+# protein sequence = [MNTSGSALDTILDEAANEEVDPQLLLAELTEQKRSAFRKVQPWNAFLREEAK]
+# end gene g1925
+###
+#
+##FASTA
+>scf_2544
+ATATCTACCTTTGGCTTCTTCACGAAGGAAGGCATTCCAAGGCTGCACCTTTCGGAAGGC
+TGACCTCTTTTGTTCGGTTAGTTCTGCGAGAAGCAATTGAGGATCAACTTCTTCGTTCGC
+GGCTTCATCAAGAATGGTGTCCAGCTGTTACGACCACGCTTCGATTTTTCGTCGTAATTC
+GATAGAGCAGGTTTTCACTGCGCTTCCTGATGTGTTCATGATGTTCAAAGTAAAAGACAG
+AGGGGAAGTAAAAAGTAA

@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 1279 (length = 295, name = scf_2637) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1279 on both strands
+# start gene g2174
+scf_2637	AUGUSTUS	gene	1	295	0.64	+	.	g2174
+scf_2637	AUGUSTUS	transcript	1	295	0.64	+	.	g2174.t1
+scf_2637	AUGUSTUS	internal	70	295	0.64	+	2	transcript_id "g2174.t1"; gene_id "g2174";
+scf_2637	AUGUSTUS	intron	1	69	0.64	+	.	transcript_id "g2174.t1"; gene_id "g2174";
+scf_2637	AUGUSTUS	CDS	70	295	0.64	+	2	transcript_id "g2174.t1"; gene_id "g2174";
+# coding sequence = [taactcctcaactacagcaacaacagcaacagtacccagtccctcctaaaggcatcttacgatcttccaaatctcacca
+# ttcatcagcttccgtctcttccaactcctcttctggctcttctgggcctcctcctcctcctgtggatcatatcaaattgcggtctttggaaaagaact
+# ttgaagccaagtacaagtattgcacacctctgatcaccaagatgttatc]
+# protein sequence = [TPQLQQQQQQYPVPPKGILRSSKSHHSSASVSSNSSSGSSGPPPPPVDHIKLRSLEKNFEAKYKYCTPLITKML]
+# end gene g2174
+###
+#
+##FASTA
+>scf_2637
+CAATGGTACAACAGGTCCGCGAATGGCAGGGAATCCAGCAACTGTCATGCTCCTCATCAT
+CATCAACAGTAACTCCTCAACTACAGCAACAACAGCAACAGTACCCAGTCCCTCCTAAAG
+GCATCTTACGATCTTCCAAATCTCACCATTCATCAGCTTCCGTCTCTTCCAACTCCTCTT
+CTGGCTCTTCTGGGCCTCCTCCTCCTCCTGTGGATCATATCAAATTGCGGTCTTTGGAAA
+AGAACTTTGAAGCCAAGTACAAGTATTGCACACCTCTGATCACCAAGATGTTATC
