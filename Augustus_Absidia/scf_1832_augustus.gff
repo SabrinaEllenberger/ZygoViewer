@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 886 (length = 232, name = scf_1832) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 886 on both strands
+# start gene g1611
+scf_1832	AUGUSTUS	gene	1	232	0.52	-	.	g1611
+scf_1832	AUGUSTUS	transcript	1	232	0.52	-	.	g1611.t1
+scf_1832	AUGUSTUS	internal	24	232	0.52	-	2	transcript_id "g1611.t1"; gene_id "g1611";
+scf_1832	AUGUSTUS	intron	1	23	0.53	-	.	transcript_id "g1611.t1"; gene_id "g1611";
+scf_1832	AUGUSTUS	CDS	24	232	0.52	-	2	transcript_id "g1611.t1"; gene_id "g1611";
+# coding sequence = [acatcattggcaagattgaccctcccgttgaactcgaacagcaaccagtaccaagggatctcgaaaagccgtccgcccc
+# tgaaggtaagaacggtaagaaggaaaagataaagaaggtttttgaagtgatcaagggcggcacaggggaggggggcagcagcttacaatttgacgaaa
+# agctcggccaaaacggtggtcgacggtttccg]
+# protein sequence = [IIGKIDPPVELEQQPVPRDLEKPSAPEGKNGKKEKIKKVFEVIKGGTGEGGSSLQFDEKLGQNGGRRFP]
+# end gene g1611
+###
+#
+##FASTA
+>scf_1832
+AGGGATCCAGCCTTTCGCGGGACCGGAAACCGTCGACCACCGTTTTGGCCGAGCTTTTCG
+TCAAATTGTAAGCTGCTGCCCCCCTCCCCTGTGCCGCCCTTGATCACTTCAAAAACCTTC
+TTTATCTTTTCCTTCTTACCGTTCTTACCTTCAGGGGCGGACGGCTTTTCGAGATCCCTT
+GGTACTGGTTGCTGTTCGAGTTCAACGGGAGGGTCAATCTTGCCAATGATGT

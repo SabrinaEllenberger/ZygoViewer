@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 855 (length = 288, name = scf_1759) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 855 on both strands
+# start gene g1597
+scf_1759	AUGUSTUS	gene	1	156	0.33	-	.	g1597
+scf_1759	AUGUSTUS	transcript	1	156	0.33	-	.	g1597.t1
+scf_1759	AUGUSTUS	initial	48	156	0.33	-	0	transcript_id "g1597.t1"; gene_id "g1597";
+scf_1759	AUGUSTUS	intron	1	47	0.46	-	.	transcript_id "g1597.t1"; gene_id "g1597";
+scf_1759	AUGUSTUS	CDS	48	156	0.33	-	0	transcript_id "g1597.t1"; gene_id "g1597";
+scf_1759	AUGUSTUS	start_codon	154	156	.	-	0	transcript_id "g1597.t1"; gene_id "g1597";
+# coding sequence = [atggtggtacttcaccttcccaaacttcgattcatcgatttcaacaacgatggggctaccatcgtcattgcggccacct
+# ggaaagataaagaatcagttaatatgtact]
+# protein sequence = [MVVLHLPKLRFIDFNNDGATIVIAATWKDKESVNMY]
+# end gene g1597
+###
+#
+##FASTA
+>scf_1759
+TTGGTAAGTTTGTCGTCAATTGATTGGGTGCAGTGATTAATGCATACAGTACATATTAAC
+TGATTCTTTATCTTTCCAGGTGGCCGCAATGACGATGGTAGCCCCATCGTTGTTGAAATC
+GATGAATCGAAGTTTGGGAAGGTGAAGTACCACCATGGACACCGTGTGGAGGGCGTTTGA
+GTTGTTGGTGGTGTTGAGCTGACTTCTCAGCGACGTTTCTTCGCATGCACTGTGACTGAT
+CGATCCCAGGCCACTATGAAAGACATCATCACCCGTTTTGTAAGACGT

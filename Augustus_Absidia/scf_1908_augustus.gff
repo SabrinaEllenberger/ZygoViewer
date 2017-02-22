@@ -1,0 +1,49 @@
+# ----- prediction on sequence number 919 (length = 937, name = scf_1908) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 919 on both strands
+# start gene g1625
+scf_1908	AUGUSTUS	gene	1	880	0.44	-	.	g1625
+scf_1908	AUGUSTUS	transcript	1	880	0.44	-	.	g1625.t1
+scf_1908	AUGUSTUS	internal	1	146	0.52	-	1	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	internal	208	683	0.99	-	0	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	initial	758	880	0.81	-	0	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	intron	147	207	0.97	-	.	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	intron	684	757	1	-	.	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	CDS	1	146	0.52	-	1	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	CDS	208	683	0.99	-	0	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	CDS	758	880	0.81	-	0	transcript_id "g1625.t1"; gene_id "g1625";
+scf_1908	AUGUSTUS	start_codon	878	880	.	-	0	transcript_id "g1625.t1"; gene_id "g1625";
+# coding sequence = [atgtgtcttgtccgtggtgtggtaggtgaatctgctcatcatagctctggtggtatgtacttccctgtcatgacctctc
+# gatgtaaatatcgattgttggatgaatacaagaacggcggagagaatggtattgctgcaagtgctgttgcgtcccttaacaccttcagtggtcctcac
+# ttttttggtcttgatgaaatgcacatgattggacatggtctcgcaaaaatgctgtttacactattccaaccagtcaagaaaaacgacatgtcaaacga
+# tagggataagcgccgctacaacactaccttcgactaccccttctcccttgacgatctcgaaatcaaatcagtcggcaatgatatgctcctatccagac
+# ccaacatcccgctatcatttttccatggcaactgggacaacatagaaaagcaccagtccgcgcgggccgtggattggatggacttcctcctctttgtt
+# gttcccaccttggtcattccctctgtacacctctccatagcacgagaaaagcttaacaatctcatcatctctgtccacctgtgcctctcctgggaatt
+# atctccaagcgatattctattcatcaaagagtccattagcagcttccaggcattcctcatcactcatattctccagggaaccctcagtagaaggtgct
+# tcacaatcaacatccactaccttggtcatatcgtcttcatgatcggacgtcttggtcctctgccctcgtactcatgcc]
+# protein sequence = [MCLVRGVVGESAHHSSGGMYFPVMTSRCKYRLLDEYKNGGENGIAASAVASLNTFSGPHFFGLDEMHMIGHGLAKMLF
+# TLFQPVKKNDMSNDRDKRRYNTTFDYPFSLDDLEIKSVGNDMLLSRPNIPLSFFHGNWDNIEKHQSARAVDWMDFLLFVVPTLVIPSVHLSIAREKLN
+# NLIISVHLCLSWELSPSDILFIKESISSFQAFLITHILQGTLSRRCFTINIHYLGHIVFMIGRLGPLPSYSC]
+# end gene g1625
+###
+#
+##FASTA
+>scf_1908
+GGCATGAGTACGAGGGCAGAGGACCAAGACGTCCGATCATGAAGACGATATGACCAAGGT
+AGTGGATGTTGATTGTGAAGCACCTTCTACTGAGGGTTCCCTGGAGAATATGAGTGATGA
+GGAATGCCTGGAAGCTGCTAATGGACCTATCAGTAAAGAGTGTTAGCATAAGTGTTGAAT
+GTGGAGAGATCATAGCACAATACTTACTCTTTGATGAATAGAATATCGCTTGGAGATAAT
+TCCCAGGAGAGGCACAGGTGGACAGAGATGATGAGATTGTTAAGCTTTTCTCGTGCTATG
+GAGAGGTGTACAGAGGGAATGACCAAGGTGGGAACAACAAAGAGGAGGAAGTCCATCCAA
+TCCACGGCCCGCGCGGACTGGTGCTTTTCTATGTTGTCCCAGTTGCCATGGAAAAATGAT
+AGCGGGATGTTGGGTCTGGATAGGAGCATATCATTGCCGACTGATTTGATTTCGAGATCG
+TCAAGGGAGAAGGGGTAGTCGAAGGTAGTGTTGTAGCGGCGCTTATCCCTATCGTTTGAC
+ATGTCGTTTTTCTTGACTGGTTGGAATAGTGTAAACAGCATTTTTGCGAGACCATGTCCA
+ATCATGTGCATTTCATCAAGACCAAAAAAGTGAGGACCACTGAAGGTGTTAAGGGACGCA
+ACAGCACTTGCAGCAATACCATTCTATACAGTATAACAAGGCAAAGTGAGTGTCAAGTTC
+AACACAAGAGAGCAACATCTCTGTATATGTTCCTTACCTCTCCGCCGTTCTTGTATTCAT
+CCAACAATCGATATTTACATCGAGAGGTCATGACAGGGAAGTACATACCACCAGAGCTAT
+GATGAGCAGATTCACCTACCACACCACGGACAAGACACATTCGGCAGCCATTGTAGGACG
+TATGACCTCGATGTTTGACCAAGTCAGCAACGGCAGG

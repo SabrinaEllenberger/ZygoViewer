@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 856 (length = 405, name = scf_1761) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 856 on both strands
+# start gene g1598
+scf_1761	AUGUSTUS	gene	1	392	0.88	+	.	g1598
+scf_1761	AUGUSTUS	transcript	1	392	0.88	+	.	g1598.t1
+scf_1761	AUGUSTUS	terminal	1	392	0.88	+	2	transcript_id "g1598.t1"; gene_id "g1598";
+scf_1761	AUGUSTUS	CDS	1	389	0.88	+	2	transcript_id "g1598.t1"; gene_id "g1598";
+scf_1761	AUGUSTUS	stop_codon	390	392	.	+	0	transcript_id "g1598.t1"; gene_id "g1598";
+# coding sequence = [ttccttccatctgcccccatgacgcagcatcctacgatttcgaatcaattgatttggaatccaatggggtgcctgctga
+# tttgaggttggacggaagaagtaaagaggtattcagtttccaaagaaacttgaactttgatgtggtttttcaatttttccaagcaaatggtgtctgcc
+# cttctttgtcctctctcctcctccgctgctatctctcagaattggttgattgtgtcccctctcgcagggccaagtacgtgcctccatttcttgtcttg
+# gacacctcccttggtgatcagagcgaagtcattcaagaagtatttcaaggcattacgccattgaacagtatcttcaacgtaagtacctttttgttaag
+# agaccttgacctatattaa]
+# protein sequence = [PSICPHDAASYDFESIDLESNGVPADLRLDGRSKEVFSFQRNLNFDVVFQFFQANGVCPSLSSLLLRCYLSELVDCVP
+# SRRAKYVPPFLVLDTSLGDQSEVIQEVFQGITPLNSIFNVSTFLLRDLDLY]
+# end gene g1598
+###
+#
+##FASTA
+>scf_1761
+TTCCTTCCATCTGCCCCCATGACGCAGCATCCTACGATTTCGAATCAATTGATTTGGAAT
+CCAATGGGGTGCCTGCTGATTTGAGGTTGGACGGAAGAAGTAAAGAGGTATTCAGTTTCC
+AAAGAAACTTGAACTTTGATGTGGTTTTTCAATTTTTCCAAGCAAATGGTGTCTGCCCTT
+CTTTGTCCTCTCTCCTCCTCCGCTGCTATCTCTCAGAATTGGTTGATTGTGTCCCCTCTC
+GCAGGGCCAAGTACGTGCCTCCATTTCTTGTCTTGGACACCTCCCTTGGTGATCAGAGCG
+AAGTCATTCAAGAAGTATTTCAAGGCATTACGCCATTGAACAGTATCTTCAACGTAAGTA
+CCTTTTTGTTAAGAGACCTTGACCTATATTAATAACACGATCTAT

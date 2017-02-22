@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 907 (length = 306, name = scf_1877) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 907 on both strands
+# start gene g1619
+scf_1877	AUGUSTUS	gene	1	292	0.82	+	.	g1619
+scf_1877	AUGUSTUS	transcript	1	292	0.82	+	.	g1619.t1
+scf_1877	AUGUSTUS	terminal	154	292	0.82	+	1	transcript_id "g1619.t1"; gene_id "g1619";
+scf_1877	AUGUSTUS	intron	1	153	0.83	+	.	transcript_id "g1619.t1"; gene_id "g1619";
+scf_1877	AUGUSTUS	CDS	154	289	0.82	+	1	transcript_id "g1619.t1"; gene_id "g1619";
+scf_1877	AUGUSTUS	stop_codon	290	292	.	+	0	transcript_id "g1619.t1"; gene_id "g1619";
+# coding sequence = [tgctataattgcgctcggatttggtcaaagcacgagccatgaagcctacatgtcgtatctgatcattgtcaagttggta
+# aaggacggcaccgatcccatgattggaagcatctgtggctacgtggaacggtttatgtaa]
+# protein sequence = [AIIALGFGQSTSHEAYMSYLIIVKLVKDGTDPMIGSICGYVERFM]
+# end gene g1619
+###
+#
+##FASTA
+>scf_1877
+CAAGCCAATTAATCATCATCGCATTAGCAATGGGCTGCGTGTGTAGAAAGGTAAGAGCTT
+TGTGATCAGTGTACAACTTGAAGGGGTTACCCCAGAGGAATGCATGGAACTTCTTCAAGG
+CAAAGACGATGGCTAATAACTCTCTTTTTGTAGTGCTATAATTGCGCTCGGATTTGGTCA
+AAGCACGAGCCATGAAGCCTACATGTCGTATCTGATCATTGTCAAGTTGGTAAAGGACGG
+CACCGATCCCATGATTGGAAGCATCTGTGGCTACGTGGAACGGTTTATGTAAGTTGGGGT
+GGCATA

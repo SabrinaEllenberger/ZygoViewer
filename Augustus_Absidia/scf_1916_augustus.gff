@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 927 (length = 437, name = scf_1916) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 927 on both strands
+# start gene g1627
+scf_1916	AUGUSTUS	gene	76	411	0.99	+	.	g1627
+scf_1916	AUGUSTUS	transcript	76	411	0.99	+	.	g1627.t1
+scf_1916	AUGUSTUS	start_codon	76	78	.	+	0	transcript_id "g1627.t1"; gene_id "g1627";
+scf_1916	AUGUSTUS	single	76	411	0.99	+	0	transcript_id "g1627.t1"; gene_id "g1627";
+scf_1916	AUGUSTUS	CDS	76	408	0.99	+	0	transcript_id "g1627.t1"; gene_id "g1627";
+scf_1916	AUGUSTUS	stop_codon	409	411	.	+	0	transcript_id "g1627.t1"; gene_id "g1627";
+# coding sequence = [atgcatggttttgccggaggccgaaatcgccgaaggcatggttttgccggaggccgagatcaccgaaggcatggtttgc
+# cggaggccgagatcgccgaaggcatggttttgccggaggccgagatcgccgaaggcatggttttgccggaggccgagatcgccgaagtcatggttttg
+# ccggaggccgagatcgccggaaggccgagatcgccgatggcatggttttgccggggccgagatcgccgaaggcatgtttttgccggaggccgagatcg
+# ccgaaggcatggttttgccggaggccgagatcgccggaggcattatcaagatggatcatga]
+# protein sequence = [MHGFAGGRNRRRHGFAGGRDHRRHGLPEAEIAEGMVLPEAEIAEGMVLPEAEIAEVMVLPEAEIAGRPRSPMAWFCRG
+# RDRRRHVFAGGRDRRRHGFAGGRDRRRHYQDGS]
+# end gene g1627
+###
+#
+##FASTA
+>scf_1916
+TTTTTTTCATTTTTATTATTAATTATCTTATGTCGATATCGCCGAATATAGTTTAGCCGT
+AGGCCGAAATAGCCGATGCATGGTTTTGCCGGAGGCCGAAATCGCCGAAGGCATGGTTTT
+GCCGGAGGCCGAGATCACCGAAGGCATGGTTTGCCGGAGGCCGAGATCGCCGAAGGCATG
+GTTTTGCCGGAGGCCGAGATCGCCGAAGGCATGGTTTTGCCGGAGGCCGAGATCGCCGAA
+GTCATGGTTTTGCCGGAGGCCGAGATCGCCGGAAGGCCGAGATCGCCGATGGCATGGTTT
+TGCCGGGGCCGAGATCGCCGAAGGCATGTTTTTGCCGGAGGCCGAGATCGCCGAAGGCAT
+GGTTTTGCCGGAGGCCGAGATCGCCGGAGGCATTATCAAGATGGATCATGAATCATGATT
+ATTCAAGATGGATCATG

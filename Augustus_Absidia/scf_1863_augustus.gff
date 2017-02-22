@@ -1,0 +1,62 @@
+# ----- prediction on sequence number 900 (length = 1231, name = scf_1863) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 900 on both strands
+# start gene g1617
+scf_1863	AUGUSTUS	gene	1	1209	0.93	+	.	g1617
+scf_1863	AUGUSTUS	transcript	1	1209	0.93	+	.	g1617.t1
+scf_1863	AUGUSTUS	internal	48	315	0.93	+	1	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	internal	387	637	1	+	0	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	internal	697	909	1	+	1	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	terminal	966	1209	1	+	1	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	intron	1	47	0.93	+	.	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	intron	316	386	1	+	.	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	intron	638	696	1	+	.	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	intron	910	965	1	+	.	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	CDS	48	315	0.93	+	1	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	CDS	387	637	1	+	0	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	CDS	697	909	1	+	1	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	CDS	966	1206	1	+	1	transcript_id "g1617.t1"; gene_id "g1617";
+scf_1863	AUGUSTUS	stop_codon	1207	1209	.	+	0	transcript_id "g1617.t1"; gene_id "g1617";
+# coding sequence = [ggctggggtctatgatgaagacattgatacaagaggctggatactaacgttgccatggcgattcattgccctctcctta
+# gcacccaccatgtccgagtttatgcagaccttggaaaaggcggcgaaagctctgcgtgatgcgtctgaaaagacaggacaccatttggcggaaaaaca
+# acagtatcaacatcacaaggcgacgattgctacacttgccgggttggatctctttatgcgcttcgtcacaaggaactctcatgacttttcgttgtctg
+# ccgaagccagaacctttgacgactttaaaaccaacctcttatcccgagcaaccctgattctcgacaaggcatctttggcgcgactccgagcggccgag
+# attggtgcgcaattcatccatgacaatgcggttatactggtgcaggcctactctcgtgtgattatgggtgtattatatcatgctgccaacgtacaaaa
+# caagcgatttaaggtgttggtagctgaaggacgaccaaatagcgaagggctcaaggctgtggaagaactaaaggaagcgggaatcccatgccgagcag
+# tactggactctgcggttggatacatcatggacaaggtggatatggtgtttgttggtgctgaaggtgtcgttgaaaatggcggtgttatcaatcagatc
+# ggcacttatcagattgcactggtagcaaaggcccttggaaagcccgtctatgcagtggctgaaagttacaagtttgtccgtgtgtatcctttgaatca
+# gtatgatttgccttcgactacccctgaaattgttggatttacctcgagacgaaaggcgtttagtgcgacccagcaagatatagttgatttggctgcat
+# ccaacccatctgtagattatactcctcctcagtacttgacactcttgttgacagatttaggcgtactcacacctagcggagttagtgatgaattgatc
+# aagttgtatttgtga]
+# protein sequence = [AGVYDEDIDTRGWILTLPWRFIALSLAPTMSEFMQTLEKAAKALRDASEKTGHHLAEKQQYQHHKATIATLAGLDLFM
+# RFVTRNSHDFSLSAEARTFDDFKTNLLSRATLILDKASLARLRAAEIGAQFIHDNAVILVQAYSRVIMGVLYHAANVQNKRFKVLVAEGRPNSEGLKA
+# VEELKEAGIPCRAVLDSAVGYIMDKVDMVFVGAEGVVENGGVINQIGTYQIALVAKALGKPVYAVAESYKFVRVYPLNQYDLPSTTPEIVGFTSRRKA
+# FSATQQDIVDLAASNPSVDYTPPQYLTLLLTDLGVLTPSGVSDELIKLYL]
+# end gene g1617
+###
+#
+##FASTA
+>scf_1863
+ACTGGTAAGTGACTTTTGTGTAGGCATCTATGTAGAGCAATACAAAGGGCTGGGGTCTAT
+GATGAAGACATTGATACAAGAGGCTGGATACTAACGTTGCCATGGCGATTCATTGCCCTC
+TCCTTAGCACCCACCATGTCCGAGTTTATGCAGACCTTGGAAAAGGCGGCGAAAGCTCTG
+CGTGATGCGTCTGAAAAGACAGGACACCATTTGGCGGAAAAACAACAGTATCAACATCAC
+AAGGCGACGATTGCTACACTTGCCGGGTTGGATCTCTTTATGCGCTTCGTCACAAGGAAC
+TCTCATGACTTTTCGGTAAGTTTTGACAATGGTGTGCCTCGATAAAAGAAACTAACTGCG
+ACTTCTTCTTGATGGTTATGCGCTAGTTGTCTGCCGAAGCCAGAACCTTTGACGACTTTA
+AAACCAACCTCTTATCCCGAGCAACCCTGATTCTCGACAAGGCATCTTTGGCGCGACTCC
+GAGCGGCCGAGATTGGTGCGCAATTCATCCATGACAATGCGGTTATACTGGTGCAGGCCT
+ACTCTCGTGTGATTATGGGTGTATTATATCATGCTGCCAACGTACAAAACAAGCGATTTA
+AGGTGTTGGTAGCTGAAGGACGACCAAATAGCGAAGGGTAAGTCGACTAGAAGGCATTTA
+TGGTTGCGATACTGATTCGGTCTCTATTACGCATAGGCTCAAGGCTGTGGAAGAACTAAA
+GGAAGCGGGAATCCCATGCCGAGCAGTACTGGACTCTGCGGTTGGATACATCATGGACAA
+GGTGGATATGGTGTTTGTTGGTGCTGAAGGTGTCGTTGAAAATGGCGGTGTTATCAATCA
+GATCGGCACTTATCAGATTGCACTGGTAGCAAAGGCCCTTGGAAAGCCCGTCTATGCAGT
+GGCTGAAAGGTAAGGAAAGGAAGAAAGTGATTGCATAGGTGCTCACAGCTATGTTCTATC
+TTTAGTTACAAGTTTGTCCGTGTGTATCCTTTGAATCAGTATGATTTGCCTTCGACTACC
+CCTGAAATTGTTGGATTTACCTCGAGACGAAAGGCGTTTAGTGCGACCCAGCAAGATATA
+GTTGATTTGGCTGCATCCAACCCATCTGTAGATTATACTCCTCCTCAGTACTTGACACTC
+TTGTTGACAGATTTAGGCGTACTCACACCTAGCGGAGTTAGTGATGAATTGATCAAGTTG
+TATTTGTGAATGAATGAAAAAAAAAAAAAAA
