@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 2438 (length = 457, name = scf_5353) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2438 on both strands
+# start gene g4293
+scf_5353	AUGUSTUS	gene	1	422	0.48	-	.	g4293
+scf_5353	AUGUSTUS	transcript	1	422	0.48	-	.	g4293.t1
+scf_5353	AUGUSTUS	initial	149	422	0.48	-	0	transcript_id "g4293.t1"; gene_id "g4293";
+scf_5353	AUGUSTUS	intron	1	148	0.51	-	.	transcript_id "g4293.t1"; gene_id "g4293";
+scf_5353	AUGUSTUS	CDS	149	422	0.48	-	0	transcript_id "g4293.t1"; gene_id "g4293";
+scf_5353	AUGUSTUS	start_codon	420	422	.	-	0	transcript_id "g4293.t1"; gene_id "g4293";
+# coding sequence = [atggatcacgctacagcattagcgaaaatcaaagctctcattgagtcaatatctcctgaacacttggaggatattgtca
+# tggaagtgtctggactggtaaacagtcttacccagagcggcgctaacgatgaacatgaagatatcgtcatggacgatcaaccgttcctttcacaagaa
+# atgctcctttccccatcgaacaaaacgtcattcacattaccggcaaaagtcgcaacaaaagggcgtccaatggagcaacgaccgacaacaaaaacaa]
+# protein sequence = [MDHATALAKIKALIESISPEHLEDIVMEVSGLVNSLTQSGANDEHEDIVMDDQPFLSQEMLLSPSNKTSFTLPAKVAT
+# KGRPMEQRPTTKT]
+# end gene g4293
+###
+#
+##FASTA
+>scf_5353
+CCAGTTTTTAATTCCACAGCAGATATCTCGTGAAGCACCACTCTCTGTATCACTTCCACG
+ATGCAGTCTATGAAGCATGAATTGCTGCTCCATTTGGCCATTGATCTTTTGTTTGGGAGA
+GAGCTGGCATTAAATCTTTCCAGAATACTTGTTTTTGTTGTCGGTCGTTGCTCCATTGGA
+CGCCCTTTTGTTGCGACTTTTGCCGGTAATGTGAATGACGTTTTGTTCGATGGGGAAAGG
+AGCATTTCTTGTGAAAGGAACGGTTGATCGTCCATGACGATATCTTCATGTTCATCGTTA
+GCGCCGCTCTGGGTAAGACTGTTTACCAGTCCAGACACTTCCATGACAATATCCTCCAAG
+TGTTCAGGAGATATTGACTCAATGAGAGCTTTGATTTTCGCTAATGCTGTAGCGTGATCC
+ATTTTAGCTAGGTGGAGAAAGGTGTTAATTCTTCATT

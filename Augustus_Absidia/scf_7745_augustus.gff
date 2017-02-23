@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3333 (length = 217, name = scf_7745) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3333 on both strands
+# start gene g6252
+scf_7745	AUGUSTUS	gene	1	148	0.58	+	.	g6252
+scf_7745	AUGUSTUS	transcript	1	148	0.58	+	.	g6252.t1
+scf_7745	AUGUSTUS	terminal	44	148	0.58	+	0	transcript_id "g6252.t1"; gene_id "g6252";
+scf_7745	AUGUSTUS	intron	1	43	0.58	+	.	transcript_id "g6252.t1"; gene_id "g6252";
+scf_7745	AUGUSTUS	CDS	44	145	0.58	+	0	transcript_id "g6252.t1"; gene_id "g6252";
+scf_7745	AUGUSTUS	stop_codon	146	148	.	+	0	transcript_id "g6252.t1"; gene_id "g6252";
+# coding sequence = [ttaccaggtgttcctttatggttgatgattgattcaacctcccatctgtcttcttctgctaatataggatcttgtgaca
+# caccttttagtgcactgggtggatag]
+# protein sequence = [LPGVPLWLMIDSTSHLSSSANIGSCDTPFSALGG]
+# end gene g6252
+###
+#
+##FASTA
+>scf_7745
+GGCGTCAGAGTCGTAACCCTTCCAACGTACCTTGTATAGATAGTTACCAGGTGTTCCTTT
+ATGGTTGATGATTGATTCAACCTCCCATCTGTCTTCTTCTGCTAATATAGGATCTTGTGA
+CACACCTTTTAGTGCACTGGGTGGATAGTGCTTAGGTAACAGTTCTCCATTACTTTGCTG
+TAGAGTGTAAGCGCCTCCTTTGTTCTTTTTTACCACT

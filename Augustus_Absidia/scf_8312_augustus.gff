@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 3490 (length = 496, name = scf_8312) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3490 on both strands
+# start gene g6424
+scf_8312	AUGUSTUS	gene	1	474	0.41	-	.	g6424
+scf_8312	AUGUSTUS	transcript	1	474	0.41	-	.	g6424.t1
+scf_8312	AUGUSTUS	initial	32	474	0.41	-	0	transcript_id "g6424.t1"; gene_id "g6424";
+scf_8312	AUGUSTUS	intron	1	31	0.41	-	.	transcript_id "g6424.t1"; gene_id "g6424";
+scf_8312	AUGUSTUS	CDS	32	474	0.41	-	0	transcript_id "g6424.t1"; gene_id "g6424";
+scf_8312	AUGUSTUS	start_codon	472	474	.	-	0	transcript_id "g6424.t1"; gene_id "g6424";
+# coding sequence = [atgaagagtcgaccttttggaggcaaagtagtcgtattcggaggcgattttcgtcagattcttcctgttgttgtgaatg
+# gtaatcgtgcagacgttgtggccgattgcatatcatcatcatatctttggtcaagtatacaggttttgcaactgacagaaaacatgcgggtacaagca
+# tcaggtccagaatccatcgcttttgctcaaaaactactagccattggaaacggggagcctcctttcaatgtacatgtcccagtagatagtagctggct
+# actaaatgccgaagatatcaacggaatgattgataagatctacccacagctccaaacttcgacagatcctatgatcttcaatggccgtgccatactga
+# cgaccaaaaattcggaggtagattttatcaataaccaagcagccaatttatttcctggagagatccagac]
+# protein sequence = [MKSRPFGGKVVVFGGDFRQILPVVVNGNRADVVADCISSSYLWSSIQVLQLTENMRVQASGPESIAFAQKLLAIGNGE
+# PPFNVHVPVDSSWLLNAEDINGMIDKIYPQLQTSTDPMIFNGRAILTTKNSEVDFINNQAANLFPGEIQ]
+# end gene g6424
+###
+#
+##FASTA
+>scf_8312
+TTCATCGTGAATGCTGTCGCATGATTCGTACGTCTGGATCTCTCCAGGAAATAAATTGGC
+TGCTTGGTTATTGATAAAATCTACCTCCGAATTTTTGGTCGTCAGTATGGCACGGCCATT
+GAAGATCATAGGATCTGTCGAAGTTTGGAGCTGTGGGTAGATCTTATCAATCATTCCGTT
+GATATCTTCGGCATTTAGTAGCCAGCTACTATCTACTGGGACATGTACATTGAAAGGAGG
+CTCCCCGTTTCCAATGGCTAGTAGTTTTTGAGCAAAAGCGATGGATTCTGGACCTGATGC
+TTGTACCCGCATGTTTTCTGTCAGTTGCAAAACCTGTATACTTGACCAAAGATATGATGA
+TGATATGCAATCGGCCACAACGTCTGCACGATTACCATTCACAACAACAGGAAGAATCTG
+ACGAAAATCGCCTCCGAATACGACTACTTTGCCTCCAAAAGGTCGACTCTTCATGGCGGG
+ATCAATTGCACCCATC

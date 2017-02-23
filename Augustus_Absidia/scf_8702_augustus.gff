@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3622 (length = 217, name = scf_8702) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3622 on both strands
+# start gene g6940
+scf_8702	AUGUSTUS	gene	2	217	0.53	+	.	g6940
+scf_8702	AUGUSTUS	transcript	2	217	0.53	+	.	g6940.t1
+scf_8702	AUGUSTUS	start_codon	2	4	.	+	0	transcript_id "g6940.t1"; gene_id "g6940";
+scf_8702	AUGUSTUS	initial	2	217	0.53	+	0	transcript_id "g6940.t1"; gene_id "g6940";
+scf_8702	AUGUSTUS	CDS	2	217	0.53	+	0	transcript_id "g6940.t1"; gene_id "g6940";
+# coding sequence = [atgaacgataacgagaataacaacaacgtcaacatcggcgaaaagccacacgatggcgacgtgcaaatggtggacgcca
+# acccctctccattggaagctgccaaagccgtcatcaacaagtggtcgcaagacctagcggccaaacaaaaagccttctcggactctgctctctctgac
+# gccaccgacgagtccatcaacctcatggagcaatgcgaa]
+# protein sequence = [MNDNENNNNVNIGEKPHDGDVQMVDANPSPLEAAKAVINKWSQDLAAKQKAFSDSALSDATDESINLMEQCE]
+# end gene g6940
+###
+#
+##FASTA
+>scf_8702
+AATGAACGATAACGAGAATAACAACAACGTCAACATCGGCGAAAAGCCACACGATGGCGA
+CGTGCAAATGGTGGACGCCAACCCCTCTCCATTGGAAGCTGCCAAAGCCGTCATCAACAA
+GTGGTCGCAAGACCTAGCGGCCAAACAAAAAGCCTTCTCGGACTCTGCTCTCTCTGACGC
+CACCGACGAGTCCATCAACCTCATGGAGCAATGCGAA

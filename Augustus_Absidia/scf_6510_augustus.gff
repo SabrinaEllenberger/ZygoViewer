@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2888 (length = 281, name = scf_6510) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2888 on both strands
+# start gene g5123
+scf_6510	AUGUSTUS	gene	1	227	0.79	-	.	g5123
+scf_6510	AUGUSTUS	transcript	1	227	0.79	-	.	g5123.t1
+scf_6510	AUGUSTUS	initial	1	227	0.79	-	0	transcript_id "g5123.t1"; gene_id "g5123";
+scf_6510	AUGUSTUS	CDS	1	227	0.79	-	0	transcript_id "g5123.t1"; gene_id "g5123";
+scf_6510	AUGUSTUS	start_codon	225	227	.	-	0	transcript_id "g5123.t1"; gene_id "g5123";
+# coding sequence = [atgaacaaggactttggttatggttccatgaccgctttgcccatcattgaaacccaaggtggtgatgtctctgcttata
+# tccctaccaacgttatctccattactgatggtcaaatcttcttggaagccgaactcttcttcaagggtatccgtccctccatcaacgtcggtctctct
+# gtgtcccgtgtcggttctgctgcccaaaccaaggccatgaagcaagtcgc]
+# protein sequence = [MNKDFGYGSMTALPIIETQGGDVSAYIPTNVISITDGQIFLEAELFFKGIRPSINVGLSVSRVGSAAQTKAMKQV]
+# end gene g5123
+###
+#
+##FASTA
+>scf_6510
+GCGACTTGCTTCATGGCCTTGGTTTGGGCAGCAGAACCGACACGGGACACAGAGAGACCG
+ACGTTGATGGAGGGACGGATACCCTTGAAGAAGAGTTCGGCTTCCAAGAAGATTTGACCA
+TCAGTAATGGAGATAACGTTGGTAGGGATATAAGCAGAGACATCACCACCTTGGGTTTCA
+ATGATGGGCAAAGCGGTCATGGAACCATAACCAAAGTCCTTGTTCATCTTGGCAGCACGT
+TCCAACAAACGGGAGTGGAGGTAGAACACATCACCAGGGTA

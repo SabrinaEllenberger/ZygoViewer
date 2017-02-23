@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3221 (length = 259, name = scf_7446) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3221 on both strands
+# start gene g5735
+scf_7446	AUGUSTUS	gene	1	180	0.78	-	.	g5735
+scf_7446	AUGUSTUS	transcript	1	180	0.78	-	.	g5735.t1
+scf_7446	AUGUSTUS	initial	23	180	0.78	-	0	transcript_id "g5735.t1"; gene_id "g5735";
+scf_7446	AUGUSTUS	intron	1	22	0.78	-	.	transcript_id "g5735.t1"; gene_id "g5735";
+scf_7446	AUGUSTUS	CDS	23	180	0.78	-	0	transcript_id "g5735.t1"; gene_id "g5735";
+scf_7446	AUGUSTUS	start_codon	178	180	.	-	0	transcript_id "g5735.t1"; gene_id "g5735";
+# coding sequence = [atggagggaagggggacagcaggcaacggcaccaaagcgttagtggagacgaaagcagggatcaagccagagaatggtg
+# cacttcagcaatgcgatggctatggagattcgaccgcttacaaatgtggagcccatggggctactcaagcgggagaatg]
+# protein sequence = [MEGRGTAGNGTKALVETKAGIKPENGALQQCDGYGDSTAYKCGAHGATQAGE]
+# end gene g5735
+###
+#
+##FASTA
+>scf_7446
+GTTTCCCATCACAGGCCATCACCATTCTCCCGCTTGAGTAGCCCCATGGGCTCCACATTT
+GTAAGCGGTCGAATCTCCATAGCCATCGCATTGCTGAAGTGCACCATTCTCTGGCTTGAT
+CCCTGCTTTCGTCTCCACTAACGCTTTGGTGCCGTTGCCTGCTGTCCCCCTTCCCTCCAT
+TCACGACGCCATTACATTACATTAGCTAGTACATGGCAAGTCATTCACTCCCCTTCACTT
+AAACATGTAGCTTAATTAT

@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3522 (length = 369, name = scf_8359) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3522 on both strands
+# start gene g6535
+scf_8359	AUGUSTUS	gene	1	311	0.67	-	.	g6535
+scf_8359	AUGUSTUS	transcript	1	311	0.67	-	.	g6535.t1
+scf_8359	AUGUSTUS	internal	1	75	0.69	-	0	transcript_id "g6535.t1"; gene_id "g6535";
+scf_8359	AUGUSTUS	initial	141	311	0.84	-	0	transcript_id "g6535.t1"; gene_id "g6535";
+scf_8359	AUGUSTUS	intron	76	140	0.73	-	.	transcript_id "g6535.t1"; gene_id "g6535";
+scf_8359	AUGUSTUS	CDS	1	75	0.69	-	0	transcript_id "g6535.t1"; gene_id "g6535";
+scf_8359	AUGUSTUS	CDS	141	311	0.84	-	0	transcript_id "g6535.t1"; gene_id "g6535";
+scf_8359	AUGUSTUS	start_codon	309	311	.	-	0	transcript_id "g6535.t1"; gene_id "g6535";
+# coding sequence = [atgccattgttcaacattgtggggtttacgaaccttggcggaaaatctttaaagtcgtttgtggccgcgtccattctga
+# tgattagtgagacggcagtcaactacaagtgggcattggagacattcaaggaaactgtatgggaaggaacaaatgacatcattaccacaaagatcata
+# attagtgatcaggatcatgctctgtgcaaggagcttggtgttgtcttttcacagtctcgccatatctta]
+# protein sequence = [MPLFNIVGFTNLGGKSLKSFVAASILMISETAVNYKWALETFKETVWEGTNDIITTKIIISDQDHALCKELGVVFSQS
+# RHIL]
+# end gene g6535
+###
+#
+##FASTA
+>scf_8359
+TAAGATATGGCGAGACTGTGAAAAGACAACACCAAGCTCCTTGCACAGAGCATGATCCTG
+ATCACTAATTATGATCTATACAACAATTCAAGAGTTACTCTTTTCATCTCAGCTAATATC
+ACTCATAGAATTGAACCTACCTTTGTGGTAATGATGTCATTTGTTCCTTCCCATACAGTT
+TCCTTGAATGTCTCCAATGCCCACTTGTAGTTGACTGCCGTCTCACTAATCATCAGAATG
+GACGCGGCCACAAACGACTTTAAAGATTTTCCGCCAAGGTTCGTAAACCCCACAATGTTG
+AACAATGGCATGTCCAGGTTGTTTGTCTGGTACGTTGCGTCAACAGCAAGAACATCACCA
+AAGCGCTTT

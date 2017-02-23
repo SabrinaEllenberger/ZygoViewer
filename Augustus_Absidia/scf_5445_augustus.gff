@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 2477 (length = 440, name = scf_5445) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2477 on both strands
+# start gene g4445
+scf_5445	AUGUSTUS	gene	1	239	0.98	-	.	g4445
+scf_5445	AUGUSTUS	transcript	1	239	0.98	-	.	g4445.t1
+scf_5445	AUGUSTUS	initial	75	239	0.98	-	0	transcript_id "g4445.t1"; gene_id "g4445";
+scf_5445	AUGUSTUS	intron	1	74	1	-	.	transcript_id "g4445.t1"; gene_id "g4445";
+scf_5445	AUGUSTUS	CDS	75	239	0.98	-	0	transcript_id "g4445.t1"; gene_id "g4445";
+scf_5445	AUGUSTUS	start_codon	237	239	.	-	0	transcript_id "g4445.t1"; gene_id "g4445";
+# coding sequence = [atggatcacaatactgcactggaaaagatcaagtctttgctgggtcgagtgttgcccgagcacctggaggacattgtat
+# tggaagtctctgaattggtggacagcctaaccgcggatgtcgaggatgtatccaaggacgactcaaccggtgaagttgcaatggat]
+# protein sequence = [MDHNTALEKIKSLLGRVLPEHLEDIVLEVSELVDSLTADVEDVSKDDSTGEVAMD]
+# end gene g4445
+###
+#
+##FASTA
+>scf_5445
+CGATTTTTCGTTGCAACCGCCACTTTTTTCTTCGGCAAGTATAGTTTTTCATTGCTTTGT
+ATGGGCTGATTTACATCCATTGCAACTTCACCGGTTGAGTCGTCCTTGGATACATCCTCG
+ACATCCGCGGTTAGGCTGTCCACCAATTCAGAGACTTCCAATACAATGTCCTCCAGGTGC
+TCGGGCAACACTCGACCCAGCAAAGACTTGATCTTTTCCAGTGCAGTATTGTGATCCATC
+GTAGCTGGACGAAAAAAAGATTGTCAAATTTCGATTTATGAATACAAGAACCTAATATAC
+CTTGTTCGGGTTCCAGATGCCAAAACTGGTCAATTATATCAGGTGTCAATACTTCGGGGA
+AGTTGTGTCGACAAGGTAAGCCGAAGTTTCTCGAAACGAGACAACCACAGGTTACATGAG
+TGTGCTTATTTGATGTCCCT

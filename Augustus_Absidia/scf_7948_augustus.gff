@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3372 (length = 512, name = scf_7948) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3372 on both strands
+# start gene g6265
+scf_7948	AUGUSTUS	gene	101	355	0.53	-	.	g6265
+scf_7948	AUGUSTUS	transcript	101	355	0.53	-	.	g6265.t1
+scf_7948	AUGUSTUS	stop_codon	101	103	.	-	0	transcript_id "g6265.t1"; gene_id "g6265";
+scf_7948	AUGUSTUS	single	101	355	0.53	-	0	transcript_id "g6265.t1"; gene_id "g6265";
+scf_7948	AUGUSTUS	CDS	104	355	0.53	-	0	transcript_id "g6265.t1"; gene_id "g6265";
+scf_7948	AUGUSTUS	start_codon	353	355	.	-	0	transcript_id "g6265.t1"; gene_id "g6265";
+# coding sequence = [atggaatcaattacgggtgattttgtggaaatgcaaaccatggctggtggacagccaaccaccccttacaccacgcaat
+# ctcgggaagtacttcaaagacttgattttcctgtacaaaccttgagaaagttgaatggccaaagattgctgatccttggcgatgaggagatgcattat
+# tacggcataagaatggacggagccaaaccgagaataggatttcttggtgataatggcggagaaagcggaattgtttaa]
+# protein sequence = [MESITGDFVEMQTMAGGQPTTPYTTQSREVLQRLDFPVQTLRKLNGQRLLILGDEEMHYYGIRMDGAKPRIGFLGDNG
+# GESGIV]
+# end gene g6265
+###
+#
+##FASTA
+>scf_7948
+TTGGTAGCTCGACGACTATCACCATATCTTCACACCAGCCACGCAAATTGCTATCATCAA
+CCATGTCAGCACTTATCTTTTCCCGTCCGTCGAATGTTTTTTAAACAATTCCGCTTTCTC
+CGCCATTATCACCAAGAAATCCTATTCTCGGTTTGGCTCCGTCCATTCTTATGCCGTAAT
+AATGCATCTCCTCATCGCCAAGGATCAGCAATCTTTGGCCATTCAACTTTCTCAAGGTTT
+GTACAGGAAAATCAAGTCTTTGAAGTACTTCCCGAGATTGCGTGGTGTAAGGGGTGGTTG
+GCTGTCCACCAGCCATGGTTTGCATTTCCACAAAATCACCCGTAATTGATTCCATTCCTT
+GCTAACATTCCTTTACTTTACTACATTCCTTCACATTACCACCTTCCTTTACTTCACCAC
+CTTCCTTTACTTTACCACCTTCCTTTACTTTACCACCTGCCTTCACTTTACTATATTCCT
+TATTTCTATATGCCTTATTTCTATATGCCTTA

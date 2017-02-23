@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3645 (length = 333, name = scf_8792) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3645 on both strands
+# start gene g7418
+scf_8792	AUGUSTUS	gene	1	309	0.41	-	.	g7418
+scf_8792	AUGUSTUS	transcript	1	309	0.41	-	.	g7418.t1
+scf_8792	AUGUSTUS	initial	107	309	0.42	-	0	transcript_id "g7418.t1"; gene_id "g7418";
+scf_8792	AUGUSTUS	intron	1	106	0.42	-	.	transcript_id "g7418.t1"; gene_id "g7418";
+scf_8792	AUGUSTUS	CDS	107	309	0.42	-	0	transcript_id "g7418.t1"; gene_id "g7418";
+scf_8792	AUGUSTUS	start_codon	307	309	.	-	0	transcript_id "g7418.t1"; gene_id "g7418";
+# coding sequence = [atgcctaatctgaagaaggtgcctcgaaagccccactcaattggacaagaatacaagacgattgcggacaatgtaacat
+# gtgtgctcatgcgcatggacttctgcggcgacccaactcaacgaaagccccgtcctaccgaagatcgatcgatcgtggcgactgtaaagcggttaact
+# gaaccatggcatcattctggcagggt]
+# protein sequence = [MPNLKKVPRKPHSIGQEYKTIADNVTCVLMRMDFCGDPTQRKPRPTEDRSIVATVKRLTEPWHHSGR]
+# end gene g7418
+###
+#
+##FASTA
+>scf_8792
+TTTGTCTCATTCACTTTTCTAACGAAATAAACGTACACGCAGTCTCAAAAAGTACTTTTA
+TTTCGTTTCCTTTTATCACAAACCTACCCCATTATACAAATTTTACACCCTGCCAGAATG
+ATGCCATGGTTCAGTTAACCGCTTTACAGTCGCCACGATCGATCGATCTTCGGTAGGACG
+GGGCTTTCGTTGAGTTGGGTCGCCGCAGAAGTCCATGCGCATGAGCACACATGTTACATT
+GTCCGCAATCGTCTTGTATTCTTGTCCAATTGAGTGGGGCTTTCGAGGCACCTTCTTCAG
+ATTAGGCATACCTTCACCGAGCCATTGATTCAT

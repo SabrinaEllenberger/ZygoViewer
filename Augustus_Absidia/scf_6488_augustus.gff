@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2879 (length = 217, name = scf_6488) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2879 on both strands
+# start gene g5120
+scf_6488	AUGUSTUS	gene	1	163	0.82	-	.	g5120
+scf_6488	AUGUSTUS	transcript	1	163	0.82	-	.	g5120.t1
+scf_6488	AUGUSTUS	initial	13	163	0.82	-	0	transcript_id "g5120.t1"; gene_id "g5120";
+scf_6488	AUGUSTUS	intron	1	12	0.83	-	.	transcript_id "g5120.t1"; gene_id "g5120";
+scf_6488	AUGUSTUS	CDS	13	163	0.82	-	0	transcript_id "g5120.t1"; gene_id "g5120";
+scf_6488	AUGUSTUS	start_codon	161	163	.	-	0	transcript_id "g5120.t1"; gene_id "g5120";
+# coding sequence = [atgtcactcgaagtgcgaaactttatagcggcaaacagcaacaacaacacctcggctgcgctataccgattggtacaaa
+# gaacctttggccccgaagcaacaaggtcccaggtggcgttttggcgccagcaagcaatggaggcaagctacc]
+# protein sequence = [MSLEVRNFIAANSNNNTSAALYRLVQRTFGPEATRSQVAFWRQQAMEASY]
+# end gene g5120
+###
+#
+##FASTA
+>scf_6488
+CGTCGTCCATACGGTAGCTTGCCTCCATTGCTTGCTGGCGCCAAAACGCCACCTGGGACC
+TTGTTGCTTCGGGGCCAAAGGTTCTTTGTACCAATCGGTATAGCGCAGCCGAGGTGTTGT
+TGTTGCTGTTTGCCGCTATAAAGTTTCGCACTTCGAGTGACATCTGAGGTCGTCGGTCTT
+CCTGGTGGCAAGGATGAGATGAGCCATGCTTGACAGT

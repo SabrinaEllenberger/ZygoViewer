@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3521 (length = 217, name = scf_8358) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3521 on both strands
+# start gene g6534
+scf_8358	AUGUSTUS	gene	1	203	0.67	+	.	g6534
+scf_8358	AUGUSTUS	transcript	1	203	0.67	+	.	g6534.t1
+scf_8358	AUGUSTUS	terminal	1	203	0.67	+	2	transcript_id "g6534.t1"; gene_id "g6534";
+scf_8358	AUGUSTUS	CDS	1	200	0.67	+	2	transcript_id "g6534.t1"; gene_id "g6534";
+scf_8358	AUGUSTUS	stop_codon	201	203	.	+	0	transcript_id "g6534.t1"; gene_id "g6534";
+# coding sequence = [atagccagactcccattaacctcaccttttcgcccagtaacatggaacgacaagtcatggcttcttttggattggcgct
+# cgaaaaaattgttctcgacaatcgtatgatcgcaaaagctcatgcggccgtcaccaagctcatgaatgaagtcatcagcaaggttgctccaggtaagt
+# gtcaaccgtacattgctaggtgttaa]
+# protein sequence = [SQTPINLTFSPSNMERQVMASFGLALEKIVLDNRMIAKAHAAVTKLMNEVISKVAPGKCQPYIARC]
+# end gene g6534
+###
+#
+##FASTA
+>scf_8358
+ATAGCCAGACTCCCATTAACCTCACCTTTTCGCCCAGTAACATGGAACGACAAGTCATGG
+CTTCTTTTGGATTGGCGCTCGAAAAAATTGTTCTCGACAATCGTATGATCGCAAAAGCTC
+ATGCGGCCGTCACCAAGCTCATGAATGAAGTCATCAGCAAGGTTGCTCCAGGTAAGTGTC
+AACCGTACATTGCTAGGTGTTAACAAATGAAACTGAT

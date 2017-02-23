@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 3547 (length = 313, name = scf_8529) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3547 on both strands
+# start gene g6629
+scf_8529	AUGUSTUS	gene	1	313	0.48	+	.	g6629
+scf_8529	AUGUSTUS	transcript	1	313	0.48	+	.	g6629.t1
+scf_8529	AUGUSTUS	internal	1	109	0.5	+	2	transcript_id "g6629.t1"; gene_id "g6629";
+scf_8529	AUGUSTUS	internal	167	313	0.5	+	1	transcript_id "g6629.t1"; gene_id "g6629";
+scf_8529	AUGUSTUS	intron	110	166	0.52	+	.	transcript_id "g6629.t1"; gene_id "g6629";
+scf_8529	AUGUSTUS	CDS	1	109	0.5	+	2	transcript_id "g6629.t1"; gene_id "g6629";
+scf_8529	AUGUSTUS	CDS	167	313	0.5	+	1	transcript_id "g6629.t1"; gene_id "g6629";
+# coding sequence = [atgatgtcgctatcacccttggtatcgatggatttgcgccatttaacaaaggcctcttcactgcaaccattgtcaacat
+# gaccatcatgaacattgatcccaagaaccgatacaagaagcacaacatggctcaaatcatgcttattcctgggtaccacaaaccgaagaacctggaat
+# cttttttgtccccaatgctgcaagaactggaacatctatctcgtattggtatcaaggtccgaacagtggatgaaggtac]
+# protein sequence = [DVAITLGIDGFAPFNKGLFTATIVNMTIMNIDPKNRYKKHNMAQIMLIPGYHKPKNLESFLSPMLQELEHLSRIGIKV
+# RTVDEG]
+# end gene g6629
+###
+#
+##FASTA
+>scf_8529
+ATGATGTCGCTATCACCCTTGGTATCGATGGATTTGCGCCATTTAACAAAGGCCTCTTCA
+CTGCAACCATTGTCAACATGACCATCATGAACATTGATCCCAAGAACCGGTAATATATAT
+TATGCAATCATGGAACATAGTAGCTGACATGTTACTTTTTTTATAGATACAAGAAGCACA
+ACATGGCTCAAATCATGCTTATTCCTGGGTACCACAAACCGAAGAACCTGGAATCTTTTT
+TGTCCCCAATGCTGCAAGAACTGGAACATCTATCTCGTATTGGTATCAAGGTCCGAACAG
+TGGATGAAGGTAC

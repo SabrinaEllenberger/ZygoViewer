@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 2940 (length = 305, name = scf_6646) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2940 on both strands
+# start gene g5148
+scf_6646	AUGUSTUS	gene	1	257	0.92	-	.	g5148
+scf_6646	AUGUSTUS	transcript	1	257	0.92	-	.	g5148.t1
+scf_6646	AUGUSTUS	initial	75	257	0.94	-	0	transcript_id "g5148.t1"; gene_id "g5148";
+scf_6646	AUGUSTUS	intron	1	74	0.98	-	.	transcript_id "g5148.t1"; gene_id "g5148";
+scf_6646	AUGUSTUS	CDS	75	257	0.94	-	0	transcript_id "g5148.t1"; gene_id "g5148";
+scf_6646	AUGUSTUS	start_codon	255	257	.	-	0	transcript_id "g5148.t1"; gene_id "g5148";
+# coding sequence = [atggatcgcacgatctacatcttgtctcaggtcatgatcgccgattaccgccttgaagctctacaggtgtttcacaaaa
+# tcaagcaattcagtctgaccagaagtgaaaagatggccaagaatcaggcggaagaagttgacgaaaacacggcatactcgataattgtcaagatcaat
+# gaagaa]
+# protein sequence = [MDRTIYILSQVMIADYRLEALQVFHKIKQFSLTRSEKMAKNQAEEVDENTAYSIIVKINEE]
+# end gene g5148
+###
+#
+##FASTA
+>scf_6646
+CAGGAGTATAGCTATGAAGACAAAAAGGTTAATCTGTTAGTAATCATGGCTTCCGTTATC
+ATTATAGAGCTTACTTCTTCATTGATCTTGACAATTATCGAGTATGCCGTGTTTTCGTCA
+ACTTCTTCCGCCTGATTCTTGGCCATCTTTTCACTTCTGGTCAGACTGAATTGCTTGATT
+TTGTGAAACACCTGTAGAGCTTCAAGGCGGTAATCGGCGATCATGACCTGAGACAAGATG
+TAGATCGTGCGATCCATTCTATTCTGTCGCTTTCTTCCCAAATAGAGAGTCTTCAGTTGG
+TTGTG

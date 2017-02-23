@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 3643 (length = 306, name = scf_8788) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3643 on both strands
+# start gene g7343
+scf_8788	AUGUSTUS	gene	1	292	0.57	+	.	g7343
+scf_8788	AUGUSTUS	transcript	1	292	0.57	+	.	g7343.t1
+scf_8788	AUGUSTUS	terminal	154	292	0.58	+	1	transcript_id "g7343.t1"; gene_id "g7343";
+scf_8788	AUGUSTUS	intron	1	153	0.57	+	.	transcript_id "g7343.t1"; gene_id "g7343";
+scf_8788	AUGUSTUS	CDS	154	289	0.58	+	1	transcript_id "g7343.t1"; gene_id "g7343";
+scf_8788	AUGUSTUS	stop_codon	290	292	.	+	0	transcript_id "g7343.t1"; gene_id "g7343";
+# coding sequence = [tgctataattgcgctcggatttggtcaaagcacgagccatgaagtctacatgtcgtatctgatcattgtcaagttggta
+# aaggacggcaccgatcccatgattggaagcatctgtggctacgtggaacggtttatgtaa]
+# protein sequence = [AIIALGFGQSTSHEVYMSYLIIVKLVKDGTDPMIGSICGYVERFM]
+# end gene g7343
+###
+#
+##FASTA
+>scf_8788
+CAAGCCAATTAATCATCATCGCATTAGCAATGGGCTGCGTGTGTAGAAAGGTAAGAGCTT
+TGTGATCAGTGTACAACTTGAAGGGGTTACCCCAGAGGAATGCATGGAGCTTCTTCAAGG
+CAAAGACGATGGCTAATAACTCTCTTTTTGTAGTGCTATAATTGCGCTCGGATTTGGTCA
+AAGCACGAGCCATGAAGTCTACATGTCGTATCTGATCATTGTCAAGTTGGTAAAGGACGG
+CACCGATCCCATGATTGGAAGCATCTGTGGCTACGTGGAACGGTTTATGTAAGTTGGGGT
+GGCATA

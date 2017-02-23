@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 2746 (length = 363, name = scf_6160) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2746 on both strands
+# start gene g4937
+scf_6160	AUGUSTUS	gene	1	349	0.94	+	.	g4937
+scf_6160	AUGUSTUS	transcript	1	349	0.94	+	.	g4937.t1
+scf_6160	AUGUSTUS	internal	1	289	0.94	+	0	transcript_id "g4937.t1"; gene_id "g4937";
+scf_6160	AUGUSTUS	terminal	339	349	0.94	+	2	transcript_id "g4937.t1"; gene_id "g4937";
+scf_6160	AUGUSTUS	intron	290	338	0.94	+	.	transcript_id "g4937.t1"; gene_id "g4937";
+scf_6160	AUGUSTUS	CDS	1	289	0.94	+	0	transcript_id "g4937.t1"; gene_id "g4937";
+scf_6160	AUGUSTUS	CDS	339	346	0.94	+	2	transcript_id "g4937.t1"; gene_id "g4937";
+scf_6160	AUGUSTUS	stop_codon	347	349	.	+	0	transcript_id "g4937.t1"; gene_id "g4937";
+# coding sequence = [gcccgctccttgaaacagtttccccatttccagcacttggccaaccttctgaaacgactcccgcgactgacaatctctg
+# ccacatggaccccgcgtatcacgcgttatctaccactacgcctagcgttcacatctaccaccactaccggcacaaatatcttgaataacatacgaccg
+# accatggaagtccagcagctccaagcctacgactatgacaggaatgaatttgtcatgcatgaagattccattggctcccgcttccctagtattcaacg
+# cgctctcaatgccgaccaactgtga]
+# protein sequence = [ARSLKQFPHFQHLANLLKRLPRLTISATWTPRITRYLPLRLAFTSTTTTGTNILNNIRPTMEVQQLQAYDYDRNEFVM
+# HEDSIGSRFPSIQRALNADQL]
+# end gene g4937
+###
+#
+##FASTA
+>scf_6160
+GCCCGCTCCTTGAAACAGTTTCCCCATTTCCAGCACTTGGCCAACCTTCTGAAACGACTC
+CCGCGACTGACAATCTCTGCCACATGGACCCCGCGTATCACGCGTTATCTACCACTACGC
+CTAGCGTTCACATCTACCACCACTACCGGCACAAATATCTTGAATAACATACGACCGACC
+ATGGAAGTCCAGCAGCTCCAAGCCTACGACTATGACAGGAATGAATTTGTCATGCATGAA
+GATTCCATTGGCTCCCGCTTCCCTAGTATTCAACGCGCTCTCAATGCCGGTACCATTGCA
+TGGCACCCACTGATACAAGACCAATTGGACGGCTATAGACCAACTGTGACGACTGCTCCC
+CCT

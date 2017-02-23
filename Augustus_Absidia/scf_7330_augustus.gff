@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3180 (length = 310, name = scf_7330) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3180 on both strands
+# start gene g5679
+scf_7330	AUGUSTUS	gene	1	310	0.65	+	.	g5679
+scf_7330	AUGUSTUS	transcript	1	310	0.65	+	.	g5679.t1
+scf_7330	AUGUSTUS	internal	1	305	0.65	+	1	transcript_id "g5679.t1"; gene_id "g5679";
+scf_7330	AUGUSTUS	intron	306	310	0.66	+	.	transcript_id "g5679.t1"; gene_id "g5679";
+scf_7330	AUGUSTUS	CDS	1	305	0.65	+	1	transcript_id "g5679.t1"; gene_id "g5679";
+# coding sequence = [aacgatttaccttttaggtttctgcgtgcaggcccatggacaaactcgcttggacccgcgcaaagtcaccaacacacaa
+# gactggcccacacccaccactggtaagcatatccaacaattcctcggcctgatcaactatttccgccgctacttacctttgatggccaccctaactgc
+# accccttgactccttgcgctcacatgaaggcaaactcgggcacctctggactgccaagcaccaagctgcttttgataacatcaaaaaggcactcctcc
+# atgctccgtgcctccacgctccccgctcag]
+# protein sequence = [TIYLLGFCVQAHGQTRLDPRKVTNTQDWPTPTTGKHIQQFLGLINYFRRYLPLMATLTAPLDSLRSHEGKLGHLWTAK
+# HQAAFDNIKKALLHAPCLHAPRS]
+# end gene g5679
+###
+#
+##FASTA
+>scf_7330
+AACGATTTACCTTTTAGGTTTCTGCGTGCAGGCCCATGGACAAACTCGCTTGGACCCGCG
+CAAAGTCACCAACACACAAGACTGGCCCACACCCACCACTGGTAAGCATATCCAACAATT
+CCTCGGCCTGATCAACTATTTCCGCCGCTACTTACCTTTGATGGCCACCCTAACTGCACC
+CCTTGACTCCTTGCGCTCACATGAAGGCAAACTCGGGCACCTCTGGACTGCCAAGCACCA
+AGCTGCTTTTGATAACATCAAAAAGGCACTCCTCCATGCTCCGTGCCTCCACGCTCCCCG
+CTCAGGTTTA

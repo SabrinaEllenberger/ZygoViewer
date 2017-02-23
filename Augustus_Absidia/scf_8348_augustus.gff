@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 3513 (length = 223, name = scf_8348) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3513 on both strands
+# start gene g6430
+scf_8348	AUGUSTUS	gene	1	174	0.33	-	.	g6430
+scf_8348	AUGUSTUS	transcript	1	174	0.33	-	.	g6430.t1
+scf_8348	AUGUSTUS	internal	1	57	0.47	-	0	transcript_id "g6430.t1"; gene_id "g6430";
+scf_8348	AUGUSTUS	initial	148	174	0.4	-	0	transcript_id "g6430.t1"; gene_id "g6430";
+scf_8348	AUGUSTUS	intron	58	147	0.47	-	.	transcript_id "g6430.t1"; gene_id "g6430";
+scf_8348	AUGUSTUS	CDS	1	57	0.47	-	0	transcript_id "g6430.t1"; gene_id "g6430";
+scf_8348	AUGUSTUS	CDS	148	174	0.4	-	0	transcript_id "g6430.t1"; gene_id "g6430";
+scf_8348	AUGUSTUS	start_codon	172	174	.	-	0	transcript_id "g6430.t1"; gene_id "g6430";
+# coding sequence = [atggctatggaatctactatggacgagcagtgggcgagtcgtcatcgtcgtcatcatcttcgttatcgtcgtcgtcatc
+# gtcgt]
+# protein sequence = [MAMESTMDEQWASRHRRHHLRYRRRHRR]
+# end gene g6430
+###
+#
+##FASTA
+>scf_8348
+ACGACGATGACGACGACGATAACGAAGATGATGACGACGATGACGACTCGCCCACTGCTT
+TATATCACAAGATAAGGCTGTTTTAAAAATTTTAGATATGAAAAACAAGGGGAAACACTT
+GAATTTTTTTTTCTTTCGTGCACTCACCTCGTCCATAGTAGATTCCATAGCCATTGCACT
+GCTGAAGTGCACTCTCCTCTGGCCTAATCCCAGTGTCCATCAC

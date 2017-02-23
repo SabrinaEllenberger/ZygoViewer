@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2553 (length = 217, name = scf_5702) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2553 on both strands
+# start gene g4645
+scf_5702	AUGUSTUS	gene	1	155	0.64	-	.	g4645
+scf_5702	AUGUSTUS	transcript	1	155	0.64	-	.	g4645.t1
+scf_5702	AUGUSTUS	initial	20	155	0.64	-	0	transcript_id "g4645.t1"; gene_id "g4645";
+scf_5702	AUGUSTUS	intron	1	19	0.64	-	.	transcript_id "g4645.t1"; gene_id "g4645";
+scf_5702	AUGUSTUS	CDS	20	155	0.64	-	0	transcript_id "g4645.t1"; gene_id "g4645";
+scf_5702	AUGUSTUS	start_codon	153	155	.	-	0	transcript_id "g4645.t1"; gene_id "g4645";
+# coding sequence = [atggcagaatttgcacatgttgctggcgttggtggagctcttgttgtagctgttgttggagctgttgttgtgatgagag
+# cgctggccgttagattgaccgttgtagctgttcttgtagctgtggctgttgctgctg]
+# protein sequence = [MAEFAHVAGVGGALVVAVVGAVVVMRALAVRLTVVAVLVAVAVAA]
+# end gene g4645
+###
+#
+##FASTA
+>scf_5702
+CTAACCGAGCCCACTCTACCAGCAGCAACAGCCACAGCTACAAGAACAGCTACAACGGTC
+AATCTAACGGCCAGCGCTCTCATCACAACAACAGCTCCAACAACAGCTACAACAAGAGCT
+CCACCAACGCCAGCAACATGTGCAAATTCTGCCATAAGGAACCTTGGTCGACTGCCCACA
+AGTACCAATGCGCAGAGCGTCAGAAGCAAATGGCCAG

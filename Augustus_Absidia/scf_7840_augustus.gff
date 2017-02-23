@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3353 (length = 324, name = scf_7840) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3353 on both strands
+# start gene g6258
+scf_7840	AUGUSTUS	gene	1	212	0.55	-	.	g6258
+scf_7840	AUGUSTUS	transcript	1	212	0.55	-	.	g6258.t1
+scf_7840	AUGUSTUS	initial	12	212	0.55	-	0	transcript_id "g6258.t1"; gene_id "g6258";
+scf_7840	AUGUSTUS	intron	1	11	0.82	-	.	transcript_id "g6258.t1"; gene_id "g6258";
+scf_7840	AUGUSTUS	CDS	12	212	0.55	-	0	transcript_id "g6258.t1"; gene_id "g6258";
+scf_7840	AUGUSTUS	start_codon	210	212	.	-	0	transcript_id "g6258.t1"; gene_id "g6258";
+# coding sequence = [atgcaccaaatccgtcactctctccgtggtgaaggtgttgtcctcatgggtaagaacaccatggtccgtcgtgccttga
+# agaccttcgttgctgaacgtcctgaattcgaacgtctcttgcctcatgtcaagggtaacattggtttcgtcttcaccaacaacgacctgaaggaaatc
+# cgtgaaaagatcctctccaaccgt]
+# protein sequence = [MHQIRHSLRGEGVVLMGKNTMVRRALKTFVAERPEFERLLPHVKGNIGFVFTNNDLKEIREKILSNR]
+# end gene g6258
+###
+#
+##FASTA
+>scf_7840
+GGGTTACTTACACGGTTGGAGAGGATCTTTTCACGGATTTCCTTCAGGTCGTTGTTGGTG
+AAGACGAAACCAATGTTACCCTTGACATGAGGCAAGAGACGTTCGAATTCAGGACGTTCA
+GCAACGAAGGTCTTCAAGGCACGACGGACCATGGTGTTCTTACCCATGAGGACAACACCT
+TCACCACGGAGAGAGTGACGGATTTGGTGCATTTGGTTGGAGCTGACATTGTCGACGTTC
+ACAATGAAGATGGAGCTGTAGGTGTCCAAGTATTCCTTCAAACGGAGGAAGTAGTTTTCT
+TTGGCTTCTCGCTTCGACATGATG

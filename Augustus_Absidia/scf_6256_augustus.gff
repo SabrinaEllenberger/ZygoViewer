@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2792 (length = 283, name = scf_6256) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2792 on both strands
+# start gene g4973
+scf_6256	AUGUSTUS	gene	1	261	0.28	-	.	g4973
+scf_6256	AUGUSTUS	transcript	1	261	0.28	-	.	g4973.t1
+scf_6256	AUGUSTUS	initial	141	261	0.28	-	0	transcript_id "g4973.t1"; gene_id "g4973";
+scf_6256	AUGUSTUS	intron	1	140	0.28	-	.	transcript_id "g4973.t1"; gene_id "g4973";
+scf_6256	AUGUSTUS	CDS	141	261	0.28	-	0	transcript_id "g4973.t1"; gene_id "g4973";
+scf_6256	AUGUSTUS	start_codon	259	261	.	-	0	transcript_id "g4973.t1"; gene_id "g4973";
+# coding sequence = [atgggcaaaatcgaatccagcttggttggtggtcaggcacatggttttgaagagcctttccgctttttcccactgttca
+# atgttgacgaagtatcggcaggtgttgaccttgagatttctt]
+# protein sequence = [MGKIESSLVGGQAHGFEEPFRFFPLFNVDEVSAGVDLEIS]
+# end gene g4973
+###
+#
+##FASTA
+>scf_6256
+GAACAGCTTGCGAAGACGGTTTATATGGATGGAAATTGGTTGCCAGCTCTCTTTGTCACT
+GATCAACAGCAATCTCTTATCTCGGCGATCGAATCGGTATTCCCCTCTACCCAACACATC
+CTCTGCTACATTCACCTTACAAGAAATCTCAAGGTCAACACCTGCCGATACTTCGTCAAC
+ATTGAACAGTGGGAAAAAGCGGAAAGGCTCTTCAAAACCATGTGCCTGACCACCAACCAA
+GCTGGATTCGATTTTGCCCATGAATCTCTGGTGTCATTGGCGG

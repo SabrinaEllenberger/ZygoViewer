@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 2601 (length = 388, name = scf_5803) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2601 on both strands
+# start gene g4760
+scf_5803	AUGUSTUS	gene	1	114	0.55	+	.	g4760
+scf_5803	AUGUSTUS	transcript	1	114	0.55	+	.	g4760.t1
+scf_5803	AUGUSTUS	terminal	53	114	0.55	+	2	transcript_id "g4760.t1"; gene_id "g4760";
+scf_5803	AUGUSTUS	intron	1	52	0.89	+	.	transcript_id "g4760.t1"; gene_id "g4760";
+scf_5803	AUGUSTUS	CDS	53	111	0.55	+	2	transcript_id "g4760.t1"; gene_id "g4760";
+scf_5803	AUGUSTUS	stop_codon	112	114	.	+	0	transcript_id "g4760.t1"; gene_id "g4760";
+# coding sequence = [gcgacgccgacctgctcgctgcactcccgacggccgacgtcgcccatggtgaagaaaagtga]
+# protein sequence = [DADLLAALPTADVAHGEEK]
+# end gene g4760
+###
+#
+##FASTA
+>scf_5803
+GGGTGATTACCTTGTCAGGGTCGGGCCTTGACTTTGCGCTAATGAGATCTAGGCGACGCC
+GACCTGCTCGCTGCACTCCCGACGGCCGACGTCGCCCATGGTGAAGAAAAGTGAAGAGTG
+ATGAGTAGAGGTGAATGTTAAAGGGAAGGGGTGATTTACCTTGTCAGGTTCGGACCCTGG
+GTTCGTGTTAATGAGATCTAGGCGACGCCGACCTGCTCGCTACACTCCCGACGGCCGACG
+TCGCCTTGGTAAAGAAGAATGAAGAGATGAGTAAAGGGGAATTTTAGTCATTTACCCACC
+CCGCCAGTCACCCAATATCGGAGTCGCAAATGTGTACATTTTTTTTGTGGTCGAAATTTT
+TCCTAATCTAAGTACAATAATGTAGGAT

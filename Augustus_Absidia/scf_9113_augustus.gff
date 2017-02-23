@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3747 (length = 217, name = scf_9113) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3747 on both strands
+# start gene g7766
+scf_9113	AUGUSTUS	gene	1	217	0.99	-	.	g7766
+scf_9113	AUGUSTUS	transcript	1	217	0.99	-	.	g7766.t1
+scf_9113	AUGUSTUS	internal	13	217	0.99	-	1	transcript_id "g7766.t1"; gene_id "g7766";
+scf_9113	AUGUSTUS	intron	1	12	0.99	-	.	transcript_id "g7766.t1"; gene_id "g7766";
+scf_9113	AUGUSTUS	CDS	13	217	0.99	-	1	transcript_id "g7766.t1"; gene_id "g7766";
+# coding sequence = [cgcctgggtgttggacaagctcaaggccgaacgtgaacgtggtatcaccatcgatatcgctctctggaagttcgaaacc
+# cccaagtaccacgtcaccgtcattgacgcccctggccatcgtgatttcatcaagaacatgattactggtacttctcaagctgattgcggtattcttat
+# cattgctgccggtactggtgaattcgaa]
+# protein sequence = [AWVLDKLKAERERGITIDIALWKFETPKYHVTVIDAPGHRDFIKNMITGTSQADCGILIIAAGTGEFE]
+# end gene g7766
+###
+#
+##FASTA
+>scf_9113
+CTATCTACTTACTTCGAATTCACCAGTACCGGCAGCAATGATAAGAATACCGCAATCAGC
+TTGAGAAGTACCAGTAATCATGTTCTTGATGAAATCACGATGGCCAGGGGCGTCAATGAC
+GGTGACGTGGTACTTGGGGGTTTCGAACTTCCAGAGAGCGATATCGATGGTGATACCACG
+TTCACGTTCGGCCTTGAGCTTGTCCAACACCCAGGCG

@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3144 (length = 236, name = scf_7182) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3144 on both strands
+# start gene g5561
+scf_7182	AUGUSTUS	gene	1	208	0.6	-	.	g5561
+scf_7182	AUGUSTUS	transcript	1	208	0.6	-	.	g5561.t1
+scf_7182	AUGUSTUS	initial	28	208	0.6	-	0	transcript_id "g5561.t1"; gene_id "g5561";
+scf_7182	AUGUSTUS	intron	1	27	0.98	-	.	transcript_id "g5561.t1"; gene_id "g5561";
+scf_7182	AUGUSTUS	CDS	28	208	0.6	-	0	transcript_id "g5561.t1"; gene_id "g5561";
+scf_7182	AUGUSTUS	start_codon	206	208	.	-	0	transcript_id "g5561.t1"; gene_id "g5561";
+# coding sequence = [atggaaaacgtgattgactcggacgacaccatggccatcgacaatgaagataacgctgaagatgaattcgacgctgctg
+# acatgggctacgacgatgaactggatgcggaagtcgacatggaccacgaagatgacaacgactccttggctagctccaacagccacttcacccgttct
+# gaag]
+# protein sequence = [MENVIDSDDTMAIDNEDNAEDEFDAADMGYDDELDAEVDMDHEDDNDSLASSNSHFTRSE]
+# end gene g5561
+###
+#
+##FASTA
+>scf_7182
+TGCTCGATTGTTTCAGGGCACCCTTACCTTCAGAACGGGTGAAGTGGCTGTTGGAGCTAG
+CCAAGGAGTCGTTGTCATCTTCGTGGTCCATGTCGACTTCCGCATCCAGTTCATCGTCGT
+AGCCCATGTCAGCAGCGTCGAATTCATCTTCAGCGTTATCTTCATTGTCGATGGCCATGG
+TGTCGTCCGAGTCAATCACGTTTTCCATGCCGACATTCAAAGTAGGTTGACTGGAT

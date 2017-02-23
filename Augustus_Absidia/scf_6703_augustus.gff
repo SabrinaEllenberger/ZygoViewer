@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2954 (length = 233, name = scf_6703) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2954 on both strands
+# start gene g5154
+scf_6703	AUGUSTUS	gene	1	160	0.96	+	.	g5154
+scf_6703	AUGUSTUS	transcript	1	160	0.96	+	.	g5154.t1
+scf_6703	AUGUSTUS	terminal	52	160	0.96	+	1	transcript_id "g5154.t1"; gene_id "g5154";
+scf_6703	AUGUSTUS	intron	1	51	0.96	+	.	transcript_id "g5154.t1"; gene_id "g5154";
+scf_6703	AUGUSTUS	CDS	52	157	0.96	+	1	transcript_id "g5154.t1"; gene_id "g5154";
+scf_6703	AUGUSTUS	stop_codon	158	160	.	+	0	transcript_id "g5154.t1"; gene_id "g5154";
+# coding sequence = [atggttggaggatgggtcagccaaaagaggaagggatcaggatcagggagcgggtggtcggtgtgatcgggatggtgaa
+# gaatttcaagaacaaggagcaggttcgtga]
+# protein sequence = [WLEDGSAKRGRDQDQGAGGRCDRDGEEFQEQGAGS]
+# end gene g5154
+###
+#
+##FASTA
+>scf_6703
+GACGAAAGCGACTACAAGACTACAAGAATACTATATCTAATGAGGCCTTAGATGGTTGGA
+GGATGGGTCAGCCAAAAGAGGAAGGGATCAGGATCAGGGAGCGGGTGGTCGGTGTGATCG
+GGATGGTGAAGAATTTCAAGAACAAGGAGCAGGTTCGTGATAATGGGCCACAGTCGTTCC
+CACTTCTTGATGGTAGAGGAGGAGCGGGGCGTTCGCGGGATCTTGTTGAGGAG

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3249 (length = 217, name = scf_7493) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3249 on both strands
+# start gene g5836
+scf_7493	AUGUSTUS	gene	1	198	0.49	-	.	g5836
+scf_7493	AUGUSTUS	transcript	1	198	0.49	-	.	g5836.t1
+scf_7493	AUGUSTUS	initial	104	198	0.7	-	0	transcript_id "g5836.t1"; gene_id "g5836";
+scf_7493	AUGUSTUS	intron	1	103	0.49	-	.	transcript_id "g5836.t1"; gene_id "g5836";
+scf_7493	AUGUSTUS	CDS	104	198	0.7	-	0	transcript_id "g5836.t1"; gene_id "g5836";
+scf_7493	AUGUSTUS	start_codon	196	198	.	-	0	transcript_id "g5836.t1"; gene_id "g5836";
+# coding sequence = [atgtcccgttcgttgttgcttcgtgcagctaactgtggtccaggtgaaaagcccacttgctgtaccacaatggaagcaa
+# aggcgaacaacgtatt]
+# protein sequence = [MSRSLLLRAANCGPGEKPTCCTTMEAKANNV]
+# end gene g5836
+###
+#
+##FASTA
+>scf_7493
+GCCTTTACCAAGACCTCCACCAGAACCTATGCTATCTTTACTTCTGTGCCACACATCTTC
+GAATCCTGTAGCCCACGACCTTCACAAGTACATGAGGGCGTACAATACGTTGTTCGCCTT
+TGCTTCCATTGTGGTACAGCAAGTGGGCTTTTCACCTGGACCACAGTTAGCTGCACGAAG
+CAACAACGAACGGGACATGGTGTTCACCGTGAACGGA

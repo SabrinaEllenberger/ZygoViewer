@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 3215 (length = 217, name = scf_7430) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3215 on both strands
+# start gene g5732
+scf_7430	AUGUSTUS	gene	1	66	0.81	-	.	g5732
+scf_7430	AUGUSTUS	transcript	1	66	0.81	-	.	g5732.t1
+scf_7430	AUGUSTUS	initial	15	66	0.81	-	0	transcript_id "g5732.t1"; gene_id "g5732";
+scf_7430	AUGUSTUS	intron	1	14	0.81	-	.	transcript_id "g5732.t1"; gene_id "g5732";
+scf_7430	AUGUSTUS	CDS	15	66	0.81	-	0	transcript_id "g5732.t1"; gene_id "g5732";
+scf_7430	AUGUSTUS	start_codon	64	66	.	-	0	transcript_id "g5732.t1"; gene_id "g5732";
+# coding sequence = [atggatgttgtaaatgaaggaccttatgaagttgtcagaaagacagagaatg]
+# protein sequence = [MDVVNEGPYEVVRKTEN]
+# end gene g5732
+###
+#
+##FASTA
+>scf_7430
+TAGCGAATATGTACCATTCTCTGTCTTTCTGACAACTTCATAAGGTCCTTCATTTACAAC
+ATCCATTTTGTTGCGAAAGGTCTTATTGATCTTAATTCTGACAGCACTACCAATCTTGAA
+ATCTCTGATTTGGTGCGTCTTGTCAAACGTCTCTTTCTGCTTCTTGATCGTTTGCAAGGT
+TTTTTCTTCAATTGCAGGAAAAATCACGTTTTGTAAC

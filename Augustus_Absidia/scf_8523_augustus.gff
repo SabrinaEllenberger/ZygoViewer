@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3544 (length = 325, name = scf_8523) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3544 on both strands
+# start gene g6628
+scf_8523	AUGUSTUS	gene	1	250	0.76	-	.	g6628
+scf_8523	AUGUSTUS	transcript	1	250	0.76	-	.	g6628.t1
+scf_8523	AUGUSTUS	initial	1	250	0.76	-	0	transcript_id "g6628.t1"; gene_id "g6628";
+scf_8523	AUGUSTUS	CDS	1	250	0.76	-	0	transcript_id "g6628.t1"; gene_id "g6628";
+scf_8523	AUGUSTUS	start_codon	248	250	.	-	0	transcript_id "g6628.t1"; gene_id "g6628";
+# coding sequence = [atggatctggtcaggtctcctgtctggaccatgatggtggacaacctcggtgctccctcctctggtgtttcctctggtg
+# ctcggccttcctcttccaaaaggaccgatggcaactgtcctacacatggtggcaagagtggatctggtgctgaccacgacctagaagaatgcaaggcc
+# tacgtggatcagaagcgccgccaacatgatcgggtggacgaccgacgacaacgccgcaaccaacgtagccgat]
+# protein sequence = [MDLVRSPVWTMMVDNLGAPSSGVSSGARPSSSKRTDGNCPTHGGKSGSGADHDLEECKAYVDQKRRQHDRVDDRRQRR
+# NQRSR]
+# end gene g6628
+###
+#
+##FASTA
+>scf_8523
+ATCGGCTACGTTGGTTGCGGCGTTGTCGTCGGTCGTCCACCCGATCATGTTGGCGGCGCT
+TCTGATCCACGTAGGCCTTGCATTCTTCTAGGTCGTGGTCAGCACCAGATCCACTCTTGC
+CACCATGTGTAGGACAGTTGCCATCGGTCCTTTTGGAAGAGGAAGGCCGAGCACCAGAGG
+AAACACCAGAGGAGGGAGCACCGAGGTTGTCCACCATCATGGTCCAGACAGGAGACCTGA
+CCAGATCCATGGTTACGCCCTTCAAGTGTTCAGCCGACGTGAAGAGTCCACCCGAATGCA
+CCAGGAGGTGGCTAAACAACGTCTT

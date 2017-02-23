@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3285 (length = 324, name = scf_7609) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3285 on both strands
+# start gene g5925
+scf_7609	AUGUSTUS	gene	1	306	0.43	-	.	g5925
+scf_7609	AUGUSTUS	transcript	1	306	0.43	-	.	g5925.t1
+scf_7609	AUGUSTUS	initial	84	306	0.43	-	0	transcript_id "g5925.t1"; gene_id "g5925";
+scf_7609	AUGUSTUS	intron	1	83	0.55	-	.	transcript_id "g5925.t1"; gene_id "g5925";
+scf_7609	AUGUSTUS	CDS	84	306	0.43	-	0	transcript_id "g5925.t1"; gene_id "g5925";
+scf_7609	AUGUSTUS	start_codon	304	306	.	-	0	transcript_id "g5925.t1"; gene_id "g5925";
+# coding sequence = [atggtaaagctactgactgacatgtacgaaagtggtctgaatgatgactacgtcaaaggaaccagtatcgcaagggaat
+# acttttgggccagtggaatgaagaagggtttacaaaatgactgtcaaaccatattccaccgtctgaccgatgtagaccctctcaaggcaatcttctct
+# tgtaccaaagataatggacagcaagtaaaagcgtttgaaatgatac]
+# protein sequence = [MVKLLTDMYESGLNDDYVKGTSIAREYFWASGMKKGLQNDCQTIFHRLTDVDPLKAIFSCTKDNGQQVKAFEMI]
+# end gene g5925
+###
+#
+##FASTA
+>scf_7609
+GGTGATGAACAAGGGTAAGGCCAATGTCGAATCGTATTTGCGGGCGTGAAACAGCTCTTG
+CAAAAAACTGGAACTCCCATTACGTATCATTTCAAACGCTTTTACTTGCTGTCCATTATC
+TTTGGTACAAGAGAAGATTGCCTTGAGAGGGTCTACATCGGTCAGACGGTGGAATATGGT
+TTGACAGTCATTTTGTAAACCCTTCTTCATTCCACTGGCCCAAAAGTATTCCCTTGCGAT
+ACTGGTTCCTTTGACGTAGTCATCATTCAGACCACTTTCGTACATGTCAGTCAGTAGCTT
+TACCATTGACGGATCGCTATGGCT

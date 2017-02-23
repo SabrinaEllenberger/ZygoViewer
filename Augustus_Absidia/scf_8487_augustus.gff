@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 3540 (length = 631, name = scf_8487) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3540 on both strands
+# start gene g6627
+scf_8487	AUGUSTUS	gene	1	574	0.9	+	.	g6627
+scf_8487	AUGUSTUS	transcript	1	574	0.9	+	.	g6627.t1
+scf_8487	AUGUSTUS	terminal	48	574	0.9	+	2	transcript_id "g6627.t1"; gene_id "g6627";
+scf_8487	AUGUSTUS	intron	1	47	0.91	+	.	transcript_id "g6627.t1"; gene_id "g6627";
+scf_8487	AUGUSTUS	CDS	48	571	0.9	+	2	transcript_id "g6627.t1"; gene_id "g6627";
+scf_8487	AUGUSTUS	stop_codon	572	574	.	+	0	transcript_id "g6627.t1"; gene_id "g6627";
+# coding sequence = [gccgcgtcaacatccctggtcgtgacaacatcatcattatcgacagcagtgatagtgaagacggtggtgacggtgctaa
+# tgaaggtgtcgaagaaaacgttggtgctgctgttgatgatgaaggcgctgaagaagatgttggtgctgctggtgctgaagaaggtgtcgaagaaaacg
+# ttggtgctgctgtcgatgaagaaggcgctgaagatgttggtgctgctggtgctgaagaaggcgatgacagcgagtacttggcaatggaagatcttctg
+# gctaccaatcgacgtcgcaaaagagatgcggtccaaagaatggaggagatcctagcgatgattgaaggcctagatggggagttcgcacaggagtcaga
+# aacctacgcatcccgattgcctcgtgcacaagcagaagtgtttcgaaatgctactaatgtggaagagtatttagaaacagtgacaagatttagaagaa
+# gaaggacaatgccacgaacttacagggacttcaatcgatacacatataacttgtga]
+# protein sequence = [RVNIPGRDNIIIIDSSDSEDGGDGANEGVEENVGAAVDDEGAEEDVGAAGAEEGVEENVGAAVDEEGAEDVGAAGAEE
+# GDDSEYLAMEDLLATNRRRKRDAVQRMEEILAMIEGLDGEFAQESETYASRLPRAQAEVFRNATNVEEYLETVTRFRRRRTMPRTYRDFNRYTYNL]
+# end gene g6627
+###
+#
+##FASTA
+>scf_8487
+GGTTCTAAACTTATTACAGGGATCAAGACCCAATACAAACCACCCAGGCCGCGTCAACAT
+CCCTGGTCGTGACAACATCATCATTATCGACAGCAGTGATAGTGAAGACGGTGGTGACGG
+TGCTAATGAAGGTGTCGAAGAAAACGTTGGTGCTGCTGTTGATGATGAAGGCGCTGAAGA
+AGATGTTGGTGCTGCTGGTGCTGAAGAAGGTGTCGAAGAAAACGTTGGTGCTGCTGTCGA
+TGAAGAAGGCGCTGAAGATGTTGGTGCTGCTGGTGCTGAAGAAGGCGATGACAGCGAGTA
+CTTGGCAATGGAAGATCTTCTGGCTACCAATCGACGTCGCAAAAGAGATGCGGTCCAAAG
+AATGGAGGAGATCCTAGCGATGATTGAAGGCCTAGATGGGGAGTTCGCACAGGAGTCAGA
+AACCTACGCATCCCGATTGCCTCGTGCACAAGCAGAAGTGTTTCGAAATGCTACTAATGT
+GGAAGAGTATTTAGAAACAGTGACAAGATTTAGAAGAAGAAGGACAATGCCACGAACTTA
+CAGGGACTTCAATCGATACACATATAACTTGTGAGATTTAATAAAGTGCATACGTTGTCG
+TTTCATAAAGTAAACCGAAAGAGAAGCAAAT

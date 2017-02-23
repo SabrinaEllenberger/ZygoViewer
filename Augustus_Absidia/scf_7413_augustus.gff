@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 3206 (length = 442, name = scf_7413) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3206 on both strands
+# start gene g5687
+scf_7413	AUGUSTUS	gene	49	441	1	+	.	g5687
+scf_7413	AUGUSTUS	transcript	49	441	1	+	.	g5687.t1
+scf_7413	AUGUSTUS	start_codon	49	51	.	+	0	transcript_id "g5687.t1"; gene_id "g5687";
+scf_7413	AUGUSTUS	single	49	441	1	+	0	transcript_id "g5687.t1"; gene_id "g5687";
+scf_7413	AUGUSTUS	CDS	49	438	1	+	0	transcript_id "g5687.t1"; gene_id "g5687";
+scf_7413	AUGUSTUS	stop_codon	439	441	.	+	0	transcript_id "g5687.t1"; gene_id "g5687";
+# coding sequence = [atgtctggtggtaaatctggtggtaaatctgcttctggctccaagtctcaaacccgttcttccaaggccggtttgcaat
+# tccccgttggtcgtatccatcgtcacttgcgtaatggcaactttgctggccgtatcggtggtggtgctcccgtctacttggctgccgtcctcgaatac
+# ttgactgctgaaatcctcgaattggctggtaacgctgcccgcgacaacaaaaagtctcgtatcatcccccgtcacttgcaattggccatccgtaacga
+# tgaagaactcaacaagctcttgggtcatgtcaccattgctcaaggtggtgtcctccccaacatccacgccactctcttgcccaccaagaagaagggtg
+# ctgcttctcaagaactctaa]
+# protein sequence = [MSGGKSGGKSASGSKSQTRSSKAGLQFPVGRIHRHLRNGNFAGRIGGGAPVYLAAVLEYLTAEILELAGNAARDNKKS
+# RIIPRHLQLAIRNDEELNKLLGHVTIAQGGVLPNIHATLLPTKKKGAASQEL]
+# end gene g5687
+###
+#
+##FASTA
+>scf_7413
+TTTCTTTCTTCACTCTCTCTCTCTTTTCATACATTCTCTATAACAATCATGTCTGGTGGT
+AAATCTGGTGGTAAATCTGCTTCTGGCTCCAAGTCTCAAACCCGTTCTTCCAAGGCCGGT
+TTGCAATTCCCCGTTGGTCGTATCCATCGTCACTTGCGTAATGGCAACTTTGCTGGCCGT
+ATCGGTGGTGGTGCTCCCGTCTACTTGGCTGCCGTCCTCGAATACTTGACTGCTGAAATC
+CTCGAATTGGCTGGTAACGCTGCCCGCGACAACAAAAAGTCTCGTATCATCCCCCGTCAC
+TTGCAATTGGCCATCCGTAACGATGAAGAACTCAACAAGCTCTTGGGTCATGTCACCATT
+GCTCAAGGTGGTGTCCTCCCCAACATCCACGCCACTCTCTTGCCCACCAAGAAGAAGGGT
+GCTGCTTCTCAAGAACTCTAAA

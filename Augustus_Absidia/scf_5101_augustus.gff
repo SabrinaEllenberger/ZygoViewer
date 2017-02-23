@@ -1,0 +1,38 @@
+# ----- prediction on sequence number 2341 (length = 699, name = scf_5101) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2341 on both strands
+# start gene g4112
+scf_5101	AUGUSTUS	gene	1	623	0.34	+	.	g4112
+scf_5101	AUGUSTUS	transcript	1	623	0.34	+	.	g4112.t1
+scf_5101	AUGUSTUS	terminal	1	623	0.34	+	2	transcript_id "g4112.t1"; gene_id "g4112";
+scf_5101	AUGUSTUS	CDS	1	620	0.34	+	2	transcript_id "g4112.t1"; gene_id "g4112";
+scf_5101	AUGUSTUS	stop_codon	621	623	.	+	0	transcript_id "g4112.t1"; gene_id "g4112";
+# coding sequence = [cgacaccgcttggccaaaatcgacccattttcacgctcaaatctctcctgaaagatgccaagtaccagcgacttgacta
+# cctggagcatagtgacaccaatttggacgggctacagcaacaagtggaaacgtttatgaagaagctgatacgacaaactgggtgggatcaatcatcat
+# cagatcacatatcccctcggccgctcaacatcaaagcatttcggcatttggacctgacggaaacgaacgaagatggtacgatcaacaaatcaataatg
+# cgcacaggtgtcttttacagcaacaagtgtgaagatcatgtcaagaccatggatgtgacagaaactcaacttgaatctgacgactatctggtatacta
+# cgccaaggtaatatgcttttttgaagtggtgtatgataataggaagaaataccggctgtgtgccttgcaacgctatgacaccatcgatacaccccacc
+# caacaggctatcagacgctagtatcatcatcccttgccgtgtgctgtgtcgaacatattctcgaaaaggtgtacgttgtccccgactttggagatgaa
+# agtggtaagcgcttcttacttaatgtcgtatcaggcatcatagaggatggttaa]
+# protein sequence = [TPLGQNRPIFTLKSLLKDAKYQRLDYLEHSDTNLDGLQQQVETFMKKLIRQTGWDQSSSDHISPRPLNIKAFRHLDLT
+# ETNEDGTINKSIMRTGVFYSNKCEDHVKTMDVTETQLESDDYLVYYAKVICFFEVVYDNRKKYRLCALQRYDTIDTPHPTGYQTLVSSSLAVCCVEHI
+# LEKVYVVPDFGDESGKRFLLNVVSGIIEDG]
+# end gene g4112
+###
+#
+##FASTA
+>scf_5101
+CGACACCGCTTGGCCAAAATCGACCCATTTTCACGCTCAAATCTCTCCTGAAAGATGCCA
+AGTACCAGCGACTTGACTACCTGGAGCATAGTGACACCAATTTGGACGGGCTACAGCAAC
+AAGTGGAAACGTTTATGAAGAAGCTGATACGACAAACTGGGTGGGATCAATCATCATCAG
+ATCACATATCCCCTCGGCCGCTCAACATCAAAGCATTTCGGCATTTGGACCTGACGGAAA
+CGAACGAAGATGGTACGATCAACAAATCAATAATGCGCACAGGTGTCTTTTACAGCAACA
+AGTGTGAAGATCATGTCAAGACCATGGATGTGACAGAAACTCAACTTGAATCTGACGACT
+ATCTGGTATACTACGCCAAGGTAATATGCTTTTTTGAAGTGGTGTATGATAATAGGAAGA
+AATACCGGCTGTGTGCCTTGCAACGCTATGACACCATCGATACACCCCACCCAACAGGCT
+ATCAGACGCTAGTATCATCATCCCTTGCCGTGTGCTGTGTCGAACATATTCTCGAAAAGG
+TGTACGTTGTCCCCGACTTTGGAGATGAAAGTGGTAAGCGCTTCTTACTTAATGTCGTAT
+CAGGCATCATAGAGGATGGTTAAAATGACTCAAGAAGGTGAATTTTAGACGATTCATCAT
+AAAAGAGCATTGCTTCCTTTATGTGAGAAGTTACATAAG

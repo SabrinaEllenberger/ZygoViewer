@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3676 (length = 299, name = scf_8861) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3676 on both strands
+# start gene g7424
+scf_8861	AUGUSTUS	gene	1	266	0.39	+	.	g7424
+scf_8861	AUGUSTUS	transcript	1	266	0.39	+	.	g7424.t1
+scf_8861	AUGUSTUS	terminal	101	266	0.39	+	1	transcript_id "g7424.t1"; gene_id "g7424";
+scf_8861	AUGUSTUS	intron	1	100	0.39	+	.	transcript_id "g7424.t1"; gene_id "g7424";
+scf_8861	AUGUSTUS	CDS	101	263	0.39	+	1	transcript_id "g7424.t1"; gene_id "g7424";
+scf_8861	AUGUSTUS	stop_codon	264	266	.	+	0	transcript_id "g7424.t1"; gene_id "g7424";
+# coding sequence = [ggttgatgtcgatcaatgggatgtgcctgaaaacttcgaacgtggtctcaagagaacgatgacggcaattgacagcaac
+# aatcttcgatcggtatacactggcaactctcaggcatcatcatatatgcatcgacatcaacgtatcatatgggatcagccacgatga]
+# protein sequence = [VDVDQWDVPENFERGLKRTMTAIDSNNLRSVYTGNSQASSYMHRHQRIIWDQPR]
+# end gene g7424
+###
+#
+##FASTA
+>scf_8861
+CGAAATACTTCAGTTGATCACACTATGGGCTGTTTATCAAAAGGGCAGATACTGTTTAAA
+AGGACTCGTGGAAAGAAAGGCACCTCGAACGGTTGAAAAGGGTTGATGTCGATCAATGGG
+ATGTGCCTGAAAACTTCGAACGTGGTCTCAAGAGAACGATGACGGCAATTGACAGCAACA
+ATCTTCGATCGGTATACACTGGCAACTCTCAGGCATCATCATATATGCATCGACATCAAC
+GTATCATATGGGATCAGCCACGATGAAGCGGGGTATACATTATTCAAACGCAGTCATTT

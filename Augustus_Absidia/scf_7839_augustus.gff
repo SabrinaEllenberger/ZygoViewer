@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 3352 (length = 399, name = scf_7839) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3352 on both strands
+# start gene g6257
+scf_7839	AUGUSTUS	gene	1	386	0.35	-	.	g6257
+scf_7839	AUGUSTUS	transcript	1	386	0.35	-	.	g6257.t1
+scf_7839	AUGUSTUS	internal	1	253	0.35	-	2	transcript_id "g6257.t1"; gene_id "g6257";
+scf_7839	AUGUSTUS	initial	308	386	0.68	-	0	transcript_id "g6257.t1"; gene_id "g6257";
+scf_7839	AUGUSTUS	intron	254	307	0.55	-	.	transcript_id "g6257.t1"; gene_id "g6257";
+scf_7839	AUGUSTUS	CDS	1	253	0.35	-	2	transcript_id "g6257.t1"; gene_id "g6257";
+scf_7839	AUGUSTUS	CDS	308	386	0.68	-	0	transcript_id "g6257.t1"; gene_id "g6257";
+scf_7839	AUGUSTUS	start_codon	384	386	.	-	0	transcript_id "g6257.t1"; gene_id "g6257";
+# coding sequence = [atgcaacaaaaccagctcgtcgacaaaaaatccttttgcacggtacccgaatcagtcgtaacgctggatacaccacccg
+# tagacgaagctgtcgagaactggtacaaagacggaacgattgttagggccggggtcaacactgaatggaacagccctctaacggtggcaccaaaaaag
+# aatgcggacggcaccaaatcgaaaaaacgaccatgcctcgatccacgacatatcaacgctcttttgcccgatgatcgctatcctttaccgctcatcaa
+# ggacatcttcgaacaactgaagggggccacggtatttacaacactggatctcaaaaa]
+# protein sequence = [MQQNQLVDKKSFCTVPESVVTLDTPPVDEAVENWYKDGTIVRAGVNTEWNSPLTVAPKKNADGTKSKKRPCLDPRHIN
+# ALLPDDRYPLPLIKDIFEQLKGATVFTTLDLK]
+# end gene g6257
+###
+#
+##FASTA
+>scf_7839
+TTTTTGAGATCCAGTGTTGTAAATACCGTGGCCCCCTTCAGTTGTTCGAAGATGTCCTTG
+ATGAGCGGTAAAGGATAGCGATCATCGGGCAAAAGAGCGTTGATATGTCGTGGATCGAGG
+CATGGTCGTTTTTTCGATTTGGTGCCGTCCGCATTCTTTTTTGGTGCCACCGTTAGAGGG
+CTGTTCCATTCAGTGTTGACCCCGGCCCTAACAATCGTTCCGTCTTTGTACCAGTTCTCG
+ACAGCTTCGTCTACTATAGGCATAAGATTGTCAGCGATAGGGTATTGTCTTTTGTAGCAT
+GTTTTACCGGGTGGTGTATCCAGCGTTACGACTGATTCGGGTACCGTGCAAAAGGATTTT
+TTGTCGACGAGCTGGTTTTGTTGCATGCTATATTGTACC

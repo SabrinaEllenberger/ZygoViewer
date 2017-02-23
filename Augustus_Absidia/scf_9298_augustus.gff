@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3808 (length = 377, name = scf_9298) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3808 on both strands
+# start gene g7967
+scf_9298	AUGUSTUS	gene	1	360	0.75	-	.	g7967
+scf_9298	AUGUSTUS	transcript	1	360	0.75	-	.	g7967.t1
+scf_9298	AUGUSTUS	initial	243	360	0.75	-	0	transcript_id "g7967.t1"; gene_id "g7967";
+scf_9298	AUGUSTUS	intron	1	242	0.75	-	.	transcript_id "g7967.t1"; gene_id "g7967";
+scf_9298	AUGUSTUS	CDS	243	360	0.75	-	0	transcript_id "g7967.t1"; gene_id "g7967";
+scf_9298	AUGUSTUS	start_codon	358	360	.	-	0	transcript_id "g7967.t1"; gene_id "g7967";
+# coding sequence = [atgcctcttgctgaagttcgaaaagtgctgaagcaaacaattgacattcttcccctcaacaccgagaccgattttgaaa
+# tcaaaaaggcaatgatcaagcgtatcaaagaaatcgaca]
+# protein sequence = [MPLAEVRKVLKQTIDILPLNTETDFEIKKAMIKRIKEID]
+# end gene g7967
+###
+#
+##FASTA
+>scf_9298
+AACGTTCAAAAAATCGAAAACGCAAAATGTTAAGTGTAAAAAAACGTTATTAGAATAACG
+TTTTGATTTGGGAGAAATCGGAATTTGAAATGTTGTGCCTCTGATTTTTTTTGGCTCGGG
+AGAGATGTGAGAGGGTTTCAGAAAGATCCGCTGTATTGGGGTCCCCTGTATCTTTTATTG
+GCTTTGAAGGGGTTTGAAAAAAGAGGTGACACTTTGTTGCACAGCTGTTCTTAGGATTTC
+ACTGTCGATTTCTTTGATACGCTTGATCATTGCCTTTTTGATTTCAAAATCGGTCTCGGT
+GTTGAGGGGAAGAATGTCAATTGTTTGCTTCAGCACTTTTCGAACTTCAGCAAGAGGCAT
+GGTGTTGTCGACAAATT

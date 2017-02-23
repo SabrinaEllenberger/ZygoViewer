@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 2495 (length = 487, name = scf_5487) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2495 on both strands
+# start gene g4632
+scf_5487	AUGUSTUS	gene	1	487	0.47	-	.	g4632
+scf_5487	AUGUSTUS	transcript	1	487	0.47	-	.	g4632.t1
+scf_5487	AUGUSTUS	internal	1	200	0.49	-	2	transcript_id "g4632.t1"; gene_id "g4632";
+scf_5487	AUGUSTUS	internal	272	487	0.49	-	2	transcript_id "g4632.t1"; gene_id "g4632";
+scf_5487	AUGUSTUS	intron	201	271	0.51	-	.	transcript_id "g4632.t1"; gene_id "g4632";
+scf_5487	AUGUSTUS	CDS	1	200	0.49	-	2	transcript_id "g4632.t1"; gene_id "g4632";
+scf_5487	AUGUSTUS	CDS	272	487	0.49	-	2	transcript_id "g4632.t1"; gene_id "g4632";
+# coding sequence = [ccagaaaaacaagaagttttcggtctggatcgttcttcttcaacgtcaagattccgttgaaccacgcccttgctgtgct
+# tcacttgtgggcgttcaaagtaccccttggtccgctctctagccttactgaaacgaacccgaagacaatccgggagctagtacgcaacttgtactatg
+# ctttggaggagtcattgccggatgaatatgttgaagttggtggccgcgatgatgatcataaccccatcgttgttgaaattgacgagtctaagttcggg
+# aaggtgaagtaccaccatggtcatcgtgtggaaggcgtctgggtggttggcggtgtcgaactgacatctgaaaggcgtattttcgcctgcactgtcac
+# cgaccggactcgtgaaactatgaaagatatcatcacccgcttc]
+# protein sequence = [RKTRSFRSGSFFFNVKIPLNHALAVLHLWAFKVPLGPLSSLTETNPKTIRELVRNLYYALEESLPDEYVEVGGRDDDH
+# NPIVVEIDESKFGKVKYHHGHRVEGVWVVGGVELTSERRIFACTVTDRTRETMKDIITRF]
+# end gene g4632
+###
+#
+##FASTA
+>scf_5487
+GAAGCGGGTGATGATATCTTTCATAGTTTCACGAGTCCGGTCGGTGACAGTGCAGGCGAA
+AATACGCCTTTCAGATGTCAGTTCGACACCGCCAACCACCCAGACGCCTTCCACACGATG
+ACCATGGTGGTACTTCACCTTCCCGAACTTAGACTCGTCAATTTCAACAACGATGGGGTT
+ATGATCATCATCGCGGCCACCTACAGTAAATAGAAAGATGAAGAATTGATTAAAAGGTTT
+AACGTTACCAATCAGTTGCTCCAAAACTTACCAACTTCAACATATTCATCCGGCAATGAC
+TCCTCCAAAGCATAGTACAAGTTGCGTACTAGCTCCCGGATTGTCTTCGGGTTCGTTTCA
+GTAAGGCTAGAGAGCGGACCAAGGGGTACTTTGAACGCCCACAAGTGAAGCACAGCAAGG
+GCGTGGTTCAACGGAATCTTGACGTTGAAGAAGAACGATCCAGACCGAAAACTTCTTGTT
+TTTCTGG

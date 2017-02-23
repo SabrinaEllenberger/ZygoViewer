@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 2276 (length = 385, name = scf_4931) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2276 on both strands
+# start gene g4068
+scf_4931	AUGUSTUS	gene	1	368	0.47	-	.	g4068
+scf_4931	AUGUSTUS	transcript	1	368	0.47	-	.	g4068.t1
+scf_4931	AUGUSTUS	internal	7	236	0.54	-	1	transcript_id "g4068.t1"; gene_id "g4068";
+scf_4931	AUGUSTUS	initial	292	368	0.47	-	0	transcript_id "g4068.t1"; gene_id "g4068";
+scf_4931	AUGUSTUS	intron	1	6	0.58	-	.	transcript_id "g4068.t1"; gene_id "g4068";
+scf_4931	AUGUSTUS	intron	237	291	0.54	-	.	transcript_id "g4068.t1"; gene_id "g4068";
+scf_4931	AUGUSTUS	CDS	7	236	0.54	-	1	transcript_id "g4068.t1"; gene_id "g4068";
+scf_4931	AUGUSTUS	CDS	292	368	0.47	-	0	transcript_id "g4068.t1"; gene_id "g4068";
+scf_4931	AUGUSTUS	start_codon	366	368	.	-	0	transcript_id "g4068.t1"; gene_id "g4068";
+# coding sequence = [atgatggaactccacccctgctatcccatttggcaacattcagtcttctctgatccagcctatttgtcattcaaaaggg
+# atatgctgcaaattgaagctcaggaacacgatcctgcccacacactcctccaacaatgtgtgcctatgcactctagatttcagaccccgattggctat
+# aagattaattttgcccgcccaattgttttgctccttcttcccctcgtcattacttttttgcctccattgtcattctctttactccacgacgccaaacg
+# aacgaatgaacgagcaaacgaacgaacgaacg]
+# protein sequence = [MMELHPCYPIWQHSVFSDPAYLSFKRDMLQIEAQEHDPAHTLLQQCVPMHSRFQTPIGYKINFARPIVLLLLPLVITF
+# LPPLSFSLLHDAKRTNERANERTN]
+# end gene g4068
+###
+#
+##FASTA
+>scf_4931
+AGTTACCGTTCGTTCGTTCGTTTGCTCGTTCATTCGTTCGTTTGGCGTCGTGGAGTAAAG
+AGAATGACAATGGAGGCAAAAAAGTAATGACGAGGGGAAGAAGGAGCAAAACAATTGGGC
+GGGCAAAATTAATCTTATAGCCAATCGGGGTCTGAAATCTAGAGTGCATAGGCACACATT
+GTTGGAGGAGTGTGTGGGCAGGATCGTGTTCCTGAGCTTCAATTTGCAGCATATCCCTTA
+TATATCAGAGCGAGTATGTTACTACATTCTCATGCTCTGATGTGGACTTACCTTTTGAAT
+GACAAATAGGCTGGATCAGAGAAGACTGAATGTTGCCAAATGGGATAGCAGGGGTGGAGT
+TCCATCATGAGCACCGAGTCTTGTA

@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 2603 (length = 328, name = scf_5811) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2603 on both strands
+# start gene g4762
+scf_5811	AUGUSTUS	gene	1	328	0.99	-	.	g4762
+scf_5811	AUGUSTUS	transcript	1	328	0.99	-	.	g4762.t1
+scf_5811	AUGUSTUS	internal	7	140	1	-	0	transcript_id "g4762.t1"; gene_id "g4762";
+scf_5811	AUGUSTUS	internal	216	328	0.99	-	2	transcript_id "g4762.t1"; gene_id "g4762";
+scf_5811	AUGUSTUS	intron	1	6	1	-	.	transcript_id "g4762.t1"; gene_id "g4762";
+scf_5811	AUGUSTUS	intron	141	215	1	-	.	transcript_id "g4762.t1"; gene_id "g4762";
+scf_5811	AUGUSTUS	CDS	7	140	1	-	0	transcript_id "g4762.t1"; gene_id "g4762";
+scf_5811	AUGUSTUS	CDS	216	328	0.99	-	2	transcript_id "g4762.t1"; gene_id "g4762";
+# coding sequence = [ctactcatgaatctgcgagagtggatgatagtgggttctttgtcgagtgcagctcgggtgacgatggttctcgtccgga
+# tgtagacgatgacaatgacaatgggggcagaaggtgcacttccttgttcaaggctggcaacaaccgtggtgtttcttcgacctacgatatcactggtt
+# tgtttggatcaacttgtgcaaggcatggtgtgcctgaatgctttgtcgacatgacgaccatcggtgaaag]
+# protein sequence = [THESARVDDSGFFVECSSGDDGSRPDVDDDNDNGGRRCTSLFKAGNNRGVSSTYDITGLFGSTCARHGVPECFVDMTT
+# IGE]
+# end gene g4762
+###
+#
+##FASTA
+>scf_5811
+CTTTACCTTTCACCGATGGTCGTCATGTCGACAAAGCATTCAGGCACACCATGCCTTGCA
+CAAGTTGATCCAAACAAACCAGTGATATCGTAGGTCGAAGAAACACCACGGTTGTTGCCA
+GCCTTGAACAAGGAAGTGCACTATACAACAGACAATATGTTAGTGTTGGTTCCTTAGATC
+AGTCCATTTGCCTTTCGCTTTCCCTTTTATCTTACCCTTCTGCCCCCATTGTCATTGTCA
+TCGTCTACATCCGGACGAGAACCATCGTCACCCGAGCTGCACTCGACAAAGAACCCACTA
+TCATCCACTCTCGCAGATTCATGAGTAG

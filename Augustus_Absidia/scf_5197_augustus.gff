@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2388 (length = 217, name = scf_5197) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2388 on both strands
+# start gene g4234
+scf_5197	AUGUSTUS	gene	1	175	0.7	-	.	g4234
+scf_5197	AUGUSTUS	transcript	1	175	0.7	-	.	g4234.t1
+scf_5197	AUGUSTUS	initial	25	175	0.7	-	0	transcript_id "g4234.t1"; gene_id "g4234";
+scf_5197	AUGUSTUS	intron	1	24	0.82	-	.	transcript_id "g4234.t1"; gene_id "g4234";
+scf_5197	AUGUSTUS	CDS	25	175	0.7	-	0	transcript_id "g4234.t1"; gene_id "g4234";
+scf_5197	AUGUSTUS	start_codon	173	175	.	-	0	transcript_id "g4234.t1"; gene_id "g4234";
+# coding sequence = [atgcgacaaatgcttcaagacggattggctatcatcaggcaaaggggaaaaccttctcttttcatcaccattacttgca
+# atcctggatggcctgaactggtggctgctatacctcgtggacaatctatctatgaccgacctgatataagca]
+# protein sequence = [MRQMLQDGLAIIRQRGKPSLFITITCNPGWPELVAAIPRGQSIYDRPDIS]
+# end gene g4234
+###
+#
+##FASTA
+>scf_5197
+CGACTTTAAGCTGGAACACCCTACTGCTTATATCAGGTCGGTCATAGATAGATTGTCCAC
+GAGGTATAGCAGCCACCAGTTCAGGCCATCCAGGATTGCAAGTAATGGTGATGAAAAGAG
+AAGGTTTTCCCCTTTGCCTGATGATAGCCAATCCGTCTTGAAGCATTTGTCGCATGTACC
+GAGGACCACCACTGAATGAGCTGGGAAGTACAATAGA

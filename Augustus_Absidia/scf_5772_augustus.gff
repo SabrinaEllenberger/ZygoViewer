@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 2591 (length = 217, name = scf_5772) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2591 on both strands
+# start gene g4756
+scf_5772	AUGUSTUS	gene	1	217	0.9	+	.	g4756
+scf_5772	AUGUSTUS	transcript	1	217	0.9	+	.	g4756.t1
+scf_5772	AUGUSTUS	internal	1	217	0.9	+	2	transcript_id "g4756.t1"; gene_id "g4756";
+scf_5772	AUGUSTUS	CDS	1	217	0.9	+	2	transcript_id "g4756.t1"; gene_id "g4756";
+# coding sequence = [tggaatctgacgaagatggtacctctgatgaagaagacactgatcgatcattggatggttatttgatctgcttggattc
+# tgtatcacccaacaattcaaactccgatgtccctgaatcttttgctgctacccctgattatgcagatcaagatcgacttagtgacctgttggatcaaa
+# ttgctgcgaacaatcttctctctattgaacaacgtgtggc]
+# protein sequence = [ESDEDGTSDEEDTDRSLDGYLICLDSVSPNNSNSDVPESFAATPDYADQDRLSDLLDQIAANNLLSIEQRV]
+# end gene g4756
+###
+#
+##FASTA
+>scf_5772
+TGGAATCTGACGAAGATGGTACCTCTGATGAAGAAGACACTGATCGATCATTGGATGGTT
+ATTTGATCTGCTTGGATTCTGTATCACCCAACAATTCAAACTCCGATGTCCCTGAATCTT
+TTGCTGCTACCCCTGATTATGCAGATCAAGATCGACTTAGTGACCTGTTGGATCAAATTG
+CTGCGAACAATCTTCTCTCTATTGAACAACGTGTGGC

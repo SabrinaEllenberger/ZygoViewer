@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3385 (length = 256, name = scf_8001) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3385 on both strands
+# start gene g6269
+scf_8001	AUGUSTUS	gene	1	256	0.85	+	.	g6269
+scf_8001	AUGUSTUS	transcript	1	256	0.85	+	.	g6269.t1
+scf_8001	AUGUSTUS	internal	1	256	0.85	+	0	transcript_id "g6269.t1"; gene_id "g6269";
+scf_8001	AUGUSTUS	CDS	1	256	0.85	+	0	transcript_id "g6269.t1"; gene_id "g6269";
+# coding sequence = [ttgccctacgattgcctgctcggtcgcaactctctacatcttttgggtgttaccactgactggtccgaacatatttgga
+# tgattgacgggtcccctctggaggtgaaatacactcgtgctcccactgtgcctcgaaacgatgcttctttggaatctgacgaagatggtacctctgat
+# gaagaagacactgatcgatcattggatggttatttgatctgcttggattctgtatcacccaacaattcaaactccgatg]
+# protein sequence = [LPYDCLLGRNSLHLLGVTTDWSEHIWMIDGSPLEVKYTRAPTVPRNDASLESDEDGTSDEEDTDRSLDGYLICLDSVS
+# PNNSNSD]
+# end gene g6269
+###
+#
+##FASTA
+>scf_8001
+TTGCCCTACGATTGCCTGCTCGGTCGCAACTCTCTACATCTTTTGGGTGTTACCACTGAC
+TGGTCCGAACATATTTGGATGATTGACGGGTCCCCTCTGGAGGTGAAATACACTCGTGCT
+CCCACTGTGCCTCGAAACGATGCTTCTTTGGAATCTGACGAAGATGGTACCTCTGATGAA
+GAAGACACTGATCGATCATTGGATGGTTATTTGATCTGCTTGGATTCTGTATCACCCAAC
+AATTCAAACTCCGATG

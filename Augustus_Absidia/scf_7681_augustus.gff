@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3313 (length = 217, name = scf_7681) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3313 on both strands
+# start gene g6090
+scf_7681	AUGUSTUS	gene	1	203	0.96	-	.	g6090
+scf_7681	AUGUSTUS	transcript	1	203	0.96	-	.	g6090.t1
+scf_7681	AUGUSTUS	initial	60	203	0.96	-	0	transcript_id "g6090.t1"; gene_id "g6090";
+scf_7681	AUGUSTUS	intron	1	59	0.98	-	.	transcript_id "g6090.t1"; gene_id "g6090";
+scf_7681	AUGUSTUS	CDS	60	203	0.96	-	0	transcript_id "g6090.t1"; gene_id "g6090";
+scf_7681	AUGUSTUS	start_codon	201	203	.	-	0	transcript_id "g6090.t1"; gene_id "g6090";
+# coding sequence = [atgtcttactttggatgtcgcttgtgtgttgtcaaaggtgtccgtggtctaatcaacgatcctctctctggtggtatgt
+# actttgtgggcaaaatcaatcccggtcgtatgcgccagcagaatgaattcaaggatggtggactg]
+# protein sequence = [MSYFGCRLCVVKGVRGLINDPLSGGMYFVGKINPGRMRQQNEFKDGGL]
+# end gene g6090
+###
+#
+##FASTA
+>scf_7681
+GAAGAAATTCCTTAGTTAGTTTGCTAGAAGTGGTCAACAAGCATAAGAGTGCTACTTACC
+AGTCCACCATCCTTGAATTCATTCTGCTGGCGCATACGACCGGGATTGATTTTGCCCACA
+AAGTACATACCACCAGAGAGAGGATCGTTGATTAGACCACGGACACCTTTGACAACACAC
+AAGCGACATCCAAAGTAAGACATATGACCGGTATGTT

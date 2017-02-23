@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 3348 (length = 495, name = scf_7821) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3348 on both strands
+# start gene g6256
+scf_7821	AUGUSTUS	gene	1	441	0.67	+	.	g6256
+scf_7821	AUGUSTUS	transcript	1	441	0.67	+	.	g6256.t1
+scf_7821	AUGUSTUS	terminal	40	441	0.67	+	0	transcript_id "g6256.t1"; gene_id "g6256";
+scf_7821	AUGUSTUS	intron	1	39	0.67	+	.	transcript_id "g6256.t1"; gene_id "g6256";
+scf_7821	AUGUSTUS	CDS	40	438	0.67	+	0	transcript_id "g6256.t1"; gene_id "g6256";
+scf_7821	AUGUSTUS	stop_codon	439	441	.	+	0	transcript_id "g6256.t1"; gene_id "g6256";
+# coding sequence = [catctgtacaccaagtattatggcgaaaaatcgcgcaaaggcaaggagcgggcgacagcagcatcttcacagtcgtccg
+# acgtatcaatggcttcacagtcatccgatgtagcaggtgcctcacaatcgtctatatcctctatgggcttgtcttcgctacaggtggccggcggatct
+# gaattcttatctcctggaaatcatattgacactagcgatctacttgtaccaaaagggtatgctaaattggtggagcctcagattacaatcatggctac
+# aaacattcaaattatgcatgatgacaaccgggtcaaatttgtccttgaaaaagcaatatccgtccttctgaatatatacattgcgcctaagagagaag
+# atctgcgaagaaaacgaatgacaaggtaa]
+# protein sequence = [HLYTKYYGEKSRKGKERATAASSQSSDVSMASQSSDVAGASQSSISSMGLSSLQVAGGSEFLSPGNHIDTSDLLVPKG
+# YAKLVEPQITIMATNIQIMHDDNRVKFVLEKAISVLLNIYIAPKREDLRRKRMTR]
+# end gene g6256
+###
+#
+##FASTA
+>scf_7821
+AGACGACTTTTCGATTCATTTACGGCTGAACATATAAAGCATCTGTACACCAAGTATTAT
+GGCGAAAAATCGCGCAAAGGCAAGGAGCGGGCGACAGCAGCATCTTCACAGTCGTCCGAC
+GTATCAATGGCTTCACAGTCATCCGATGTAGCAGGTGCCTCACAATCGTCTATATCCTCT
+ATGGGCTTGTCTTCGCTACAGGTGGCCGGCGGATCTGAATTCTTATCTCCTGGAAATCAT
+ATTGACACTAGCGATCTACTTGTACCAAAAGGGTATGCTAAATTGGTGGAGCCTCAGATT
+ACAATCATGGCTACAAACATTCAAATTATGCATGATGACAACCGGGTCAAATTTGTCCTT
+GAAAAAGCAATATCCGTCCTTCTGAATATATACATTGCGCCTAAGAGAGAAGATCTGCGA
+AGAAAACGAATGACAAGGTAACCGGCATATTCCTTTATGTGAGAATCGAGATACTAAAGT
+ACACAATTCTATTTC

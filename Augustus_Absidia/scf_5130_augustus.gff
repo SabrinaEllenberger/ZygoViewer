@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 2357 (length = 485, name = scf_5130) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2357 on both strands
+# start gene g4155
+scf_5130	AUGUSTUS	gene	1	485	0.86	-	.	g4155
+scf_5130	AUGUSTUS	transcript	1	485	0.86	-	.	g4155.t1
+scf_5130	AUGUSTUS	internal	1	180	0.86	-	0	transcript_id "g4155.t1"; gene_id "g4155";
+scf_5130	AUGUSTUS	internal	245	485	1	-	1	transcript_id "g4155.t1"; gene_id "g4155";
+scf_5130	AUGUSTUS	intron	181	244	1	-	.	transcript_id "g4155.t1"; gene_id "g4155";
+scf_5130	AUGUSTUS	CDS	1	180	0.86	-	0	transcript_id "g4155.t1"; gene_id "g4155";
+scf_5130	AUGUSTUS	CDS	245	485	1	-	1	transcript_id "g4155.t1"; gene_id "g4155";
+# coding sequence = [aaccattgtcaagaccaccactgaagttgatgtgatcaccgaaaagttgactgctgctaccgaaaagaccaagacctct
+# atcaatgtccatcttgacgaacacgccggcgccatccacgaacatgttgaaaagaagaagtctcactctggtgcaatcgctggtactatcgccgctgg
+# aactgctattgttggtggaattatcgccaagaagcatcacgatcacaaggaagcagaaaagaaggattctgaacaccataaaggatctatcgttgttg
+# ttgaccaaggcaaatctcaaaccgaagttgctaatgtgaccaaggaagttgttgttgtggactatatcaacgttactgtgactacatggttcgctcgc
+# ctcattgaacaagtttctgcccgtgccaagcaaggtggaaacaacgct]
+# protein sequence = [TIVKTTTEVDVITEKLTAATEKTKTSINVHLDEHAGAIHEHVEKKKSHSGAIAGTIAAGTAIVGGIIAKKHHDHKEAE
+# KKDSEHHKGSIVVVDQGKSQTEVANVTKEVVVVDYINVTVTTWFARLIEQVSARAKQGGNNA]
+# end gene g4155
+###
+#
+##FASTA
+>scf_5130
+AGCGTTGTTTCCACCTTGCTTGGCACGGGCAGAAACTTGTTCAATGAGGCGAGCGAACCA
+TGTAGTCACAGTAACGTTGATATAGTCCACAACAACAACTTCCTTGGTCACATTAGCAAC
+TTCGGTTTGAGATTTGCCTTGGTCAACAACAACGATAGATCCTTTATGGTGTTCAGAATC
+CTAAAGTAATAAGAATGAAGCTGATTAGTTGATGCACTAAATTGAGTATGTCCATTGAAA
+TTACCTTCTTTTCTGCTTCCTTGTGATCGTGATGCTTCTTGGCGATAATTCCACCAACAA
+TAGCAGTTCCAGCGGCGATAGTACCAGCGATTGCACCAGAGTGAGACTTCTTCTTTTCAA
+CATGTTCGTGGATGGCGCCGGCGTGTTCGTCAAGATGGACATTGATAGAGGTCTTGGTCT
+TTTCGGTAGCAGCAGTCAACTTTTCGGTGATCACATCAACTTCAGTGGTGGTCTTGACAA
+TGGTT

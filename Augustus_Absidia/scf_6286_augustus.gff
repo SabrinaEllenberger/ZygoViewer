@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2808 (length = 217, name = scf_6286) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2808 on both strands
+# start gene g5102
+scf_6286	AUGUSTUS	gene	1	185	0.54	+	.	g5102
+scf_6286	AUGUSTUS	transcript	1	185	0.54	+	.	g5102.t1
+scf_6286	AUGUSTUS	terminal	1	185	0.54	+	2	transcript_id "g5102.t1"; gene_id "g5102";
+scf_6286	AUGUSTUS	CDS	1	182	0.54	+	2	transcript_id "g5102.t1"; gene_id "g5102";
+scf_6286	AUGUSTUS	stop_codon	183	185	.	+	0	transcript_id "g5102.t1"; gene_id "g5102";
+# coding sequence = [cagttcctcagacctcaaatggaatacggcctggctatcactcccttgaccaagaccttggtgacgaagaaactggaac
+# aagcacagaacgactccatccgacgattccatggcgcccactctatgtcctcgactgtgatcatgcggcatttggcaagaatcccctccatgcaggcc
+# cgcgttga]
+# protein sequence = [VPQTSNGIRPGYHSLDQDLGDEETGTSTERLHPTIPWRPLYVLDCDHAAFGKNPLHAGPR]
+# end gene g5102
+###
+#
+##FASTA
+>scf_6286
+CAGTTCCTCAGACCTCAAATGGAATACGGCCTGGCTATCACTCCCTTGACCAAGACCTTG
+GTGACGAAGAAACTGGAACAAGCACAGAACGACTCCATCCGACGATTCCATGGCGCCCAC
+TCTATGTCCTCGACTGTGATCATGCGGCATTTGGCAAGAATCCCCTCCATGCAGGCCCGC
+GTTGATCTTCTCAGGTTCAAGTATCTACACCGGATTG

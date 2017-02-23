@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3237 (length = 320, name = scf_7471) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3237 on both strands
+# start gene g5752
+scf_7471	AUGUSTUS	gene	29	320	0.98	+	.	g5752
+scf_7471	AUGUSTUS	transcript	29	320	0.98	+	.	g5752.t1
+scf_7471	AUGUSTUS	start_codon	29	31	.	+	0	transcript_id "g5752.t1"; gene_id "g5752";
+scf_7471	AUGUSTUS	initial	29	320	0.98	+	0	transcript_id "g5752.t1"; gene_id "g5752";
+scf_7471	AUGUSTUS	CDS	29	320	0.98	+	0	transcript_id "g5752.t1"; gene_id "g5752";
+# coding sequence = [atgtcaaacaacatcagcaacgaactcgccaacatcaacatcaacgctgttgaagatgaagatatgtgggaaacaagcc
+# atcagcgcactcaattggaggaagacaaggcgatggtcttggagcaagaagaatgggcggtgataacccgagaggcgttgatagatgcaaggaaggtg
+# caagggctagtggaaggtcagtctcccgaggctgcccaagaagctgccagagaaaagatgatgagaatcaagttggctctggatgaccacgaggacgc
+# cgtctcgaccctggaaa]
+# protein sequence = [MSNNISNELANININAVEDEDMWETSHQRTQLEEDKAMVLEQEEWAVITREALIDARKVQGLVEGQSPEAAQEAAREK
+# MMRIKLALDDHEDAVSTLE]
+# end gene g5752
+###
+#
+##FASTA
+>scf_7471
+TTTTACTGAATTCAACAACAACATCATCATGTCAAACAACATCAGCAACGAACTCGCCAA
+CATCAACATCAACGCTGTTGAAGATGAAGATATGTGGGAAACAAGCCATCAGCGCACTCA
+ATTGGAGGAAGACAAGGCGATGGTCTTGGAGCAAGAAGAATGGGCGGTGATAACCCGAGA
+GGCGTTGATAGATGCAAGGAAGGTGCAAGGGCTAGTGGAAGGTCAGTCTCCCGAGGCTGC
+CCAAGAAGCTGCCAGAGAAAAGATGATGAGAATCAAGTTGGCTCTGGATGACCACGAGGA
+CGCCGTCTCGACCCTGGAAA

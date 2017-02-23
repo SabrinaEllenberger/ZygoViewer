@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 2720 (length = 319, name = scf_6072) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2720 on both strands
+# start gene g4930
+scf_6072	AUGUSTUS	gene	1	319	1	-	.	g4930
+scf_6072	AUGUSTUS	transcript	1	319	1	-	.	g4930.t1
+scf_6072	AUGUSTUS	internal	1	225	1	-	0	transcript_id "g4930.t1"; gene_id "g4930";
+scf_6072	AUGUSTUS	internal	294	319	1	-	2	transcript_id "g4930.t1"; gene_id "g4930";
+scf_6072	AUGUSTUS	intron	226	293	1	-	.	transcript_id "g4930.t1"; gene_id "g4930";
+scf_6072	AUGUSTUS	CDS	1	225	1	-	0	transcript_id "g4930.t1"; gene_id "g4930";
+scf_6072	AUGUSTUS	CDS	294	319	1	-	2	transcript_id "g4930.t1"; gene_id "g4930";
+# coding sequence = [atgaagacaagaagaagactgaaactgatgtctctgttgtcaagggtcatgaacatgttgtcactatcgtcactgttga
+# acaagtccgcgaaactgtccgtacctggtggttgaagttgtctgcatccatctctgagcgtgctcaacaagaaggtgcctctgctgaagaaatcaacg
+# ttatcatcaccaaggaaaaggaaaccatcttctctcaattggaccaagctatcaagaacacctctgacaagaag]
+# protein sequence = [EDKKKTETDVSVVKGHEHVVTIVTVEQVRETVRTWWLKLSASISERAQQEGASAEEINVIITKEKETIFSQLDQAIKN
+# TSDKK]
+# end gene g4930
+###
+#
+##FASTA
+>scf_6072
+CTTCTTGTCAGAGGTGTTCTTGATAGCTTGGTCCAATTGAGAGAAGATGGTTTCCTTTTC
+CTTGGTGATGATAACGTTGATTTCTTCAGCAGAGGCACCTTCTTGTTGAGCACGCTCAGA
+GATGGATGCAGACAACTTCAACCACCAGGTACGGACAGTTTCGCGGACTTGTTCAACAGT
+GACGATAGTGACAACATGTTCATGACCCTTGACAACAGAGACATCCTATTTATATAAAGA
+AAGTGTAAATGTTAATTATAAGTGGCAAGCAAGTCTTCACGATTGCAACTTACAGTTTCA
+GTCTTCTTCTTGTCTTCAT

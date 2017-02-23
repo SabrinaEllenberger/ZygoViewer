@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3606 (length = 263, name = scf_8674) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3606 on both strands
+# start gene g6788
+scf_8674	AUGUSTUS	gene	1	177	0.96	-	.	g6788
+scf_8674	AUGUSTUS	transcript	1	177	0.96	-	.	g6788.t1
+scf_8674	AUGUSTUS	initial	1	177	0.96	-	0	transcript_id "g6788.t1"; gene_id "g6788";
+scf_8674	AUGUSTUS	CDS	1	177	0.96	-	0	transcript_id "g6788.t1"; gene_id "g6788";
+scf_8674	AUGUSTUS	start_codon	175	177	.	-	0	transcript_id "g6788.t1"; gene_id "g6788";
+# coding sequence = [atgttgtaccatcgactgctagatgaagagcgccctcccttgcccggttggaacaatggccagccaatcgattggaccg
+# ctgaagtggagcttttccaggaacggcttctccaacgtcgaaacgtagaggtcgttcctggtgccatcaccgacgaagaactcaacagctttggcttc]
+# protein sequence = [MLYHRLLDEERPPLPGWNNGQPIDWTAEVELFQERLLQRRNVEVVPGAITDEELNSFGF]
+# end gene g6788
+###
+#
+##FASTA
+>scf_8674
+GAAGCCAAAGCTGTTGAGTTCTTCGTCGGTGATGGCACCAGGAACGACCTCTACGTTTCG
+ACGTTGGAGAAGCCGTTCCTGGAAAAGCTCCACTTCAGCGGTCCAATCGATTGGCTGGCC
+ATTGTTCCAACCGGGCAAGGGAGGGCGCTCTTCATCTAGCAGTCGATGGTACAACATGTC
+GTTCTTCGAACCGACGGAAAAGGTCACACGTGATGGTGAAGGTGGCGTTGTTGATGCTGA
+TGCTGGTGCTGATGCTGGTGCTG

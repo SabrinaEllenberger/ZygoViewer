@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2529 (length = 217, name = scf_5629) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2529 on both strands
+# start gene g4639
+scf_5629	AUGUSTUS	gene	1	208	0.45	+	.	g4639
+scf_5629	AUGUSTUS	transcript	1	208	0.45	+	.	g4639.t1
+scf_5629	AUGUSTUS	terminal	113	208	0.61	+	0	transcript_id "g4639.t1"; gene_id "g4639";
+scf_5629	AUGUSTUS	intron	1	112	0.45	+	.	transcript_id "g4639.t1"; gene_id "g4639";
+scf_5629	AUGUSTUS	CDS	113	205	0.61	+	0	transcript_id "g4639.t1"; gene_id "g4639";
+scf_5629	AUGUSTUS	stop_codon	206	208	.	+	0	transcript_id "g4639.t1"; gene_id "g4639";
+# coding sequence = [ggcagcccaccttctttgacaccttctgtcgtttacgttgatcgtggtgtgcatgatgacgattacgtccacggtgaca
+# gtagctctggacactga]
+# protein sequence = [GSPPSLTPSVVYVDRGVHDDDYVHGDSSSGH]
+# end gene g4639
+###
+#
+##FASTA
+>scf_5629
+AGAGTTCTTCTATCTTCATTATCGCCTGGTACATGGTATTCATGCGGAACTGTCATGGTA
+ATCTTCACAACATTTGGGAATTTGCTGAAGCATTGCACTACAATTTTTCCAGGGCAGCCC
+ACCTTCTTTGACACCTTCTGTCGTTTACGTTGATCGTGGTGTGCATGATGACGATTACGT
+CCACGGTGACAGTAGCTCTGGACACTGAAGTCAATAC

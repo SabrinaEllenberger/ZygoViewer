@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 3104 (length = 462, name = scf_7108) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3104 on both strands
+# start gene g5432
+scf_7108	AUGUSTUS	gene	1	462	0.68	+	.	g5432
+scf_7108	AUGUSTUS	transcript	1	462	0.68	+	.	g5432.t1
+scf_7108	AUGUSTUS	internal	110	340	0.84	+	2	transcript_id "g5432.t1"; gene_id "g5432";
+scf_7108	AUGUSTUS	internal	395	462	0.79	+	2	transcript_id "g5432.t1"; gene_id "g5432";
+scf_7108	AUGUSTUS	intron	1	109	0.86	+	.	transcript_id "g5432.t1"; gene_id "g5432";
+scf_7108	AUGUSTUS	intron	341	394	0.85	+	.	transcript_id "g5432.t1"; gene_id "g5432";
+scf_7108	AUGUSTUS	CDS	110	340	0.84	+	2	transcript_id "g5432.t1"; gene_id "g5432";
+scf_7108	AUGUSTUS	CDS	395	462	0.79	+	2	transcript_id "g5432.t1"; gene_id "g5432";
+# coding sequence = [gaatctttttctacggattagcagttacgcatcacgacaaaccaacactacgatgtgacgaagacgaaagaaaggacat
+# gcccacaccagacaactctccagctggcacgaaagacgaacagcagcgttttaaagatgccatagcaacaagcatgcacaacaatcaacaagtggaca
+# aaaagtcgttctgcacagtaccggaatcaatcgtcaccttggacacccctccagtagataaagcagtattatcttggtatcaggacggaactatcgta
+# cgagcaggtgtcaacacggagtgg]
+# protein sequence = [IFFYGLAVTHHDKPTLRCDEDERKDMPTPDNSPAGTKDEQQRFKDAIATSMHNNQQVDKKSFCTVPESIVTLDTPPVD
+# KAVLSWYQDGTIVRAGVNTEW]
+# end gene g5432
+###
+#
+##FASTA
+>scf_7108
+GACGTACTATACAACAGTAAAACATGCCAACTACAATTTGAGGTAATGAACCTACCCTCT
+GAAGAAAAATACCAATGCGTGTTAGGCACTGACTCTTTTTCGAAACTAGGAATCTTTTTC
+TACGGATTAGCAGTTACGCATCACGACAAACCAACACTACGATGTGACGAAGACGAAAGA
+AAGGACATGCCCACACCAGACAACTCTCCAGCTGGCACGAAAGACGAACAGCAGCGTTTT
+AAAGATGCCATAGCAACAAGCATGCACAACAATCAACAAGTGGACAAAAAGTCGTTCTGC
+ACAGTACCGGAATCAATCGTCACCTTGGACACCCCTCCAGGTAAGACTTGCTATAAGAGA
+CAGTACCCTCTCGCTCACAACCTTATGCCTATAGTAGATAAAGCAGTATTATCTTGGTAT
+CAGGACGGAACTATCGTACGAGCAGGTGTCAACACGGAGTGG

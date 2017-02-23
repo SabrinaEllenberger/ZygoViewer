@@ -1,0 +1,39 @@
+# ----- prediction on sequence number 3195 (length = 733, name = scf_7387) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3195 on both strands
+# start gene g5683
+scf_7387	AUGUSTUS	gene	146	733	0.69	-	.	g5683
+scf_7387	AUGUSTUS	transcript	146	733	0.69	-	.	g5683.t1
+scf_7387	AUGUSTUS	stop_codon	146	148	.	-	0	transcript_id "g5683.t1"; gene_id "g5683";
+scf_7387	AUGUSTUS	terminal	146	680	0.69	-	1	transcript_id "g5683.t1"; gene_id "g5683";
+scf_7387	AUGUSTUS	intron	681	733	0.81	-	.	transcript_id "g5683.t1"; gene_id "g5683";
+scf_7387	AUGUSTUS	CDS	149	680	0.69	-	1	transcript_id "g5683.t1"; gene_id "g5683";
+# coding sequence = [ttgtgttgacatctttataacaacgtccgagggtgcatccatcagaatcagcatagaatcagtaacgagttgtcgaagt
+# gtcgatcatgatacgtcccgtagattcccatatgttgtgaaccttttggcttcttgtggatcgaacaaggtgatcatcgataacacccgacgccactt
+# caacaatcaatcgaaccttctgcccaaggatgtcagcaactttcgctatcgactcagcggcgttactgctgatcccaaggcgcgatcggtcttggaac
+# aactaagatcttgtatcttcgcgaaggattcgccttggcaacccaagatttttgtcactgatcaagaacacgctctgatgaacggtatcaacaaggtt
+# taccctggcgcttccaccatactgtgctacatccacatgatgcgcaactttgaaaacaagcttggcggactctttttggacaagaaacgatgggggga
+# gacgcaaaacgtcctgtatgcaatcatacacagtcaagacatggaccaatacaacatgtggtga]
+# protein sequence = [CVDIFITTSEGASIRISIESVTSCRSVDHDTSRRFPYVVNLLASCGSNKVIIDNTRRHFNNQSNLLPKDVSNFRYRLS
+# GVTADPKARSVLEQLRSCIFAKDSPWQPKIFVTDQEHALMNGINKVYPGASTILCYIHMMRNFENKLGGLFLDKKRWGETQNVLYAIIHSQDMDQYNM
+# W]
+# end gene g5683
+###
+#
+##FASTA
+>scf_7387
+AAGTCGCTATAGGTGGCCGGTGGTGGCCGGCACTAGAAGTCTTATAAAAGGAAGAGTTTT
+TTCTAGTTACTTGGTAGCTTTTTCTCGATCCAATCTTTAATCAAAATAAAAGACCTCACA
+CCTTATCTCAATTATTCATCACCAATCACCACATGTTGTATTGGTCCATGTCTTGACTGT
+GTATGATTGCATACAGGACGTTTTGCGTCTCCCCCCATCGTTTCTTGTCCAAAAAGAGTC
+CGCCAAGCTTGTTTTCAAAGTTGCGCATCATGTGGATGTAGCACAGTATGGTGGAAGCGC
+CAGGGTAAACCTTGTTGATACCGTTCATCAGAGCGTGTTCTTGATCAGTGACAAAAATCT
+TGGGTTGCCAAGGCGAATCCTTCGCGAAGATACAAGATCTTAGTTGTTCCAAGACCGATC
+GCGCCTTGGGATCAGCAGTAACGCCGCTGAGTCGATAGCGAAAGTTGCTGACATCCTTGG
+GCAGAAGGTTCGATTGATTGTTGAAGTGGCGTCGGGTGTTATCGATGATCACCTTGTTCG
+ATCCACAAGAAGCCAAAAGGTTCACAACATATGGGAATCTACGGGACGTATCATGATCGA
+CACTTCGACAACTCGTTACTGATTCTATGCTGATTCTGATGGATGCACCCTCGGACGTTG
+TTATAAAGATGTCAACACAACTACAAAGAAACGGTATCGTCTATACAAGCGCCCAACACC
+GCTCCCAGGTAAA

@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 3498 (length = 498, name = scf_8326) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3498 on both strands
+# start gene g6426
+scf_8326	AUGUSTUS	gene	1	385	0.53	+	.	g6426
+scf_8326	AUGUSTUS	transcript	1	385	0.53	+	.	g6426.t1
+scf_8326	AUGUSTUS	internal	39	112	0.53	+	1	transcript_id "g6426.t1"; gene_id "g6426";
+scf_8326	AUGUSTUS	terminal	237	385	0.6	+	2	transcript_id "g6426.t1"; gene_id "g6426";
+scf_8326	AUGUSTUS	intron	1	38	0.55	+	.	transcript_id "g6426.t1"; gene_id "g6426";
+scf_8326	AUGUSTUS	intron	113	236	0.53	+	.	transcript_id "g6426.t1"; gene_id "g6426";
+scf_8326	AUGUSTUS	CDS	39	112	0.53	+	1	transcript_id "g6426.t1"; gene_id "g6426";
+scf_8326	AUGUSTUS	CDS	237	382	0.6	+	2	transcript_id "g6426.t1"; gene_id "g6426";
+scf_8326	AUGUSTUS	stop_codon	383	385	.	+	0	transcript_id "g6426.t1"; gene_id "g6426";
+# coding sequence = [gcacgacttccagcaacaacaacttggggaaactccttctgacttgcgtccattacggtcgataccggcaaatatgaca
+# atcgcttttgtggcgatcattgacgatgacgaaacgaacgacgacgacaaaaagaatgacgatgacgaaacgagtgacgatgatatccttgatctcac
+# caagaagatctccgttgtcaagaagattgttgtcaattggcagtag]
+# protein sequence = [HDFQQQQLGETPSDLRPLRSIPANMTIAFVAIIDDDETNDDDKKNDDDETSDDDILDLTKKISVVKKIVVNWQ]
+# end gene g6426
+###
+#
+##FASTA
+>scf_8326
+TATTCAAGCATATGCGAAACAAAAAGGCTTTGCGACAGGCACGACTTCCAGCAACAACAA
+CTTGGGGAAACTCCTTCTGACTTGCGTCCATTACGGTCGATACCGGCAAATAGTAAGTAG
+TAAAGGGGGAGAGGATGGATGAGTGGGCTTTTCACACACTAACGTCCCTTGTTCCTTAGT
+GCCAGTGGCGGCGATCTTTTAAACGTCGTGAAAAAGAATGGACAGCTTTGCGAAAGTGAC
+AATCGCTTTTGTGGCGATCATTGACGATGACGAAACGAACGACGACGACAAAAAGAATGA
+CGATGACGAAACGAGTGACGATGATATCCTTGATCTCACCAAGAAGATCTCCGTTGTCAA
+GAAGATTGTTGTCAATTGGCAGTAGATACCTTTTTAAATCCCATACACTTCCATTCTCCC
+GACGGTGCCATGCTATATCTTCCCTTCACAAGCACTTCCTTCTTCAAAACCAAGCCTATC
+ATTCTACACCTACAAGCA

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3000 (length = 217, name = scf_6794) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3000 on both strands
+# start gene g5175
+scf_6794	AUGUSTUS	gene	1	203	0.74	+	.	g5175
+scf_6794	AUGUSTUS	transcript	1	203	0.74	+	.	g5175.t1
+scf_6794	AUGUSTUS	terminal	1	203	0.74	+	2	transcript_id "g5175.t1"; gene_id "g5175";
+scf_6794	AUGUSTUS	CDS	1	200	0.74	+	2	transcript_id "g5175.t1"; gene_id "g5175";
+scf_6794	AUGUSTUS	stop_codon	201	203	.	+	0	transcript_id "g5175.t1"; gene_id "g5175";
+# coding sequence = [atagccagactcccattaacctcaccttttcgcccagtaacatggaacgacaagtcatggcttcttttggattggcgct
+# cgaaaaaattgttctcgacaatcgtatgaccgcaaaagctcatgcggccgtcaccaagctcatgaatgaagtcatcagcaaggttgctccaggtaagt
+# gtcaaccgtacattgctaggtgttaa]
+# protein sequence = [SQTPINLTFSPSNMERQVMASFGLALEKIVLDNRMTAKAHAAVTKLMNEVISKVAPGKCQPYIARC]
+# end gene g5175
+###
+#
+##FASTA
+>scf_6794
+ATAGCCAGACTCCCATTAACCTCACCTTTTCGCCCAGTAACATGGAACGACAAGTCATGG
+CTTCTTTTGGATTGGCGCTCGAAAAAATTGTTCTCGACAATCGTATGACCGCAAAAGCTC
+ATGCGGCCGTCACCAAGCTCATGAATGAAGTCATCAGCAAGGTTGCTCCAGGTAAGTGTC
+AACCGTACATTGCTAGGTGTTAACAAATGAAACTGAT

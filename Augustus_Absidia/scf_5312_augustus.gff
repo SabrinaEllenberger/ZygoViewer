@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 2423 (length = 594, name = scf_5312) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2423 on both strands
+# start gene g4289
+scf_5312	AUGUSTUS	gene	144	521	0.89	+	.	g4289
+scf_5312	AUGUSTUS	transcript	144	521	0.89	+	.	g4289.t1
+scf_5312	AUGUSTUS	start_codon	144	146	.	+	0	transcript_id "g4289.t1"; gene_id "g4289";
+scf_5312	AUGUSTUS	initial	144	245	0.89	+	0	transcript_id "g4289.t1"; gene_id "g4289";
+scf_5312	AUGUSTUS	terminal	336	521	1	+	0	transcript_id "g4289.t1"; gene_id "g4289";
+scf_5312	AUGUSTUS	intron	246	335	0.89	+	.	transcript_id "g4289.t1"; gene_id "g4289";
+scf_5312	AUGUSTUS	CDS	144	245	0.89	+	0	transcript_id "g4289.t1"; gene_id "g4289";
+scf_5312	AUGUSTUS	CDS	336	518	1	+	0	transcript_id "g4289.t1"; gene_id "g4289";
+scf_5312	AUGUSTUS	stop_codon	519	521	.	+	0	transcript_id "g4289.t1"; gene_id "g4289";
+# coding sequence = [atgtccaacaacaacaatattaacaacgacaacgtcgatgacacatgggagcaagacttctccatggaagtcgaagtac
+# ccgaaactaaattggagagatgcttacctgaaggccctgctaccaagaaggagcggttggaacacgccagaagagagatgaaggaggcagaacaacaa
+# ctggacgacttcaaggagtccttccttcgcaagtttcctcaggagacgacatttggtggggtgcccgcttctgctaaggaagaccgaaaatggaactt
+# atacgctgcgtga]
+# protein sequence = [MSNNNNINNDNVDDTWEQDFSMEVEVPETKLERCLPEGPATKKERLEHARREMKEAEQQLDDFKESFLRKFPQETTFG
+# GVPASAKEDRKWNLYAA]
+# end gene g4289
+###
+#
+##FASTA
+>scf_5312
+AACGTTACACTACGTCTTATTTATCAGAGAGGGTTTTTCACATCAGAAGATGTTTTCCCT
+CTCACCCAATAAAGAGTACCAACCTTGTCTCAGTACTTACGCACTCTACACACAACATAT
+TTTTTTACTGAATTCAAACCAACATGTCCAACAACAACAATATTAACAACGACAACGTCG
+ATGACACATGGGAGCAAGACTTCTCCATGGAAGTCGAAGTACCCGAAACTAAATTGGAGA
+GATGCGTACGCGTCTACAAGATCCAACAAGAAGAAGTCGATGAGAAAAGACAACTGGTCT
+TGGACATCTTCGACAACCAGTCCTCTCTGTGCTAGTTACCTGAAGGCCCTGCTACCAAGA
+AGGAGCGGTTGGAACACGCCAGAAGAGAGATGAAGGAGGCAGAACAACAACTGGACGACT
+TCAAGGAGTCCTTCCTTCGCAAGTTTCCTCAGGAGACGACATTTGGTGGGGTGCCCGCTT
+CTGCTAAGGAAGACCGAAAATGGAACTTATACGCTGCGTGACAGCAAGAATGAGTTATCG
+CGAAGGAACTACCAACCAAGCGAACTGGCACACGTTGCCGATGAATACGTTGAA

@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 3243 (length = 217, name = scf_7480) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3243 on both strands
+# start gene g5753
+scf_7480	AUGUSTUS	gene	1	141	0.5	-	.	g5753
+scf_7480	AUGUSTUS	transcript	1	141	0.5	-	.	g5753.t1
+scf_7480	AUGUSTUS	initial	1	141	0.5	-	0	transcript_id "g5753.t1"; gene_id "g5753";
+scf_7480	AUGUSTUS	CDS	1	141	0.5	-	0	transcript_id "g5753.t1"; gene_id "g5753";
+scf_7480	AUGUSTUS	start_codon	139	141	.	-	0	transcript_id "g5753.t1"; gene_id "g5753";
+# coding sequence = [atgcagcaaattcaaccgagcattgatgccaaccaagccattcccgctgactccttctgcactcacccggatgccttag
+# tatatttggataccccaccggatgccaaaggtttccgtgtccaatacaacatcgctgacacc]
+# protein sequence = [MQQIQPSIDANQAIPADSFCTHPDALVYLDTPPDAKGFRVQYNIADT]
+# end gene g5753
+###
+#
+##FASTA
+>scf_7480
+GGTGTCAGCGATGTTGTATTGGACACGGAAACCTTTGGCATCCGGTGGGGTATCCAAATA
+TACTAAGGCATCCGGGTGAGTGCAGAAGGAGTCAGCGGGAATGGCTTGGTTGGCATCAAT
+GCTCGGTTGAATTTGCTGCATGAAATTGGCCTGTTCGGTGGGTGATCCATAAGGATCATC
+ATTAGGCGTAAGCACATCTTTGAAAGGGCTTTCTTCT

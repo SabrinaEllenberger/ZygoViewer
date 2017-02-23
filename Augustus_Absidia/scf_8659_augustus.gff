@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3600 (length = 438, name = scf_8659) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3600 on both strands
+# start gene g6638
+scf_8659	AUGUSTUS	gene	1	226	0.7	+	.	g6638
+scf_8659	AUGUSTUS	transcript	1	226	0.7	+	.	g6638.t1
+scf_8659	AUGUSTUS	terminal	1	226	0.7	+	1	transcript_id "g6638.t1"; gene_id "g6638";
+scf_8659	AUGUSTUS	CDS	1	223	0.7	+	1	transcript_id "g6638.t1"; gene_id "g6638";
+scf_8659	AUGUSTUS	stop_codon	224	226	.	+	0	transcript_id "g6638.t1"; gene_id "g6638";
+# coding sequence = [agctcgtatggcgggtaacgtgtgtgcgaacgtggatcatatacgacgccaaggccgatggaacaacacaacgataaac
+# ggcgcatatctcaccaaccttccaagagaattagtgcgatcaatggcagaattccccacatatggtcgattcttttatatcgcacgtgccgtccttaa
+# cccacctaccagcctctgcaagaagttgttcctggcgatcggcgactga]
+# protein sequence = [ARMAGNVCANVDHIRRQGRWNNTTINGAYLTNLPRELVRSMAEFPTYGRFFYIARAVLNPPTSLCKKLFLAIGD]
+# end gene g6638
+###
+#
+##FASTA
+>scf_8659
+AGCTCGTATGGCGGGTAACGTGTGTGCGAACGTGGATCATATACGACGCCAAGGCCGATG
+GAACAACACAACGATAAACGGCGCATATCTCACCAACCTTCCAAGAGAATTAGTGCGATC
+AATGGCAGAATTCCCCACATATGGTCGATTCTTTTATATCGCACGTGCCGTCCTTAACCC
+ACCTACCAGCCTCTGCAAGAAGTTGTTCCTGGCGATCGGCGACTGACATGACCGACTGGC
+GGCAAAAGAACTCAGTCCCGGGGATCCTATTCAACCTACCGTCGCTGAAAATGCATTTGC
+ACAGGTGATCATGATGTTCAGGATGACTTTTATACAAGACTCGGTGCTCATGATGGAACT
+CCACCCTGCTATCCCATTTGGCAACATTCAATCTTCTCTGATCCAGCCTATTTGTCATCC
+AAAAGGTAAGTCCACATC

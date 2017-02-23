@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 3479 (length = 595, name = scf_8291) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3479 on both strands
+# start gene g6347
+scf_8291	AUGUSTUS	gene	1	574	0.33	-	.	g6347
+scf_8291	AUGUSTUS	transcript	1	574	0.33	-	.	g6347.t1
+scf_8291	AUGUSTUS	internal	1	376	0.34	-	2	transcript_id "g6347.t1"; gene_id "g6347";
+scf_8291	AUGUSTUS	initial	538	574	0.74	-	0	transcript_id "g6347.t1"; gene_id "g6347";
+scf_8291	AUGUSTUS	intron	377	537	0.71	-	.	transcript_id "g6347.t1"; gene_id "g6347";
+scf_8291	AUGUSTUS	CDS	1	376	0.34	-	2	transcript_id "g6347.t1"; gene_id "g6347";
+scf_8291	AUGUSTUS	CDS	538	574	0.74	-	0	transcript_id "g6347.t1"; gene_id "g6347";
+scf_8291	AUGUSTUS	start_codon	572	574	.	-	0	transcript_id "g6347.t1"; gene_id "g6347";
+# coding sequence = [atggattctggtgccggtggtgaaaacgaagctagatggttcttcgatctattcgttcacagtgatcaagtcaatgagt
+# atcatgtcgactcaacgtacaagaccaaccgggctggatttgaactttttggtattgtggcgaatgtccaaggctctggatacccagttgcgtacatg
+# ataatgaatgtggatagtagaactaatcgtgcaaatcaagacactcacagggtcgctgtgctgaagctcttcttccgcgccatgaaagatcgtgggct
+# caaccccacttttatgttttgtgacaaagacatggctgaaatcaatgccattgaagcaacttggaatccatctgtcgttcgactatgcctctggcatt
+# tgaaaagggctgtaaagacaaaacttggtcaacctaaatc]
+# protein sequence = [MDSGAGGENEARWFFDLFVHSDQVNEYHVDSTYKTNRAGFELFGIVANVQGSGYPVAYMIMNVDSRTNRANQDTHRVA
+# VLKLFFRAMKDRGLNPTFMFCDKDMAEINAIEATWNPSVVRLCLWHLKRAVKTKLGQPK]
+# end gene g6347
+###
+#
+##FASTA
+>scf_8291
+GATTTAGGTTGACCAAGTTTTGTCTTTACAGCCCTTTTCAAATGCCAGAGGCATAGTCGA
+ACGACAGATGGATTCCAAGTTGCTTCAATGGCATTGATTTCAGCCATGTCTTTGTCACAA
+AACATAAAAGTGGGGTTGAGCCCACGATCTTTCATGGCGCGGAAGAAGAGCTTCAGCACA
+GCGACCCTGTGAGTGTCTTGATTTGCACGATTAGTTCTACTATCCACATTCATTATCATG
+TACGCAACTGGGTATCCAGAGCCTTGGACATTCGCCACAATACCAAAAAGTTCAAATCCA
+GCCCGGTTGGTCTTGTACGTTGAGTCGACATGATACTCATTGACTTGATCACTGTGAACG
+AATAGATCGAAGAACCCTGTAGTGAACCCCAGGTACTTCACCTCTTCCGCACTCCGATAC
+AACAACTACACATACAACATATGGTTTTAGGGTTTTATTAGTAACAGATCAAGAGTACAG
+TACATATACTAGGGGGGTATGTGGGGTATCTAATCTAGTCCAGTCTACACGATCTACATC
+TAGCTTCGTTTTCACCACCGGCACCAGAATCCATAATCTACACACGACCATCCCA

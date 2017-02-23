@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 3610 (length = 327, name = scf_8682) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3610 on both strands
+# start gene g6937
+scf_8682	AUGUSTUS	gene	1	303	0.5	-	.	g6937
+scf_8682	AUGUSTUS	transcript	1	303	0.5	-	.	g6937.t1
+scf_8682	AUGUSTUS	initial	10	303	0.5	-	0	transcript_id "g6937.t1"; gene_id "g6937";
+scf_8682	AUGUSTUS	intron	1	9	0.5	-	.	transcript_id "g6937.t1"; gene_id "g6937";
+scf_8682	AUGUSTUS	CDS	10	303	0.5	-	0	transcript_id "g6937.t1"; gene_id "g6937";
+scf_8682	AUGUSTUS	start_codon	301	303	.	-	0	transcript_id "g6937.t1"; gene_id "g6937";
+# coding sequence = [atgtcaataggtagtcgacacattgaaaactctcagctacaacgacgataccaacgaattcaggactatccctgcaagg
+# gtagagtccatggttttatcaacagacgacacgaatggattcatcttgacattagtcatgcggtttgtgatcctcggcctgatgacattaacgacacc
+# atccctgttgcacctatcccgacagagatcaaacgattcattgccagccaaatcacgcctcgaagactgacctcctccgacttgtatgaaaccgttgt
+# tgaaagatttggttacgtg]
+# protein sequence = [MSIGSRHIENSQLQRRYQRIQDYPCKGRVHGFINRRHEWIHLDISHAVCDPRPDDINDTIPVAPIPTEIKRFIASQIT
+# PRRLTSSDLYETVVERFGYV]
+# end gene g6937
+###
+#
+##FASTA
+>scf_8682
+ATAGTTCACCACGTAACCAAATCTTTCAACAACGGTTTCATACAAGTCGGAGGAGGTCAG
+TCTTCGAGGCGTGATTTGGCTGGCAATGAATCGTTTGATCTCTGTCGGGATAGGTGCAAC
+AGGGATGGTGTCGTTAATGTCATCAGGCCGAGGATCACAAACCGCATGACTAATGTCAAG
+ATGAATCCATTCGTGTCGTCTGTTGATAAAACCATGGACTCTACCCTTGCAGGGATAGTC
+CTGAATTCGTTGGTATCGTCGTTGTAGCTGAGAGTTTTCAATGTGTCGACTACCTATTGA
+CATACAAAACAATTTAGTGTCAACTGC

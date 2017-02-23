@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 2528 (length = 219, name = scf_5628) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2528 on both strands
+# start gene g4638
+scf_5628	AUGUSTUS	gene	1	107	0.64	-	.	g4638
+scf_5628	AUGUSTUS	transcript	1	107	0.64	-	.	g4638.t1
+scf_5628	AUGUSTUS	initial	67	107	0.64	-	0	transcript_id "g4638.t1"; gene_id "g4638";
+scf_5628	AUGUSTUS	intron	1	66	0.64	-	.	transcript_id "g4638.t1"; gene_id "g4638";
+scf_5628	AUGUSTUS	CDS	67	107	0.64	-	0	transcript_id "g4638.t1"; gene_id "g4638";
+scf_5628	AUGUSTUS	start_codon	105	107	.	-	0	transcript_id "g4638.t1"; gene_id "g4638";
+# coding sequence = [atggcagctgctcacattgcacgcatcaaggagcaactcag]
+# protein sequence = [MAAAHIARIKEQL]
+# end gene g4638
+###
+#
+##FASTA
+>scf_5628
+CTTGACGTCAAAGTTTCCAACTGGTAGATGAAGCTTAATCCAATGCTACGACAATCACGA
+GTGTACCTGAGTTGCTCCTTGATGCGTGCAATGTGAGCAGCTGCCATACTGTAGGAAGAG
+TTCTTCTATCTTCATTATCGCCTGGTACATGGTATTCATGCGGAACTGTCATGGTAATCT
+TCACAACATTTGGGAATTTGCTGAAGCATTGCACTACAA

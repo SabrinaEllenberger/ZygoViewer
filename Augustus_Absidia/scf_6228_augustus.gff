@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 2780 (length = 540, name = scf_6228) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2780 on both strands
+# start gene g4941
+scf_6228	AUGUSTUS	gene	1	459	0.38	+	.	g4941
+scf_6228	AUGUSTUS	transcript	1	459	0.38	+	.	g4941.t1
+scf_6228	AUGUSTUS	internal	64	204	0.39	+	0	transcript_id "g4941.t1"; gene_id "g4941";
+scf_6228	AUGUSTUS	terminal	280	459	0.56	+	0	transcript_id "g4941.t1"; gene_id "g4941";
+scf_6228	AUGUSTUS	intron	1	63	0.49	+	.	transcript_id "g4941.t1"; gene_id "g4941";
+scf_6228	AUGUSTUS	intron	205	279	0.39	+	.	transcript_id "g4941.t1"; gene_id "g4941";
+scf_6228	AUGUSTUS	CDS	64	204	0.39	+	0	transcript_id "g4941.t1"; gene_id "g4941";
+scf_6228	AUGUSTUS	CDS	280	456	0.56	+	0	transcript_id "g4941.t1"; gene_id "g4941";
+scf_6228	AUGUSTUS	stop_codon	457	459	.	+	0	transcript_id "g4941.t1"; gene_id "g4941";
+# coding sequence = [tggggtgttcctggtcatgccgttcaattttcagggcacatcattaagctggccaaggactttatccagcagggtcatc
+# agctagaaaaaagttttcagaagcaaaccaaaaacctgagaacggacatttcagaccccgcctggggtggtcctggtcatgccgttcgattttcaggg
+# cacatcactaagcaggccaatgactttatccagcagggtcatcagctagaaaaaggttttcagaagcaaaccaaaaacctgagaacggacatttcaga
+# ccccgccgtcttcgccacgcttgagttttaccgccatgacttataa]
+# protein sequence = [WGVPGHAVQFSGHIIKLAKDFIQQGHQLEKSFQKQTKNLRTDISDPAWGGPGHAVRFSGHITKQANDFIQQGHQLEKG
+# FQKQTKNLRTDISDPAVFATLEFYRHDL]
+# end gene g4941
+###
+#
+##FASTA
+>scf_6228
+CTTGAGTTTTACCGCCATGACTTATAATCTTGGATTCAGGATCTAATGGCATGTACATGA
+TAGTGGGGTGTTCCTGGTCATGCCGTTCAATTTTCAGGGCACATCATTAAGCTGGCCAAG
+GACTTTATCCAGCAGGGTCATCAGCTAGAAAAAAGTTTTCAGAAGCAAACCAAAAACCTG
+AGAACGGACATTTCAGACCCCGCCGTCTTCGCCACGCTTGAGTTTTACCGCCATGACCTA
+TAATCTTGGATTCAGGATCTAATGGCATGTGCATGATAGTGGGGTGGTCCTGGTCATGCC
+GTTCGATTTTCAGGGCACATCACTAAGCAGGCCAATGACTTTATCCAGCAGGGTCATCAG
+CTAGAAAAAGGTTTTCAGAAGCAAACCAAAAACCTGAGAACGGACATTTCAGACCCCGCC
+GTCTTCGCCACGCTTGAGTTTTACCGCCATGACTTATAATCTTGGATTCAGGATCTAATG
+GCATGTACATGATAGTGGGGTGTTCCTGGTCATGCCGTTCAATTTTCAGGGCACATCATT

@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 2936 (length = 325, name = scf_6631) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2936 on both strands
+# start gene g5147
+scf_6631	AUGUSTUS	gene	1	325	0.99	+	.	g5147
+scf_6631	AUGUSTUS	transcript	1	325	0.99	+	.	g5147.t1
+scf_6631	AUGUSTUS	internal	1	113	0.99	+	2	transcript_id "g5147.t1"; gene_id "g5147";
+scf_6631	AUGUSTUS	internal	211	325	1	+	0	transcript_id "g5147.t1"; gene_id "g5147";
+scf_6631	AUGUSTUS	intron	114	210	1	+	.	transcript_id "g5147.t1"; gene_id "g5147";
+scf_6631	AUGUSTUS	CDS	1	113	0.99	+	2	transcript_id "g5147.t1"; gene_id "g5147";
+scf_6631	AUGUSTUS	CDS	211	325	1	+	0	transcript_id "g5147.t1"; gene_id "g5147";
+# coding sequence = [ctcaagcgaaggctactgaagaacaaatccatgtgactctcaaccaatgcgacaagaaggttacctctactgtaactgt
+# cactgagcacattgccgaagctttggttgtcaaggaatctaccgatgtccaaaagttggaacaccacactgataagaagcatgaccacaagactgctg
+# ccgttgccactggtgtcgctgctggtgtcgctggtgccattgctgttgttg]
+# protein sequence = [QAKATEEQIHVTLNQCDKKVTSTVTVTEHIAEALVVKESTDVQKLEHHTDKKHDHKTAAVATGVAAGVAGAIAVV]
+# end gene g5147
+###
+#
+##FASTA
+>scf_6631
+CTCAAGCGAAGGCTACTGAAGAACAAATCCATGTGACTCTCAACCAATGCGACAAGAAGG
+TTACCTCTACTGTAACTGTCACTGAGCACATTGCCGAAGCTTTGGTTGTCAAGGTAAGAA
+TTTTTGTTCAATCCCCGCTTGCCCACAAAAGCCCGCCGCCAAAACTCACATTTTTCTTTT
+CTTTTTCTTTCTCTTTCTCAATTGCTTTAGGAATCTACCGATGTCCAAAAGTTGGAACAC
+CACACTGATAAGAAGCATGACCACAAGACTGCTGCCGTTGCCACTGGTGTCGCTGCTGGT
+GTCGCTGGTGCCATTGCTGTTGTTG

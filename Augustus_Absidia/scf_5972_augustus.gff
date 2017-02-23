@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2661 (length = 217, name = scf_5972) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2661 on both strands
+# start gene g4816
+scf_5972	AUGUSTUS	gene	1	171	0.42	-	.	g4816
+scf_5972	AUGUSTUS	transcript	1	171	0.42	-	.	g4816.t1
+scf_5972	AUGUSTUS	initial	13	171	0.42	-	0	transcript_id "g4816.t1"; gene_id "g4816";
+scf_5972	AUGUSTUS	intron	1	12	0.62	-	.	transcript_id "g4816.t1"; gene_id "g4816";
+scf_5972	AUGUSTUS	CDS	13	171	0.42	-	0	transcript_id "g4816.t1"; gene_id "g4816";
+scf_5972	AUGUSTUS	start_codon	169	171	.	-	0	transcript_id "g4816.t1"; gene_id "g4816";
+# coding sequence = [atggtggaagaggtgcgtcaaggactcagcaatctgggatccgtctcttctggccctctctcccctcctcgttttactt
+# ctcctgggctctcgtatgttgacgtccttttgaacgacaatctgcctgttttgttggaggcccccgtgccccagcctcag]
+# protein sequence = [MVEEVRQGLSNLGSVSSGPLSPPRFTSPGLSYVDVLLNDNLPVLLEAPVPQPQ]
+# end gene g4816
+###
+#
+##FASTA
+>scf_5972
+GATAAAGTCCACCTGAGGCTGGGGCACGGGGGCCTCCAACAAAACAGGCAGATTGTCGTT
+CAAAAGGACGTCAACATACGAGAGCCCAGGAGAAGTAAAACGAGGAGGGGAGAGAGGGCC
+AGAAGAGACGGATCCCAGATTGCTGAGTCCTTGACGCACCTCTTCCACCATTCGATCATG
+GGTGCTGGCACGTTGTTGTTGTTCTTGTTGTTGTTGT

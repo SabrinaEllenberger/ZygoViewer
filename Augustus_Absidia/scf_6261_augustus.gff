@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 2796 (length = 583, name = scf_6261) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2796 on both strands
+# start gene g4977
+scf_6261	AUGUSTUS	gene	1	583	0.73	+	.	g4977
+scf_6261	AUGUSTUS	transcript	1	583	0.73	+	.	g4977.t1
+scf_6261	AUGUSTUS	internal	44	583	0.73	+	0	transcript_id "g4977.t1"; gene_id "g4977";
+scf_6261	AUGUSTUS	intron	1	43	0.83	+	.	transcript_id "g4977.t1"; gene_id "g4977";
+scf_6261	AUGUSTUS	CDS	44	583	0.73	+	0	transcript_id "g4977.t1"; gene_id "g4977";
+# coding sequence = [gtgcatgcctcgcatgtacaacaggtcatcgacaagctcacatcggtcaacctgatcctcaacccggacaagtgtcact
+# ttgctcaacgggcagtgtacctattgggattctgtgtctctgaacgaggtctctcgctagatactcgaaaagtaaccaatgtgcagctatggcctgtg
+# ccacaaacgggtaatgatattgaaaagttcctcgggatcgtcaattactttagggatcacatcccaacggtatcctcgctgactgcacccttggacaa
+# actacgaaagcaaaagaaactgggctctctctggactaaagaatgtgccctggcgttcgaaaaattaaagctgatcctcactcgcactcctatcatca
+# aacaccctcgagtcaatcaaccgtattacgttgctacagacgcttctaacgtgggcataggtgcagtgttgttccaaatggaagacaaacaagtaaga
+# catctcgggttcttcgctcgtgctctgtcacaatccgaacgcaactattctacgacgaaaaaagagcta]
+# protein sequence = [VHASHVQQVIDKLTSVNLILNPDKCHFAQRAVYLLGFCVSERGLSLDTRKVTNVQLWPVPQTGNDIEKFLGIVNYFRD
+# HIPTVSSLTAPLDKLRKQKKLGSLWTKECALAFEKLKLILTRTPIIKHPRVNQPYYVATDASNVGIGAVLFQMEDKQVRHLGFFARALSQSERNYSTT
+# KKEL]
+# end gene g4977
+###
+#
+##FASTA
+>scf_6261
+TTCGTTCATCGACGACATTGTAGTGTATTCGCCTAACATGCAGGTGCATGCCTCGCATGT
+ACAACAGGTCATCGACAAGCTCACATCGGTCAACCTGATCCTCAACCCGGACAAGTGTCA
+CTTTGCTCAACGGGCAGTGTACCTATTGGGATTCTGTGTCTCTGAACGAGGTCTCTCGCT
+AGATACTCGAAAAGTAACCAATGTGCAGCTATGGCCTGTGCCACAAACGGGTAATGATAT
+TGAAAAGTTCCTCGGGATCGTCAATTACTTTAGGGATCACATCCCAACGGTATCCTCGCT
+GACTGCACCCTTGGACAAACTACGAAAGCAAAAGAAACTGGGCTCTCTCTGGACTAAAGA
+ATGTGCCCTGGCGTTCGAAAAATTAAAGCTGATCCTCACTCGCACTCCTATCATCAAACA
+CCCTCGAGTCAATCAACCGTATTACGTTGCTACAGACGCTTCTAACGTGGGCATAGGTGC
+AGTGTTGTTCCAAATGGAAGACAAACAAGTAAGACATCTCGGGTTCTTCGCTCGTGCTCT
+GTCACAATCCGAACGCAACTATTCTACGACGAAAAAAGAGCTA

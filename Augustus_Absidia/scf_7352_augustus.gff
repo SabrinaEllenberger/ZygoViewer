@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3184 (length = 283, name = scf_7352) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3184 on both strands
+# start gene g5682
+scf_7352	AUGUSTUS	gene	1	235	0.47	-	.	g5682
+scf_7352	AUGUSTUS	transcript	1	235	0.47	-	.	g5682.t1
+scf_7352	AUGUSTUS	internal	1	174	0.47	-	0	transcript_id "g5682.t1"; gene_id "g5682";
+scf_7352	AUGUSTUS	initial	233	235	1	-	0	transcript_id "g5682.t1"; gene_id "g5682";
+scf_7352	AUGUSTUS	intron	175	232	1	-	.	transcript_id "g5682.t1"; gene_id "g5682";
+scf_7352	AUGUSTUS	CDS	1	174	0.47	-	0	transcript_id "g5682.t1"; gene_id "g5682";
+scf_7352	AUGUSTUS	CDS	233	235	1	-	0	transcript_id "g5682.t1"; gene_id "g5682";
+scf_7352	AUGUSTUS	start_codon	233	235	.	-	0	transcript_id "g5682.t1"; gene_id "g5682";
+# coding sequence = [atgaggaatcgtgcgccagagcaacatcaacagcatcaacgactggactcccttgtctcctcctcttcctttgggcaag
+# attggcagcaagcgccatccccttcaccctcgatctcctcctcctccacctccacctccgcctccgccttcgccctcgccttcccgttcgccctcgcc]
+# protein sequence = [MRNRAPEQHQQHQRLDSLVSSSSFGQDWQQAPSPSPSISSSSTSTSASAFALAFPFALA]
+# end gene g5682
+###
+#
+##FASTA
+>scf_7352
+GGCGAGGGCGAACGGGAAGGCGAGGGCGAAGGCGGAGGCGGAGGTGGAGGTGGAGGAGGA
+GGAGATCGAGGGTGAAGGGGATGGCGCTTGCTGCCAATCTTGCCCAAAGGAAGAGGAGGA
+GACAAGGGAGTCCAGTCGTTGATGCTGTTGATGTTGCTCTGGCGCACGATTCCTCTGTAA
+AAGTAAAACAACAGCAGTAATTGTATGCGAGGAGACTTTTGTTCATACTTACCATTCGGG
+TTACTGTGTTGGCCCACTTGTTGGAAATGATTTGCCGGGCAAG

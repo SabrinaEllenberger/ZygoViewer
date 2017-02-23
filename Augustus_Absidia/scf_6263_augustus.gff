@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 2797 (length = 567, name = scf_6263) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2797 on both strands
+# start gene g4978
+scf_6263	AUGUSTUS	gene	1	435	0.39	-	.	g4978
+scf_6263	AUGUSTUS	transcript	1	435	0.39	-	.	g4978.t1
+scf_6263	AUGUSTUS	internal	1	233	1	-	0	transcript_id "g4978.t1"; gene_id "g4978";
+scf_6263	AUGUSTUS	initial	298	435	0.39	-	0	transcript_id "g4978.t1"; gene_id "g4978";
+scf_6263	AUGUSTUS	intron	234	297	1	-	.	transcript_id "g4978.t1"; gene_id "g4978";
+scf_6263	AUGUSTUS	CDS	1	233	1	-	0	transcript_id "g4978.t1"; gene_id "g4978";
+scf_6263	AUGUSTUS	CDS	298	435	0.39	-	0	transcript_id "g4978.t1"; gene_id "g4978";
+scf_6263	AUGUSTUS	start_codon	433	435	.	-	0	transcript_id "g4978.t1"; gene_id "g4978";
+# coding sequence = [atgggtgatggatcttttgggatgactatgcgtggaaccaagccaggactggcgacccacttcaagaaggtcctcaagc
+# acgccgaactgcaaggaaaactgctggttgtctcggtggatgaggcgtatacgtcaaaggtgtgctctcgctgccaagtgaaggaaatggaaaacatg
+# aaaataggcgccgactcacgattacactcggtattgacctgcaagggttgtaataccgtctggaatcgggatgtcaatgccgccaacaacattttttc
+# cctcgctgcccgagccatcgatggtttgccccgccccgctatcttctgccgccctcccactacttctgttgctgctaccactactaccactactac]
+# protein sequence = [MGDGSFGMTMRGTKPGLATHFKKVLKHAELQGKLLVVSVDEAYTSKVCSRCQVKEMENMKIGADSRLHSVLTCKGCNT
+# VWNRDVNAANNIFSLAARAIDGLPRPAIFCRPPTTSVAATTTTTT]
+# end gene g4978
+###
+#
+##FASTA
+>scf_6263
+GTAGTAGTGGTAGTAGTGGTAGCAGCAACAGAAGTAGTGGGAGGGCGGCAGAAGATAGCG
+GGGCGGGGCAAACCATCGATGGCTCGGGCAGCGAGGGAAAAAATGTTGTTGGCGGCATTG
+ACATCCCGATTCCAGACGGTATTACAACCCTTGCAGGTCAATACCGAGTGTAATCGTGAG
+TCGGCGCCTATTTTCATGTTTTCCATTTCCTTCACTTGGCAGCGAGAGCACACCTAATCA
+TAGATAATAATGTTAAGGTGTCGAAATCTATGTGTCCTACTTTTACTTGTTCATTACCTT
+TGACGTATACGCCTCATCCACCGAGACAACCAGCAGTTTTCCTTGCAGTTCGGCGTGCTT
+GAGGACCTTCTTGAAGTGGGTCGCCAGTCCTGGCTTGGTTCCACGCATAGTCATCCCAAA
+AGATCCATCACCCATACCGATCAGGGGAATGCGGGTCTTCCTGGTTGAGGGGGCTTGACG
+GAATCGGCTTTTAAAAAAATTCATGCAAGTGATCATTAGTTTTAGGTCAAAATTTATATA
+GCTCTGTTTGGCTTACGTGGGGTGGGC

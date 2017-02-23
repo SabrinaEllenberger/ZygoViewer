@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 2475 (length = 379, name = scf_5442) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2475 on both strands
+# start gene g4443
+scf_5442	AUGUSTUS	gene	125	379	0.97	-	.	g4443
+scf_5442	AUGUSTUS	transcript	125	379	0.97	-	.	g4443.t1
+scf_5442	AUGUSTUS	stop_codon	125	127	.	-	0	transcript_id "g4443.t1"; gene_id "g4443";
+scf_5442	AUGUSTUS	terminal	125	148	0.97	-	0	transcript_id "g4443.t1"; gene_id "g4443";
+scf_5442	AUGUSTUS	internal	221	379	1	-	0	transcript_id "g4443.t1"; gene_id "g4443";
+scf_5442	AUGUSTUS	intron	149	220	0.97	-	.	transcript_id "g4443.t1"; gene_id "g4443";
+scf_5442	AUGUSTUS	CDS	128	148	0.97	-	0	transcript_id "g4443.t1"; gene_id "g4443";
+scf_5442	AUGUSTUS	CDS	221	379	1	-	0	transcript_id "g4443.t1"; gene_id "g4443";
+# coding sequence = [ccttcttctgttcctgctgcctctcttcttcccgcctcttctggtcctgcttttgttcctgtcgcctcttctctctcgg
+# gctcttctcgtccttcttctgttcctcctacttctcctcttccggtctcttctggtcctgcttccttgcctatccgtagaagcaagcgccgccgtgct
+# gactag]
+# protein sequence = [PSSVPAASLLPASSGPAFVPVASSLSGSSRPSSVPPTSPLPVSSGPASLPIRRSKRRRAD]
+# end gene g4443
+###
+#
+##FASTA
+>scf_5442
+CATTCAATGCCTTTCCACCTCCTGTAGTATGATAATATCGTGTATGCATTAATCAGAAGG
+CATTTTTTATTTGTTCCAACCTTATTACTACTACTACTACTACTGATACTACTACTACTA
+TGACCTAGTCAGCACGGCGGCGCTTGCTCTAATAAGAGATAGGATTATCAATTAGTACCA
+GTTCATTTCGTTTTAATCCCATCCTCCGGTTTTTACTTACTCTACGGATAGGCAAGGAAG
+CAGGACCAGAAGAGACCGGAAGAGGAGAAGTAGGAGGAACAGAAGAAGGACGAGAAGAGC
+CCGAGAGAGAAGAGGCGACAGGAACAAAAGCAGGACCAGAAGAGGCGGGAAGAAGAGAGG
+CAGCAGGAACAGAAGAAGg

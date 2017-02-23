@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3507 (length = 226, name = scf_8340) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3507 on both strands
+# start gene g6427
+scf_8340	AUGUSTUS	gene	4	226	0.84	-	.	g6427
+scf_8340	AUGUSTUS	transcript	4	226	0.84	-	.	g6427.t1
+scf_8340	AUGUSTUS	stop_codon	4	6	.	-	0	transcript_id "g6427.t1"; gene_id "g6427";
+scf_8340	AUGUSTUS	terminal	4	226	0.84	-	1	transcript_id "g6427.t1"; gene_id "g6427";
+scf_8340	AUGUSTUS	CDS	7	226	0.84	-	1	transcript_id "g6427.t1"; gene_id "g6427";
+# coding sequence = [accatcccgtgtgaacttttccgtcggttcgaaaaacgacatgttgtaccatcgactgttggatgaagagcgccctccc
+# ttgcccggttggaacaatggccagccaatcgattggactgctgaagtggagcttttccaggaacggcttctccaacgtcgaaacgtagaggtcgttcc
+# tggtgccatcaccgacgaagaactcaacagctttggcttcgcctaa]
+# protein sequence = [PSRVNFSVGSKNDMLYHRLLDEERPPLPGWNNGQPIDWTAEVELFQERLLQRRNVEVVPGAITDEELNSFGFA]
+# end gene g6427
+###
+#
+##FASTA
+>scf_8340
+GGTTTAGGCGAAGCCAAAGCTGTTGAGTTCTTCGTCGGTGATGGCACCAGGAACGACCTC
+TACGTTTCGACGTTGGAGAAGCCGTTCCTGGAAAAGCTCCACTTCAGCAGTCCAATCGAT
+TGGCTGGCCATTGTTCCAACCGGGCAAGGGAGGGCGCTCTTCATCCAACAGTCGATGGTA
+CAACATGTCGTTTTTCGAACCGACGGAAAAGTTCACACGGGATGGT

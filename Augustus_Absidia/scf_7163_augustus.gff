@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3132 (length = 403, name = scf_7163) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3132 on both strands
+# start gene g5436
+scf_7163	AUGUSTUS	gene	1	403	0.64	+	.	g5436
+scf_7163	AUGUSTUS	transcript	1	403	0.64	+	.	g5436.t1
+scf_7163	AUGUSTUS	internal	101	190	0.96	+	2	transcript_id "g5436.t1"; gene_id "g5436";
+scf_7163	AUGUSTUS	internal	243	403	0.84	+	2	transcript_id "g5436.t1"; gene_id "g5436";
+scf_7163	AUGUSTUS	intron	1	100	0.73	+	.	transcript_id "g5436.t1"; gene_id "g5436";
+scf_7163	AUGUSTUS	intron	191	242	0.96	+	.	transcript_id "g5436.t1"; gene_id "g5436";
+scf_7163	AUGUSTUS	CDS	101	190	0.96	+	2	transcript_id "g5436.t1"; gene_id "g5436";
+scf_7163	AUGUSTUS	CDS	243	403	0.84	+	2	transcript_id "g5436.t1"; gene_id "g5436";
+# coding sequence = [ctgtttgggcatactcaccatgggtggatccagcgggcgccatcctcttgtccctctatatcatatacgaatggtctac
+# tctcttactaggcaacgtccgacgattagcaggacaagtggccgatacggatgatctcaagcaattcacttacatggcctacagattctcgaataaga
+# tcttggcagtggacaccgtaagtgctcaccagttattttctactctctgtggtttatctaaccccgtctcttgg]
+# protein sequence = [VWAYSPWVDPAGAILLSLYIIYEWSTLLLGNVRRLAGQVADTDDLKQFTYMAYRFSNKILAVDTVSAHQLFSTLCGLS
+# NPVSW]
+# end gene g5436
+###
+#
+##FASTA
+>scf_7163
+TGTGCTATTCAATAGTGCAAGTGCGATCTTTCCTGTGGTTGGTAAGGGGGGGGGGGAAAG
+TGGATGGGGCATGAACAACCGGGACTGACTTGTTTTATAGCTGTTTGGGCATACTCACCA
+TGGGTGGATCCAGCGGGCGCCATCCTCTTGTCCCTCTATATCATATACGAATGGTCTACT
+CTCTTACTAGGTAAGGATGTACGTCTGGTAGCGAATGCTTGTGTGACACTTCTTTTTGTT
+AGGCAACGTCCGACGATTAGCAGGACAAGTGGCCGATACGGATGATCTCAAGCAATTCAC
+TTACATGGCCTACAGATTCTCGAATAAGATCTTGGCAGTGGACACCGTAAGTGCTCACCA
+GTTATTTTCTACTCTCTGTGGTTTATCTAACCCCGTCTCTTGG

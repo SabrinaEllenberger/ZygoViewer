@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3143 (length = 495, name = scf_7181) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3143 on both strands
+# start gene g5560
+scf_7181	AUGUSTUS	gene	1	301	0.29	+	.	g5560
+scf_7181	AUGUSTUS	transcript	1	301	0.29	+	.	g5560.t1
+scf_7181	AUGUSTUS	terminal	55	301	0.29	+	1	transcript_id "g5560.t1"; gene_id "g5560";
+scf_7181	AUGUSTUS	intron	1	54	0.52	+	.	transcript_id "g5560.t1"; gene_id "g5560";
+scf_7181	AUGUSTUS	CDS	55	298	0.29	+	1	transcript_id "g5560.t1"; gene_id "g5560";
+scf_7181	AUGUSTUS	stop_codon	299	301	.	+	0	transcript_id "g5560.t1"; gene_id "g5560";
+# coding sequence = [tctcatacatcatcagcaccaacttgccttctcctacttttacagactccttatccttttactcctcatcattgtcctt
+# tatatcaccatgacgaccgagacagcctttaattctgcacccattatgctccaacctccgacaaaacaacagcttccttcatcgttgacgatgaacca
+# gccaaccgaggaagacattcttgccaacatgatctatcatattgacgtaagtgtacagcttattagatga]
+# protein sequence = [LIHHQHQLAFSYFYRLLILLLLIIVLYITMTTETAFNSAPIMLQPPTKQQLPSSLTMNQPTEEDILANMIYHIDVSVQ
+# LIR]
+# end gene g5560
+###
+#
+##FASTA
+>scf_7181
+CTCATAACACCCAGTATATATACCTCTATATACACCTTACATTCTCCTTAAAAGTCTCAT
+ACATCATCAGCACCAACTTGCCTTCTCCTACTTTTACAGACTCCTTATCCTTTTACTCCT
+CATCATTGTCCTTTATATCACCATGACGACCGAGACAGCCTTTAATTCTGCACCCATTAT
+GCTCCAACCTCCGACAAAACAACAGCTTCCTTCATCGTTGACGATGAACCAGCCAACCGA
+GGAAGACATTCTTGCCAACATGATCTATCATATTGACGTAAGTGTACAGCTTATTAGATG
+AACACCATGACATTCAAATACTTACTCTCGTTTCTCTCATCTGCATATGTCCTGCAATAA
+TTTTACTTAAATAAAAACGTTACTCTTTGATGATCTTGGGCTTATCATTTGATCTGGGAT
+CTTATCAGTCTGAGGTAGCTAATCTCTTGACCGAGATCACTTTTTATCTGATCTGTCGGA
+GTTCGAATGCTTAAT

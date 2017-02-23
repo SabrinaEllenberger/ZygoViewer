@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 2442 (length = 426, name = scf_5360) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2442 on both strands
+# start gene g4294
+scf_5360	AUGUSTUS	gene	1	413	0.52	-	.	g4294
+scf_5360	AUGUSTUS	transcript	1	413	0.52	-	.	g4294.t1
+scf_5360	AUGUSTUS	internal	1	332	0.52	-	2	transcript_id "g4294.t1"; gene_id "g4294";
+scf_5360	AUGUSTUS	initial	380	413	0.86	-	0	transcript_id "g4294.t1"; gene_id "g4294";
+scf_5360	AUGUSTUS	intron	333	379	0.69	-	.	transcript_id "g4294.t1"; gene_id "g4294";
+scf_5360	AUGUSTUS	CDS	1	332	0.52	-	2	transcript_id "g4294.t1"; gene_id "g4294";
+scf_5360	AUGUSTUS	CDS	380	413	0.86	-	0	transcript_id "g4294.t1"; gene_id "g4294";
+scf_5360	AUGUSTUS	start_codon	411	413	.	-	0	transcript_id "g4294.t1"; gene_id "g4294";
+# coding sequence = [atgtggtgccttacaatccctatttatgccaaaatgaaatacctatgcaaatacgtcaccaaaggttcggatcggtcag
+# catttaccctaggcgatcaaagccagagaaccccacaagacgtaaatgagatcgacgactaccagaacgcacgctacattggaccttgcgaagctgtc
+# tggagaacacttggttacaacatccatatgcactccccttctgtaattcgccttgacattcatctaccaggtgaacagatggttctctttcgggacga
+# catgtcacgcgaagaactggaacgtgctcttcaagctgcatctgatggtaccaaacttcttggtttcttcgctctgtgtgcccgtgatcca]
+# protein sequence = [MWCLTIPIYAKMKYLCKYVTKGSDRSAFTLGDQSQRTPQDVNEIDDYQNARYIGPCEAVWRTLGYNIHMHSPSVIRLD
+# IHLPGEQMVLFRDDMSREELERALQAASDGTKLLGFFALCARDP]
+# end gene g4294
+###
+#
+##FASTA
+>scf_5360
+TGGATCACGGGCACACAGAGCGAAGAAACCAAGAAGTTTGGTACCATCAGATGCAGCTTG
+AAGAGCACGTTCCAGTTCTTCGCGTGACATGTCGTCCCGAAAGAGAACCATCTGTTCACC
+TGGTAGATGAATGTCAAGGCGAATTACAGAAGGGGAGTGCATATGGATGTTGTAACCAAG
+TGTTCTCCAGACAGCTTCGCAAGGTCCAATGTAGCGTGCGTTCTGGTAGTCGTCGATCTC
+ATTTACGTCTTGTGGGGTTCTCTGGCTTTGATCGCCTAGGGTAAATGCTGACCGATCCGA
+ACCTTTGGTGACGTATTTGCATAGGTATTTCACTGCCCTAGATGAAGTGCAAATTTCAAC
+GTTAATGTGTGAGTCGTACTTTTGGCATAAATAGGGATTGTAAGGCACCACATATCGGTT
+GTCAGC

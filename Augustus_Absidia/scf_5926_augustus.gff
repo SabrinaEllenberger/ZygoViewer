@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 2635 (length = 382, name = scf_5926) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2635 on both strands
+# start gene g4810
+scf_5926	AUGUSTUS	gene	143	382	0.45	+	.	g4810
+scf_5926	AUGUSTUS	transcript	143	382	0.45	+	.	g4810.t1
+scf_5926	AUGUSTUS	start_codon	143	145	.	+	0	transcript_id "g4810.t1"; gene_id "g4810";
+scf_5926	AUGUSTUS	initial	143	361	0.45	+	0	transcript_id "g4810.t1"; gene_id "g4810";
+scf_5926	AUGUSTUS	intron	362	382	0.97	+	.	transcript_id "g4810.t1"; gene_id "g4810";
+scf_5926	AUGUSTUS	CDS	143	361	0.45	+	0	transcript_id "g4810.t1"; gene_id "g4810";
+# coding sequence = [atgtatgctagaaaacttaatgactttaaagattacagaggtattgaacttcctacctcttcgttgaaaccagagaatg
+# acgagatcatacaaaagatcaaagacatgtcagaaattgtgctccctggtattgctcaacgcacacaacagatccgagaggcttctcaaaagaaattt
+# gacaagacccacaagatcatagactatccagtaggatcacta]
+# protein sequence = [MYARKLNDFKDYRGIELPTSSLKPENDEIIQKIKDMSEIVLPGIAQRTQQIREASQKKFDKTHKIIDYPVGSL]
+# end gene g4810
+###
+#
+##FASTA
+>scf_5926
+AAATAAAGTAAAAACAGTAAAGGCAACCTTAGAGAAACAAATCGAAGGTCAATCAAAGGA
+TTGGGATTTATATGTAAGACCAGTGCAACTAGCAATGAACGCTAAAATCGTTAGACTGCA
+CGGCTCCGCTCCTTTCTCATTAATGTATGCTAGAAAACTTAATGACTTTAAAGATTACAG
+AGGTATTGAACTTCCTACCTCTTCGTTGAAACCAGAGAATGACGAGATCATACAAAAGAT
+CAAAGACATGTCAGAAATTGTGCTCCCTGGTATTGCTCAACGCACACAACAGATCCGAGA
+GGCTTCTCAAAAGAAATTTGACAAGACCCACAAGATCATAGACTATCCAGTAGGATCACT
+AGTAAGCATACGCAAACCGACA

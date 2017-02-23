@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2911 (length = 217, name = scf_6558) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2911 on both strands
+# start gene g5142
+scf_6558	AUGUSTUS	gene	1	140	0.4	+	.	g5142
+scf_6558	AUGUSTUS	transcript	1	140	0.4	+	.	g5142.t1
+scf_6558	AUGUSTUS	terminal	45	140	0.4	+	0	transcript_id "g5142.t1"; gene_id "g5142";
+scf_6558	AUGUSTUS	intron	1	44	0.62	+	.	transcript_id "g5142.t1"; gene_id "g5142";
+scf_6558	AUGUSTUS	CDS	45	137	0.4	+	0	transcript_id "g5142.t1"; gene_id "g5142";
+scf_6558	AUGUSTUS	stop_codon	138	140	.	+	0	transcript_id "g5142.t1"; gene_id "g5142";
+# coding sequence = [gttgatcaagtcatcaccaatgtagcaatcgacgccttcttcaagatcaattacttcgaactggtgcttcagtgttaca
+# ttgttaaaggatactag]
+# protein sequence = [VDQVITNVAIDAFFKINYFELVLQCYIVKGY]
+# end gene g5142
+###
+#
+##FASTA
+>scf_6558
+TCTGGCCAATGACAAGGGATGTTACTAACCGTTATATTGAATAGGTTGATCAAGTCATCA
+CCAATGTAGCAATCGACGCCTTCTTCAAGATCAATTACTTCGAACTGGTGCTTCAGTGTT
+ACATTGTTAAAGGATACTAGTATAGGAACTGTTTTACCCAATCCCATTAGTGTATTATCT
+TTGCCTGCTAGCTGTAGACATCTAGTGTTTAGTGTGT

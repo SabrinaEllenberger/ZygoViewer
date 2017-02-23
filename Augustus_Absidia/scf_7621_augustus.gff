@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3291 (length = 415, name = scf_7621) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3291 on both strands
+# start gene g6084
+scf_7621	AUGUSTUS	gene	1	198	0.56	+	.	g6084
+scf_7621	AUGUSTUS	transcript	1	198	0.56	+	.	g6084.t1
+scf_7621	AUGUSTUS	terminal	92	198	0.56	+	2	transcript_id "g6084.t1"; gene_id "g6084";
+scf_7621	AUGUSTUS	intron	1	91	0.65	+	.	transcript_id "g6084.t1"; gene_id "g6084";
+scf_7621	AUGUSTUS	CDS	92	195	0.56	+	2	transcript_id "g6084.t1"; gene_id "g6084";
+scf_7621	AUGUSTUS	stop_codon	196	198	.	+	0	transcript_id "g6084.t1"; gene_id "g6084";
+# coding sequence = [cccatggatacgacagttgttctgcctctcgctctaggtctcgctttccctctgtttctcgctctccttctggttctcg
+# ttctccctcccgctctggtgaaatgtag]
+# protein sequence = [HGYDSCSASRSRSRFPSVSRSPSGSRSPSRSGEM]
+# end gene g6084
+###
+#
+##FASTA
+>scf_7621
+ATGCGTTACCCCTGAATACTTACACCTCATTTTGGGTGGAAGTGATAAGAGCTAATAATA
+GACTATGTTACAGTACTGAGCGTACTTCTAGCCCATGGATACGACAGTTGTTCTGCCTCT
+CGCTCTAGGTCTCGCTTTCCCTCTGTTTCTCGCTCTCCTTCTGGTTCTCGTTCTCCCTCC
+CGCTCTGGTGAAATGTAGAGAAAAAAGAGAAAAGTAATCAGCACTCTTTTTCCCTTTATT
+TTTGTAGGAAGAGCTGTTGCAAAGTAAAAAGAGGGACACACTATTTATACTAGAGCTATG
+ATAACTACGGTGACAGGGCTTAAGCCAATAGGAAGAGGATCATCTTGACATCTGTCATCA
+TTCACACGATGATGAGATCTTGGTTGCTTATGAAGATACTTTTCCCTAGCACAAG

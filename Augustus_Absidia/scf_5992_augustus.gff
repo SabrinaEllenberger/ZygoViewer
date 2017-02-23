@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2672 (length = 217, name = scf_5992) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2672 on both strands
+# start gene g4820
+scf_5992	AUGUSTUS	gene	1	187	0.76	-	.	g4820
+scf_5992	AUGUSTUS	transcript	1	187	0.76	-	.	g4820.t1
+scf_5992	AUGUSTUS	initial	55	187	0.76	-	0	transcript_id "g4820.t1"; gene_id "g4820";
+scf_5992	AUGUSTUS	intron	1	54	0.76	-	.	transcript_id "g4820.t1"; gene_id "g4820";
+scf_5992	AUGUSTUS	CDS	55	187	0.76	-	0	transcript_id "g4820.t1"; gene_id "g4820";
+scf_5992	AUGUSTUS	start_codon	185	187	.	-	0	transcript_id "g4820.t1"; gene_id "g4820";
+# coding sequence = [atggatctactatctaaactaggtatctacattggaggattagctacacaatggccagatgccatcacatcagataaaa
+# agcccgagatcgagatccaagatgcgcaccccgaacccaacgattctccagcag]
+# protein sequence = [MDLLSKLGIYIGGLATQWPDAITSDKKPEIEIQDAHPEPNDSPA]
+# end gene g4820
+###
+#
+##FASTA
+>scf_5992
+TTGCTAGCTGTGGTTGGATTGCCTTATGAAATGTCTGTTGCTCATGATGGCTACCTGCTG
+GAGAATCGTTGGGTTCGGGGTGCGCATCTTGGATCTCGATCTCGGGCTTTTTATCTGATG
+TGATGGCATCTGGCCATTGTGTAGCTAATCCTCCAATGTAGATACCTAGTTTAGATAGTA
+GATCCATGCCTAATAAAACATCTTTTCTTGGTGGGAG

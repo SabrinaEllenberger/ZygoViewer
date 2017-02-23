@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 2999 (length = 372, name = scf_6793) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2999 on both strands
+# start gene g5174
+scf_6793	AUGUSTUS	gene	1	325	0.47	-	.	g5174
+scf_6793	AUGUSTUS	transcript	1	325	0.47	-	.	g5174.t1
+scf_6793	AUGUSTUS	internal	24	71	0.91	-	1	transcript_id "g5174.t1"; gene_id "g5174";
+scf_6793	AUGUSTUS	initial	117	325	0.52	-	0	transcript_id "g5174.t1"; gene_id "g5174";
+scf_6793	AUGUSTUS	intron	1	23	0.91	-	.	transcript_id "g5174.t1"; gene_id "g5174";
+scf_6793	AUGUSTUS	intron	72	116	0.91	-	.	transcript_id "g5174.t1"; gene_id "g5174";
+scf_6793	AUGUSTUS	CDS	24	71	0.91	-	1	transcript_id "g5174.t1"; gene_id "g5174";
+scf_6793	AUGUSTUS	CDS	117	325	0.52	-	0	transcript_id "g5174.t1"; gene_id "g5174";
+scf_6793	AUGUSTUS	start_codon	323	325	.	-	0	transcript_id "g5174.t1"; gene_id "g5174";
+# coding sequence = [atgtttgacatgctcttcatatctgctgctgtagatcacgatatcatcgacgaacgtggcaacgaaggattggaatgga
+# ggttgggtaaacagtgtagtcatgaccctctggaacttcgacgagatcggggtcaaaccaaacggacaaccgacgaacataaattgacgtccatctgg
+# atcggtaaatgccgttttgtgtcggtgttctgtgtacacctctgcattcgcaaacttcttgaagatgtcattgatgttcg]
+# protein sequence = [MFDMLFISAAVDHDIIDERGNEGLEWRLGKQCSHDPLELRRDRGQTKRTTDEHKLTSIWIGKCRFVSVFCVHLCIRKL
+# LEDVIDV]
+# end gene g5174
+###
+#
+##FASTA
+>scf_6793
+GAAAGCGGATAGATTTCCCTTACCGAACATCAATGACATCTTCAAGAAGTTTGCGAATGC
+AGAGGTGTACACTACATTGGACTTGACAAATGCTTTCCATCGGTTCCCTATCTTACCAGA
+ACACCGACACAAAACGGCATTTACCGATCCAGATGGACGTCAATTTATGTTCGTCGGTTG
+TCCGTTTGGTTTGACCCCGATCTCGTCGAAGTTCCAGAGGGTCATGACTACACTGTTTAC
+CCAACCTCCATTCCAATCCTTCGTTGCCACGTTCGTCGATGATATCGTGATCTACAGCAG
+CAGATATGAAGAGCATGTCAAACATACACAATTAGTGATTGATGAACTTACTCGGTACAA
+TCTTATCCTCAA

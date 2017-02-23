@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 2996 (length = 232, name = scf_6789) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2996 on both strands
+# start gene g5172
+scf_6789	AUGUSTUS	gene	1	210	0.9	+	.	g5172
+scf_6789	AUGUSTUS	transcript	1	210	0.9	+	.	g5172.t1
+scf_6789	AUGUSTUS	terminal	85	210	0.9	+	0	transcript_id "g5172.t1"; gene_id "g5172";
+scf_6789	AUGUSTUS	intron	1	84	0.9	+	.	transcript_id "g5172.t1"; gene_id "g5172";
+scf_6789	AUGUSTUS	CDS	85	207	0.9	+	0	transcript_id "g5172.t1"; gene_id "g5172";
+scf_6789	AUGUSTUS	stop_codon	208	210	.	+	0	transcript_id "g5172.t1"; gene_id "g5172";
+# coding sequence = [gaaggccgtacgagcatgcccgtccaattagaattgagactcgaccactttgaaatgtggaccccatggctctactcaa
+# gcgggggaaaagtgatggtctgtgatggtgaacggtcattagcctag]
+# protein sequence = [EGRTSMPVQLELRLDHFEMWTPWLYSSGGKVMVCDGERSLA]
+# end gene g5172
+###
+#
+##FASTA
+>scf_6789
+GCGGGGGAATGGCGATAGCCTGTGATGTGGAACCGCCATTAACCTACTGAATGACCTGTC
+TTGAAACTTTAACCGTCTGCTCAGGAAGGCCGTACGAGCATGCCCGTCCAATTAGAATTG
+AGACTCGACCACTTTGAAATGTGGACCCCATGGCTCTACTCAAGCGGGGGAAAAGTGATG
+GTCTGTGATGGTGAACGGTCATTAGCCTAGTGAATGACCTGTCTTGAAACTT

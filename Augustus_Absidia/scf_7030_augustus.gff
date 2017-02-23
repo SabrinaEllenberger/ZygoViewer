@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3084 (length = 356, name = scf_7030) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3084 on both strands
+# start gene g5427
+scf_7030	AUGUSTUS	gene	1	293	0.56	+	.	g5427
+scf_7030	AUGUSTUS	transcript	1	293	0.56	+	.	g5427.t1
+scf_7030	AUGUSTUS	terminal	92	293	0.56	+	1	transcript_id "g5427.t1"; gene_id "g5427";
+scf_7030	AUGUSTUS	intron	1	91	0.56	+	.	transcript_id "g5427.t1"; gene_id "g5427";
+scf_7030	AUGUSTUS	CDS	92	290	0.56	+	1	transcript_id "g5427.t1"; gene_id "g5427";
+scf_7030	AUGUSTUS	stop_codon	291	293	.	+	0	transcript_id "g5427.t1"; gene_id "g5427";
+# coding sequence = [agtgcatcgtatatcagagggagagcgtccatggacatggcgagttgctagcctggtgggtagcttctggatcaagaaa
+# cgccaccagcagttgcgtgccttgtgcggcattgggagttgccagaatcgtttccattgggctttgctgatgaaggccatcggtggtggggcacgtgg
+# tattgttgacggaggcagggcgtag]
+# protein sequence = [VHRISEGERPWTWRVASLVGSFWIKKRHQQLRALCGIGSCQNRFHWALLMKAIGGGARGIVDGGRA]
+# end gene g5427
+###
+#
+##FASTA
+>scf_7030
+AGCAAATGCGTCTGGCAACGAGCCAGAAGGAGCGCTTCTTTGGGCAGTGGAATATAAAAT
+GGGCATCATCGTCATAAGGGTCATTGCATAGAGTGCATCGTATATCAGAGGGAGAGCGTC
+CATGGACATGGCGAGTTGCTAGCCTGGTGGGTAGCTTCTGGATCAAGAAACGCCACCAGC
+AGTTGCGTGCCTTGTGCGGCATTGGGAGTTGCCAGAATCGTTTCCATTGGGCTTTGCTGA
+TGAAGGCCATCGGTGGTGGGGCACGTGGTATTGTTGACGGAGGCAGGGCGTAGGCGTCAT
+CCGCCTGATGGAGCCAGTGGTAACGTAGGAATCTTGGTGTCGCATCATATATAGGG

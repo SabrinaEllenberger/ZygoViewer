@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 2449 (length = 512, name = scf_5372) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2449 on both strands
+# start gene g4297
+scf_5372	AUGUSTUS	gene	2	512	0.63	+	.	g4297
+scf_5372	AUGUSTUS	transcript	2	512	0.63	+	.	g4297.t1
+scf_5372	AUGUSTUS	start_codon	2	4	.	+	0	transcript_id "g4297.t1"; gene_id "g4297";
+scf_5372	AUGUSTUS	initial	2	512	0.63	+	0	transcript_id "g4297.t1"; gene_id "g4297";
+scf_5372	AUGUSTUS	CDS	2	512	0.63	+	0	transcript_id "g4297.t1"; gene_id "g4297";
+# coding sequence = [atggcagctgctcacattgcacgcatcaaggagcaactcaggtacactcgtgattgtcgtagcattggattaagcttca
+# tctaccagttggaaactttgacgtcaagttatcgagctcccacctacgaagatatctacaatcagcttcgtagcatcaccaaccatttgtatcgacga
+# gataatgacgatatgacatccttcaagttgtggttagagtacctggcaacgatcgactacgtaatcttcgacgatcaaaccccttctccttcaaaccc
+# cgacttttttgccaaagggttccaatctccgaatcaacttcaggtgatgggaagggctgaatcgtttagcttggatgcaacgcataacgtggagcatc
+# acatccgaacgatcctgtacagcttggtggtcaaacaccccattactggtcgtggctatcctgtggcatacatgatcaccaactctcgtgggattggc
+# ccactcgtccaatggctgtcgtttcttcgtgacaactccg]
+# protein sequence = [MAAAHIARIKEQLRYTRDCRSIGLSFIYQLETLTSSYRAPTYEDIYNQLRSITNHLYRRDNDDMTSFKLWLEYLATID
+# YVIFDDQTPSPSNPDFFAKGFQSPNQLQVMGRAESFSLDATHNVEHHIRTILYSLVVKHPITGRGYPVAYMITNSRGIGPLVQWLSFLRDNS]
+# end gene g4297
+###
+#
+##FASTA
+>scf_5372
+TATGGCAGCTGCTCACATTGCACGCATCAAGGAGCAACTCAGGTACACTCGTGATTGTCG
+TAGCATTGGATTAAGCTTCATCTACCAGTTGGAAACTTTGACGTCAAGTTATCGAGCTCC
+CACCTACGAAGATATCTACAATCAGCTTCGTAGCATCACCAACCATTTGTATCGACGAGA
+TAATGACGATATGACATCCTTCAAGTTGTGGTTAGAGTACCTGGCAACGATCGACTACGT
+AATCTTCGACGATCAAACCCCTTCTCCTTCAAACCCCGACTTTTTTGCCAAAGGGTTCCA
+ATCTCCGAATCAACTTCAGGTGATGGGAAGGGCTGAATCGTTTAGCTTGGATGCAACGCA
+TAACGTGGAGCATCACATCCGAACGATCCTGTACAGCTTGGTGGTCAAACACCCCATTAC
+TGGTCGTGGCTATCCTGTGGCATACATGATCACCAACTCTCGTGGGATTGGCCCACTCGT
+CCAATGGCTGTCGTTTCTTCGTGACAACTCCG

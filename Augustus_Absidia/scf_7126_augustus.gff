@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3115 (length = 273, name = scf_7126) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3115 on both strands
+# start gene g5434
+scf_7126	AUGUSTUS	gene	1	201	0.68	-	.	g5434
+scf_7126	AUGUSTUS	transcript	1	201	0.68	-	.	g5434.t1
+scf_7126	AUGUSTUS	initial	45	201	0.68	-	0	transcript_id "g5434.t1"; gene_id "g5434";
+scf_7126	AUGUSTUS	intron	1	44	0.7	-	.	transcript_id "g5434.t1"; gene_id "g5434";
+scf_7126	AUGUSTUS	CDS	45	201	0.68	-	0	transcript_id "g5434.t1"; gene_id "g5434";
+scf_7126	AUGUSTUS	start_codon	199	201	.	-	0	transcript_id "g5434.t1"; gene_id "g5434";
+# coding sequence = [atggactcagagaaagcaattgttagtaacaacaacctggtaccgcaaacaacactagctgctgatcaagatgacttat
+# ctgttacgatggaagaagacgatgcaatcccgttggcacaagataatcaattcgtggaagaagagcacaacaaggaat]
+# protein sequence = [MDSEKAIVSNNNLVPQTTLAADQDDLSVTMEEDDAIPLAQDNQFVEEEHNKE]
+# end gene g5434
+###
+#
+##FASTA
+>scf_7126
+ATCGGAGCTTGAAAAATTATCTTGAGTCGGGCTATTTTCCAAACATTCCTTGTTGTGCTC
+TTCTTCCACGAATTGATTATCTTGTGCCAACGGGATTGCATCGTCTTCTTCCATCGTAAC
+AGATAAGTCATCTTGATCAGCAGCTAGTGTTGTTTGCGGTACCAGGTTGTTGTTACTAAC
+AATTGCTTTCTCTGAGTCCATGTGGGTAGAAACTTGATTGTCAACAATAGAAGCATCACG
+AAGGGCACTTGCAGGCCATTGGGCACGGGACGA

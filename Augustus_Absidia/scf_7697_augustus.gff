@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3320 (length = 280, name = scf_7697) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3320 on both strands
+# start gene g6092
+scf_7697	AUGUSTUS	gene	1	109	1	+	.	g6092
+scf_7697	AUGUSTUS	transcript	1	109	1	+	.	g6092.t1
+scf_7697	AUGUSTUS	terminal	1	109	1	+	1	transcript_id "g6092.t1"; gene_id "g6092";
+scf_7697	AUGUSTUS	CDS	1	106	1	+	1	transcript_id "g6092.t1"; gene_id "g6092";
+scf_7697	AUGUSTUS	stop_codon	107	109	.	+	0	transcript_id "g6092.t1"; gene_id "g6092";
+# coding sequence = [tgctgctcttgtggtgaggcacaaccgtgctgttgatatccgtggtaaacgctctgttgatctctgtggtgaatcgcgt
+# ttgctgactgaagaagaagaagaacgataa]
+# protein sequence = [AALVVRHNRAVDIRGKRSVDLCGESRLLTEEEEER]
+# end gene g6092
+###
+#
+##FASTA
+>scf_7697
+TGCTGCTCTTGTGGTGAGGCACAACCGTGCTGTTGATATCCGTGGTAAACGCTCTGTTGA
+TCTCTGTGGTGAATCGCGTTTGCTGACTGAAGAAGAAGAAGAACGATAACAAAGGAAGTT
+TGATGCCTATCTCAACCATCATCAACAGCAATCAACTTTCCTGGACAACGCTGATCAAAC
+GACCCGGTTTTACTTTGCGTGTGTTGAATTATACGATGTGATGTAAGACAAATGATGAAT
+GCAGATGATATACACCATGGAGATTCACTATTGCGGTATA

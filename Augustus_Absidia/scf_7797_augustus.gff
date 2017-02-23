@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3344 (length = 356, name = scf_7797) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3344 on both strands
+# start gene g6255
+scf_7797	AUGUSTUS	gene	1	227	0.95	-	.	g6255
+scf_7797	AUGUSTUS	transcript	1	227	0.95	-	.	g6255.t1
+scf_7797	AUGUSTUS	internal	1	93	0.97	-	2	transcript_id "g6255.t1"; gene_id "g6255";
+scf_7797	AUGUSTUS	initial	173	227	0.96	-	0	transcript_id "g6255.t1"; gene_id "g6255";
+scf_7797	AUGUSTUS	intron	94	172	0.97	-	.	transcript_id "g6255.t1"; gene_id "g6255";
+scf_7797	AUGUSTUS	CDS	1	93	0.97	-	2	transcript_id "g6255.t1"; gene_id "g6255";
+scf_7797	AUGUSTUS	CDS	173	227	0.96	-	0	transcript_id "g6255.t1"; gene_id "g6255";
+scf_7797	AUGUSTUS	start_codon	225	227	.	-	0	transcript_id "g6255.t1"; gene_id "g6255";
+# coding sequence = [atgtacatcaagttggatttgcggtactaccaggcgaccgaaaccgttcctatagaagtaactaacactatgaataccg
+# aagtccctgttgcacctacaaccccaacgaccccaatgccaagagaagcccaagacatagaagaagacg]
+# protein sequence = [MYIKLDLRYYQATETVPIEVTNTMNTEVPVAPTTPTTPMPREAQDIEED]
+# end gene g6255
+###
+#
+##FASTA
+>scf_7797
+CGTCTTCTTCTATGTCTTGGGCTTCTCTTGGCATTGGGGTCGTTGGGGTTGTAGGTGCAA
+CAGGGACTTCGGTATTCATAGTGTTAGTTACTTCTGTTAAAATAAACCAATCATTAGTAC
+TCTATGTGTGTGCAGTGTATATATTATGCTATGTTATGTTATGTTGTTTTACCTATAGGA
+ACGGTTTCGGTCGCCTGGTAGTACCGCAAATCCAACTTGATGTACATTTGCAGAAGAAAC
+ATATGCTTGCATGGGGCATTACGATTGGTGAAATCTTCACAGTTACAGCTTACAATGCTA
+CGATTTTGATCGACACGCACATCATACTGTTGGCCAGCTGTTACAAACGACTCCAC

@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3155 (length = 271, name = scf_7223) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3155 on both strands
+# start gene g5674
+scf_7223	AUGUSTUS	gene	1	215	0.38	-	.	g5674
+scf_7223	AUGUSTUS	transcript	1	215	0.38	-	.	g5674.t1
+scf_7223	AUGUSTUS	initial	1	215	0.38	-	0	transcript_id "g5674.t1"; gene_id "g5674";
+scf_7223	AUGUSTUS	CDS	1	215	0.38	-	0	transcript_id "g5674.t1"; gene_id "g5674";
+scf_7223	AUGUSTUS	start_codon	213	215	.	-	0	transcript_id "g5674.t1"; gene_id "g5674";
+# coding sequence = [atgtcaactaccggcacgtcttcgtcactcgtagttggtgtaggtgcaggtgcggttggtgtaggggtaggtgcgggtg
+# gtgcgggcgcaggtggtgcgggtgcgggtggtgtaggtgcaggtggtgcgggcgcaggtggtgtaggtgcagatggcgttactggtcgctcttggcga
+# gcaggtctgcgtctgggtgggatgatcagcccgggaat]
+# protein sequence = [MSTTGTSSSLVVGVGAGAVGVGVGAGGAGAGGAGAGGVGAGGAGAGGVGADGVTGRSWRAGLRLGGMISPG]
+# end gene g5674
+###
+#
+##FASTA
+>scf_7223
+ATTCCCGGGCTGATCATCCCACCCAGACGCAGACCTGCTCGCCAAGAGCGACCAGTAACG
+CCATCTGCACCTACACCACCTGCGCCCGCACCACCTGCACCTACACCACCCGCACCCGCA
+CCACCTGCGCCCGCACCACCCGCACCTACCCCTACACCAACCGCACCTGCACCTACACCA
+ACTACGAGTGACGAAGACGTGCCGGTAGTTGACATGGAGCGTACTTTGCTGGCAACAGAG
+ATACGTTACCGGGATAAAATGGCCAACGTTG

@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3288 (length = 346, name = scf_7613) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3288 on both strands
+# start gene g6082
+scf_7613	AUGUSTUS	gene	1	295	0.68	+	.	g6082
+scf_7613	AUGUSTUS	transcript	1	295	0.68	+	.	g6082.t1
+scf_7613	AUGUSTUS	terminal	1	295	0.68	+	1	transcript_id "g6082.t1"; gene_id "g6082";
+scf_7613	AUGUSTUS	CDS	1	292	0.68	+	1	transcript_id "g6082.t1"; gene_id "g6082";
+scf_7613	AUGUSTUS	stop_codon	293	295	.	+	0	transcript_id "g6082.t1"; gene_id "g6082";
+# coding sequence = [acccatatcatcccaagaagcaagtcgtgcccattccggcttcttgcaggtggctgctgtagaccatatatcgtcgatt
+# tccgttaacattgtcatatcttccaaagtacgatgctcctccaaagcggtcgatgaaaggacgttgttgagtgatggtgggtttgggcgtgatcgaac
+# ggtgttgctggatagagaagaagttgagatgccgtttgctgctattggtggtaatattgcactcgttagatcaaatggattgctcccaagagtgtcca
+# gagctatagaaccaggatga]
+# protein sequence = [PISSQEASRAHSGFLQVAAVDHISSISVNIVISSKVRCSSKAVDERTLLSDGGFGRDRTVLLDREEVEMPFAAIGGNI
+# ALVRSNGLLPRVSRAIEPG]
+# end gene g6082
+###
+#
+##FASTA
+>scf_7613
+ACCCATATCATCCCAAGAAGCAAGTCGTGCCCATTCCGGCTTCTTGCAGGTGGCTGCTGT
+AGACCATATATCGTCGATTTCCGTTAACATTGTCATATCTTCCAAAGTACGATGCTCCTC
+CAAAGCGGTCGATGAAAGGACGTTGTTGAGTGATGGTGGGTTTGGGCGTGATCGAACGGT
+GTTGCTGGATAGAGAAGAAGTTGAGATGCCGTTTGCTGCTATTGGTGGTAATATTGCACT
+CGTTAGATCAAATGGATTGCTCCCAAGAGTGTCCAGAGCTATAGAACCAGGATGATCACC
+GTCAACTATTACAACAAACAAAAGGTGAGCATTACTTTAAAAGGTG

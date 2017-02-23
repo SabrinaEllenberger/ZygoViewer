@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3414 (length = 217, name = scf_8082) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3414 on both strands
+# start gene g6314
+scf_8082	AUGUSTUS	gene	1	148	0.82	+	.	g6314
+scf_8082	AUGUSTUS	transcript	1	148	0.82	+	.	g6314.t1
+scf_8082	AUGUSTUS	terminal	44	148	0.82	+	0	transcript_id "g6314.t1"; gene_id "g6314";
+scf_8082	AUGUSTUS	intron	1	43	0.84	+	.	transcript_id "g6314.t1"; gene_id "g6314";
+scf_8082	AUGUSTUS	CDS	44	145	0.82	+	0	transcript_id "g6314.t1"; gene_id "g6314";
+scf_8082	AUGUSTUS	stop_codon	146	148	.	+	0	transcript_id "g6314.t1"; gene_id "g6314";
+# coding sequence = [ttaccaggtgttcctttatggttgatgattgattcaacctcccatctgtcttcttctgctaatatgggatcttgtgaca
+# caccttttagtgcactgggtggatag]
+# protein sequence = [LPGVPLWLMIDSTSHLSSSANMGSCDTPFSALGG]
+# end gene g6314
+###
+#
+##FASTA
+>scf_8082
+GGCGTCAGAGTCGTAACCCTTCCAACGTACCTTGTATAGATAGTTACCAGGTGTTCCTTT
+ATGGTTGATGATTGATTCAACCTCCCATCTGTCTTCTTCTGCTAATATGGGATCTTGTGA
+CACACCTTTTAGTGCACTGGGTGGATAGTGCTTAGGTAACAGTTCTCCATTACTTTGCTG
+TAGAGTGTAAGCGCCTCCTTTGTTCTTTTTTACCACT

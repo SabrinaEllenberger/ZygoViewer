@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2306 (length = 256, name = scf_5031) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2306 on both strands
+# start gene g4103
+scf_5031	AUGUSTUS	gene	1	256	0.77	-	.	g4103
+scf_5031	AUGUSTUS	transcript	1	256	0.77	-	.	g4103.t1
+scf_5031	AUGUSTUS	internal	1	256	0.77	-	1	transcript_id "g4103.t1"; gene_id "g4103";
+scf_5031	AUGUSTUS	CDS	1	256	0.77	-	1	transcript_id "g4103.t1"; gene_id "g4103";
+# coding sequence = [gaaacgtgccgtggacgcccaaggaaaagctgacgaagcgttggctgctgacgcccctgaagaggaatacgaagccctc
+# atggacgtttacaacaagaagtgggaactataccaaaggacccgctccaactttgcggcccgcttccccgaagaaggtgtcttccgaactggcaaggc
+# atccggtggtcccaaccaaggttcgaacaagaatccggtggctgctcctgctctcaaggtggtggatctccccttcctg]
+# protein sequence = [KRAVDAQGKADEALAADAPEEEYEALMDVYNKKWELYQRTRSNFAARFPEEGVFRTGKASGGPNQGSNKNPVAAPALK
+# VVDLPFL]
+# end gene g4103
+###
+#
+##FASTA
+>scf_5031
+CAGGAAGGGGAGATCCACCACCTTGAGAGCAGGAGCAGCCACCGGATTCTTGTTCGAACC
+TTGGTTGGGACCACCGGATGCCTTGCCAGTTCGGAAGACACCTTCTTCGGGGAAGCGGGC
+CGCAAAGTTGGAGCGGGTCCTTTGGTATAGTTCCCACTTCTTGTTGTAAACGTCCATGAG
+GGCTTCGTATTCCTCTTCAGGGGCGTCAGCAGCCAACGCTTCGTCAGCTTTTCCTTGGGC
+GTCCACGGCACGTTTC

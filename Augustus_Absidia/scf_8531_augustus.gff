@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3548 (length = 331, name = scf_8531) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3548 on both strands
+# start gene g6630
+scf_8531	AUGUSTUS	gene	1	286	0.96	-	.	g6630
+scf_8531	AUGUSTUS	transcript	1	286	0.96	-	.	g6630.t1
+scf_8531	AUGUSTUS	initial	15	286	0.96	-	0	transcript_id "g6630.t1"; gene_id "g6630";
+scf_8531	AUGUSTUS	intron	1	14	0.97	-	.	transcript_id "g6630.t1"; gene_id "g6630";
+scf_8531	AUGUSTUS	CDS	15	286	0.96	-	0	transcript_id "g6630.t1"; gene_id "g6630";
+scf_8531	AUGUSTUS	start_codon	284	286	.	-	0	transcript_id "g6630.t1"; gene_id "g6630";
+# coding sequence = [atggaggtggccgatcctgttcgtcatggcaatgcccccgctggagatggtgcacgcagtcgtcgccgcaacaatcgtg
+# atgacagttcaaggtcgaataagcgtgtccgtcatgatagcacccatggtcaagatcattctgctggtccgtctcgtcctggtccgtcccgttctggc
+# tcgtctcgtcctggttcgtctcgtccgtctggtgatgatggcgtcaagaaggatcccaagaagactggcttgtgtcgtttctgtggcggcaaatg]
+# protein sequence = [MEVADPVRHGNAPAGDGARSRRRNNRDDSSRSNKRVRHDSTHGQDHSAGPSRPGPSRSGSSRPGSSRPSGDDGVKKDP
+# KKTGLCRFCGGK]
+# end gene g6630
+###
+#
+##FASTA
+>scf_8531
+GATGACCGTCATACCATTTGCCGCCACAGAAACGACACAAGCCAGTCTTCTTGGGATCCT
+TCTTGACGCCATCATCACCAGACGGACGAGACGAACCAGGACGAGACGAGCCAGAACGGG
+ACGGACCAGGACGAGACGGACCAGCAGAATGATCTTGACCATGGGTGCTATCATGACGGA
+CACGCTTATTCGACCTTGAACTGTCATCACGATTGTTGCGGCGACGACTGCGTGCACCAT
+CTCCAGCGGGGGCATTGCCATGACGAACAGGATCGGCCACCTCCATGTGTAATTGCGGCA
+GGATACGAGCGACATAATTGACGTTGAGCGT

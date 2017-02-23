@@ -1,0 +1,53 @@
+# ----- prediction on sequence number 3302 (length = 1133, name = scf_7648) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3302 on both strands
+# start gene g6087
+scf_7648	AUGUSTUS	gene	1	1133	0.58	+	.	g6087
+scf_7648	AUGUSTUS	transcript	1	1133	0.58	+	.	g6087.t1
+scf_7648	AUGUSTUS	internal	1	525	0.59	+	2	transcript_id "g6087.t1"; gene_id "g6087";
+scf_7648	AUGUSTUS	internal	584	1113	0.96	+	2	transcript_id "g6087.t1"; gene_id "g6087";
+scf_7648	AUGUSTUS	intron	526	583	1	+	.	transcript_id "g6087.t1"; gene_id "g6087";
+scf_7648	AUGUSTUS	intron	1114	1133	0.96	+	.	transcript_id "g6087.t1"; gene_id "g6087";
+scf_7648	AUGUSTUS	CDS	1	525	0.59	+	2	transcript_id "g6087.t1"; gene_id "g6087";
+scf_7648	AUGUSTUS	CDS	584	1113	0.96	+	2	transcript_id "g6087.t1"; gene_id "g6087";
+# coding sequence = [tagattatcttatgaagaactcggtatctaaacgagatcgtcaagctcttggcttttccggcaatgacgacgaaaaagc
+# gactcaacgacgacttacttctcgaccatccttatcagcaatggagtccatcacaacactacgaggctcgcattctcccccactcactcataccagct
+# atcacaatgaaccaggcatcaataacagtcaaagtagcagtaaccaccacagcaacaatgggaacagcaatagcagcaaatcacaacactttcttggc
+# tatgagatatctccccaacgtctggcaccagccattaagaaatctcgtaaagcacaaccacaactcccttggtaccaacagtatcaacaacagcacca
+# ccagcaacagcagcaacaagaacaacaacattttgactcctgtcttccttcctcgtcttcctcttcaccgacattatcacccatgaggagcgtttcaa
+# gtagtagtaatgtcaccaagactactagcgctttacagacgggatactccaaagacatcatcagccaacttccttacgaactcatataccaaatcctc
+# aaggaactgaatgtgtactctctattacaactgggccgggtcaacagacggtggcgggaaatcagcagcattggcgacgaatggcaccgacgtatgga
+# acagcatggatggaccgtccaccttcctcctcactggcaggagatcatcacttcatcggatcaaatgcattggcagtactggttcttgcagcggtacc
+# ggttatcggaacgatggcgcctgggtcaggtggcccctcattacctcttgggtcacatggatagtgtctactgtgtgcagtttgatgatcgcaaaatc
+# atttctggaagccgtgatcacaccatcaagatttgggatgcgcaatcgtatcaatgtgctcggacgctgacgggtcatcaaggcagtgtgctttgtct
+# gcagtacaatcaagagtacctggtctctggctcttctgactccaccgtcatggtatggtgtatgcgaacgctacaacggttgatgcggatcagg]
+# protein sequence = [DYLMKNSVSKRDRQALGFSGNDDEKATQRRLTSRPSLSAMESITTLRGSHSPPLTHTSYHNEPGINNSQSSSNHHSNN
+# GNSNSSKSQHFLGYEISPQRLAPAIKKSRKAQPQLPWYQQYQQQHHQQQQQQEQQHFDSCLPSSSSSSPTLSPMRSVSSSSNVTKTTSALQTGYSKDI
+# ISQLPYELIYQILKELNVYSLLQLGRVNRRWREISSIGDEWHRRMEQHGWTVHLPPHWQEIITSSDQMHWQYWFLQRYRLSERWRLGQVAPHYLLGHM
+# DSVYCVQFDDRKIISGSRDHTIKIWDAQSYQCARTLTGHQGSVLCLQYNQEYLVSGSSDSTVMVWCMRTLQRLMRIR]
+# end gene g6087
+###
+#
+##FASTA
+>scf_7648
+TAGATTATCTTATGAAGAACTCGGTATCTAAACGAGATCGTCAAGCTCTTGGCTTTTCCG
+GCAATGACGACGAAAAAGCGACTCAACGACGACTTACTTCTCGACCATCCTTATCAGCAA
+TGGAGTCCATCACAACACTACGAGGCTCGCATTCTCCCCCACTCACTCATACCAGCTATC
+ACAATGAACCAGGCATCAATAACAGTCAAAGTAGCAGTAACCACCACAGCAACAATGGGA
+ACAGCAATAGCAGCAAATCACAACACTTTCTTGGCTATGAGATATCTCCCCAACGTCTGG
+CACCAGCCATTAAGAAATCTCGTAAAGCACAACCACAACTCCCTTGGTACCAACAGTATC
+AACAACAGCACCACCAGCAACAGCAGCAACAAGAACAACAACATTTTGACTCCTGTCTTC
+CTTCCTCGTCTTCCTCTTCACCGACATTATCACCCATGAGGAGCGTTTCAAGTAGTAGTA
+ATGTCACCAAGACTACTAGCGCTTTACAGACGGGATACTCCAAAGGTAGTGTTTTGTTTT
+GTACCACCAGGCTATCCACTAACTTTGTTCTTCCTTGTAATAGACATCATCAGCCAACTT
+CCTTACGAACTCATATACCAAATCCTCAAGGAACTGAATGTGTACTCTCTATTACAACTG
+GGCCGGGTCAACAGACGGTGGCGGGAAATCAGCAGCATTGGCGACGAATGGCACCGACGT
+ATGGAACAGCATGGATGGACCGTCCACCTTCCTCCTCACTGGCAGGAGATCATCACTTCA
+TCGGATCAAATGCATTGGCAGTACTGGTTCTTGCAGCGGTACCGGTTATCGGAACGATGG
+CGCCTGGGTCAGGTGGCCCCTCATTACCTCTTGGGTCACATGGATAGTGTCTACTGTGTG
+CAGTTTGATGATCGCAAAATCATTTCTGGAAGCCGTGATCACACCATCAAGATTTGGGAT
+GCGCAATCGTATCAATGTGCTCGGACGCTGACGGGTCATCAAGGCAGTGTGCTTTGTCTG
+CAGTACAATCAAGAGTACCTGGTCTCTGGCTCTTCTGACTCCACCGTCATGGTATGGTGT
+ATGCGAACGCTACAACGGTTGATGCGGATCAGGGTAAAAAAAAAAAAAAAAAA

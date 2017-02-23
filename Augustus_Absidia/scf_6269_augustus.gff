@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 2801 (length = 289, name = scf_6269) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2801 on both strands
+# start gene g5003
+scf_6269	AUGUSTUS	gene	1	244	0.99	-	.	g5003
+scf_6269	AUGUSTUS	transcript	1	244	0.99	-	.	g5003.t1
+scf_6269	AUGUSTUS	initial	45	244	0.99	-	0	transcript_id "g5003.t1"; gene_id "g5003";
+scf_6269	AUGUSTUS	intron	1	44	1	-	.	transcript_id "g5003.t1"; gene_id "g5003";
+scf_6269	AUGUSTUS	CDS	45	244	0.99	-	0	transcript_id "g5003.t1"; gene_id "g5003";
+scf_6269	AUGUSTUS	start_codon	242	244	.	-	0	transcript_id "g5003.t1"; gene_id "g5003";
+# coding sequence = [atgcatcaagttgtcctggaaccaagtggccttcgacaaggaatgttgaaccgtggatatcatacatggttcccaagcc
+# aagtccaagttaatgtggtgctggtgggcgatcaattcgaacataaggaagaacttgtcgatcgtctcgaaacacaccttcgtcttgacagtatcggt
+# gtcaccaatcaattgcaggcaag]
+# protein sequence = [MHQVVLEPSGLRQGMLNRGYHTWFPSQVQVNVVLVGDQFEHKEELVDRLETHLRLDSIGVTNQLQA]
+# end gene g5003
+###
+#
+##FASTA
+>scf_6269
+GGCAAGCTACAAAGGTGAAAATGTTAACGTGCCGAAAAACTTACCTTGCCTGCAATTGAT
+TGGTGACACCGATACTGTCAAGACGAAGGTGTGTTTCGAGACGATCGACAAGTTCTTCCT
+TATGTTCGAATTGATCGCCCACCAGCACCACATTAACTTGGACTTGGCTTGGGAACCATG
+TATGATATCCACGGTTCAACATTCCTTGTCGAAGGCCACTTGGTTCCAGGACAACTTGAT
+GCATAGGCCCTACACTTGGAAACAAGCAAAACAAGTGATTCAACAAAAA

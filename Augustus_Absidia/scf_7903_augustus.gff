@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3359 (length = 233, name = scf_7903) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3359 on both strands
+# start gene g6260
+scf_7903	AUGUSTUS	gene	1	218	0.92	-	.	g6260
+scf_7903	AUGUSTUS	transcript	1	218	0.92	-	.	g6260.t1
+scf_7903	AUGUSTUS	initial	1	218	0.92	-	0	transcript_id "g6260.t1"; gene_id "g6260";
+scf_7903	AUGUSTUS	CDS	1	218	0.92	-	0	transcript_id "g6260.t1"; gene_id "g6260";
+scf_7903	AUGUSTUS	start_codon	216	218	.	-	0	transcript_id "g6260.t1"; gene_id "g6260";
+# coding sequence = [atggttgatcctgctgaccatcacagcgatcacaaggtctctatccctgtttactctggaaccaatcctgactcatggc
+# tcaaaaaatataacaaagcatgtcttatcaatcgattcaacgaacaagacaagctcgatcgggtgcctttttatctacctgaagctattggcgattgg
+# acattggaaagaaatttctcatcttggaaagaatttgtgga]
+# protein sequence = [MVDPADHHSDHKVSIPVYSGTNPDSWLKKYNKACLINRFNEQDKLDRVPFYLPEAIGDWTLERNFSSWKEFV]
+# end gene g6260
+###
+#
+##FASTA
+>scf_7903
+TCCACAAATTCTTTCCAAGATGAGAAATTTCTTTCCAATGTCCAATCGCCAATAGCTTCA
+GGTAGATAAAAAGGCACCCGATCGAGCTTGTCTTGTTCGTTGAATCGATTGATAAGACAT
+GCTTTGTTATATTTTTTGAGCCATGAGTCAGGATTGGTTCCAGAGTAAACAGGGATAGAG
+ACCTTGTGATCGCTGTGATGGTCAGCAGGATCAACCATGGTAGCACAAAAAAA

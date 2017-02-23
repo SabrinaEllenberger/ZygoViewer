@@ -1,0 +1,58 @@
+# ----- prediction on sequence number 2812 (length = 1058, name = scf_6298) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2812 on both strands
+# start gene g5103
+scf_6298	AUGUSTUS	gene	1	369	0.69	-	.	g5103
+scf_6298	AUGUSTUS	transcript	1	369	0.69	-	.	g5103.t1
+scf_6298	AUGUSTUS	internal	41	184	0.72	-	2	transcript_id "g5103.t1"; gene_id "g5103";
+scf_6298	AUGUSTUS	initial	243	369	0.97	-	0	transcript_id "g5103.t1"; gene_id "g5103";
+scf_6298	AUGUSTUS	intron	1	40	0.72	-	.	transcript_id "g5103.t1"; gene_id "g5103";
+scf_6298	AUGUSTUS	intron	185	242	1	-	.	transcript_id "g5103.t1"; gene_id "g5103";
+scf_6298	AUGUSTUS	CDS	41	184	0.72	-	2	transcript_id "g5103.t1"; gene_id "g5103";
+scf_6298	AUGUSTUS	CDS	243	369	0.97	-	0	transcript_id "g5103.t1"; gene_id "g5103";
+scf_6298	AUGUSTUS	start_codon	367	369	.	-	0	transcript_id "g5103.t1"; gene_id "g5103";
+# coding sequence = [atgccaaagaccaaccgaagaaccatttgcaagtgtaatagatccttcaagactgtggcgaagctgcacgctcattggg
+# ccgccatgaataacctttatggccgatctgtaattgtctctagcaatgtggaagctcaacctactttgcacgatgcagctgtacaacaagaagcagac
+# aacacctttgactttggctttgacatggacagcaatgttgacattggcaatggcgataactctgaaacaagtagcgctgcccaattcactgaag]
+# protein sequence = [MPKTNRRTICKCNRSFKTVAKLHAHWAAMNNLYGRSVIVSSNVEAQPTLHDAAVQQEADNTFDFGFDMDSNVDIGNGD
+# NSETSSAAQFTE]
+# end gene g5103
+###
+# start gene g5104
+scf_6298	AUGUSTUS	gene	622	1058	1	+	.	g5104
+scf_6298	AUGUSTUS	transcript	622	1058	1	+	.	g5104.t1
+scf_6298	AUGUSTUS	start_codon	622	624	.	+	0	transcript_id "g5104.t1"; gene_id "g5104";
+scf_6298	AUGUSTUS	initial	622	1058	1	+	0	transcript_id "g5104.t1"; gene_id "g5104";
+scf_6298	AUGUSTUS	CDS	622	1058	1	+	0	transcript_id "g5104.t1"; gene_id "g5104";
+# coding sequence = [atgaaccccgaccaaaagattgacaagatggctgaagacatgatcgtgattatgaacaactctgcacggatcctatccg
+# agctcacaagtctacgccaacgaatcagtggtaatgaagatgccgtgcgtgaaatggccaccctcctcgctgggagttctggtgcccgccctgaacca
+# actccagtcactccaattccttctcgtgccgtccccatccccccgctcaagcaaaagaagggtgctcgtacggaaaaacaattcaagcccgccatcat
+# tgacttgatccgcagtgaatggaagaagagccctgtcgaaggtgcccccgacaagaccgaacaagacatccaggaggcttatgcgaccatcgttgatt
+# ggaccgccgaaatcgttcaagggattgcgccaagtctttaccgggaaggcaagatcctttggtc]
+# protein sequence = [MNPDQKIDKMAEDMIVIMNNSARILSELTSLRQRISGNEDAVREMATLLAGSSGARPEPTPVTPIPSRAVPIPPLKQK
+# KGARTEKQFKPAIIDLIRSEWKKSPVEGAPDKTEQDIQEAYATIVDWTAEIVQGIAPSLYREGKILW]
+# end gene g5104
+###
+#
+##FASTA
+>scf_6298
+ATCCATTCATACATAGTAGCCTCTTCTGTATACTTCTTACCTTCAGTGAATTGGGCAGCG
+CTACTTGTTTCAGAGTTATCGCCATTGCCAATGTCAACATTGCTGTCCATGTCAAAGCCA
+AAGTCAAAGGTGTTGTCTGCTTCTTGTTGTACAGCTGCATCGTGCAAAGTAGGTTGAGCT
+TCCACTATAAAGACAGAAAGAAAGAGTCAGTGGCTGATCTTTGACAATCTCTTTGCTTTT
+ACCATTGCTAGAGACAATTACAGATCGGCCATAAAGGTTATTCATGGCGGCCCAATGAGC
+GTGCAGCTTCGCCACAGTCTTGAAGGATCTATTACACTTGCAAATGGTTCTTCGGTTGGT
+CTTTGGCATAGTTTGGTAAAAATGTTGTAAAGTGAATGCAGAAGAGGGAAGTGAGATATA
+GAATCAGAATTTCGAAAAAGTACCCCTTTTTATAAAAACCCCGCCGGTGCCAAAATCCAA
+AAAGGATTAAAGCTTACCGCTCTCTCTCCCCAAAAAGGATTGAAGCTCACCGGTCTTCCT
+TTAGATAAAACCTGATACTTTATGTTCCTTCTTCTCTCTCTTTTCTCTCATTGATTACAA
+ATTTTACTATACATACCAAAAATGAACCCCGACCAAAAGATTGACAAGATGGCTGAAGAC
+ATGATCGTGATTATGAACAACTCTGCACGGATCCTATCCGAGCTCACAAGTCTACGCCAA
+CGAATCAGTGGTAATGAAGATGCCGTGCGTGAAATGGCCACCCTCCTCGCTGGGAGTTCT
+GGTGCCCGCCCTGAACCAACTCCAGTCACTCCAATTCCTTCTCGTGCCGTCCCCATCCCC
+CCGCTCAAGCAAAAGAAGGGTGCTCGTACGGAAAAACAATTCAAGCCCGCCATCATTGAC
+TTGATCCGCAGTGAATGGAAGAAGAGCCCTGTCGAAGGTGCCCCCGACAAGACCGAACAA
+GACATCCAGGAGGCTTATGCGACCATCGTTGATTGGACCGCCGAAATCGTTCAAGGGATT
+GCGCCAAGTCTTTACCGGGAAGGCAAGATCCTTTGGTC

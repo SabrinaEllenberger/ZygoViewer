@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 2555 (length = 217, name = scf_5705) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2555 on both strands
+# start gene g4647
+scf_5705	AUGUSTUS	gene	1	217	0.9	+	.	g4647
+scf_5705	AUGUSTUS	transcript	1	217	0.9	+	.	g4647.t1
+scf_5705	AUGUSTUS	internal	1	217	0.9	+	1	transcript_id "g4647.t1"; gene_id "g4647";
+scf_5705	AUGUSTUS	CDS	1	217	0.9	+	1	transcript_id "g4647.t1"; gene_id "g4647";
+# coding sequence = [tggtatcaagtctgtcgattccatggtccccatcggtcgtggtcaacgtgaattgattatcggtgatcgtcaaactggt
+# aagaccgccgttgccttggataccatccttaaccaaaagaactggaacaacggatccgatgaagccaagaagttgtactgtatctacgttgctgttgg
+# tcaaaagcgatccactgttgcccaattggtccgtactttg]
+# protein sequence = [GIKSVDSMVPIGRGQRELIIGDRQTGKTAVALDTILNQKNWNNGSDEAKKLYCIYVAVGQKRSTVAQLVRTL]
+# end gene g4647
+###
+#
+##FASTA
+>scf_5705
+TGGTATCAAGTCTGTCGATTCCATGGTCCCCATCGGTCGTGGTCAACGTGAATTGATTAT
+CGGTGATCGTCAAACTGGTAAGACCGCCGTTGCCTTGGATACCATCCTTAACCAAAAGAA
+CTGGAACAACGGATCCGATGAAGCCAAGAAGTTGTACTGTATCTACGTTGCTGTTGGTCA
+AAAGCGATCCACTGTTGCCCAATTGGTCCGTACTTTG

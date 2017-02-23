@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3403 (length = 249, name = scf_8051) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3403 on both strands
+# start gene g6310
+scf_8051	AUGUSTUS	gene	1	154	0.88	-	.	g6310
+scf_8051	AUGUSTUS	transcript	1	154	0.88	-	.	g6310.t1
+scf_8051	AUGUSTUS	internal	1	34	0.97	-	0	transcript_id "g6310.t1"; gene_id "g6310";
+scf_8051	AUGUSTUS	initial	83	154	0.91	-	0	transcript_id "g6310.t1"; gene_id "g6310";
+scf_8051	AUGUSTUS	intron	35	82	0.98	-	.	transcript_id "g6310.t1"; gene_id "g6310";
+scf_8051	AUGUSTUS	CDS	1	34	0.97	-	0	transcript_id "g6310.t1"; gene_id "g6310";
+scf_8051	AUGUSTUS	CDS	83	154	0.91	-	0	transcript_id "g6310.t1"; gene_id "g6310";
+scf_8051	AUGUSTUS	start_codon	152	154	.	-	0	transcript_id "g6310.t1"; gene_id "g6310";
+# coding sequence = [atggatgaagaccagctgcgatcaagccgcatgctcgtggaaaggctccgtgaaagtgccgattgtgaagagattatgg
+# attctggtgccggtggtgaaaacgaag]
+# protein sequence = [MDEDQLRSSRMLVERLRESADCEEIMDSGAGGENE]
+# end gene g6310
+###
+#
+##FASTA
+>scf_8051
+CTTCGTTTTCACCACCGGCACCAGAATCCATAATCTACACACGACCATCCCAATGCATGA
+TTAAACATGATATTCTTCTTACCTCTTCACAATCGGCACTTTCACGGAGCCTTTCCACGA
+GCATGCGGCTTGATCGCAGCTGGTCTTCATCCATCTTGTACAATGCGACAAAAGATTCCT
+TCCAAAGGTTCTGGACCTGTCCATAGTTCACCACGTAACCAAATCTTTCAACAACGGTTT
+CATACAAGT

@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3670 (length = 382, name = scf_8848) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3670 on both strands
+# start gene g7422
+scf_8848	AUGUSTUS	gene	1	382	0.36	-	.	g7422
+scf_8848	AUGUSTUS	transcript	1	382	0.36	-	.	g7422.t1
+scf_8848	AUGUSTUS	internal	1	103	0.49	-	0	transcript_id "g7422.t1"; gene_id "g7422";
+scf_8848	AUGUSTUS	internal	169	382	0.58	-	1	transcript_id "g7422.t1"; gene_id "g7422";
+scf_8848	AUGUSTUS	intron	104	168	0.54	-	.	transcript_id "g7422.t1"; gene_id "g7422";
+scf_8848	AUGUSTUS	CDS	1	103	0.49	-	0	transcript_id "g7422.t1"; gene_id "g7422";
+scf_8848	AUGUSTUS	CDS	169	382	0.58	-	1	transcript_id "g7422.t1"; gene_id "g7422";
+# coding sequence = [gacctggcttcttcagtacaaggatacaccggcgcaacgttggaagaacctctgcgaactgtctcgtatcacgctgcaa
+# catggggaatctagtgaccagatgtgtcgtcgtgtccttcaagatgcggaacgtctgggcctagacaggttctctgcggctgagctgctcgtagctgg
+# ggtccttcgttaccgtcctgactcttggaaccagaaggttgtctacacttgggttgaattcggaacgcactgggaagcgcaagggtatggaaacaacc
+# tacgcaacatcttcctccagcaacagcaacagcagcaacagc]
+# protein sequence = [TWLLQYKDTPAQRWKNLCELSRITLQHGESSDQMCRRVLQDAERLGLDRFSAAELLVAGVLRYRPDSWNQKVVYTWVE
+# FGTHWEAQGYGNNLRNIFLQQQQQQQQ]
+# end gene g7422
+###
+#
+##FASTA
+>scf_8848
+GCTGTTGCTGCTGTTGCTGTTGCTGGAGGAAGATGTTGCGTAGGTTGTTTCCATACCCTT
+GCGCTTCCCAGTGCGTTCCGAATTCAACCCAAGTGTAGACAACCTGTGGATGATGTCTAT
+CAAAGAGCTTTCGCCCAAATCAATACACTTCTCCATTGCATCACTTACCTTCTGGTTCCA
+AGAGTCAGGACGGTAACGAAGGACCCCAGCTACGAGCAGCTCAGCCGCAGAGAACCTGTC
+TAGGCCCAGACGTTCCGCATCTTGAAGGACACGACGACACATCTGGTCACTAGATTCCCC
+ATGTTGCAGCGTGATACGAGACAGTTCGCAGAGGTTCTTCCAACGTTGCGCCGGTGTATC
+CTTGTACTGAAGAAGCCAGGTC

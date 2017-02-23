@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3736 (length = 446, name = scf_9086) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3736 on both strands
+# start gene g7709
+scf_9086	AUGUSTUS	gene	112	446	1	+	.	g7709
+scf_9086	AUGUSTUS	transcript	112	446	1	+	.	g7709.t1
+scf_9086	AUGUSTUS	start_codon	112	114	.	+	0	transcript_id "g7709.t1"; gene_id "g7709";
+scf_9086	AUGUSTUS	initial	112	414	1	+	0	transcript_id "g7709.t1"; gene_id "g7709";
+scf_9086	AUGUSTUS	intron	415	446	1	+	.	transcript_id "g7709.t1"; gene_id "g7709";
+scf_9086	AUGUSTUS	CDS	112	414	1	+	0	transcript_id "g7709.t1"; gene_id "g7709";
+# coding sequence = [atgacccaattcatccgagtgaccgtagacgatttcgagcagaccgttgctcaacagctcgcagccacgcccaaggtgt
+# ttgttttattctttggctctgaagaggcagcgaccggacaatcgtggtgccccgattgtgtgattgccgatcctttgatccgccaggccattttaaaa
+# gtgcctgatgccgtgctcgtcgaagcgcctgtgggtctccgggacgcctggaaaggaaaccccacccatccttatcgtaccaagtacaatgtgcctgc
+# ccttcccactctttatcactggtcaaag]
+# protein sequence = [MTQFIRVTVDDFEQTVAQQLAATPKVFVLFFGSEEAATGQSWCPDCVIADPLIRQAILKVPDAVLVEAPVGLRDAWKG
+# NPTHPYRTKYNVPALPTLYHWSK]
+# end gene g7709
+###
+#
+##FASTA
+>scf_9086
+ATTTAGTGCTTTTGGTTACAAATAGACTCATCCTCTCCAATCCTTTCGTCACTTTTACCA
+CCTTGTGTATATAAACCCGAGCCGCCTCCCTCTTTTTTCCTCATTCACCAAATGACCCAA
+TTCATCCGAGTGACCGTAGACGATTTCGAGCAGACCGTTGCTCAACAGCTCGCAGCCACG
+CCCAAGGTGTTTGTTTTATTCTTTGGCTCTGAAGAGGCAGCGACCGGACAATCGTGGTGC
+CCCGATTGTGTGATTGCCGATCCTTTGATCCGCCAGGCCATTTTAAAAGTGCCTGATGCC
+GTGCTCGTCGAAGCGCCTGTGGGTCTCCGGGACGCCTGGAAAGGAAACCCCACCCATCCT
+TATCGTACCAAGTACAATGTGCCTGCCCTTCCCACTCTTTATCACTGGTCAAAGGTATAC
+CCCTTTTCCTTACCAAAAAAAAAAAA

@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 2950 (length = 512, name = scf_6688) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2950 on both strands
+# start gene g5153
+scf_6688	AUGUSTUS	gene	1	512	0.67	+	.	g5153
+scf_6688	AUGUSTUS	transcript	1	512	0.67	+	.	g5153.t1
+scf_6688	AUGUSTUS	internal	132	512	0.67	+	0	transcript_id "g5153.t1"; gene_id "g5153";
+scf_6688	AUGUSTUS	intron	1	131	0.68	+	.	transcript_id "g5153.t1"; gene_id "g5153";
+scf_6688	AUGUSTUS	CDS	132	512	0.67	+	0	transcript_id "g5153.t1"; gene_id "g5153";
+# coding sequence = [gacatcgccaacatccaccaacgacgcctcaatgggctagacgatcaaacgaacaaatcgatgggtgcattcattccgt
+# acctggaatctcgctcctacgacattcgatggcatacggataaaaacaagcgcatcgtgaccgtttacttcaccaacgaacaatgcatcaaattggca
+# agaaagtttaacgaggtggtggcgactgacgcaacttacaaaacgaaccggttcaagctgccatttgctaacatggttggggtcaataatgttggttg
+# tgacgacaagacgctctcgacctttgctgttgctggtgcctggatctcgaaagaagatactgactcttacacttgggtgctggaacagcttgcgaaga
+# cggtttat]
+# protein sequence = [DIANIHQRRLNGLDDQTNKSMGAFIPYLESRSYDIRWHTDKNKRIVTVYFTNEQCIKLARKFNEVVATDATYKTNRFK
+# LPFANMVGVNNVGCDDKTLSTFAVAGAWISKEDTDSYTWVLEQLAKTVY]
+# end gene g5153
+###
+#
+##FASTA
+>scf_6688
+GTTCATTCCTTTTCTTCTTCTAAAAACGCTAATCAATAAACTAATAAGAGTCCTCACTTA
+TTGGTTTGTTTTCTTTTTTATTTATCACAAAATCCCCCTATACTACACATGGCTACAATT
+TGATTACCAAGGACATCGCCAACATCCACCAACGACGCCTCAATGGGCTAGACGATCAAA
+CGAACAAATCGATGGGTGCATTCATTCCGTACCTGGAATCTCGCTCCTACGACATTCGAT
+GGCATACGGATAAAAACAAGCGCATCGTGACCGTTTACTTCACCAACGAACAATGCATCA
+AATTGGCAAGAAAGTTTAACGAGGTGGTGGCGACTGACGCAACTTACAAAACGAACCGGT
+TCAAGCTGCCATTTGCTAACATGGTTGGGGTCAATAATGTTGGTTGTGACGACAAGACGC
+TCTCGACCTTTGCTGTTGCTGGTGCCTGGATCTCGAAAGAAGATACTGACTCTTACACTT
+GGGTGCTGGAACAGCTTGCGAAGACGGTTTAT

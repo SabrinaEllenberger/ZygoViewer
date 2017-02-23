@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 2261 (length = 242, name = scf_4883) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2261 on both strands
+# start gene g4067
+scf_4883	AUGUSTUS	gene	1	198	1	-	.	g4067
+scf_4883	AUGUSTUS	transcript	1	198	1	-	.	g4067.t1
+scf_4883	AUGUSTUS	initial	23	198	1	-	0	transcript_id "g4067.t1"; gene_id "g4067";
+scf_4883	AUGUSTUS	intron	1	22	1	-	.	transcript_id "g4067.t1"; gene_id "g4067";
+scf_4883	AUGUSTUS	CDS	23	198	1	-	0	transcript_id "g4067.t1"; gene_id "g4067";
+scf_4883	AUGUSTUS	start_codon	196	198	.	-	0	transcript_id "g4067.t1"; gene_id "g4067";
+# coding sequence = [atggcgccctttatagatgaccctgaagaaaagtgggcggaagtgaaggcggtgcttgacaagatcttccggtgcaaaa
+# cgatcgatgaatactactcggcctacaaagagtatattgctgtggtcaagacaaacacgaaggacaaaggtgccaaagcgatgaagcacatggacag]
+# protein sequence = [MAPFIDDPEEKWAEVKAVLDKIFRCKTIDEYYSAYKEYIAVVKTNTKDKGAKAMKHMD]
+# end gene g4067
+###
+#
+##FASTA
+>scf_4883
+TACAGCCTTCTTTCTTTTTTACCTGTCCATGTGCTTCATCGCTTTGGCACCTTTGTCCTT
+CGTGTTTGTCTTGACCACAGCAATATACTCTTTGTAGGCCGAGTAGTATTCATCGATCGT
+TTTGCACCGGAAGATCTTGTCAAGCACCGCCTTCACTTCCGCCCACTTTTCTTCAGGGTC
+ATCTATAAAGGGCGCCATATTCTTCTTGAAGTTTCGGGCAATATGGAGGCAGCAAAGGAT
+TG

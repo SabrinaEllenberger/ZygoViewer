@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 2640 (length = 381, name = scf_5935) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2640 on both strands
+# start gene g4812
+scf_5935	AUGUSTUS	gene	1	243	0.62	+	.	g4812
+scf_5935	AUGUSTUS	transcript	1	243	0.62	+	.	g4812.t1
+scf_5935	AUGUSTUS	terminal	144	243	0.62	+	1	transcript_id "g4812.t1"; gene_id "g4812";
+scf_5935	AUGUSTUS	intron	1	143	0.62	+	.	transcript_id "g4812.t1"; gene_id "g4812";
+scf_5935	AUGUSTUS	CDS	144	240	0.62	+	1	transcript_id "g4812.t1"; gene_id "g4812";
+scf_5935	AUGUSTUS	stop_codon	241	243	.	+	0	transcript_id "g4812.t1"; gene_id "g4812";
+# coding sequence = [atctcatggctcccactctctgatccctatttcccgacgtcgagccaagtttcacggactgcaaggaaaagagatctgc
+# cgtccacctgacatgcattga]
+# protein sequence = [SHGSHSLIPISRRRAKFHGLQGKEICRPPDMH]
+# end gene g4812
+###
+#
+##FASTA
+>scf_5935
+GCGTAAACTTAATTTTTCGTTGATTAGTGGCGGGGTTCGTTGATGCATTCGTTGATTGGT
+GGCGGGATGTGAATAACTTGATTGCTTTTTTTACAGGCCGTCATTCATGCGTGACAGTTG
+TACCGTACTGTACTGTACGATAGATCTCATGGCTCCCACTCTCTGATCCCTATTTCCCGA
+CGTCGAGCCAAGTTTCACGGACTGCAAGGAAAAGAGATCTGCCGTCCACCTGACATGCAT
+TGACGACATTGATAGATCCGGTACCTCAATGCTCGCCGATAGCAAGGGTTTGATTCTGAT
+CCATCTCAAAAAGGGGGAATGAAAAAAGACCTACCGTCCACCTGACATGCATTGACGACA
+TTGATAGATCCGGTACCTCAA

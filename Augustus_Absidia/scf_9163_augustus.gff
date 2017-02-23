@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3769 (length = 237, name = scf_9163) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3769 on both strands
+# start gene g7809
+scf_9163	AUGUSTUS	gene	1	92	0.47	-	.	g7809
+scf_9163	AUGUSTUS	transcript	1	92	0.47	-	.	g7809.t1
+scf_9163	AUGUSTUS	initial	7	92	0.47	-	0	transcript_id "g7809.t1"; gene_id "g7809";
+scf_9163	AUGUSTUS	intron	1	6	0.47	-	.	transcript_id "g7809.t1"; gene_id "g7809";
+scf_9163	AUGUSTUS	CDS	7	92	0.47	-	0	transcript_id "g7809.t1"; gene_id "g7809";
+scf_9163	AUGUSTUS	start_codon	90	92	.	-	0	transcript_id "g7809.t1"; gene_id "g7809";
+# coding sequence = [atggctacccaggataacaatttaaatgaactgaatgatatcaatgaagaccatgacatggacattgatgaaattatga
+# acatgag]
+# protein sequence = [MATQDNNLNELNDINEDHDMDIDEIMNM]
+# end gene g7809
+###
+#
+##FASTA
+>scf_9163
+GGCAACCTCATGTTCATAATTTCATCAATGTCCATGTCATGGTCTTCATTGATATCATTC
+AGTTCATTTAAATTGTTATCCTGGGTAGCCATTTTAAAGTCTGTTTTTAGCCGTATTCGT
+TAAAAAAAATGAAGTATTCGATAGATATAAGTCAAATAGATAACGATACAAAAGGATGAT
+ACTTTATTAAAACAGACAAAAGAACAATGGGTTTATATAGTTTTCTATCTGACAGCT

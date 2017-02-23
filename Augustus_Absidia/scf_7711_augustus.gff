@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 3328 (length = 406, name = scf_7711) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3328 on both strands
+# start gene g6251
+scf_7711	AUGUSTUS	gene	1	385	0.56	+	.	g6251
+scf_7711	AUGUSTUS	transcript	1	385	0.56	+	.	g6251.t1
+scf_7711	AUGUSTUS	internal	1	54	0.69	+	2	transcript_id "g6251.t1"; gene_id "g6251";
+scf_7711	AUGUSTUS	terminal	111	385	0.84	+	2	transcript_id "g6251.t1"; gene_id "g6251";
+scf_7711	AUGUSTUS	intron	55	110	0.87	+	.	transcript_id "g6251.t1"; gene_id "g6251";
+scf_7711	AUGUSTUS	CDS	1	54	0.69	+	2	transcript_id "g6251.t1"; gene_id "g6251";
+scf_7711	AUGUSTUS	CDS	111	382	0.84	+	2	transcript_id "g6251.t1"; gene_id "g6251";
+scf_7711	AUGUSTUS	stop_codon	383	385	.	+	0	transcript_id "g6251.t1"; gene_id "g6251";
+# coding sequence = [ttccaaccatgaagattggtgaagtggccgaagtcgtctgctctcacaaatacgcctatggcgaacagggattctaccc
+# tctggtccctccaaagtccaaagtccgtggccagatcgaattgctgtcagcctacaaccgggtggacaaggcccgtgaacgactggatactgccattg
+# tcaagaaagaagaaggatcaaagtttttcaagctgaatgaactggaaatcgctctctttgcctactatgctgtaagttgtcaccctcgatttttgaaa
+# acaaggacagcaactgattttctcttgtctttaggcacgaaattatgtgattga]
+# protein sequence = [PTMKIGEVAEVVCSHKYAYGEQGFYPLVPPKSKVRGQIELLSAYNRVDKARERLDTAIVKKEEGSKFFKLNELEIALF
+# AYYAVSCHPRFLKTRTATDFLLSLGTKLCD]
+# end gene g6251
+###
+#
+##FASTA
+>scf_7711
+TTCCAACCATGAAGATTGGTGAAGTGGCCGAAGTCGTCTGCTCTCACAAATACGGTAAAC
+ACATACGTAACTCATCCAGTGCCACCACTCACCCCCCCTTTTTTTTTTAGCCTATGGCGA
+ACAGGGATTCTACCCTCTGGTCCCTCCAAAGTCCAAAGTCCGTGGCCAGATCGAATTGCT
+GTCAGCCTACAACCGGGTGGACAAGGCCCGTGAACGACTGGATACTGCCATTGTCAAGAA
+AGAAGAAGGATCAAAGTTTTTCAAGCTGAATGAACTGGAAATCGCTCTCTTTGCCTACTA
+TGCTGTAAGTTGTCACCCTCGATTTTTGAAAACAAGGACAGCAACTGATTTTCTCTTGTC
+TTTAGGCACGAAATTATGTGATTGATCTATGGGATTGCTCACCAGA
