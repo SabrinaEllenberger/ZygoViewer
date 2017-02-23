@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 5136 (length = 217, name = scf_15285) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5136 on both strands
+# start gene g15180
+scf_15285	AUGUSTUS	gene	1	145	0.83	-	.	g15180
+scf_15285	AUGUSTUS	transcript	1	145	0.83	-	.	g15180.t1
+scf_15285	AUGUSTUS	initial	16	145	0.83	-	0	transcript_id "g15180.t1"; gene_id "g15180";
+scf_15285	AUGUSTUS	intron	1	15	0.84	-	.	transcript_id "g15180.t1"; gene_id "g15180";
+scf_15285	AUGUSTUS	CDS	16	145	0.83	-	0	transcript_id "g15180.t1"; gene_id "g15180";
+scf_15285	AUGUSTUS	start_codon	143	145	.	-	0	transcript_id "g15180.t1"; gene_id "g15180";
+# coding sequence = [atggcgtcctctatctctacctatcatgtccatcgccagctatccgatcaacaagcagctcaagtctggcgtatggtgt
+# ctgccaaggtggctcccagggcaattgtggacttcatggctggggaaggct]
+# protein sequence = [MASSISTYHVHRQLSDQQAAQVWRMVSAKVAPRAIVDFMAGEG]
+# end gene g15180
+###
+#
+##FASTA
+>scf_15285
+TGGCGATCATGTTACAGCCTTCCCCAGCCATGAAGTCCACAATTGCCCTGGGAGCCACCT
+TGGCAGACACCATACGCCAGACTTGAGCTGCTTGTTGATCGGATAGCTGGCGATGGACAT
+GATAGGTAGAGATAGAGGACGCCATTGGGTGGTTGTGCTCCATTTTCATGCTTGTCAATC
+GGTAGTTGTTGTTTTTGTCAGGACCACGATAAAAGAA

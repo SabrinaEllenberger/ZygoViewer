@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4072 (length = 324, name = scf_10211) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4072 on both strands
+# start gene g8495
+scf_10211	AUGUSTUS	gene	1	189	0.82	+	.	g8495
+scf_10211	AUGUSTUS	transcript	1	189	0.82	+	.	g8495.t1
+scf_10211	AUGUSTUS	terminal	101	189	0.82	+	2	transcript_id "g8495.t1"; gene_id "g8495";
+scf_10211	AUGUSTUS	intron	1	100	0.84	+	.	transcript_id "g8495.t1"; gene_id "g8495";
+scf_10211	AUGUSTUS	CDS	101	186	0.82	+	2	transcript_id "g8495.t1"; gene_id "g8495";
+scf_10211	AUGUSTUS	stop_codon	187	189	.	+	0	transcript_id "g8495.t1"; gene_id "g8495";
+# coding sequence = [atggacaacccaacctcaaatttgacatgcaacacaatgcattacgtagctatcgattggtaccacaaaacatgcattt
+# ggatgtctga]
+# protein sequence = [GQPNLKFDMQHNALRSYRLVPQNMHLDV]
+# end gene g8495
+###
+#
+##FASTA
+>scf_10211
+GGCGGGTTTTAAAAAATTTCGAAATTCGATCGAAAATTTGAAAATTTGAAAATTTGAGAT
+CCAATTTATGGGAAAGAAACATTTATTTCTCAAAATGTAGATGGACAACCCAACCTCAAA
+TTTGACATGCAACACAATGCATTACGTAGCTATCGATTGGTACCACAAAACATGCATTTG
+GATGTCTGATGGGTTTGTGATCGTCGAAATAGACCCCAAAAAAGCGACCGTTTGGTGTGG
+TAACAAAAGTAGCAGCATATCCAAGCAAATCATGCGTTCTTGGTATCAATCGTTAGATAA
+GAAGCACATCCAGGTGCATGTTAA

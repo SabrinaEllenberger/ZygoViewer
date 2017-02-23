@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 5301 (length = 304, name = scf_17128) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5301 on both strands
+# start gene g15468
+scf_17128	AUGUSTUS	gene	1	292	0.88	+	.	g15468
+scf_17128	AUGUSTUS	transcript	1	292	0.88	+	.	g15468.t1
+scf_17128	AUGUSTUS	terminal	1	292	0.88	+	1	transcript_id "g15468.t1"; gene_id "g15468";
+scf_17128	AUGUSTUS	CDS	1	289	0.88	+	1	transcript_id "g15468.t1"; gene_id "g15468";
+scf_17128	AUGUSTUS	stop_codon	290	292	.	+	0	transcript_id "g15468.t1"; gene_id "g15468";
+# coding sequence = [acaaagaaacggagaactcttaccgaaagcctacccacctagtgcgttgaaacatgtagctacggatcctattttgaat
+# cacgaggaccgttgggaagtacaggctatcatcgaccacagagggtcaccaggcaaatatgagtacaaggtaagatggaaaggctttggagccgaaga
+# cgatacatgggagcctgcggacatgtttgacgacctagacaccatcaagtcatactggaataaaagacaaagagtggagcaggaagtgcgagctttga
+# aaaaacaaaagaagtag]
+# protein sequence = [QRNGELLPKAYPPSALKHVATDPILNHEDRWEVQAIIDHRGSPGKYEYKVRWKGFGAEDDTWEPADMFDDLDTIKSYW
+# NKRQRVEQEVRALKKQKK]
+# end gene g15468
+###
+#
+##FASTA
+>scf_17128
+ACAAAGAAACGGAGAACTCTTACCGAAAGCCTACCCACCTAGTGCGTTGAAACATGTAGC
+TACGGATCCTATTTTGAATCACGAGGACCGTTGGGAAGTACAGGCTATCATCGACCACAG
+AGGGTCACCAGGCAAATATGAGTACAAGGTAAGATGGAAAGGCTTTGGAGCCGAAGACGA
+TACATGGGAGCCTGCGGACATGTTTGACGACCTAGACACCATCAAGTCATACTGGAATAA
+AAGACAAAGAGTGGAGCAGGAAGTGCGAGCTTTGAAAAAACAAAAGAAGTAGACAAAGAC
+AAGC

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4236 (length = 217, name = scf_10864) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4236 on both strands
+# start gene g9233
+scf_10864	AUGUSTUS	gene	1	180	0.64	-	.	g9233
+scf_10864	AUGUSTUS	transcript	1	180	0.64	-	.	g9233.t1
+scf_10864	AUGUSTUS	initial	18	180	0.64	-	0	transcript_id "g9233.t1"; gene_id "g9233";
+scf_10864	AUGUSTUS	intron	1	17	0.65	-	.	transcript_id "g9233.t1"; gene_id "g9233";
+scf_10864	AUGUSTUS	CDS	18	180	0.64	-	0	transcript_id "g9233.t1"; gene_id "g9233";
+scf_10864	AUGUSTUS	start_codon	178	180	.	-	0	transcript_id "g9233.t1"; gene_id "g9233";
+# coding sequence = [atgaatgacacctctccacctgaggactctgactcagacatgcaatctgagggcgacacaggcgaaggtctagcagcat
+# cgcaacatgctcccaattcgagacacatgaaaatcgattcgagaactgacatgctcaacgccacccgcacgaaagcatctacac]
+# protein sequence = [MNDTSPPEDSDSDMQSEGDTGEGLAASQHAPNSRHMKIDSRTDMLNATRTKAST]
+# end gene g9233
+###
+#
+##FASTA
+>scf_10864
+GATCTGTGATTGTCTACGTGTAGATGCTTTCGTGCGGGTGGCGTTGAGCATGTCAGTTCT
+CGAATCGATTTTCATGTGTCTCGAATTGGGAGCATGTTGCGATGCTGCTAGACCTTCGCC
+TGTGTCGCCCTCAGATTGCATGTCTGAGTCAGAGTCCTCAGGTGGAGAGGTGTCATTCAT
+GCTAATGTCTGCATCGTTGGTTTGTAGTTTGGACGAA

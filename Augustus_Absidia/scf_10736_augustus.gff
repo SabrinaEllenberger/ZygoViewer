@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4204 (length = 325, name = scf_10736) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4204 on both strands
+# start gene g9224
+scf_10736	AUGUSTUS	gene	11	325	0.77	+	.	g9224
+scf_10736	AUGUSTUS	transcript	11	325	0.77	+	.	g9224.t1
+scf_10736	AUGUSTUS	start_codon	11	13	.	+	0	transcript_id "g9224.t1"; gene_id "g9224";
+scf_10736	AUGUSTUS	initial	11	325	0.77	+	0	transcript_id "g9224.t1"; gene_id "g9224";
+scf_10736	AUGUSTUS	CDS	11	325	0.77	+	0	transcript_id "g9224.t1"; gene_id "g9224";
+# coding sequence = [atggtcattcctatcacttacatcaaagcttcatcaaaaccacccacattgaaagcgtcaaacatgatctacaaggaga
+# ccgagttggttcaaactccacaaccaatcaaaaaggttgtgcccctaaaagatcaaatcgacgaagacgaagatgaagacgactcgtccgatgacgaa
+# actgaagaggaagaatgggaacatgatgagaaggaagaatcagaggatgatgatcaagaactttgtcaattgaccccaattgaacaaaaagattacgc
+# attgaaagtgacgatgggcactgatacacaaatagaaatc]
+# protein sequence = [MVIPITYIKASSKPPTLKASNMIYKETELVQTPQPIKKVVPLKDQIDEDEDEDDSSDDETEEEEWEHDEKEESEDDDQ
+# ELCQLTPIEQKDYALKVTMGTDTQIEI]
+# end gene g9224
+###
+#
+##FASTA
+>scf_10736
+ACAGCGAAAGATGGTCATTCCTATCACTTACATCAAAGCTTCATCAAAACCACCCACATT
+GAAAGCGTCAAACATGATCTACAAGGAGACCGAGTTGGTTCAAACTCCACAACCAATCAA
+AAAGGTTGTGCCCCTAAAAGATCAAATCGACGAAGACGAAGATGAAGACGACTCGTCCGA
+TGACGAAACTGAAGAGGAAGAATGGGAACATGATGAGAAGGAAGAATCAGAGGATGATGA
+TCAAGAACTTTGTCAATTGACCCCAATTGAACAAAAAGATTACGCATTGAAAGTGACGAT
+GGGCACTGATACACAAATAGAAATC

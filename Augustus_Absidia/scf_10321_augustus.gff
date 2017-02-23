@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 4090 (length = 335, name = scf_10321) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4090 on both strands
+# start gene g8500
+scf_10321	AUGUSTUS	gene	95	335	0.37	+	.	g8500
+scf_10321	AUGUSTUS	transcript	95	335	0.37	+	.	g8500.t1
+scf_10321	AUGUSTUS	start_codon	95	97	.	+	0	transcript_id "g8500.t1"; gene_id "g8500";
+scf_10321	AUGUSTUS	initial	95	335	0.37	+	0	transcript_id "g8500.t1"; gene_id "g8500";
+scf_10321	AUGUSTUS	CDS	95	335	0.37	+	0	transcript_id "g8500.t1"; gene_id "g8500";
+# coding sequence = [atggcagacaaaacacccccttatgaatcaactgatatggatttagacgatttggagtttgacgtcatggaagaacgtt
+# tacatacgcctggtcccgtccaagatgacgattttaccttcttggacgaagaaaaagaaaaatccccctcaaaagaggagagtgaaaaggaaagtacg
+# gaagaaaacgtcttgaagatataccaagacaagtataaaacactgatggaagagcttttcgttg]
+# protein sequence = [MADKTPPYESTDMDLDDLEFDVMEERLHTPGPVQDDDFTFLDEEKEKSPSKEESEKESTEENVLKIYQDKYKTLMEEL
+# FV]
+# end gene g8500
+###
+#
+##FASTA
+>scf_10321
+TCAACCTTTTGTCCCGTTATTTACTGTCTCTTTTACTTTCATAAAGATCACATTTTTTTT
+AACGAGGTCATTTTAAACAGAACATCACACTAAAATGGCAGACAAAACACCCCCTTATGA
+ATCAACTGATATGGATTTAGACGATTTGGAGTTTGACGTCATGGAAGAACGTTTACATAC
+GCCTGGTCCCGTCCAAGATGACGATTTTACCTTCTTGGACGAAGAAAAAGAAAAATCCCC
+CTCAAAAGAGGAGAGTGAAAAGGAAAGTACGGAAGAAAACGTCTTGAAGATATACCAAGA
+CAAGTATAAAACACTGATGGAAGAGCTTTTCGTTG

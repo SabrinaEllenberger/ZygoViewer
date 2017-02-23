@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 3867 (length = 575, name = scf_9481) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3867 on both strands
+# start gene g8020
+scf_9481	AUGUSTUS	gene	1	575	0.33	+	.	g8020
+scf_9481	AUGUSTUS	transcript	1	575	0.33	+	.	g8020.t1
+scf_9481	AUGUSTUS	internal	152	575	0.33	+	0	transcript_id "g8020.t1"; gene_id "g8020";
+scf_9481	AUGUSTUS	intron	1	151	0.33	+	.	transcript_id "g8020.t1"; gene_id "g8020";
+scf_9481	AUGUSTUS	CDS	152	575	0.33	+	0	transcript_id "g8020.t1"; gene_id "g8020";
+# coding sequence = [gtggacattttgacagctatgaaatggacgaatgcgatttcgaagttcgaaatcagcaacaagacgatcgcaaactgct
+# tcaagcacaccaccctcttccatcatcattttcaagaaccgactgccatcactgccgaagacaacttggaagaagaaagcgacgacgaagaagaggtt
+# gtagaaacgatagatggctctttagaaacaatctacgggccagatttcattagatcgcaagacattgaatactgttttgataacgttattgaagaaga
+# ggcggagattgaaaacgaaaaggacgatgaagaagaagtgaaatttgtcgacaacaccatgcctcttgctgaagttcgaaaagtgctgaagcaaacaa
+# ttgacattcttcccctcaacaccgagaccgattttgaaatcaaaaaggcaa]
+# protein sequence = [VDILTAMKWTNAISKFEISNKTIANCFKHTTLFHHHFQEPTAITAEDNLEEESDDEEEVVETIDGSLETIYGPDFIRS
+# QDIEYCFDNVIEEEAEIENEKDDEEEVKFVDNTMPLAEVRKVLKQTIDILPLNTETDFEIKKA]
+# end gene g8020
+###
+#
+##FASTA
+>scf_9481
+CTTATTTTTGTCCATATGAGTTAGGAAGTATAGCATAATGCATTGACGAGATAATTAGCA
+AAAAAGAAAAAAGTCCGAAACATTTGAACACTTTTGCTGGTCACTGTACATTTCACTTTT
+TCGTGAGGAGAAAAGGAACAATGTTTTCAAGGTGGACATTTTGACAGCTATGAAATGGAC
+GAATGCGATTTCGAAGTTCGAAATCAGCAACAAGACGATCGCAAACTGCTTCAAGCACAC
+CACCCTCTTCCATCATCATTTTCAAGAACCGACTGCCATCACTGCCGAAGACAACTTGGA
+AGAAGAAAGCGACGACGAAGAAGAGGTTGTAGAAACGATAGATGGCTCTTTAGAAACAAT
+CTACGGGCCAGATTTCATTAGATCGCAAGACATTGAATACTGTTTTGATAACGTTATTGA
+AGAAGAGGCGGAGATTGAAAACGAAAAGGACGATGAAGAAGAAGTGAAATTTGTCGACAA
+CACCATGCCTCTTGCTGAAGTTCGAAAAGTGCTGAAGCAAACAATTGACATTCTTCCCCT
+CAACACCGAGACCGATTTTGAAATCAAAAAGGCAA

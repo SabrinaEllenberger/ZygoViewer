@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4587 (length = 270, name = scf_12341) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4587 on both strands
+# start gene g11840
+scf_12341	AUGUSTUS	gene	1	240	0.95	-	.	g11840
+scf_12341	AUGUSTUS	transcript	1	240	0.95	-	.	g11840.t1
+scf_12341	AUGUSTUS	initial	50	240	0.95	-	0	transcript_id "g11840.t1"; gene_id "g11840";
+scf_12341	AUGUSTUS	intron	1	49	0.95	-	.	transcript_id "g11840.t1"; gene_id "g11840";
+scf_12341	AUGUSTUS	CDS	50	240	0.95	-	0	transcript_id "g11840.t1"; gene_id "g11840";
+scf_12341	AUGUSTUS	start_codon	238	240	.	-	0	transcript_id "g11840.t1"; gene_id "g11840";
+# coding sequence = [atgctagaatggatccccaccttacttcgatacggccgtatacttcaggtcatatggtcctgtcactggaatgttgttt
+# ttgaagagatctcctggtcccacgccaacgccatgcaacgactccaacatggggaaacggcccgcaacaagatcggcgatgagggacggaaggaggtc
+# cctgaaaatgaata]
+# protein sequence = [MLEWIPTLLRYGRILQVIWSCHWNVVFEEISWSHANAMQRLQHGETARNKIGDEGRKEVPENE]
+# end gene g11840
+###
+#
+##FASTA
+>scf_12341
+GCTTTTATTTCACGAGACACACAGCAATCAACTAAACTAATCTATTCACTATTCATTTTC
+AGGGACCTCCTTCCGTCCCTCATCGCCGATCTTGTTGCGGGCCGTTTCCCCATGTTGGAG
+TCGTTGCATGGCGTTGGCGTGGGACCAGGAGATCTCTTCAAAAACAACATTCCAGTGACA
+GGACCATATGACCTGAAGTATACGGCCGTATCGAAGTAAGGTGGGGATCCATTCTAGCAT
+TGCTTTTGTCGAACGGGGGATGGACTGGAA

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4827 (length = 217, name = scf_13486) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4827 on both strands
+# start gene g12748
+scf_13486	AUGUSTUS	gene	1	174	0.8	-	.	g12748
+scf_13486	AUGUSTUS	transcript	1	174	0.8	-	.	g12748.t1
+scf_13486	AUGUSTUS	initial	21	174	0.8	-	0	transcript_id "g12748.t1"; gene_id "g12748";
+scf_13486	AUGUSTUS	intron	1	20	0.8	-	.	transcript_id "g12748.t1"; gene_id "g12748";
+scf_13486	AUGUSTUS	CDS	21	174	0.8	-	0	transcript_id "g12748.t1"; gene_id "g12748";
+scf_13486	AUGUSTUS	start_codon	172	174	.	-	0	transcript_id "g12748.t1"; gene_id "g12748";
+# coding sequence = [atgtcggcacgattggattctttggaagaaatagttgacgttgtcggcttgatcaacaagaagctcgactacatcattg
+# gcaagattgaccctcccgttgaactcgaacagcaaccagtaccaagggatctcgaaaagccgtccgcccctgaag]
+# protein sequence = [MSARLDSLEEIVDVVGLINKKLDYIIGKIDPPVELEQQPVPRDLEKPSAPE]
+# end gene g12748
+###
+#
+##FASTA
+>scf_13486
+TTCCTTCTTACCGTTCTTACCTTCAGGGGCGGACGGCTTTTCGAGATCCCTTGGTACTGG
+TTGCTGTTCGAGTTCAACGGGAGGGTCAATCTTGCCAATGATGTAGTCGAGCTTCTTGTT
+GATCAAGCCGACAACGTCAACTATTTCTTCCAAAGAATCCAATCGTGCCGACATGTGGTC
+GAGTCGCTCTTGAATGTTTCGCTTTTGCAGTGGTACG

@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4112 (length = 339, name = scf_10401) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4112 on both strands
+# start gene g8502
+scf_10401	AUGUSTUS	gene	1	339	0.56	+	.	g8502
+scf_10401	AUGUSTUS	transcript	1	339	0.56	+	.	g8502.t1
+scf_10401	AUGUSTUS	internal	1	319	0.56	+	0	transcript_id "g8502.t1"; gene_id "g8502";
+scf_10401	AUGUSTUS	intron	320	339	0.56	+	.	transcript_id "g8502.t1"; gene_id "g8502";
+scf_10401	AUGUSTUS	CDS	1	319	0.56	+	0	transcript_id "g8502.t1"; gene_id "g8502";
+# coding sequence = [ggtaaggaagtccttggtcgtatcatcaacgttatcggtgaacccattgacgaacgtggtcccatcaacgccaagaccc
+# accgtggtatccatgctgaagctcccgaattcgttgatcaatcgcccactcccgaaatcctcgaaaccggtatcaaggttgtcgatttattggctcct
+# tatgctcgtggtggtaagattggtctcttcggtggtgctggtgtcggcaagactgtgttgatccaagaactcatcaacaacatcgccaaggctcacgg
+# tggttactctatcttctgtggtgtcggtgaacgtactcgtgaag]
+# protein sequence = [GKEVLGRIINVIGEPIDERGPINAKTHRGIHAEAPEFVDQSPTPEILETGIKVVDLLAPYARGGKIGLFGGAGVGKTV
+# LIQELINNIAKAHGGYSIFCGVGERTRE]
+# end gene g8502
+###
+#
+##FASTA
+>scf_10401
+GGTAAGGAAGTCCTTGGTCGTATCATCAACGTTATCGGTGAACCCATTGACGAACGTGGT
+CCCATCAACGCCAAGACCCACCGTGGTATCCATGCTGAAGCTCCCGAATTCGTTGATCAA
+TCGCCCACTCCCGAAATCCTCGAAACCGGTATCAAGGTTGTCGATTTATTGGCTCCTTAT
+GCTCGTGGTGGTAAGATTGGTCTCTTCGGTGGTGCTGGTGTCGGCAAGACTGTGTTGATC
+CAAGAACTCATCAACAACATCGCCAAGGCTCACGGTGGTTACTCTATCTTCTGTGGTGTC
+GGTGAACGTACTCGTGAAGGTAACGATTTGTACCACGAA

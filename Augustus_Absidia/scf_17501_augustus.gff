@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 5312 (length = 217, name = scf_17501) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5312 on both strands
+# start gene g15470
+scf_17501	AUGUSTUS	gene	1	217	0.38	-	.	g15470
+scf_17501	AUGUSTUS	transcript	1	217	0.38	-	.	g15470.t1
+scf_17501	AUGUSTUS	internal	58	217	0.38	-	1	transcript_id "g15470.t1"; gene_id "g15470";
+scf_17501	AUGUSTUS	intron	1	57	0.41	-	.	transcript_id "g15470.t1"; gene_id "g15470";
+scf_17501	AUGUSTUS	CDS	58	217	0.38	-	1	transcript_id "g15470.t1"; gene_id "g15470";
+# coding sequence = [ctattatcgtggccacaataaggtttgtcctaacttccctcctgctctggtctctcaaaaccactcctcctccaacggt
+# gtcacccaacaaggacatcctactcagaccggtgttgctcccaagcatatgatcccgagatccaatggctctgcttcgcag]
+# protein sequence = [YYRGHNKVCPNFPPALVSQNHSSSNGVTQQGHPTQTGVAPKHMIPRSNGSASQ]
+# end gene g15470
+###
+#
+##FASTA
+>scf_17501
+AGTGTATCTAGTGGCTGCACGGGCCCTTTTACCCTTAAATGAATTGTTAGGCGTTACCTG
+CGAAGCAGAGCCATTGGATCTCGGGATCATATGCTTGGGAGCAACACCGGTCTGAGTAGG
+ATGTCCTTGTTGGGTGACACCGTTGGAGGAGGAGTGGTTTTGAGAGACCAGAGCAGGAGG
+GAAGTTAGGACAAACCTTATTGTGGCCACGATAATAG

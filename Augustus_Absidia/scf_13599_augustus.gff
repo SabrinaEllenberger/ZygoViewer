@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 4852 (length = 320, name = scf_13599) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4852 on both strands
+# start gene g13054
+scf_13599	AUGUSTUS	gene	1	320	1	+	.	g13054
+scf_13599	AUGUSTUS	transcript	1	320	1	+	.	g13054.t1
+scf_13599	AUGUSTUS	internal	1	97	1	+	1	transcript_id "g13054.t1"; gene_id "g13054";
+scf_13599	AUGUSTUS	internal	162	320	1	+	0	transcript_id "g13054.t1"; gene_id "g13054";
+scf_13599	AUGUSTUS	intron	98	161	1	+	.	transcript_id "g13054.t1"; gene_id "g13054";
+scf_13599	AUGUSTUS	CDS	1	97	1	+	1	transcript_id "g13054.t1"; gene_id "g13054";
+scf_13599	AUGUSTUS	CDS	162	320	1	+	0	transcript_id "g13054.t1"; gene_id "g13054";
+# coding sequence = [attcgaacgtctcttgcctcatgtcaagggtaacattggtttcgtcttcaccaacaacgacctgaaggaaatccgtgaa
+# aagatcctctccaaccgtgtcgctgctcctgctcgtgctaacgctgttgcccctagcgacgtcgttgtccccggtggtaacactggtatggaacccgg
+# taagacctccttcttccaagccctcggtatccctaccaagatttctcgtggtaccattgaaatcgtgtccgatgtgcaa]
+# protein sequence = [FERLLPHVKGNIGFVFTNNDLKEIREKILSNRVAAPARANAVAPSDVVVPGGNTGMEPGKTSFFQALGIPTKISRGTI
+# EIVSDVQ]
+# end gene g13054
+###
+#
+##FASTA
+>scf_13599
+ATTCGAACGTCTCTTGCCTCATGTCAAGGGTAACATTGGTTTCGTCTTCACCAACAACGA
+CCTGAAGGAAATCCGTGAAAAGATCCTCTCCAACCGTGTAAGTAACCCCCTACTATAGTG
+ACTAGTGATATGATTATTGACACTGGGCTTTATGAATTTAGGTCGCTGCTCCTGCTCGTG
+CTAACGCTGTTGCCCCTAGCGACGTCGTTGTCCCCGGTGGTAACACTGGTATGGAACCCG
+GTAAGACCTCCTTCTTCCAAGCCCTCGGTATCCCTACCAAGATTTCTCGTGGTACCATTG
+AAATCGTGTCCGATGTGCAA

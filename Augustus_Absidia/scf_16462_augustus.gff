@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 5260 (length = 325, name = scf_16462) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5260 on both strands
+# start gene g15296
+scf_16462	AUGUSTUS	gene	1	325	0.99	-	.	g15296
+scf_16462	AUGUSTUS	transcript	1	325	0.99	-	.	g15296.t1
+scf_16462	AUGUSTUS	internal	1	52	0.99	-	0	transcript_id "g15296.t1"; gene_id "g15296";
+scf_16462	AUGUSTUS	internal	121	325	1	-	1	transcript_id "g15296.t1"; gene_id "g15296";
+scf_16462	AUGUSTUS	intron	53	120	1	-	.	transcript_id "g15296.t1"; gene_id "g15296";
+scf_16462	AUGUSTUS	CDS	1	52	0.99	-	0	transcript_id "g15296.t1"; gene_id "g15296";
+scf_16462	AUGUSTUS	CDS	121	325	1	-	1	transcript_id "g15296.t1"; gene_id "g15296";
+# coding sequence = [cgcctgggtgttggacaagctcaaggccgaacgtgaacgtggtatcaccatcgatatcgctctctggaagttcgaaacc
+# cccaagtaccacgtcaccgtcattgacgctcctggccatcgtgatttcattaagaacatgattactggtacttctcaagctgattgcggtattcttat
+# cattgctgccggtactggtgaattcgaagctggtatctccaaggatggtcaaacccgtgaacacgctttgttggctttca]
+# protein sequence = [AWVLDKLKAERERGITIDIALWKFETPKYHVTVIDAPGHRDFIKNMITGTSQADCGILIIAAGTGEFEAGISKDGQTR
+# EHALLAF]
+# end gene g15296
+###
+#
+##FASTA
+>scf_16462
+TGAAAGCCAACAAAGCGTGTTCACGGGTTTGACCATCCTTGGAGATACCAGCCTACACAA
+AGTAAAAGAAGTCTATAAGTACAATGATCGCACACACATTACTCTGACCTATCTACTTAC
+TTCGAATTCACCAGTACCGGCAGCAATGATAAGAATACCGCAATCAGCTTGAGAAGTACC
+AGTAATCATGTTCTTAATGAAATCACGATGGCCAGGAGCGTCAATGACGGTGACGTGGTA
+CTTGGGGGTTTCGAACTTCCAGAGAGCGATATCGATGGTGATACCACGTTCACGTTCGGC
+CTTGAGCTTGTCCAACACCCAGGCG

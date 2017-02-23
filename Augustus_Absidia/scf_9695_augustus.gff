@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3937 (length = 217, name = scf_9695) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3937 on both strands
+# start gene g8177
+scf_9695	AUGUSTUS	gene	1	130	0.52	-	.	g8177
+scf_9695	AUGUSTUS	transcript	1	130	0.52	-	.	g8177.t1
+scf_9695	AUGUSTUS	initial	42	130	0.52	-	0	transcript_id "g8177.t1"; gene_id "g8177";
+scf_9695	AUGUSTUS	intron	1	41	0.64	-	.	transcript_id "g8177.t1"; gene_id "g8177";
+scf_9695	AUGUSTUS	CDS	42	130	0.52	-	0	transcript_id "g8177.t1"; gene_id "g8177";
+scf_9695	AUGUSTUS	start_codon	128	130	.	-	0	transcript_id "g8177.t1"; gene_id "g8177";
+# coding sequence = [atggttgaaaccaaattcgcaacagaagaacatatggaacaagccatcaaccaaggcattacagtagacgacgttcaat
+# atcgtgcggt]
+# protein sequence = [MVETKFATEEHMEQAINQGITVDDVQYRA]
+# end gene g8177
+###
+#
+##FASTA
+>scf_9695
+GGACCATTTTAGGGAGGTCCCCCCTATCTGAGCGAGTATACACCGCACGATATTGAACGT
+CGTCTACTGTAATGCCTTGGTTGATGGCTTGTTCCATATGTTCTTCTGTTGCGAATTTGG
+TTTCAACCATGAATTTGCCGTTGGCTCTATGCGGGGGGGCGGTAATGAGTCGACCTCCTA
+GCATTCGGCCTATTTGAGTTATCAACTCCTGGTACAC

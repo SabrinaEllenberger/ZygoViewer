@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4272 (length = 217, name = scf_11021) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4272 on both strands
+# start gene g9278
+scf_11021	AUGUSTUS	gene	1	151	1	+	.	g9278
+scf_11021	AUGUSTUS	transcript	1	151	1	+	.	g9278.t1
+scf_11021	AUGUSTUS	terminal	58	151	1	+	1	transcript_id "g9278.t1"; gene_id "g9278";
+scf_11021	AUGUSTUS	intron	1	57	1	+	.	transcript_id "g9278.t1"; gene_id "g9278";
+scf_11021	AUGUSTUS	CDS	58	148	1	+	1	transcript_id "g9278.t1"; gene_id "g9278";
+scf_11021	AUGUSTUS	stop_codon	149	151	.	+	0	transcript_id "g9278.t1"; gene_id "g9278";
+# coding sequence = [tgtgggcttccgtccagcggtgacccagttggccgtcatggttgcgcaaggtatcgagtggggcagtcaactcagcaaa
+# gtatggtatgtatag]
+# protein sequence = [VGFRPAVTQLAVMVAQGIEWGSQLSKVWYV]
+# end gene g9278
+###
+#
+##FASTA
+>scf_11021
+GGGCATGGATGGCCGAAGAGTGTAAAAGAGCGGTTTTAATTCTGGCAAATGCTTTAGTGT
+GGGCTTCCGTCCAGCGGTGACCCAGTTGGCCGTCATGGTTGCGCAAGGTATCGAGTGGGG
+CAGTCAACTCAGCAAAGTATGGTATGTATAGGCGGAAGTAATTGACCAAGCCTAAGAACT
+GTTGTATTTGCTTGCCTGATTTAGGTTGGGGCCATTC

@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 5208 (length = 217, name = scf_15885) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5208 on both strands
+# start gene g15209
+scf_15885	AUGUSTUS	gene	1	132	0.66	-	.	g15209
+scf_15885	AUGUSTUS	transcript	1	132	0.66	-	.	g15209.t1
+scf_15885	AUGUSTUS	initial	1	132	0.66	-	0	transcript_id "g15209.t1"; gene_id "g15209";
+scf_15885	AUGUSTUS	CDS	1	132	0.66	-	0	transcript_id "g15209.t1"; gene_id "g15209";
+scf_15885	AUGUSTUS	start_codon	130	132	.	-	0	transcript_id "g15209.t1"; gene_id "g15209";
+# coding sequence = [atgttatccaaggccaatatcaagaaacgtctcaattgggccaaggcacaccaattttggactcccgacgactggaaac
+# gagtgatttggtccgatgagactaaaatcaatcgatttcaatcagatggtcga]
+# protein sequence = [MLSKANIKKRLNWAKAHQFWTPDDWKRVIWSDETKINRFQSDGR]
+# end gene g15209
+###
+#
+##FASTA
+>scf_15885
+TCGACCATCTGATTGAAATCGATTGATTTTAGTCTCATCGGACCAAATCACTCGTTTCCA
+GTCGTCGGGAGTCCAAAATTGGTGTGCCTTGGCCCAATTGAGACGTTTCTTGATATTGGC
+CTTGGATAACATCGGCTTTGGTTTCTTCTCGATTGCTCCCAAACCAGCAGCTTTCAACGT
+TCTACGCACTGTATCCACACTGACAGATATACCAAGA

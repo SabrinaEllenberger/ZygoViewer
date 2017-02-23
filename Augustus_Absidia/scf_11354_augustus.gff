@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 4335 (length = 358, name = scf_11354) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4335 on both strands
+# start gene g9584
+scf_11354	AUGUSTUS	gene	1	315	0.43	+	.	g9584
+scf_11354	AUGUSTUS	transcript	1	315	0.43	+	.	g9584.t1
+scf_11354	AUGUSTUS	internal	1	230	0.44	+	1	transcript_id "g9584.t1"; gene_id "g9584";
+scf_11354	AUGUSTUS	terminal	290	315	0.52	+	2	transcript_id "g9584.t1"; gene_id "g9584";
+scf_11354	AUGUSTUS	intron	231	289	0.45	+	.	transcript_id "g9584.t1"; gene_id "g9584";
+scf_11354	AUGUSTUS	CDS	1	230	0.44	+	1	transcript_id "g9584.t1"; gene_id "g9584";
+scf_11354	AUGUSTUS	CDS	290	312	0.52	+	2	transcript_id "g9584.t1"; gene_id "g9584";
+scf_11354	AUGUSTUS	stop_codon	313	315	.	+	0	transcript_id "g9584.t1"; gene_id "g9584";
+# coding sequence = [agaacgcaagattcacgctgtagactgtattgctctcgacggcggttatacccagttcatcagccagttactccatgat
+# gcacccgccttatctgacaagaacttttgttgcccgattagaaagtcagccggggtgtcactcaccagctctgaggcattgtacaacgagatgtttgg
+# aagtttccgttcaagcatcgaatccaagttcggtgagttggtgtctaccttctttccagctggcatgtctacttcttaa]
+# protein sequence = [ERKIHAVDCIALDGGYTQFISQLLHDAPALSDKNFCCPIRKSAGVSLTSSEALYNEMFGSFRSSIESKFGELVSTFFP
+# AGMSTS]
+# end gene g9584
+###
+#
+##FASTA
+>scf_11354
+AGAACGCAAGATTCACGCTGTAGACTGTATTGCTCTCGACGGCGGTTATACCCAGTTCAT
+CAGCCAGTTACTCCATGATGCACCCGCCTTATCTGACAAGAACTTTTGTTGCCCGATTAG
+AAAGTCAGCCGGGGTGTCACTCACCAGCTCTGAGGCATTGTACAACGAGATGTTTGGAAG
+TTTCCGTTCAAGCATCGAATCCAAGTTCGGTGAGTTGGTGTCTACCTTCTGTAAGTTTGG
+TAACGGCAGTCCAATCAGGGTGAACAACATCGATACCTTTGTAGTACAGTTCCAGCTGGC
+ATGTCTACTTCTTAACATCAAGGACTTTGTACATATGTTGAACATGCCATTGCGGCCC

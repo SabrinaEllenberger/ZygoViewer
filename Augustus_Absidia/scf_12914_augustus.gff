@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4735 (length = 217, name = scf_12914) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4735 on both strands
+# start gene g12462
+scf_12914	AUGUSTUS	gene	1	217	0.69	+	.	g12462
+scf_12914	AUGUSTUS	transcript	1	217	0.69	+	.	g12462.t1
+scf_12914	AUGUSTUS	internal	1	212	0.69	+	1	transcript_id "g12462.t1"; gene_id "g12462";
+scf_12914	AUGUSTUS	intron	213	217	0.84	+	.	transcript_id "g12462.t1"; gene_id "g12462";
+scf_12914	AUGUSTUS	CDS	1	212	0.69	+	1	transcript_id "g12462.t1"; gene_id "g12462";
+# coding sequence = [cttcgtccccatctctggctggcacggtgacaacatgttggaagaatctaccaacatgccctggtacaagggatggaac
+# aaggaaaccaaggctggtgccaagtctggtaagactctcttggatgccatcgatgctattgatcctcctcaacgtccttccgacaagcccctccgtct
+# ccctcttcaagatgtgtacaagatcggtggtattg]
+# protein sequence = [FVPISGWHGDNMLEESTNMPWYKGWNKETKAGAKSGKTLLDAIDAIDPPQRPSDKPLRLPLQDVYKIGGI]
+# end gene g12462
+###
+#
+##FASTA
+>scf_12914
+CTTCGTCCCCATCTCTGGCTGGCACGGTGACAACATGTTGGAAGAATCTACCAACATGCC
+CTGGTACAAGGGATGGAACAAGGAAACCAAGGCTGGTGCCAAGTCTGGTAAGACTCTCTT
+GGATGCCATCGATGCTATTGATCCTCCTCAACGTCCTTCCGACAAGCCCCTCCGTCTCCC
+TCTTCAAGATGTGTACAAGATCGGTGGTATTGGTACT

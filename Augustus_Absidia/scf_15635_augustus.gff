@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 5185 (length = 340, name = scf_15635) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5185 on both strands
+# start gene g15205
+scf_15635	AUGUSTUS	gene	1	340	0.86	+	.	g15205
+scf_15635	AUGUSTUS	transcript	1	340	0.86	+	.	g15205.t1
+scf_15635	AUGUSTUS	internal	90	340	0.86	+	1	transcript_id "g15205.t1"; gene_id "g15205";
+scf_15635	AUGUSTUS	intron	1	89	0.87	+	.	transcript_id "g15205.t1"; gene_id "g15205";
+scf_15635	AUGUSTUS	CDS	90	340	0.86	+	1	transcript_id "g15205.t1"; gene_id "g15205";
+# coding sequence = [ggtccgtaccgaacgcatgcttcaagtgtgtgtgatgcctggtccgaaaagcccaaaaggtgctggattctggtcgttt
+# ttgcgtccattgatggatgaactggcggtcctggccacagctggcatggtggtcacttgcgacgatgggacgaccgtgcgatcgaaggtgcatttgtt
+# ggtggcgactggtgatatgcctgcggctgcaactttgtccggtcattctggccatatgtcgacttacggctgcc]
+# protein sequence = [VRTERMLQVCVMPGPKSPKGAGFWSFLRPLMDELAVLATAGMVVTCDDGTTVRSKVHLLVATGDMPAAATLSGHSGHM
+# STYGC]
+# end gene g15205
+###
+#
+##FASTA
+>scf_15635
+CCCAGCATCCGGTAAACAGAGGGAAGAAAGACAAGGCCAAGGAATCATATAGCTCGATAC
+TCATTTTACTACACCTGTGTATTTTATAGGGTCCGTACCGAACGCATGCTTCAAGTGTGT
+GTGATGCCTGGTCCGAAAAGCCCAAAAGGTGCTGGATTCTGGTCGTTTTTGCGTCCATTG
+ATGGATGAACTGGCGGTCCTGGCCACAGCTGGCATGGTGGTCACTTGCGACGATGGGACG
+ACCGTGCGATCGAAGGTGCATTTGTTGGTGGCGACTGGTGATATGCCTGCGGCTGCAACT
+TTGTCCGGTCATTCTGGCCATATGTCGACTTACGGCTGCC

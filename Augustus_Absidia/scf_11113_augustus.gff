@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4301 (length = 217, name = scf_11113) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4301 on both strands
+# start gene g9306
+scf_11113	AUGUSTUS	gene	1	125	0.4	-	.	g9306
+scf_11113	AUGUSTUS	transcript	1	125	0.4	-	.	g9306.t1
+scf_11113	AUGUSTUS	initial	1	125	0.4	-	0	transcript_id "g9306.t1"; gene_id "g9306";
+scf_11113	AUGUSTUS	CDS	1	125	0.4	-	0	transcript_id "g9306.t1"; gene_id "g9306";
+scf_11113	AUGUSTUS	start_codon	123	125	.	-	0	transcript_id "g9306.t1"; gene_id "g9306";
+# coding sequence = [atgagaaaggacggctctatcataaagaccaatgtgtccgatgattctgttcttcgaatgatgatgatcactcattccg
+# gtgctatcaaccttgtaaagcgctttggtgatgttcttgctgttga]
+# protein sequence = [MRKDGSIIKTNVSDDSVLRMMMITHSGAINLVKRFGDVLAV]
+# end gene g9306
+###
+#
+##FASTA
+>scf_11113
+TCAACAGCAAGAACATCACCAAAGCGCTTTACAAGGTTGATAGCACCGGAATGAGTGATC
+ATCATCATTCGAAGAACAGAATCATCGGACACATTGGTCTTTATGATAGAGCCGTCCTTT
+CTCATTTGATCAATTTGATGCATCAACTGATCGTCCTTGGATTTCCCGAGAAATGAAGCC
+TTCACTACACGCTGGTTGATGTTATAGACATCCACCG

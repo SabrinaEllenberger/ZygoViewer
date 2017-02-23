@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 5169 (length = 217, name = scf_15443) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5169 on both strands
+# start gene g15202
+scf_15443	AUGUSTUS	gene	1	214	0.87	+	.	g15202
+scf_15443	AUGUSTUS	transcript	1	214	0.87	+	.	g15202.t1
+scf_15443	AUGUSTUS	terminal	40	214	0.87	+	1	transcript_id "g15202.t1"; gene_id "g15202";
+scf_15443	AUGUSTUS	intron	1	39	0.87	+	.	transcript_id "g15202.t1"; gene_id "g15202";
+scf_15443	AUGUSTUS	CDS	40	211	0.87	+	1	transcript_id "g15202.t1"; gene_id "g15202";
+scf_15443	AUGUSTUS	stop_codon	212	214	.	+	0	transcript_id "g15202.t1"; gene_id "g15202";
+# coding sequence = [atgcgtccctgactgtctcgatgcgcttggtaatagcggggatgatcacatgttccacattgtcgatcaattcctccac
+# attatctcgttcctgaatggacggtacatggcgctcgatttggggatcatccgatctgtagtcgatgaagccattcagtctcctgaaaaacattaa]
+# protein sequence = [CVPDCLDALGNSGDDHMFHIVDQFLHIISFLNGRYMALDLGIIRSVVDEAIQSPEKH]
+# end gene g15202
+###
+#
+##FASTA
+>scf_15443
+ACTCGACTATTTTGTTTTTCTTGTTGAAGCTATTTTTAGATGCGTCCCTGACTGTCTCGA
+TGCGCTTGGTAATAGCGGGGATGATCACATGTTCCACATTGTCGATCAATTCCTCCACAT
+TATCTCGTTCCTGAATGGACGGTACATGGCGCTCGATTTGGGGATCATCCGATCTGTAGT
+CGATGAAGCCATTCAGTCTCCTGAAAAACATTAAAGA

@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 4542 (length = 394, name = scf_12136) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4542 on both strands
+# start gene g11111
+scf_12136	AUGUSTUS	gene	1	348	0.46	+	.	g11111
+scf_12136	AUGUSTUS	transcript	1	348	0.46	+	.	g11111.t1
+scf_12136	AUGUSTUS	internal	1	99	0.46	+	2	transcript_id "g11111.t1"; gene_id "g11111";
+scf_12136	AUGUSTUS	terminal	173	348	0.98	+	2	transcript_id "g11111.t1"; gene_id "g11111";
+scf_12136	AUGUSTUS	intron	100	172	0.48	+	.	transcript_id "g11111.t1"; gene_id "g11111";
+scf_12136	AUGUSTUS	CDS	1	99	0.46	+	2	transcript_id "g11111.t1"; gene_id "g11111";
+scf_12136	AUGUSTUS	CDS	173	345	0.98	+	2	transcript_id "g11111.t1"; gene_id "g11111";
+scf_12136	AUGUSTUS	stop_codon	346	348	.	+	0	transcript_id "g11111.t1"; gene_id "g11111";
+# coding sequence = [tctcttccactatctgtcctatctgcttagttccaactaagacgattaatcaacgcaagaagcatgctaaatgcaggga
+# cgcaagacttgatcaacctggtccaagcgaaagctcttctcagcaatccgtcatcacgacagaaccattggtcacaatggcaatcgacatggaggacg
+# acctggttgatttcgacttcgatgatggggcaacaactgccagcttgaacacccacttcaccctctcagaacgtaatgtccaacaagagtggctttga]
+# protein sequence = [SSTICPICLVPTKTINQRKKHAKCRDARLDQPGPSESSSQQSVITTEPLVTMAIDMEDDLVDFDFDDGATTASLNTHF
+# TLSERNVQQEWL]
+# end gene g11111
+###
+#
+##FASTA
+>scf_12136
+TCTCTTCCACTATCTGTCCTATCTGCTTAGTTCCAACTAAGACGATTAATCAACGCAAGA
+AGCATGCTAAATGCAGGGACGCAAGACTTGATCAACCTGGTATGTATGATTCGTAAAACA
+GCTCATTATCCTCCATAAAAGTGTTTAACACTTACTTGCTTGTTTTGTTTAGGTCCAAGC
+GAAAGCTCTTCTCAGCAATCCGTCATCACGACAGAACCATTGGTCACAATGGCAATCGAC
+ATGGAGGACGACCTGGTTGATTTCGACTTCGATGATGGGGCAACAACTGCCAGCTTGAAC
+ACCCACTTCACCCTCTCAGAACGTAATGTCCAACAAGAGTGGCTTTGAAACAATGGAGCA
+CAAAACACAAGCTAACATGCACGTTTCTCTTTTG

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4068 (length = 229, name = scf_10206) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4068 on both strands
+# start gene g8493
+scf_10206	AUGUSTUS	gene	1	219	1	+	.	g8493
+scf_10206	AUGUSTUS	transcript	1	219	1	+	.	g8493.t1
+scf_10206	AUGUSTUS	terminal	1	219	1	+	0	transcript_id "g8493.t1"; gene_id "g8493";
+scf_10206	AUGUSTUS	CDS	1	216	1	+	0	transcript_id "g8493.t1"; gene_id "g8493";
+scf_10206	AUGUSTUS	stop_codon	217	219	.	+	0	transcript_id "g8493.t1"; gene_id "g8493";
+# coding sequence = [actgctgctaccgaaaagaccaagacctctatcaatgtccacctcgacgaacacgctggagccatccacgaacatgttg
+# aaaagaagaagtctcactctggtgctatcgctggtactatcgctgctggaactgctattgttggtggaatcatcgccaagaagcatcacgaccataag
+# gaagctgaaaagaaggtaagttcaatggacatactcatgtag]
+# protein sequence = [TAATEKTKTSINVHLDEHAGAIHEHVEKKKSHSGAIAGTIAAGTAIVGGIIAKKHHDHKEAEKKVSSMDILM]
+# end gene g8493
+###
+#
+##FASTA
+>scf_10206
+ACTGCTGCTACCGAAAAGACCAAGACCTCTATCAATGTCCACCTCGACGAACACGCTGGA
+GCCATCCACGAACATGTTGAAAAGAAGAAGTCTCACTCTGGTGCTATCGCTGGTACTATC
+GCTGCTGGAACTGCTATTGTTGGTGGAATCATCGCCAAGAAGCATCACGACCATAAGGAA
+GCTGAAAAGAAGGTAAGTTCAATGGACATACTCATGTAGAGCCTCAGCT

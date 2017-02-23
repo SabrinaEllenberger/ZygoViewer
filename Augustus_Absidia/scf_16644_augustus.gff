@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 5275 (length = 217, name = scf_16644) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5275 on both strands
+# start gene g15464
+scf_16644	AUGUSTUS	gene	1	179	0.32	-	.	g15464
+scf_16644	AUGUSTUS	transcript	1	179	0.32	-	.	g15464.t1
+scf_16644	AUGUSTUS	initial	56	179	0.32	-	0	transcript_id "g15464.t1"; gene_id "g15464";
+scf_16644	AUGUSTUS	intron	1	55	0.37	-	.	transcript_id "g15464.t1"; gene_id "g15464";
+scf_16644	AUGUSTUS	CDS	56	179	0.32	-	0	transcript_id "g15464.t1"; gene_id "g15464";
+scf_16644	AUGUSTUS	start_codon	177	179	.	-	0	transcript_id "g15464.t1"; gene_id "g15464";
+# coding sequence = [atgcgagctgaaaacaccactggcttccataaacgacccaatgacgactctgatcatggacgacgatcaaagcaaaaga
+# ctagatgcctcctgcatcccaacggctcacacagcaccagtgaat]
+# protein sequence = [MRAENTTGFHKRPNDDSDHGRRSKQKTRCLLHPNGSHSTSE]
+# end gene g15464
+###
+#
+##FASTA
+>scf_16644
+TAGCGGCAAGGCCGGGGTTGTTGTTGGTTTCCTTGAGCTCTCTTTAATGCCTCACATTCA
+CTGGTGCTGTGTGAGCCGTTGGGATGCAGGAGGCATCTAGTCTTTTGCTTTGATCGTCGT
+CCATGATCAGAGTCGTCATTGGGTCGTTTATGGAAGCCAGTGGTGTTTTCAGCTCGCATA
+GCCTGTAGGTTGCTAGGCAGAATCTGTACTCTGGTAG

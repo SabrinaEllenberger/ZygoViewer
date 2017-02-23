@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4550 (length = 217, name = scf_12160) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4550 on both strands
+# start gene g11113
+scf_12160	AUGUSTUS	gene	1	217	0.37	+	.	g11113
+scf_12160	AUGUSTUS	transcript	1	217	0.37	+	.	g11113.t1
+scf_12160	AUGUSTUS	internal	46	217	0.37	+	1	transcript_id "g11113.t1"; gene_id "g11113";
+scf_12160	AUGUSTUS	intron	1	45	0.37	+	.	transcript_id "g11113.t1"; gene_id "g11113";
+scf_12160	AUGUSTUS	CDS	46	217	0.37	+	1	transcript_id "g11113.t1"; gene_id "g11113";
+# coding sequence = [gagaacccgccaaagacaaaatcagccaacacaagtgccagagacgattgtgatcgacgacgatgatgatgatgatgcg
+# cctacagaagttgaagttgaagaggaagaagcacctggcaccaataacgaagttgaagaagaagaagatggtgtcccgataacggatgtggag]
+# protein sequence = [RTRQRQNQPTQVPETIVIDDDDDDDAPTEVEVEEEEAPGTNNEVEEEEDGVPITDVE]
+# end gene g11113
+###
+#
+##FASTA
+>scf_12160
+TCCCAGAGGGCAGAATGCCGACGATCCCTTCATTTTGCCACGAAGGAGAACCCGCCAAAG
+ACAAAATCAGCCAACACAAGTGCCAGAGACGATTGTGATCGACGACGATGATGATGATGA
+TGCGCCTACAGAAGTTGAAGTTGAAGAGGAAGAAGCACCTGGCACCAATAACGAAGTTGA
+AGAAGAAGAAGATGGTGTCCCGATAACGGATGTGGAG

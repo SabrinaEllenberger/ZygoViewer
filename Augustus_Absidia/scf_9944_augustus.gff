@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4000 (length = 217, name = scf_9944) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4000 on both strands
+# start gene g8329
+scf_9944	AUGUSTUS	gene	1	188	0.75	-	.	g8329
+scf_9944	AUGUSTUS	transcript	1	188	0.75	-	.	g8329.t1
+scf_9944	AUGUSTUS	initial	1	188	0.75	-	0	transcript_id "g8329.t1"; gene_id "g8329";
+scf_9944	AUGUSTUS	CDS	1	188	0.75	-	0	transcript_id "g8329.t1"; gene_id "g8329";
+scf_9944	AUGUSTUS	start_codon	186	188	.	-	0	transcript_id "g8329.t1"; gene_id "g8329";
+# coding sequence = [atggaaagtacaagtggggatgtgacgaatcaggacacgactaatgacttcgactttggagctgacgtagtgatgtcca
+# cggcaactgatggaacaagcaacgatggtgacgccgatgctgcttctagtgcttacaatgctagtgaagattcttgtgaagaaggtgatgactcctat
+# ggaaacacagt]
+# protein sequence = [MESTSGDVTNQDTTNDFDFGADVVMSTATDGTSNDGDADAASSAYNASEDSCEEGDDSYGNT]
+# end gene g8329
+###
+#
+##FASTA
+>scf_9944
+ACTGTGTTTCCATAGGAGTCATCACCTTCTTCACAAGAATCTTCACTAGCATTGTAAGCA
+CTAGAAGCAGCATCGGCGTCACCATCGTTGCTTGTTCCATCAGTTGCCGTGGACATCACT
+ACGTCAGCTCCAAAGTCGAAGTCATTAGTCGTGTCCTGATTCGTCACATCCCCACTTGTA
+CTTTCCATAGCGTTCGCGGCAACTTCAGAGCTTGTAG

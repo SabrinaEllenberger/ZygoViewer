@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4482 (length = 217, name = scf_11870) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4482 on both strands
+# start gene g10275
+scf_11870	AUGUSTUS	gene	1	131	0.44	-	.	g10275
+scf_11870	AUGUSTUS	transcript	1	131	0.44	-	.	g10275.t1
+scf_11870	AUGUSTUS	initial	53	131	0.44	-	0	transcript_id "g10275.t1"; gene_id "g10275";
+scf_11870	AUGUSTUS	intron	1	52	0.51	-	.	transcript_id "g10275.t1"; gene_id "g10275";
+scf_11870	AUGUSTUS	CDS	53	131	0.44	-	0	transcript_id "g10275.t1"; gene_id "g10275";
+scf_11870	AUGUSTUS	start_codon	129	131	.	-	0	transcript_id "g10275.t1"; gene_id "g10275";
+# coding sequence = [atggtgacctctatgcttgttacgttcggcgaggacgggacaaacatcattgtgcttgtgcacgaagggcttgccacag]
+# protein sequence = [MVTSMLVTFGEDGTNIIVLVHEGLAT]
+# end gene g10275
+###
+#
+##FASTA
+>scf_11870
+CCCGTCCTTGCCGCAACCGCTGGACTGACCCCAAAACTGGCAAGGAACTCACCTGTGGCA
+AGCCCTTCGTGCACAAGCACAATGATGTTTGTCCCGTCCTCGCCGAACGTAACAAGCATA
+GAGGTCACCATGGCAGCCACAAGAGTAGCAGCGACTCACGTCCCTCCTACTCCCAAAAAG
+GAAATAATTCAAAGTCCGACAAATATGCAAGATCTGC

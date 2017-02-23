@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4453 (length = 219, name = scf_11782) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4453 on both strands
+# start gene g9846
+scf_11782	AUGUSTUS	gene	1	104	0.97	-	.	g9846
+scf_11782	AUGUSTUS	transcript	1	104	0.97	-	.	g9846.t1
+scf_11782	AUGUSTUS	initial	18	104	0.97	-	0	transcript_id "g9846.t1"; gene_id "g9846";
+scf_11782	AUGUSTUS	intron	1	17	0.97	-	.	transcript_id "g9846.t1"; gene_id "g9846";
+scf_11782	AUGUSTUS	CDS	18	104	0.97	-	0	transcript_id "g9846.t1"; gene_id "g9846";
+scf_11782	AUGUSTUS	start_codon	102	104	.	-	0	transcript_id "g9846.t1"; gene_id "g9846";
+# coding sequence = [atggtcaaggctcaagtccacaccgatgtcaaggacttcatcaaacattttgagatggccttcaaggtggccgaaatag
+# acgtgcag]
+# protein sequence = [MVKAQVHTDVKDFIKHFEMAFKVAEIDVQ]
+# end gene g9846
+###
+#
+##FASTA
+>scf_11782
+TACTTGCCATAGTGTACCTGCACGTCTATTTCGGCCACCTTGAAGGCCATCTCAAAATGT
+TTGATGAAGTCCTTGACATCGGTGTGGACTTGAGCCTTGACCATTCTACTGTAGGCTTGC
+TTTCGTAGATGCCCTTGAGTCCCGGGACATCTTGTTGAGGCACAGTCGCTGCTTTGCTGC
+CGTTGCTGTCGCCTAAGTTACGAGCTTCGATCGCTGGGG

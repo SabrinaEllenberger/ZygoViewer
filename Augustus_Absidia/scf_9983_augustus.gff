@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 4014 (length = 285, name = scf_9983) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4014 on both strands
+# start gene g8331
+scf_9983	AUGUSTUS	gene	1	180	0.6	+	.	g8331
+scf_9983	AUGUSTUS	transcript	1	180	0.6	+	.	g8331.t1
+scf_9983	AUGUSTUS	terminal	51	180	0.6	+	1	transcript_id "g8331.t1"; gene_id "g8331";
+scf_9983	AUGUSTUS	intron	1	50	0.62	+	.	transcript_id "g8331.t1"; gene_id "g8331";
+scf_9983	AUGUSTUS	CDS	51	177	0.6	+	1	transcript_id "g8331.t1"; gene_id "g8331";
+scf_9983	AUGUSTUS	stop_codon	178	180	.	+	0	transcript_id "g8331.t1"; gene_id "g8331";
+# coding sequence = [attctctcgccattgccttgatgaagagcactgcccttttgccgactctgccacttatacctttgtgactcccgccagc
+# tctcatctccttcatcgctttggttattacactagattagtcttgtcctga]
+# protein sequence = [FSRHCLDEEHCPFADSATYTFVTPASSHLLHRFGYYTRLVLS]
+# end gene g8331
+###
+#
+##FASTA
+>scf_9983
+TGGGGAAACCCTTTGAAGTTTTTTCTCATTGTATTGACTTTCCATAGTAGATTCTCTCGC
+CATTGCCTTGATGAAGAGCACTGCCCTTTTGCCGACTCTGCCACTTATACCTTTGTGACT
+CCCGCCAGCTCTCATCTCCTTCATCGCTTTGGTTATTACACTAGATTAGTCTTGTCCTGA
+CTTGTCAGCCCTCTCATTCTCACTCAGACTTGTAGTTTAGCCCTAGATGTAGCCAGCTTT
+TAGCGTACCAATCAATAAAACTCAGACTTTTAAGTGAATGGATAC

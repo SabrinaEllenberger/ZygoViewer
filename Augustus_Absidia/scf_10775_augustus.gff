@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 4214 (length = 346, name = scf_10775) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4214 on both strands
+# start gene g9227
+scf_10775	AUGUSTUS	gene	1	339	0.42	+	.	g9227
+scf_10775	AUGUSTUS	transcript	1	339	0.42	+	.	g9227.t1
+scf_10775	AUGUSTUS	terminal	129	339	0.42	+	1	transcript_id "g9227.t1"; gene_id "g9227";
+scf_10775	AUGUSTUS	intron	1	128	0.42	+	.	transcript_id "g9227.t1"; gene_id "g9227";
+scf_10775	AUGUSTUS	CDS	129	336	0.42	+	1	transcript_id "g9227.t1"; gene_id "g9227";
+scf_10775	AUGUSTUS	stop_codon	337	339	.	+	0	transcript_id "g9227.t1"; gene_id "g9227";
+# coding sequence = [cagcaaacggcatctcaacttcttcactatccagcaacaccgtttgatcacgcccaaacccaccatcactcaacaacgt
+# tctttcatcgactgctttgaaggagcatcgcactttggaagatatgacaatgttaacggaaatcgacgatatatggtctacagcagccacctgcaaga
+# agccggaatgggcacgacttgcttcttgggatga]
+# protein sequence = [SKRHLNFFTIQQHRLITPKPTITQQRSFIDCFEGASHFGRYDNVNGNRRYMVYSSHLQEAGMGTTCFLG]
+# end gene g9227
+###
+#
+##FASTA
+>scf_10775
+CACCTTTTAAAGTAATGCTCACCTTTTGTTTGTTGTAATAGTTGACGGTGATCATCCTGG
+TTCTATAGCTCTGGACACTCTTGGGAGCAATCCATTTGATCTAACGAGCGCAATATTACC
+ACCAATAGCAGCAAACGGCATCTCAACTTCTTCACTATCCAGCAACACCGTTTGATCACG
+CCCAAACCCACCATCACTCAACAACGTTCTTTCATCGACTGCTTTGAAGGAGCATCGCAC
+TTTGGAAGATATGACAATGTTAACGGAAATCGACGATATATGGTCTACAGCAGCCACCTG
+CAAGAAGCCGGAATGGGCACGACTTGCTTCTTGGGATGATATGGGT

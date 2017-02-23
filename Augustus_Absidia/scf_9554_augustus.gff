@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 3894 (length = 255, name = scf_9554) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3894 on both strands
+# start gene g8031
+scf_9554	AUGUSTUS	gene	1	219	0.99	-	.	g8031
+scf_9554	AUGUSTUS	transcript	1	219	0.99	-	.	g8031.t1
+scf_9554	AUGUSTUS	initial	1	219	0.99	-	0	transcript_id "g8031.t1"; gene_id "g8031";
+scf_9554	AUGUSTUS	CDS	1	219	0.99	-	0	transcript_id "g8031.t1"; gene_id "g8031";
+scf_9554	AUGUSTUS	start_codon	217	219	.	-	0	transcript_id "g8031.t1"; gene_id "g8031";
+# coding sequence = [atggatccccatcaagaatctgttgctgaccccgttgttcccttggtgaccgacgaagatgttgttatggaaccagtgg
+# atgaagttacggtgcccaccctggaagccactttggaccacaccaagaaggaattgaagaagaccaccatgttggcctatcaagcgttgctcatggaa
+# ttcaaggagttggtggccagttcggatactgatgaggcgaag]
+# protein sequence = [MDPHQESVADPVVPLVTDEDVVMEPVDEVTVPTLEATLDHTKKELKKTTMLAYQALLMEFKELVASSDTDEAK]
+# end gene g8031
+###
+#
+##FASTA
+>scf_9554
+CTTCGCCTCATCAGTATCCGAACTGGCCACCAACTCCTTGAATTCCATGAGCAACGCTTG
+ATAGGCCAACATGGTGGTCTTCTTCAATTCCTTCTTGGTGTGGTCCAAAGTGGCTTCCAG
+GGTGGGCACCGTAACTTCATCCACTGGTTCCATAACAACATCTTCGTCGGTCACCAAGGG
+AACAACGGGGTCAGCAACAGATTCTTGATGGGGATCCATTAGAGTAGTTCACTTAAAAAA
+ATGTAGTATAGGGGG

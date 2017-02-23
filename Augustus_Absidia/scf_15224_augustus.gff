@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 5123 (length = 227, name = scf_15224) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5123 on both strands
+# start gene g15177
+scf_15224	AUGUSTUS	gene	1	160	0.62	-	.	g15177
+scf_15224	AUGUSTUS	transcript	1	160	0.62	-	.	g15177.t1
+scf_15224	AUGUSTUS	initial	1	160	0.62	-	0	transcript_id "g15177.t1"; gene_id "g15177";
+scf_15224	AUGUSTUS	CDS	1	160	0.62	-	0	transcript_id "g15177.t1"; gene_id "g15177";
+scf_15224	AUGUSTUS	start_codon	158	160	.	-	0	transcript_id "g15177.t1"; gene_id "g15177";
+# coding sequence = [atgctcattgatgtgttggcggccgataaacgatctcactctgtcgactacctggatgaacagaaaaggaccaagattc
+# aagacactcgggaaccagcggattacacaatgatcaatgttgaagatattgctcctcgacccaagaaaacaaccaaacctt]
+# protein sequence = [MLIDVLAADKRSHSVDYLDEQKRTKIQDTREPADYTMINVEDIAPRPKKTTKP]
+# end gene g15177
+###
+#
+##FASTA
+>scf_15224
+AAGGTTTGGTTGTTTTCTTGGGTCGAGGAGCAATATCTTCAACATTGATCATTGTGTAAT
+CCGCTGGTTCCCGAGTGTCTTGAATCTTGGTCCTTTTCTGTTCATCCAGGTAGTCGACAG
+AGTGAGATCGTTTATCGGCCGCCAACACATCAATGAGCATGGAATCAGTTGTAGGGGATG
+CAGAGGGGGCCGAGTTCTTTCGGAATTGACGAGCAGCTATAGCCTTG

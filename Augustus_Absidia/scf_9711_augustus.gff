@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3945 (length = 312, name = scf_9711) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3945 on both strands
+# start gene g8214
+scf_9711	AUGUSTUS	gene	1	273	0.86	-	.	g8214
+scf_9711	AUGUSTUS	transcript	1	273	0.86	-	.	g8214.t1
+scf_9711	AUGUSTUS	initial	12	273	0.86	-	0	transcript_id "g8214.t1"; gene_id "g8214";
+scf_9711	AUGUSTUS	intron	1	11	0.86	-	.	transcript_id "g8214.t1"; gene_id "g8214";
+scf_9711	AUGUSTUS	CDS	12	273	0.86	-	0	transcript_id "g8214.t1"; gene_id "g8214";
+scf_9711	AUGUSTUS	start_codon	271	273	.	-	0	transcript_id "g8214.t1"; gene_id "g8214";
+# coding sequence = [atgcccacatacgattgtcgtggcgaaatcactggtcatatccacagagatcagaactggattcaactcacaatcgatc
+# atcaccaaaaccaccaacctcagcccactcaacgtgtgtttttgaccaatgaagaagtggatttcctgagcgacaacgcaacaacaatgactacgcca
+# gagctgtatcgcacttcggtccaacgattcggcaaccacatcaccagggcgcaggtgtatcattggagattggatgctgtacaag]
+# protein sequence = [MPTYDCRGEITGHIHRDQNWIQLTIDHHQNHQPQPTQRVFLTNEEVDFLSDNATTMTTPELYRTSVQRFGNHITRAQV
+# YHWRLDAVQ]
+# end gene g8214
+###
+#
+##FASTA
+>scf_9711
+GAGGTATTCACCTTGTACAGCATCCAATCTCCAATGATACACCTGCGCCCTGGTGATGTG
+GTTGCCGAATCGTTGGACCGAAGTGCGATACAGCTCTGGCGTAGTCATTGTTGTTGCGTT
+GTCGCTCAGGAAATCCACTTCTTCATTGGTCAAAAACACACGTTGAGTGGGCTGAGGTTG
+GTGGTTTTGGTGATGATCGATTGTGAGTTGAATCCAGTTCTGATCTCTGTGGATATGACC
+AGTGATTTCGCCACGACAATCGTATGTGGGCATGGAGACGACGTTTCTGCGACGATCATT
+CGGATTCAAAGG

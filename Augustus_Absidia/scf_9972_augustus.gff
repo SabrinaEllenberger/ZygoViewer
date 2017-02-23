@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4011 (length = 217, name = scf_9972) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4011 on both strands
+# start gene g8330
+scf_9972	AUGUSTUS	gene	1	180	0.59	-	.	g8330
+scf_9972	AUGUSTUS	transcript	1	180	0.59	-	.	g8330.t1
+scf_9972	AUGUSTUS	initial	26	180	0.59	-	0	transcript_id "g8330.t1"; gene_id "g8330";
+scf_9972	AUGUSTUS	intron	1	25	0.59	-	.	transcript_id "g8330.t1"; gene_id "g8330";
+scf_9972	AUGUSTUS	CDS	26	180	0.59	-	0	transcript_id "g8330.t1"; gene_id "g8330";
+scf_9972	AUGUSTUS	start_codon	178	180	.	-	0	transcript_id "g8330.t1"; gene_id "g8330";
+# coding sequence = [atggatccgactttcacaccaccctctctggcgccaatacaaatctctggacgacccaccacccacccagcgattctta
+# actgcccacttggatactctccacacagcagccatcagccactcgacactcctccaacaatgccgccccaaacgag]
+# protein sequence = [MDPTFTPPSLAPIQISGRPTTHPAILNCPLGYSPHSSHQPLDTPPTMPPQT]
+# end gene g8330
+###
+#
+##FASTA
+>scf_9972
+GGAACATGGAGAATCGGATCGATACCTCGTTTGGGGCGGCATTGTTGGAGGAGTGTCGAG
+TGGCTGATGGCTGCTGTGTGGAGAGTATCCAAGTGGGCAGTTAAGAATCGCTGGGTGGGT
+GGTGGGTCGTCCAGAGATTTGTATTGGCGCCAGAGAGGGTGGTGTGAAAGTCGGATCCAT
+GGTGATGTAGCAGTGAGACGGCGTGGGGCGCTAGTGG

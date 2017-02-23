@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4753 (length = 281, name = scf_13038) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4753 on both strands
+# start gene g12601
+scf_13038	AUGUSTUS	gene	1	245	0.61	-	.	g12601
+scf_13038	AUGUSTUS	transcript	1	245	0.61	-	.	g12601.t1
+scf_13038	AUGUSTUS	initial	1	245	0.61	-	0	transcript_id "g12601.t1"; gene_id "g12601";
+scf_13038	AUGUSTUS	CDS	1	245	0.61	-	0	transcript_id "g12601.t1"; gene_id "g12601";
+scf_13038	AUGUSTUS	start_codon	243	245	.	-	0	transcript_id "g12601.t1"; gene_id "g12601";
+# coding sequence = [atgagcttaggcacggatatgatggcaacgttgggcattggatatactggtttagctgtgtcctggacaccaccagtga
+# agacagaagaggagagtcctttcaaagatgttgtagttccaaatgaggatccgtacggtactcaggcacaacaaagtcgtttcctcgcccaagtgcaa
+# gcccacatagatcgtaaccaagccattgacaagcacagcctatgcacgcaccctgatgctgttgtaag]
+# protein sequence = [MSLGTDMMATLGIGYTGLAVSWTPPVKTEEESPFKDVVVPNEDPYGTQAQQSRFLAQVQAHIDRNQAIDKHSLCTHPD
+# AVV]
+# end gene g12601
+###
+#
+##FASTA
+>scf_13038
+CTTACAACAGCATCAGGGTGCGTGCATAGGCTGTGCTTGTCAATGGCTTGGTTACGATCT
+ATGTGGGCTTGCACTTGGGCGAGGAAACGACTTTGTTGTGCCTGAGTACCGTACGGATCC
+TCATTTGGAACTACAACATCTTTGAAAGGACTCTCCTCTTCTGTCTTCACTGGTGGTGTC
+CAGGACACAGCTAAACCAGTATATCCAATGCCCAACGTTGCCATCATATCCGTGCCTAAG
+CTCATCTCTTTGCCATCTGCTAGGTCCATGACATCAAACGC

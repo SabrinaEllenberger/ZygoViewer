@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4402 (length = 380, name = scf_11562) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4402 on both strands
+# start gene g9638
+scf_11562	AUGUSTUS	gene	1	255	0.87	-	.	g9638
+scf_11562	AUGUSTUS	transcript	1	255	0.87	-	.	g9638.t1
+scf_11562	AUGUSTUS	initial	45	255	0.87	-	0	transcript_id "g9638.t1"; gene_id "g9638";
+scf_11562	AUGUSTUS	intron	1	44	0.9	-	.	transcript_id "g9638.t1"; gene_id "g9638";
+scf_11562	AUGUSTUS	CDS	45	255	0.87	-	0	transcript_id "g9638.t1"; gene_id "g9638";
+scf_11562	AUGUSTUS	start_codon	253	255	.	-	0	transcript_id "g9638.t1"; gene_id "g9638";
+# coding sequence = [atggtcctgactgatggctttactgtgaacattcttttgacccgggcaacttcctcgacaaagcttccggatcttgaac
+# tcgaagacatcgcaaaaccccatgtggctcagtatttcgatctttggggcgccgatccaggtttgaaggatatctttgtggctaccgatggacagcag
+# caataccgaaagttttcggcagcggagtaccgtt]
+# protein sequence = [MVLTDGFTVNILLTRATSSTKLPDLELEDIAKPHVAQYFDLWGADPGLKDIFVATDGQQQYRKFSAAEYR]
+# end gene g9638
+###
+#
+##FASTA
+>scf_11562
+GAGTCGATCGCGCTCTGCTTTTCGTCTTGTTTGCCCGGTCTTACAACGGTACTCCGCTGC
+CGAAAACTTTCGGTATTGCTGCTGTCCATCGGTAGCCACAAAGATATCCTTCAAACCTGG
+ATCGGCGCCCCAAAGATCGAAATACTGAGCCACATGGGGTTTTGCGATGTCTTCGAGTTC
+AAGATCCGGAAGCTTTGTCGAGGAAGTTGCCCGGGTCAAAAGAATGTTCACAGTAAAGCC
+ATCAGTCAGGACCATGTTGTTGAACAACGGCCGGCGGCGGGTTTCTGGAGGATGGTCCTC
+TATATCGTCGAAAGCTTCATCACTGAAATTATCAGAGGTAGAGTCGGTCAGTACATCATT
+TGTAGACTGTACTTTTTTCA

@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 4541 (length = 287, name = scf_12135) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4541 on both strands
+# start gene g11110
+scf_12135	AUGUSTUS	gene	1	217	0.93	-	.	g11110
+scf_12135	AUGUSTUS	transcript	1	217	0.93	-	.	g11110.t1
+scf_12135	AUGUSTUS	internal	1	69	0.99	-	2	transcript_id "g11110.t1"; gene_id "g11110";
+scf_12135	AUGUSTUS	initial	124	217	0.94	-	0	transcript_id "g11110.t1"; gene_id "g11110";
+scf_12135	AUGUSTUS	intron	70	123	0.99	-	.	transcript_id "g11110.t1"; gene_id "g11110";
+scf_12135	AUGUSTUS	CDS	1	69	0.99	-	2	transcript_id "g11110.t1"; gene_id "g11110";
+scf_12135	AUGUSTUS	CDS	124	217	0.94	-	0	transcript_id "g11110.t1"; gene_id "g11110";
+scf_12135	AUGUSTUS	start_codon	215	217	.	-	0	transcript_id "g11110.t1"; gene_id "g11110";
+# coding sequence = [atgctttattctgttgcgcgtaaaggcggtgtcacacgagagacgtatcgtgccatggtcggtatcatcaacgacaaga
+# tcatccctgccgcagtctctgatcctagcttcaaggtgtgctccgaatacaaaagcaagcaagccatcaaagccgcccatcctg]
+# protein sequence = [MLYSVARKGGVTRETYRAMVGIINDKIIPAAVSDPSFKVCSEYKSKQAIKAAHP]
+# end gene g11110
+###
+#
+##FASTA
+>scf_12135
+CAGGATGGGCGGCTTTGATGGCTTGCTTGCTTTTGTATTCGGAGCACACCTTGAAGCTAG
+GATCAGAGACTACAGAGAAAGTTTTGTTTAGCTTTATTGTGCCTGATGTACAAGTTGTAT
+TACCTGCGGCAGGGATGATCTTGTCGTTGATGATACCGACCATGGCACGATACGTCTCTC
+GTGTGACACCGCCTTTACGCGCAACAGAATAAAGCATTTCGCTGATAGCCAAAGCACCTG
+AGCCATCACCGAAGTCGGTTCCATCGTAAGTCTTTGGCTCCGTTACC

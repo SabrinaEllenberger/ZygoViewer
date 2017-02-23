@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4907 (length = 319, name = scf_13904) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4907 on both strands
+# start gene g13366
+scf_13904	AUGUSTUS	gene	1	319	0.61	+	.	g13366
+scf_13904	AUGUSTUS	transcript	1	319	0.61	+	.	g13366.t1
+scf_13904	AUGUSTUS	internal	1	291	0.61	+	0	transcript_id "g13366.t1"; gene_id "g13366";
+scf_13904	AUGUSTUS	intron	292	319	0.62	+	.	transcript_id "g13366.t1"; gene_id "g13366";
+scf_13904	AUGUSTUS	CDS	1	291	0.61	+	0	transcript_id "g13366.t1"; gene_id "g13366";
+# coding sequence = [gtagaagacctccaagaaagaaataaagccctggaaagacagcatgcttttggtcacttcggtgccgaggcaatggaaa
+# aggctattcatgcagacggaatgcattggaccaatcttagacaggacgccattaacatggttaaaaaatgcaatcaatgtatgcaatacaacattggt
+# cgcaaaggttatcatcctctagcatctgtcacttcagaagcacccggtgatcactgggcgatcgatctagcaggagaatttgaacaaactcatcgagg
+# caacgtttacattctg]
+# protein sequence = [VEDLQERNKALERQHAFGHFGAEAMEKAIHADGMHWTNLRQDAINMVKKCNQCMQYNIGRKGYHPLASVTSEAPGDHW
+# AIDLAGEFEQTHRGNVYIL]
+# end gene g13366
+###
+#
+##FASTA
+>scf_13904
+GTAGAAGACCTCCAAGAAAGAAATAAAGCCCTGGAAAGACAGCATGCTTTTGGTCACTTC
+GGTGCCGAGGCAATGGAAAAGGCTATTCATGCAGACGGAATGCATTGGACCAATCTTAGA
+CAGGACGCCATTAACATGGTTAAAAAATGCAATCAATGTATGCAATACAACATTGGTCGC
+AAAGGTTATCATCCTCTAGCATCTGTCACTTCAGAAGCACCCGGTGATCACTGGGCGATC
+GATCTAGCAGGAGAATTTGAACAAACTCATCGAGGCAACGTTTACATTCTGGTAATGGTA
+GATATATGCACTAAGTATG

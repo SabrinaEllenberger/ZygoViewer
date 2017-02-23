@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 4917 (length = 217, name = scf_13954) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4917 on both strands
+# start gene g13368
+scf_13954	AUGUSTUS	gene	1	198	0.61	-	.	g13368
+scf_13954	AUGUSTUS	transcript	1	198	0.61	-	.	g13368.t1
+scf_13954	AUGUSTUS	initial	12	198	0.61	-	0	transcript_id "g13368.t1"; gene_id "g13368";
+scf_13954	AUGUSTUS	intron	1	11	0.61	-	.	transcript_id "g13368.t1"; gene_id "g13368";
+scf_13954	AUGUSTUS	CDS	12	198	0.61	-	0	transcript_id "g13368.t1"; gene_id "g13368";
+scf_13954	AUGUSTUS	start_codon	196	198	.	-	0	transcript_id "g13368.t1"; gene_id "g13368";
+# coding sequence = [atgaaggaatgcaagctcactctcaatccaatcaagtgctccttggctactaccaaccttcaacttcttgggtttactg
+# tcgacgtctccaaaggtgtcatgcctcaaaaggatcgtcttgcctgcttggactctttcccggtgccgcaaactgtcactgatgtcaaggcttactta
+# ggctttgttg]
+# protein sequence = [MKECKLTLNPIKCSLATTNLQLLGFTVDVSKGVMPQKDRLACLDSFPVPQTVTDVKAYLGFV]
+# end gene g13368
+###
+#
+##FASTA
+>scf_13954
+GCGGAAGTAACCAACAAAGCCTAAGTAAGCCTTGACATCAGTGACAGTTTGCGGCACCGG
+GAAAGAGTCCAAGCAGGCAAGACGATCCTTTTGAGGCATGACACCTTTGGAGACGTCGAC
+AGTAAACCCAAGAAGTTGAAGGTTGGTAGTAGCCAAGGAGCACTTGATTGGATTGAGAGT
+GAGCTTGCATTCCTTCATACGATCAAACACCCGAGCC

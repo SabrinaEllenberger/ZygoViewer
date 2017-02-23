@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4032 (length = 217, name = scf_10119) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4032 on both strands
+# start gene g8384
+scf_10119	AUGUSTUS	gene	1	138	0.29	+	.	g8384
+scf_10119	AUGUSTUS	transcript	1	138	0.29	+	.	g8384.t1
+scf_10119	AUGUSTUS	terminal	1	138	0.29	+	0	transcript_id "g8384.t1"; gene_id "g8384";
+scf_10119	AUGUSTUS	CDS	1	135	0.29	+	0	transcript_id "g8384.t1"; gene_id "g8384";
+scf_10119	AUGUSTUS	stop_codon	136	138	.	+	0	transcript_id "g8384.t1"; gene_id "g8384";
+# coding sequence = [gtggcgagtgatccagtgatcggcagggtagctagagaacatgtacctgatagggcactggaggagcgtcgccagggga
+# aggtgagcgtgatcgatattgaactggaattgatcgtaggcttcatgaatgttggctag]
+# protein sequence = [VASDPVIGRVAREHVPDRALEERRQGKVSVIDIELELIVGFMNVG]
+# end gene g8384
+###
+#
+##FASTA
+>scf_10119
+GTGGCGAGTGATCCAGTGATCGGCAGGGTAGCTAGAGAACATGTACCTGATAGGGCACTG
+GAGGAGCGTCGCCAGGGGAAGGTGAGCGTGATCGATATTGAACTGGAATTGATCGTAGGC
+TTCATGAATGTTGGCTAGCACAGAAGGTTTGGAGTACCATATACCGCGTCGTGTTTCCGG
+GCATAGGAAGGACGTGAAAGGGAAGGCAGGATTACCA

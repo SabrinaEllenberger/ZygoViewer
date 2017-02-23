@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 5271 (length = 217, name = scf_16616) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5271 on both strands
+# start gene g15445
+scf_16616	AUGUSTUS	gene	1	217	0.97	+	.	g15445
+scf_16616	AUGUSTUS	transcript	1	217	0.97	+	.	g15445.t1
+scf_16616	AUGUSTUS	internal	77	217	0.97	+	0	transcript_id "g15445.t1"; gene_id "g15445";
+scf_16616	AUGUSTUS	intron	1	76	0.99	+	.	transcript_id "g15445.t1"; gene_id "g15445";
+scf_16616	AUGUSTUS	CDS	77	217	0.97	+	0	transcript_id "g15445.t1"; gene_id "g15445";
+# coding sequence = [atggtcaccatcgctgaaggtgatgtcgatatcggtgccaacccttccgctgaaggtggtgatgaagatgtcgaatcca
+# ccagccaaaccgtcaacaacattatctactctttccgtttgaccgaaacctccttcgacaag]
+# protein sequence = [MVTIAEGDVDIGANPSAEGGDEDVESTSQTVNNIIYSFRLTETSFDK]
+# end gene g15445
+###
+#
+##FASTA
+>scf_16616
+GCCGTGAAGGAATAGGGCTCACACACCCACAAACATATGATGATCCTAATGTGCTGCTCC
+TTTTCTTTTCAACTAGATGGTCACCATCGCTGAAGGTGATGTCGATATCGGTGCCAACCC
+TTCCGCTGAAGGTGGTGATGAAGATGTCGAATCCACCAGCCAAACCGTCAACAACATTAT
+CTACTCTTTCCGTTTGACCGAAACCTCCTTCGACAAG

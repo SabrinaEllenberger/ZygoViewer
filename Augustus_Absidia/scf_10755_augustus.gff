@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 4208 (length = 340, name = scf_10755) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4208 on both strands
+# start gene g9225
+scf_10755	AUGUSTUS	gene	1	308	1	-	.	g9225
+scf_10755	AUGUSTUS	transcript	1	308	1	-	.	g9225.t1
+scf_10755	AUGUSTUS	internal	1	64	1	-	2	transcript_id "g9225.t1"; gene_id "g9225";
+scf_10755	AUGUSTUS	initial	122	308	1	-	0	transcript_id "g9225.t1"; gene_id "g9225";
+scf_10755	AUGUSTUS	intron	65	121	1	-	.	transcript_id "g9225.t1"; gene_id "g9225";
+scf_10755	AUGUSTUS	CDS	1	64	1	-	2	transcript_id "g9225.t1"; gene_id "g9225";
+scf_10755	AUGUSTUS	CDS	122	308	1	-	0	transcript_id "g9225.t1"; gene_id "g9225";
+scf_10755	AUGUSTUS	start_codon	306	308	.	-	0	transcript_id "g9225.t1"; gene_id "g9225";
+# coding sequence = [atggaaggagtgctaccagcagagcctattcagatccctgacaatggcattcacggcgatatggaaattaacaaggaga
+# ctcgactggccgctttgctgtacaagctttctcaagatcacaagatgacacgggcatgttataacggtgtactgaactttgtcaacaaccatgtcatc
+# ccatcgtatgatcctactgctgcccccattccctcctcctatcgtatcaagaaaacattgaaggaaaacagcaa]
+# protein sequence = [MEGVLPAEPIQIPDNGIHGDMEINKETRLAALLYKLSQDHKMTRACYNGVLNFVNNHVIPSYDPTAAPIPSSYRIKKT
+# LKENS]
+# end gene g9225
+###
+#
+##FASTA
+>scf_10755
+TTGCTGTTTTCCTTCAATGTTTTCTTGATACGATAGGAGGAGGGAATGGGGGCAGCAGTA
+GGATCTAAGAGCACATGTAAGTTAACAATTCCGTTGCAGCAAGCTATTGTAATTGCCTTA
+CCATACGATGGGATGACATGGTTGTTGACAAAGTTCAGTACACCGTTATAACATGCCCGT
+GTCATCTTGTGATCTTGAGAAAGCTTGTACAGCAAAGCGGCCAGTCGAGTCTCCTTGTTA
+ATTTCCATATCGCCGTGAATGCCATTGTCAGGGATCTGAATAGGCTCTGCTGGTAGCACT
+CCTTCCATTCCTGCATTTCAAGAAAGAGTACACGAATTAG

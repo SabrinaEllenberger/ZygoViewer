@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4212 (length = 325, name = scf_10764) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4212 on both strands
+# start gene g9226
+scf_10764	AUGUSTUS	gene	11	325	0.69	+	.	g9226
+scf_10764	AUGUSTUS	transcript	11	325	0.69	+	.	g9226.t1
+scf_10764	AUGUSTUS	start_codon	11	13	.	+	0	transcript_id "g9226.t1"; gene_id "g9226";
+scf_10764	AUGUSTUS	initial	11	325	0.69	+	0	transcript_id "g9226.t1"; gene_id "g9226";
+scf_10764	AUGUSTUS	CDS	11	325	0.69	+	0	transcript_id "g9226.t1"; gene_id "g9226";
+# coding sequence = [atggtcattcctatcacttacatcaaagcttcatcaaaaccacccacattgaaagcgtcaaacatgatctacaaggaga
+# ccgagttggttcaaactccgcaaccaatcaaaaaagttgtgcccctaaaagatcaaatcgacgaagacgaagatgatgacgactcttccgatgacgaa
+# actgaagaggaagaatgggaacatgatgaaaaggaagaatcagaggatgatgatcaagaactttgtcaattgaccccaattgaacaaaaagattacgc
+# attgaaagtgacgatgggcactgatacacaaatagaaatc]
+# protein sequence = [MVIPITYIKASSKPPTLKASNMIYKETELVQTPQPIKKVVPLKDQIDEDEDDDDSSDDETEEEEWEHDEKEESEDDDQ
+# ELCQLTPIEQKDYALKVTMGTDTQIEI]
+# end gene g9226
+###
+#
+##FASTA
+>scf_10764
+ACAGCGAAAGATGGTCATTCCTATCACTTACATCAAAGCTTCATCAAAACCACCCACATT
+GAAAGCGTCAAACATGATCTACAAGGAGACCGAGTTGGTTCAAACTCCGCAACCAATCAA
+AAAAGTTGTGCCCCTAAAAGATCAAATCGACGAAGACGAAGATGATGACGACTCTTCCGA
+TGACGAAACTGAAGAGGAAGAATGGGAACATGATGAAAAGGAAGAATCAGAGGATGATGA
+TCAAGAACTTTGTCAATTGACCCCAATTGAACAAAAAGATTACGCATTGAAAGTGACGAT
+GGGCACTGATACACAAATAGAAATC

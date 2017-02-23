@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 4401 (length = 263, name = scf_11561) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4401 on both strands
+# start gene g9637
+scf_11561	AUGUSTUS	gene	1	164	0.67	-	.	g9637
+scf_11561	AUGUSTUS	transcript	1	164	0.67	-	.	g9637.t1
+scf_11561	AUGUSTUS	initial	61	164	0.67	-	0	transcript_id "g9637.t1"; gene_id "g9637";
+scf_11561	AUGUSTUS	intron	1	60	0.77	-	.	transcript_id "g9637.t1"; gene_id "g9637";
+scf_11561	AUGUSTUS	CDS	61	164	0.67	-	0	transcript_id "g9637.t1"; gene_id "g9637";
+scf_11561	AUGUSTUS	start_codon	162	164	.	-	0	transcript_id "g9637.t1"; gene_id "g9637";
+# coding sequence = [atgttgttaaaatccgtcgtgaggtcgttggaagccgaaggcgagggcgtgaagctgatgaggttatcagaaacgggcg
+# agagcatgggaggcaacatgcttgg]
+# protein sequence = [MLLKSVVRSLEAEGEGVKLMRLSETGESMGGNML]
+# end gene g9637
+###
+#
+##FASTA
+>scf_11561
+ATATATGGAGAGGTTGATGGCCCCCAGTTGGAACATGATAGCATAACAAGACTAACTTAC
+CCAAGCATGTTGCCTCCCATGCTCTCGCCCGTTTCTGATAACCTCATCAGCTTCACGCCC
+TCGCCTTCGGCTTCCAACGACCTCACGACGGATTTTAACAACATAAAGATAGAAGTCATC
+AGCGACTCCGATGATACCGAAACTACCTACTCCCCAGCACCATCTTCGCCTTGTCCTTCT
+CTCGCCAGCGATTACACTTTTGA

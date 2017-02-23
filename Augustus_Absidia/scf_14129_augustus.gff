@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 4949 (length = 541, name = scf_14129) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4949 on both strands
+# start gene g13378
+scf_14129	AUGUSTUS	gene	1	500	0.99	-	.	g13378
+scf_14129	AUGUSTUS	transcript	1	500	0.99	-	.	g13378.t1
+scf_14129	AUGUSTUS	initial	8	500	0.99	-	0	transcript_id "g13378.t1"; gene_id "g13378";
+scf_14129	AUGUSTUS	intron	1	7	1	-	.	transcript_id "g13378.t1"; gene_id "g13378";
+scf_14129	AUGUSTUS	CDS	8	500	0.99	-	0	transcript_id "g13378.t1"; gene_id "g13378";
+scf_14129	AUGUSTUS	start_codon	498	500	.	-	0	transcript_id "g13378.t1"; gene_id "g13378";
+# coding sequence = [atgaatgatggtcagcaggctgcatacaatgccattgtccgggcaatagataatgatgatcccaatgattccaaacttt
+# tcttcgtaaatggtgccggtggaactggaaaatcgatgttattcaaaattctgctttcatacgtgcgtggtcaagacaaaattgctcttcctgttgcg
+# tcctctgggatagctgccattcttcttcctggaggacgtactgctcatagtaggttcaagatacctattcaacgccattctgaaatgaattgcaatgt
+# gagtttaaacacagctttggcgaagctgctacaaaaaaccacattaattctttgggatgaggctgttatgagcagcaaatacaatttcgaagctgtgg
+# accggtgcctgaaagatatgatgggtgcaattgatcccgccatgaagagtcgaccttttggaggcaaagtagtcgtattcggaggcgattttcgtcag
+# attcttcctgttgttgtgaatg]
+# protein sequence = [MNDGQQAAYNAIVRAIDNDDPNDSKLFFVNGAGGTGKSMLFKILLSYVRGQDKIALPVASSGIAAILLPGGRTAHSRF
+# KIPIQRHSEMNCNVSLNTALAKLLQKTTLILWDEAVMSSKYNFEAVDRCLKDMMGAIDPAMKSRPFGGKVVVFGGDFRQILPVVVN]
+# end gene g13378
+###
+#
+##FASTA
+>scf_14129
+CGATTACCATTCACAACAACAGGAAGAATCTGACGAAAATCGCCTCCGAATACGACTACT
+TTGCCTCCAAAAGGTCGACTCTTCATGGCGGGATCAATTGCACCCATCATATCTTTCAGG
+CACCGGTCCACAGCTTCGAAATTGTATTTGCTGCTCATAACAGCCTCATCCCAAAGAATT
+AATGTGGTTTTTTGTAGCAGCTTCGCCAAAGCTGTGTTTAAACTCACATTGCAATTCATT
+TCAGAATGGCGTTGAATAGGTATCTTGAACCTACTATGAGCAGTACGTCCTCCAGGAAGA
+AGAATGGCAGCTATCCCAGAGGACGCAACAGGAAGAGCAATTTTGTCTTGACCACGCACG
+TATGAAAGCAGAATTTTGAATAACATCGATTTTCCAGTTCCACCGGCACCATTTACGAAG
+AAAAGTTTGGAATCATTGGGATCATCATTATCTATTGCCCGGACAATGGCATTGTATGCA
+GCCTGCTGACCATCATTCATCAGTTGTATGTGTTCATCATGGTAAGCCAGCTCTTGGTTA
+G

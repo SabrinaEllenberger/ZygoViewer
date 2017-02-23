@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4840 (length = 217, name = scf_13528) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4840 on both strands
+# start gene g12950
+scf_13528	AUGUSTUS	gene	1	217	0.44	-	.	g12950
+scf_13528	AUGUSTUS	transcript	1	217	0.44	-	.	g12950.t1
+scf_13528	AUGUSTUS	internal	8	217	0.44	-	2	transcript_id "g12950.t1"; gene_id "g12950";
+scf_13528	AUGUSTUS	intron	1	7	0.6	-	.	transcript_id "g12950.t1"; gene_id "g12950";
+scf_13528	AUGUSTUS	CDS	8	217	0.44	-	2	transcript_id "g12950.t1"; gene_id "g12950";
+# coding sequence = [acgacatggcggctgcattcaccacatttgctagacatcgccgacttaatcctgaacaaacaaggctggctctgaatct
+# cattggcgccggctgcaagaatcaggccattgtggacaccatgcgaacgaatttccctggctgcggggtgattgcgaaggacataggcaacatgcggc
+# gtcgatttatgggcacctccaccgaagaaaata]
+# protein sequence = [DMAAAFTTFARHRRLNPEQTRLALNLIGAGCKNQAIVDTMRTNFPGCGVIAKDIGNMRRRFMGTSTEEN]
+# end gene g12950
+###
+#
+##FASTA
+>scf_13528
+AGTCTACTATTTTCTTCGGTGGAGGTGCCCATAAATCGACGCCGCATGTTGCCTATGTCC
+TTCGCAATCACCCCGCAGCCAGGGAAATTCGTTCGCATGGTGTCCACAATGGCCTGATTC
+TTGCAGCCGGCGCCAATGAGATTCAGAGCCAGCCTTGTTTGTTCAGGATTAAGTCGGCGA
+TGTCTAGCAAATGTGGTGAATGCAGCCGCCATGTCGT

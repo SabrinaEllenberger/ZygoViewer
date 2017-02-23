@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 5130 (length = 217, name = scf_15248) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5130 on both strands
+# start gene g15179
+scf_15248	AUGUSTUS	gene	1	217	0.95	+	.	g15179
+scf_15248	AUGUSTUS	transcript	1	217	0.95	+	.	g15179.t1
+scf_15248	AUGUSTUS	internal	1	217	0.95	+	1	transcript_id "g15179.t1"; gene_id "g15179";
+scf_15248	AUGUSTUS	CDS	1	217	0.95	+	1	transcript_id "g15179.t1"; gene_id "g15179";
+# coding sequence = [tggtatcaagtctgtcgattccatggtccccatcggtcgtggtcaacgtgaattgattatcggtgatcgtcaaactggt
+# aagaccgccgttgccttggataccatcctcaaccaaaagaactggaacaacggatccgatgaagccaagaagttgtactgtatctacgttgctgttgg
+# tcaaaagcgatccactgttgcccaattggtccgtactttg]
+# protein sequence = [GIKSVDSMVPIGRGQRELIIGDRQTGKTAVALDTILNQKNWNNGSDEAKKLYCIYVAVGQKRSTVAQLVRTL]
+# end gene g15179
+###
+#
+##FASTA
+>scf_15248
+TGGTATCAAGTCTGTCGATTCCATGGTCCCCATCGGTCGTGGTCAACGTGAATTGATTAT
+CGGTGATCGTCAAACTGGTAAGACCGCCGTTGCCTTGGATACCATCCTCAACCAAAAGAA
+CTGGAACAACGGATCCGATGAAGCCAAGAAGTTGTACTGTATCTACGTTGCTGTTGGTCA
+AAAGCGATCCACTGTTGCCCAATTGGTCCGTACTTTG

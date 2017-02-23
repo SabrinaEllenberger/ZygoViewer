@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4021 (length = 274, name = scf_9994) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4021 on both strands
+# start gene g8333
+scf_9994	AUGUSTUS	gene	1	236	0.9	-	.	g8333
+scf_9994	AUGUSTUS	transcript	1	236	0.9	-	.	g8333.t1
+scf_9994	AUGUSTUS	initial	17	236	0.9	-	0	transcript_id "g8333.t1"; gene_id "g8333";
+scf_9994	AUGUSTUS	intron	1	16	0.9	-	.	transcript_id "g8333.t1"; gene_id "g8333";
+scf_9994	AUGUSTUS	CDS	17	236	0.9	-	0	transcript_id "g8333.t1"; gene_id "g8333";
+scf_9994	AUGUSTUS	start_codon	234	236	.	-	0	transcript_id "g8333.t1"; gene_id "g8333";
+# coding sequence = [atgggtcttgccgtttctcatcacgataaaccaccattacaatttgacgatgacgaacgaaacgacattccgaaaccag
+# acgactcaccagctggaacggatgaagaacaaaaagcgttccattcgtcggtacaatatagcatgcaacaaaaccagctcgtcgacaaaaaatccttt
+# tgcacggtacccgaatcagtcgtaacgctggatacaccacccg]
+# protein sequence = [MGLAVSHHDKPPLQFDDDERNDIPKPDDSPAGTDEEQKAFHSSVQYSMQQNQLVDKKSFCTVPESVVTLDTPP]
+# end gene g8333
+###
+#
+##FASTA
+>scf_9994
+TTGTAGCATGTTTTACCGGGTGGTGTATCCAGCGTTACGACTGATTCGGGTACCGTGCAA
+AAGGATTTTTTGTCGACGAGCTGGTTTTGTTGCATGCTATATTGTACCGACGAATGGAAC
+GCTTTTTGTTCTTCATCCGTTCCAGCTGGTGAGTCGTCTGGTTTCGGAATGTCGTTTCGT
+TCGTCATCGTCAAATTGTAATGGTGGTTTATCGTGATGAGAAACGGCAAGACCCATAAGT
+GCTATCCCTAGCTTTTCGAATAAGTCTGTTCCTA

@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 4551 (length = 511, name = scf_12161) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4551 on both strands
+# start gene g11114
+scf_12161	AUGUSTUS	gene	1	511	0.96	+	.	g11114
+scf_12161	AUGUSTUS	transcript	1	511	0.96	+	.	g11114.t1
+scf_12161	AUGUSTUS	internal	43	324	0.96	+	0	transcript_id "g11114.t1"; gene_id "g11114";
+scf_12161	AUGUSTUS	internal	407	511	1	+	0	transcript_id "g11114.t1"; gene_id "g11114";
+scf_12161	AUGUSTUS	intron	1	42	0.96	+	.	transcript_id "g11114.t1"; gene_id "g11114";
+scf_12161	AUGUSTUS	intron	325	406	1	+	.	transcript_id "g11114.t1"; gene_id "g11114";
+scf_12161	AUGUSTUS	CDS	43	324	0.96	+	0	transcript_id "g11114.t1"; gene_id "g11114";
+scf_12161	AUGUSTUS	CDS	407	511	1	+	0	transcript_id "g11114.t1"; gene_id "g11114";
+# coding sequence = [tgcggtggtattgacaagcgtaccattgaaaagttcgaaaaggaagctgctgaactcggtaagggttccttcaagtacg
+# cctgggtgttggataagctcaaggccgaacgtgaacgtggtatcaccatcgatatcgctctctggaaattcgaaacccccaagtaccatgtcaccgtc
+# attgacgcccctggccatcgtgatttcatcaagaacatgattactggtacttcccaagctgattgcggtatccttatcattgctgctggtactggtga
+# attcgaagctggtatctccaaggatggtcaaacccgtgaacacgctttgttggctttcaccctcggtgtccgtcaattgatcgtcgccattaacaaga
+# tggattctaccaag]
+# protein sequence = [CGGIDKRTIEKFEKEAAELGKGSFKYAWVLDKLKAERERGITIDIALWKFETPKYHVTVIDAPGHRDFIKNMITGTSQ
+# ADCGILIIAAGTGEFEAGISKDGQTREHALLAFTLGVRQLIVAINKMDSTK]
+# end gene g11114
+###
+#
+##FASTA
+>scf_12161
+TTGTAGGGTAAATCCACCACCACTGGTCACTTGATCTACAAGTGCGGTGGTATTGACAAG
+CGTACCATTGAAAAGTTCGAAAAGGAAGCTGCTGAACTCGGTAAGGGTTCCTTCAAGTAC
+GCCTGGGTGTTGGATAAGCTCAAGGCCGAACGTGAACGTGGTATCACCATCGATATCGCT
+CTCTGGAAATTCGAAACCCCCAAGTACCATGTCACCGTCATTGACGCCCCTGGCCATCGT
+GATTTCATCAAGAACATGATTACTGGTACTTCCCAAGCTGATTGCGGTATCCTTATCATT
+GCTGCTGGTACTGGTGAATTCGAAGTAAGTATACCATTCAAAAGGATTCATGCGTTGTGT
+ATGTGTCTGTGATCGTTGTACTTACAGAGTCTTATTACTTCTATAGGCTGGTATCTCCAA
+GGATGGTCAAACCCGTGAACACGCTTTGTTGGCTTTCACCCTCGGTGTCCGTCAATTGAT
+CGTCGCCATTAACAAGATGGATTCTACCAAG

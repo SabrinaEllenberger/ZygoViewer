@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 5299 (length = 217, name = scf_17094) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5299 on both strands
+# start gene g15467
+scf_17094	AUGUSTUS	gene	1	178	0.45	-	.	g15467
+scf_17094	AUGUSTUS	transcript	1	178	0.45	-	.	g15467.t1
+scf_17094	AUGUSTUS	initial	64	178	0.57	-	0	transcript_id "g15467.t1"; gene_id "g15467";
+scf_17094	AUGUSTUS	intron	1	63	0.5	-	.	transcript_id "g15467.t1"; gene_id "g15467";
+scf_17094	AUGUSTUS	CDS	64	178	0.57	-	0	transcript_id "g15467.t1"; gene_id "g15467";
+scf_17094	AUGUSTUS	start_codon	176	178	.	-	0	transcript_id "g15467.t1"; gene_id "g15467";
+# coding sequence = [atgaatgatgacgccgatgtggatgaaatggaatcagaaagtgaagacgaagctttggatcctacaatcaatcagaatc
+# aagacctccccgataatgatggtttggaagattttg]
+# protein sequence = [MNDDADVDEMESESEDEALDPTINQNQDLPDNDGLEDF]
+# end gene g15467
+###
+#
+##FASTA
+>scf_17094
+AATATCTAATCTAATCTATGCTATGCTATTCTATAAAAGTTCTATGTCACTATGCGAATG
+TACCAAAATCTTCCAAACCATCATTATCGGGGAGGTCTTGATTCTGATTGATTGTAGGAT
+CCAAAGCTTCGTCTTCACTTTCTGATTCCATTTCATCCACATCGGCGTCATCATTCATTT
+GCCATCCTTCTATGTCGACCAAGTTGGGGAGTTGCGG

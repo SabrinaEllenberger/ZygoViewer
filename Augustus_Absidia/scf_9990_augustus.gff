@@ -1,0 +1,40 @@
+# ----- prediction on sequence number 4019 (length = 604, name = scf_9990) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4019 on both strands
+# start gene g8332
+scf_9990	AUGUSTUS	gene	104	513	0.4	-	.	g8332
+scf_9990	AUGUSTUS	transcript	104	513	0.4	-	.	g8332.t1
+scf_9990	AUGUSTUS	stop_codon	104	106	.	-	0	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	terminal	104	111	0.52	-	2	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	internal	167	311	0.97	-	0	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	initial	364	513	0.76	-	0	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	intron	112	166	0.52	-	.	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	intron	312	363	1	-	.	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	CDS	107	111	0.52	-	2	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	CDS	167	311	0.97	-	0	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	CDS	364	513	0.76	-	0	transcript_id "g8332.t1"; gene_id "g8332";
+scf_9990	AUGUSTUS	start_codon	511	513	.	-	0	transcript_id "g8332.t1"; gene_id "g8332";
+# coding sequence = [atgttttacacttactcgcctatcttgatggaagccgtgccccgcgaaaccgtcgatatctggatcgtccacccaaaac
+# tgaatccccgcctattgatcccgtctcttttacgctatgatcacaacactatctccgacaaggtcactcagcatcaggccatccggtacttgtcgcat
+# gtggtgaccaagcaaggcaatacagactctaccatccacaactcgctcttggccttgtatgcaacgcaatccaccccagatgaaaccgctctcttgtc
+# ctttttgaagaacgaggcaaggccgtga]
+# protein sequence = [MFYTYSPILMEAVPRETVDIWIVHPKLNPRLLIPSLLRYDHNTISDKVTQHQAIRYLSHVVTKQGNTDSTIHNSLLAL
+# YATQSTPDETALLSFLKNEARP]
+# end gene g8332
+###
+#
+##FASTA
+>scf_9990
+GGCTTCTTCGTAAAGACCCATCAGACTATAGAGATGGATACAGCTTTGTATTCGTCCAAA
+TTGGCTACACAGTCGCAATGCATAATCGGGATTGTAGTACATTTCACGGCCCTATATAAA
+AAAAAAGTCAGTAACCCTCGAAAAAAAGCCCCCCCCCCCTTTTGACTTGCCTCGTTCTTC
+AAAAAGGACAAGAGAGCGGTTTCATCTGGGGTGGATTGCGTTGCATACAAGGCCAAGAGC
+GAGTTGTGGATGGTAGAGTCTGTATTGCCTTGCTTGGTCACCACATGCGACAAGTACCGG
+ATGGCCTGATGCTACAAACACAAGTGTTTTAAAAACAAGTTTCCCCTTTTCTTGTAGGTT
+TACCTGAGTGACCTTGTCGGAGATAGTGTTGTGATCATAGCGTAAAAGAGACGGGATCAA
+TAGGCGGGGATTCAGTTTTGGGTGGACGATCCAGATATCGACGGTTTCGCGGGGCACGGC
+TTCCATCAAGATAGGCGAGTAAGTGTAAAACATATCCAAAGTGGCCTATGAAGCGAGTAG
+GGTCAATGGCTTGTTTTCTCTTATCCGTTCCTTTTTTTTTTTTTTTTTTTTACCTGCTTG
+GCCA

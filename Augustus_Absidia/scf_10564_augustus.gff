@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4151 (length = 217, name = scf_10564) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4151 on both strands
+# start gene g8904
+scf_10564	AUGUSTUS	gene	1	192	0.26	-	.	g8904
+scf_10564	AUGUSTUS	transcript	1	192	0.26	-	.	g8904.t1
+scf_10564	AUGUSTUS	initial	85	192	0.28	-	0	transcript_id "g8904.t1"; gene_id "g8904";
+scf_10564	AUGUSTUS	intron	1	84	0.48	-	.	transcript_id "g8904.t1"; gene_id "g8904";
+scf_10564	AUGUSTUS	CDS	85	192	0.28	-	0	transcript_id "g8904.t1"; gene_id "g8904";
+scf_10564	AUGUSTUS	start_codon	190	192	.	-	0	transcript_id "g8904.t1"; gene_id "g8904";
+# coding sequence = [atgcaccattcgagtggagatcttgatcaaatgatgggattactgaccgcggagcaaagagaagaaggtgctgaggcaa
+# tgaaaaagctggaagaattctggaccaac]
+# protein sequence = [MHHSSGDLDQMMGLLTAEQREEGAEAMKKLEEFWTN]
+# end gene g8904
+###
+#
+##FASTA
+>scf_10564
+AGGGTAGCGAATATGGGATGGTAGGGTAGTCTATTGTCGTTGTGTTCTTAATCGGCGGAA
+ACTGTTAGGATACGAATTTGTTACGTTGGTCCAGAATTCTTCCAGCTTTTTCATTGCCTC
+AGCACCTTCTTCTCTTTGCTCCGCGGTCAGTAATCCCATCATTTGATCAAGATCTCCACT
+CGAATGGTGCATTGCACTGAAGAAATCCTTTGACCAA

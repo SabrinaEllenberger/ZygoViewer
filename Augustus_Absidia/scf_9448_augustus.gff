@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3860 (length = 303, name = scf_9448) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3860 on both strands
+# start gene g8019
+scf_9448	AUGUSTUS	gene	1	239	0.81	-	.	g8019
+scf_9448	AUGUSTUS	transcript	1	239	0.81	-	.	g8019.t1
+scf_9448	AUGUSTUS	initial	9	239	0.81	-	0	transcript_id "g8019.t1"; gene_id "g8019";
+scf_9448	AUGUSTUS	intron	1	8	0.94	-	.	transcript_id "g8019.t1"; gene_id "g8019";
+scf_9448	AUGUSTUS	CDS	9	239	0.81	-	0	transcript_id "g8019.t1"; gene_id "g8019";
+scf_9448	AUGUSTUS	start_codon	237	239	.	-	0	transcript_id "g8019.t1"; gene_id "g8019";
+# coding sequence = [atgctgatgatcactcatccagatgcgatcaagctcattaaacggttcggtgatgttcttgctgttgatgcgacttatc
+# agacaaacaacttggacatgcctttgttcaacttggttggtttcactaatcgtggtggcaagtctttgaagacctttgtggcggcctctgtcctgatg
+# gtcaatgaaactgccatcaattacaaatgggctttgactacattcaaagaggtc]
+# protein sequence = [MLMITHPDAIKLIKRFGDVLAVDATYQTNNLDMPLFNLVGFTNRGGKSLKTFVAASVLMVNETAINYKWALTTFKEV]
+# end gene g8019
+###
+#
+##FASTA
+>scf_9448
+GCCCATACGACCTCTTTGAATGTAGTCAAAGCCCATTTGTAATTGATGGCAGTTTCATTG
+ACCATCAGGACAGAGGCCGCCACAAAGGTCTTCAAAGACTTGCCACCACGATTAGTGAAA
+CCAACCAAGTTGAACAAAGGCATGTCCAAGTTGTTTGTCTGATAAGTCGCATCAACAGCA
+AGAACATCACCGAACCGTTTAATGAGCTTGATCGCATCTGGATGAGTGATCATCAGCATT
+CGAAGGACAGAATCATCGGACACATTGGTCTTAATGACGAAACCATCCTTTCTCATGTCA
+TCA

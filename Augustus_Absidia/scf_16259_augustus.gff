@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 5239 (length = 325, name = scf_16259) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5239 on both strands
+# start gene g15246
+scf_16259	AUGUSTUS	gene	1	169	0.54	+	.	g15246
+scf_16259	AUGUSTUS	transcript	1	169	0.54	+	.	g15246.t1
+scf_16259	AUGUSTUS	terminal	98	169	0.54	+	0	transcript_id "g15246.t1"; gene_id "g15246";
+scf_16259	AUGUSTUS	intron	1	97	0.54	+	.	transcript_id "g15246.t1"; gene_id "g15246";
+scf_16259	AUGUSTUS	CDS	98	166	0.54	+	0	transcript_id "g15246.t1"; gene_id "g15246";
+scf_16259	AUGUSTUS	stop_codon	167	169	.	+	0	transcript_id "g15246.t1"; gene_id "g15246";
+# coding sequence = [tggggtgttcctggtcatgccggtcaattttcaaagcacatcactaagcgggccaatgactttatccagtag]
+# protein sequence = [WGVPGHAGQFSKHITKRANDFIQ]
+# end gene g15246
+###
+#
+##FASTA
+>scf_16259
+AACGGACATTTCAACCTCCGCCGTCTTCTCCACGCCTGAGTTTTAGCGCCATCATTTATA
+ATCTTGGATTCAGGATCTAATGGCATGTGCATGATAGTGGGGTGTTCCTGGTCATGCCGG
+TCAATTTTCAAAGCACATCACTAAGCGGGCCAATGACTTTATCCAGTAGGGTCATCAGCG
+AGAAATAAGTTTTGGAAAGCAAACCAAAAACCTGAAAAACGGACATTTCAACCTCCGCCG
+TCTTCTCCACGCCTGAGTTTTAGCGCCATCATTTATAATCTTGGATTCAGGATCTAATGG
+CATGTGCATGATAGTGGGGTGTTCc

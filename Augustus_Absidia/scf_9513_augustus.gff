@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 3875 (length = 217, name = scf_9513) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3875 on both strands
+# start gene g8023
+scf_9513	AUGUSTUS	gene	1	132	0.6	-	.	g8023
+scf_9513	AUGUSTUS	transcript	1	132	0.6	-	.	g8023.t1
+scf_9513	AUGUSTUS	initial	7	132	0.6	-	0	transcript_id "g8023.t1"; gene_id "g8023";
+scf_9513	AUGUSTUS	intron	1	6	0.91	-	.	transcript_id "g8023.t1"; gene_id "g8023";
+scf_9513	AUGUSTUS	CDS	7	132	0.6	-	0	transcript_id "g8023.t1"; gene_id "g8023";
+scf_9513	AUGUSTUS	start_codon	130	132	.	-	0	transcript_id "g8023.t1"; gene_id "g8023";
+# coding sequence = [atgttgttcaccctgattgggctaccgttaccaaacttacagaaggtagacaccaactcaccgaacttggactcgatac
+# ttgaacggaaacttccaaacatctcgttgtacaatgcctcagagctg]
+# protein sequence = [MLFTLIGLPLPNLQKVDTNSPNLDSILERKLPNISLYNASEL]
+# end gene g8023
+###
+#
+##FASTA
+>scf_9513
+ACTCACCAGCTCTGAGGCATTGTACAACGAGATGTTTGGAAGTTTCCGTTCAAGTATCGA
+GTCCAAGTTCGGTGAGTTGGTGTCTACCTTCTGTAAGTTTGGTAACGGTAGCCCAATCAG
+GGTGAACAACATCGACACCTTTGTAGTACAGTTCCAGCTGGCATGTCTACTTCTTAACAT
+CAAGGACTTTGTACATATGTTGAACATGCCATTGCGG

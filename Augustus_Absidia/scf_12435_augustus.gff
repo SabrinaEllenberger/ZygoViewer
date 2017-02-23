@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4605 (length = 217, name = scf_12435) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4605 on both strands
+# start gene g12048
+scf_12435	AUGUSTUS	gene	1	99	0.52	+	.	g12048
+scf_12435	AUGUSTUS	transcript	1	99	0.52	+	.	g12048.t1
+scf_12435	AUGUSTUS	terminal	1	99	0.52	+	0	transcript_id "g12048.t1"; gene_id "g12048";
+scf_12435	AUGUSTUS	CDS	1	96	0.52	+	0	transcript_id "g12048.t1"; gene_id "g12048";
+scf_12435	AUGUSTUS	stop_codon	97	99	.	+	0	transcript_id "g12048.t1"; gene_id "g12048";
+# coding sequence = [cagggcagcccaccttctttgacaccttctgtcgtttacgttgatcgtggtgtgcatgatgacgattacgtccacggtg
+# acagtagctctggacactga]
+# protein sequence = [QGSPPSLTPSVVYVDRGVHDDDYVHGDSSSGH]
+# end gene g12048
+###
+#
+##FASTA
+>scf_12435
+CAGGGCAGCCCACCTTCTTTGACACCTTCTGTCGTTTACGTTGATCGTGGTGTGCATGAT
+GACGATTACGTCCACGGTGACAGTAGCTCTGGACACTGAAGTCAATACGGCGCTGAGGGA
+CTCCAGCTATCCCTGTAGATGGCACGTCCAAGTTGTCCTCGTACACATCGATTTCACCGT
+CGAAGTTCTTGACGATTTTGCTGCTGATCCATTTGTA

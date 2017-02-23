@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 5255 (length = 332, name = scf_16414) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5255 on both strands
+# start gene g15294
+scf_16414	AUGUSTUS	gene	1	317	0.83	+	.	g15294
+scf_16414	AUGUSTUS	transcript	1	317	0.83	+	.	g15294.t1
+scf_16414	AUGUSTUS	terminal	53	317	0.83	+	1	transcript_id "g15294.t1"; gene_id "g15294";
+scf_16414	AUGUSTUS	intron	1	52	0.83	+	.	transcript_id "g15294.t1"; gene_id "g15294";
+scf_16414	AUGUSTUS	CDS	53	314	0.83	+	1	transcript_id "g15294.t1"; gene_id "g15294";
+scf_16414	AUGUSTUS	stop_codon	315	317	.	+	0	transcript_id "g15294.t1"; gene_id "g15294";
+# coding sequence = [gtctcaagcatctcttgcacaatcaagaacctttcccatgaacaaaacgaacaaagcgtcaagctgcaatggaaatgta
+# tcttggacagtcatcctaaaagaactacaagtcgcaagcatcttgattgtcgagttgcaagagaacccttgccaagagcaagatggacgaagtgtcaa
+# gctgcaacggaaaagtatcttggacggtcattctaaaagaactacaggtctcaagcatctcttgcacaatcaagaacctttcccatga]
+# protein sequence = [SQASLAQSRTFPMNKTNKASSCNGNVSWTVILKELQVASILIVELQENPCQEQDGRSVKLQRKSILDGHSKRTTGLKH
+# LLHNQEPFP]
+# end gene g15294
+###
+#
+##FASTA
+>scf_16414
+GTCAAGCTGCAACGGAAAAGTATCTTGGACGGTCATTCTAAAAGAACTACAGGTCTCAAG
+CATCTCTTGCACAATCAAGAACCTTTCCCATGAACAAAACGAACAAAGCGTCAAGCTGCA
+ATGGAAATGTATCTTGGACAGTCATCCTAAAAGAACTACAAGTCGCAAGCATCTTGATTG
+TCGAGTTGCAAGAGAACCCTTGCCAAGAGCAAGATGGACGAAGTGTCAAGCTGCAACGGA
+AAAGTATCTTGGACGGTCATTCTAAAAGAACTACAGGTCTCAAGCATCTCTTGCACAATC
+AAGAACCTTTCCCATGAACAAAACGAACAAAg

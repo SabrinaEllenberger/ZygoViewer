@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4728 (length = 218, name = scf_12869) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4728 on both strands
+# start gene g12459
+scf_12869	AUGUSTUS	gene	1	172	0.95	-	.	g12459
+scf_12869	AUGUSTUS	transcript	1	172	0.95	-	.	g12459.t1
+scf_12869	AUGUSTUS	internal	1	36	0.95	-	1	transcript_id "g12459.t1"; gene_id "g12459";
+scf_12869	AUGUSTUS	initial	105	172	0.99	-	0	transcript_id "g12459.t1"; gene_id "g12459";
+scf_12869	AUGUSTUS	intron	37	104	0.95	-	.	transcript_id "g12459.t1"; gene_id "g12459";
+scf_12869	AUGUSTUS	CDS	1	36	0.95	-	1	transcript_id "g12459.t1"; gene_id "g12459";
+scf_12869	AUGUSTUS	CDS	105	172	0.99	-	0	transcript_id "g12459.t1"; gene_id "g12459";
+scf_12869	AUGUSTUS	start_codon	170	172	.	-	0	transcript_id "g12459.t1"; gene_id "g12459";
+# coding sequence = [atggattgcactgacgaacctttggctggtgtggtgcctgaaatctcgaccaatgttgacgcccaaagaactgaacaat
+# ctggtattgaattggaacatgaaat]
+# protein sequence = [MDCTDEPLAGVVPEISTNVDAQRTEQSGIELEHE]
+# end gene g12459
+###
+#
+##FASTA
+>scf_12869
+ATTTCATGTTCCAATTCAATACCAGATTGTTCAGTTCTAAAAGATTAATGAGCGGTTAAG
+TAAAGAGTGAATGTGACAACTTGTCCTTTATGCATAAAATTTACCTTTGGGCGTCAACAT
+TGGTCGAGATTTCAGGCACCACACCAGCCAAAGGTTCGTCAGTGCAATCCATGAAGTCCA
+AGGGTGAGTAGTCATCTTGACCTATAAGCTCCATTGGT

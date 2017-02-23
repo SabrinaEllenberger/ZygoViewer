@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 5079 (length = 217, name = scf_14890) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5079 on both strands
+# start gene g14665
+scf_14890	AUGUSTUS	gene	1	217	0.57	-	.	g14665
+scf_14890	AUGUSTUS	transcript	1	217	0.57	-	.	g14665.t1
+scf_14890	AUGUSTUS	internal	53	217	0.57	-	2	transcript_id "g14665.t1"; gene_id "g14665";
+scf_14890	AUGUSTUS	intron	1	52	0.78	-	.	transcript_id "g14665.t1"; gene_id "g14665";
+scf_14890	AUGUSTUS	CDS	53	217	0.57	-	2	transcript_id "g14665.t1"; gene_id "g14665";
+# coding sequence = [gatcccgatctactagatcaagccggtccaactctcctgtgcgtgcctccgaatctctgcgacgatcccgttatgcgcc
+# cgctgaaggatccatcgaagacatcacccctgaaatggcgtcaaacatgcaactggatgccgaagatgactacgacaaaatgtcct]
+# protein sequence = [SRSTRSSRSNSPVRASESLRRSRYAPAEGSIEDITPEMASNMQLDAEDDYDKMS]
+# end gene g14665
+###
+#
+##FASTA
+>scf_14890
+GAAGAATCAGTTAGATCCTGGTCTCTTTTGTTTGTGTGCATTGCAGACTTACAGGACATT
+TTGTCGTAGTCATCTTCGGCATCCAGTTGCATGTTTGACGCCATTTCAGGGGTGATGTCT
+TCGATGGATCCTTCAGCGGGCGCATAACGGGATCGTCGCAGAGATTCGGAGGCACGCACA
+GGAGAGTTGGACCGGCTTGATCTAGTAGATCGGGATC

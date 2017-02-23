@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4778 (length = 217, name = scf_13170) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4778 on both strands
+# start gene g12671
+scf_13170	AUGUSTUS	gene	1	208	0.69	+	.	g12671
+scf_13170	AUGUSTUS	transcript	1	208	0.69	+	.	g12671.t1
+scf_13170	AUGUSTUS	terminal	68	208	0.69	+	0	transcript_id "g12671.t1"; gene_id "g12671";
+scf_13170	AUGUSTUS	intron	1	67	0.69	+	.	transcript_id "g12671.t1"; gene_id "g12671";
+scf_13170	AUGUSTUS	CDS	68	205	0.69	+	0	transcript_id "g12671.t1"; gene_id "g12671";
+scf_13170	AUGUSTUS	stop_codon	206	208	.	+	0	transcript_id "g12671.t1"; gene_id "g12671";
+# coding sequence = [ccagatgctggtgattttgaaagggaagacgaacctggagatgaggaggacggtgcctttccaaaagactggttgtaca
+# atatggacttttctttgttggcacggccaatatcacgatatatctggagtatttcgccatag]
+# protein sequence = [PDAGDFEREDEPGDEEDGAFPKDWLYNMDFSLLARPISRYIWSISP]
+# end gene g12671
+###
+#
+##FASTA
+>scf_13170
+AACCGATGATGCCAACGTTTTTACACCTGGATCAACACCTATATACGTAGATTTTCCATC
+GAGATAGCCAGATGCTGGTGATTTTGAAAGGGAAGACGAACCTGGAGATGAGGAGGACGG
+TGCCTTTCCAAAAGACTGGTTGTACAATATGGACTTTTCTTTGTTGGCACGGCCAATATC
+ACGATATATCTGGAGTATTTCGCCATAGACGTCGTTC

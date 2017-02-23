@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4868 (length = 435, name = scf_13666) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4868 on both strands
+# start gene g13362
+scf_13666	AUGUSTUS	gene	1	435	0.97	+	.	g13362
+scf_13666	AUGUSTUS	transcript	1	435	0.97	+	.	g13362.t1
+scf_13666	AUGUSTUS	internal	216	435	1	+	0	transcript_id "g13362.t1"; gene_id "g13362";
+scf_13666	AUGUSTUS	intron	1	215	0.97	+	.	transcript_id "g13362.t1"; gene_id "g13362";
+scf_13666	AUGUSTUS	CDS	216	435	1	+	0	transcript_id "g13362.t1"; gene_id "g13362";
+# coding sequence = [ttcgatatcgccgaatatagtttagccgtaggccgaaatcgccgatgcatggttttgtcggaggccgagatcgccgaag
+# gcatggttttgccggaggccgaaatcgccgaatgcatggttttgccggaggccgagatcgccgaaggcatggttttgccggaggccgagatcgccgaa
+# ggcatggttttgccggaggccgagatcgccggaggcattatca]
+# protein sequence = [FDIAEYSLAVGRNRRCMVLSEAEIAEGMVLPEAEIAECMVLPEAEIAEGMVLPEAEIAEGMVLPEAEIAGGII]
+# end gene g13362
+###
+#
+##FASTA
+>scf_13666
+CCGACTATAGACATGCTCAGAATTCAATACCCGATCCAATGGTATACCAGCGGAGTTTCT
+AACTACCTTATTTGTATTTGGTTCAGCCTCATTCAACCACCTTATAAATCTCAACCAGAA
+TCCCAATAATTAATTCCCTAAACCCAATTAATTATTAATATTATTTATTAATTGTTTATT
+TTTTTTTTTTCATTTTTTATTATTAATTACCATAGTTCGATATCGCCGAATATAGTTTAG
+CCGTAGGCCGAAATCGCCGATGCATGGTTTTGTCGGAGGCCGAGATCGCCGAAGGCATGG
+TTTTGCCGGAGGCCGAAATCGCCGAATGCATGGTTTTGCCGGAGGCCGAGATCGCCGAAG
+GCATGGTTTTGCCGGAGGCCGAGATCGCCGAAGGCATGGTTTTGCCGGAGGCCGAGATCG
+CCGGAGGCATTATCA

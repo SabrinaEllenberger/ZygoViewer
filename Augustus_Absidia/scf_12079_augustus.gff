@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4530 (length = 285, name = scf_12079) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4530 on both strands
+# start gene g11032
+scf_12079	AUGUSTUS	gene	1	264	0.76	+	.	g11032
+scf_12079	AUGUSTUS	transcript	1	264	0.76	+	.	g11032.t1
+scf_12079	AUGUSTUS	terminal	42	264	0.76	+	1	transcript_id "g11032.t1"; gene_id "g11032";
+scf_12079	AUGUSTUS	intron	1	41	0.76	+	.	transcript_id "g11032.t1"; gene_id "g11032";
+scf_12079	AUGUSTUS	CDS	42	261	0.76	+	1	transcript_id "g11032.t1"; gene_id "g11032";
+scf_12079	AUGUSTUS	stop_codon	262	264	.	+	0	transcript_id "g11032.t1"; gene_id "g11032";
+# coding sequence = [aaagaaggccaacaaaggatcaactgcaccagtcaccttctactacaccaaggacattcaataccttctccacgaacct
+# ctcctcctcaaattccgtgcttacaaggccttcgctagaaagttgaacaaggtgctccacaagggccaaacctcttctgccaagtcactcagcgaaaa
+# caatcgacctaactatactctggatcacattgtcaaagaaaggtaa]
+# protein sequence = [KKANKGSTAPVTFYYTKDIQYLLHEPLLLKFRAYKAFARKLNKVLHKGQTSSAKSLSENNRPNYTLDHIVKER]
+# end gene g11032
+###
+#
+##FASTA
+>scf_12079
+TGTATTCTTAAAGGGATCTTCCCCCGAGAACCTCGCAACAGAAAGAAGGCCAACAAAGGA
+TCAACTGCACCAGTCACCTTCTACTACACCAAGGACATTCAATACCTTCTCCACGAACCT
+CTCCTCCTCAAATTCCGTGCTTACAAGGCCTTCGCTAGAAAGTTGAACAAGGTGCTCCAC
+AAGGGCCAAACCTCTTCTGCCAAGTCACTCAGCGAAAACAATCGACCTAACTATACTCTG
+GATCACATTGTCAAAGAAAGGTAAGACAACCCTAAGCTATGCTAT

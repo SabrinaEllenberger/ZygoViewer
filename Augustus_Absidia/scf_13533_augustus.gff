@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4841 (length = 217, name = scf_13533) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4841 on both strands
+# start gene g12951
+scf_13533	AUGUSTUS	gene	1	178	0.51	-	.	g12951
+scf_13533	AUGUSTUS	transcript	1	178	0.51	-	.	g12951.t1
+scf_13533	AUGUSTUS	initial	64	178	0.68	-	0	transcript_id "g12951.t1"; gene_id "g12951";
+scf_13533	AUGUSTUS	intron	1	63	0.57	-	.	transcript_id "g12951.t1"; gene_id "g12951";
+scf_13533	AUGUSTUS	CDS	64	178	0.68	-	0	transcript_id "g12951.t1"; gene_id "g12951";
+scf_13533	AUGUSTUS	start_codon	176	178	.	-	0	transcript_id "g12951.t1"; gene_id "g12951";
+# coding sequence = [atgaatgatgacgccgatgtggatgaaatggaatcagaaagtgaagacgaagctttggatcctacaatcgatcagaatc
+# aagacctccccgataatgatggtttggaagattttg]
+# protein sequence = [MNDDADVDEMESESEDEALDPTIDQNQDLPDNDGLEDF]
+# end gene g12951
+###
+#
+##FASTA
+>scf_13533
+AATATCTAATCTAATCTATGCTATGCTATTCTATAAAAGTTCTATGTCACTATGCGAATG
+TACCAAAATCTTCCAAACCATCATTATCGGGGAGGTCTTGATTCTGATCGATTGTAGGAT
+CCAAAGCTTCGTCTTCACTTTCTGATTCCATTTCATCCACATCGGCGTCATCATTCATTT
+GCCATCCTTCTATGTCGACCAAGTTGGGGAGTTGCGG

@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 3983 (length = 444, name = scf_9894) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3983 on both strands
+# start gene g8327
+scf_9894	AUGUSTUS	gene	101	444	0.9	-	.	g8327
+scf_9894	AUGUSTUS	transcript	101	444	0.9	-	.	g8327.t1
+scf_9894	AUGUSTUS	stop_codon	101	103	.	-	0	transcript_id "g8327.t1"; gene_id "g8327";
+scf_9894	AUGUSTUS	terminal	101	444	0.9	-	2	transcript_id "g8327.t1"; gene_id "g8327";
+scf_9894	AUGUSTUS	CDS	104	444	0.9	-	2	transcript_id "g8327.t1"; gene_id "g8327";
+# coding sequence = [caacagcaacagcaacagcaacagcaacagcaacagcaacagcaacagcaacagcaacagcaacagcaacagcaacagc
+# aacagcaacagcaacagcaacaacaacaacaacaacaaccactgcagatgccgaagcctctagcgacttccacaatgcgctccgacttgacaatgtag
+# aaaagagtgaaaggttggaacgattgatgatgaaggagttgacctatgctcgcaacaacgtaacctcgaacgaagactgggaatacatcttgcatcag
+# caatctacctttatcgacatgatacagaagatcaatcgacccaaccatggcccagcaagacaatcttag]
+# protein sequence = [TATATATATATATATATATATATATATATATATTTTTTTTADAEASSDFHNALRLDNVEKSERLERLMMKELTYARNN
+# VTSNEDWEYILHQQSTFIDMIQKINRPNHGPARQS]
+# end gene g8327
+###
+#
+##FASTA
+>scf_9894
+GAAAGAGAAGAAAGAGAAGAGAGAGAAGAGAGAGATTGCCAAGATGAAGAAGAGGAGGTA
+CTATAAAAGAAAAGAAAAAAGTAAGTGCTATAAAAGAAGTCTAAGATTGTCTTGCTGGGC
+CATGGTTGGGTCGATTGATCTTCTGTATCATGTCGATAAAGGTAGATTGCTGATGCAAGA
+TGTATTCCCAGTCTTCGTTCGAGGTTACGTTGTTGCGAGCATAGGTCAACTCCTTCATCA
+TCAATCGTTCCAACCTTTCACTCTTTTCTACATTGTCAAGTCGGAGCGCATTGTGGAAGT
+CGCTAGAGGCTTCGGCATCTGCAGTGGTTGTTGTTGTTGTTGTTGTTGCTGTTGCTGTTG
+CTGTTGCTGTTGCTGTTGCTGTTGCTGTTGCTGTTGCTGTTGCTGTTGCTGTTGCTGTTG
+CTGTTGCTGTTGCTGTTGCTGTTG

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4274 (length = 217, name = scf_11024) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4274 on both strands
+# start gene g9279
+scf_11024	AUGUSTUS	gene	1	166	0.74	-	.	g9279
+scf_11024	AUGUSTUS	transcript	1	166	0.74	-	.	g9279.t1
+scf_11024	AUGUSTUS	initial	17	166	0.74	-	0	transcript_id "g9279.t1"; gene_id "g9279";
+scf_11024	AUGUSTUS	intron	1	16	0.91	-	.	transcript_id "g9279.t1"; gene_id "g9279";
+scf_11024	AUGUSTUS	CDS	17	166	0.74	-	0	transcript_id "g9279.t1"; gene_id "g9279";
+scf_11024	AUGUSTUS	start_codon	164	166	.	-	0	transcript_id "g9279.t1"; gene_id "g9279";
+# coding sequence = [atggcgaatttcggtggagattggcccagtcattggaattctacatcaaggagcttcaagaaggacctaccatggagca
+# acgccgaacaagaagtcgtctgggtagaccaaatggccatcgcttggttactatgggcaaaaatggtcaag]
+# protein sequence = [MANFGGDWPSHWNSTSRSFKKDLPWSNAEQEVVWVDQMAIAWLLWAKMVK]
+# end gene g9279
+###
+#
+##FASTA
+>scf_11024
+CTTCTAATGTAGTTACCTTGACCATTTTTGCCCATAGTAACCAAGCGATGGCCATTTGGT
+CTACCCAGACGACTTCTTGTTCGGCGTTGCTCCATGGTAGGTCCTTCTTGAAGCTCCTTG
+ATGTAGAATTCCAATGACTGGGCCAATCTCCACCGAAATTCGCCATGATTGACCTGTTCG
+CCACCAGGATTAAAGTACTTGTATGCTGAGAATGCGT

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 5323 (length = 217, name = scf_18060) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5323 on both strands
+# start gene g15581
+scf_18060	AUGUSTUS	gene	10	217	0.44	+	.	g15581
+scf_18060	AUGUSTUS	transcript	10	217	0.44	+	.	g15581.t1
+scf_18060	AUGUSTUS	start_codon	10	12	.	+	0	transcript_id "g15581.t1"; gene_id "g15581";
+scf_18060	AUGUSTUS	initial	10	217	0.44	+	0	transcript_id "g15581.t1"; gene_id "g15581";
+scf_18060	AUGUSTUS	CDS	10	217	0.44	+	0	transcript_id "g15581.t1"; gene_id "g15581";
+# coding sequence = [atgggtatcaacgacaacgacgacaacaacgacaatgacaacgaagatcgtgcaccgcccccaactaaccattacaacg
+# atatcatctcgaccggtaaagtcatcactgctactggaagggaggcaatgcgactggttatgggattgacagcagaaatgttgctttacattggggcc
+# aatgccgatgatatgacgacctcctcctctc]
+# protein sequence = [MGINDNDDNNDNDNEDRAPPPTNHYNDIISTGKVITATGREAMRLVMGLTAEMLLYIGANADDMTTSSS]
+# end gene g15581
+###
+#
+##FASTA
+>scf_18060
+CTGACTTTGATGGGTATCAACGACAACGACGACAACAACGACAATGACAACGAAGATCGT
+GCACCGCCCCCAACTAACCATTACAACGATATCATCTCGACCGGTAAAGTCATCACTGCT
+ACTGGAAGGGAGGCAATGCGACTGGTTATGGGATTGACAGCAGAAATGTTGCTTTACATT
+GGGGCCAATGCCGATGATATGACGACCTCCTCCTCTC

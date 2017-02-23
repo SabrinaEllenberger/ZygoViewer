@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 5246 (length = 273, name = scf_16312) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5246 on both strands
+# start gene g15247
+scf_16312	AUGUSTUS	gene	1	209	0.91	-	.	g15247
+scf_16312	AUGUSTUS	transcript	1	209	0.91	-	.	g15247.t1
+scf_16312	AUGUSTUS	initial	32	209	0.91	-	0	transcript_id "g15247.t1"; gene_id "g15247";
+scf_16312	AUGUSTUS	intron	1	31	0.91	-	.	transcript_id "g15247.t1"; gene_id "g15247";
+scf_16312	AUGUSTUS	CDS	32	209	0.91	-	0	transcript_id "g15247.t1"; gene_id "g15247";
+scf_16312	AUGUSTUS	start_codon	207	209	.	-	0	transcript_id "g15247.t1"; gene_id "g15247";
+# coding sequence = [atgtgggggagggcgaagaagagagaattggctgatgacggtggagagaatgatggagggcgaaaaggcgtgctgttgg
+# atgatgtgggcccagtgttgtcgccagatggcttggaggaggcaactacagagcatccaggtggtagtgtcgggaatggagaggtccaggatccagga
+# g]
+# protein sequence = [MWGRAKKRELADDGGENDGGRKGVLLDDVGPVLSPDGLEEATTEHPGGSVGNGEVQDPG]
+# end gene g15247
+###
+#
+##FASTA
+>scf_16312
+CTTCCGTCTCTCTATCCCATTCCTTGGTTACCTCCTGGATCCTGGACCTCTCCATTCCCG
+ACACTACCACCTGGATGCTCTGTAGTTGCCTCCTCCAAGCCATCTGGCGACAACACTGGG
+CCCACATCATCCAACAGCACGCCTTTTCGCCCTCCATCATTCTCTCCACCGTCATCAGCC
+AATTCTCTCTTCTTCGCCCTCCCCCACATGTCTACTACATCGATCACTAGTATAGCTTAT
+CCTGTTTTTATATTTTAACCCCCGACAATAAAT

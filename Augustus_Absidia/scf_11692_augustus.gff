@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4437 (length = 217, name = scf_11692) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4437 on both strands
+# start gene g9843
+scf_11692	AUGUSTUS	gene	1	192	0.28	-	.	g9843
+scf_11692	AUGUSTUS	transcript	1	192	0.28	-	.	g9843.t1
+scf_11692	AUGUSTUS	initial	85	192	0.28	-	0	transcript_id "g9843.t1"; gene_id "g9843";
+scf_11692	AUGUSTUS	intron	1	84	0.61	-	.	transcript_id "g9843.t1"; gene_id "g9843";
+scf_11692	AUGUSTUS	CDS	85	192	0.28	-	0	transcript_id "g9843.t1"; gene_id "g9843";
+scf_11692	AUGUSTUS	start_codon	190	192	.	-	0	transcript_id "g9843.t1"; gene_id "g9843";
+# coding sequence = [atgcaccattcgagtggagatcttgatcaaatgatgggattactgaccgcggagcaaagagaagaaggtgctgaggcaa
+# tgaagaagctggaagaattctggaccaac]
+# protein sequence = [MHHSSGDLDQMMGLLTAEQREEGAEAMKKLEEFWTN]
+# end gene g9843
+###
+#
+##FASTA
+>scf_11692
+AGGGTAGCGAATATGGGATGGTAGGGTAGTCTATTGTCGTTGTGTTCTTAATCGGCGGAA
+ACTGTTAGGATACGAATTTGTTACGTTGGTCCAGAATTCTTCCAGCTTCTTCATTGCCTC
+AGCACCTTCTTCTCTTTGCTCCGCGGTCAGTAATCCCATCATTTGATCAAGATCTCCACT
+CGAATGGTGCATTGCACTGAAGAAATCCTTTGACCAA

@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 3868 (length = 276, name = scf_9488) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3868 on both strands
+# start gene g8021
+scf_9488	AUGUSTUS	gene	1	188	0.66	-	.	g8021
+scf_9488	AUGUSTUS	transcript	1	188	0.66	-	.	g8021.t1
+scf_9488	AUGUSTUS	internal	22	127	0.66	-	1	transcript_id "g8021.t1"; gene_id "g8021";
+scf_9488	AUGUSTUS	initial	178	188	0.67	-	0	transcript_id "g8021.t1"; gene_id "g8021";
+scf_9488	AUGUSTUS	intron	1	21	0.66	-	.	transcript_id "g8021.t1"; gene_id "g8021";
+scf_9488	AUGUSTUS	intron	128	177	0.67	-	.	transcript_id "g8021.t1"; gene_id "g8021";
+scf_9488	AUGUSTUS	CDS	22	127	0.66	-	1	transcript_id "g8021.t1"; gene_id "g8021";
+scf_9488	AUGUSTUS	CDS	178	188	0.67	-	0	transcript_id "g8021.t1"; gene_id "g8021";
+scf_9488	AUGUSTUS	start_codon	186	188	.	-	0	transcript_id "g8021.t1"; gene_id "g8021";
+# coding sequence = [atgggcaaatatcttgtcaacttgctccatatcggtggatcgcatacagaccatacgccaccaacaatcaacaatcttc
+# gaaaaggacttcgtaaagaaggatctctcgttctacag]
+# protein sequence = [MGKYLVNLLHIGGSHTDHTPPTINNLRKGLRKEGSLVLQ]
+# end gene g8021
+###
+#
+##FASTA
+>scf_9488
+CAGAAGAAACAAATGACTTACCTGTAGAACGAGAGATCCTTCTTTACGAAGTCCTTTTCG
+AAGATTGTTGATTGTTGGTGGCGTATGGTCTGTATGCGATCCACCGATATGGAGCAAGTT
+GACAAGACTGAAAATAGAAAGTAAAGGGTCATTAGTACACCACGCATCATCCTTTACTAT
+TTGCCCATTGTCACATACCTTTTGTATTCTGCTTGAGTTGTGCAATACTTGAATACGTGG
+AGAGCTAGATCGGCAGAGCGCTGGGACAACACCCCT

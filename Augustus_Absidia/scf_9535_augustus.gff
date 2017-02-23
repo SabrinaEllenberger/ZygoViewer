@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 3885 (length = 574, name = scf_9535) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3885 on both strands
+# start gene g8024
+scf_9535	AUGUSTUS	gene	1	574	0.71	+	.	g8024
+scf_9535	AUGUSTUS	transcript	1	574	0.71	+	.	g8024.t1
+scf_9535	AUGUSTUS	internal	89	574	0.84	+	1	transcript_id "g8024.t1"; gene_id "g8024";
+scf_9535	AUGUSTUS	intron	1	88	0.71	+	.	transcript_id "g8024.t1"; gene_id "g8024";
+scf_9535	AUGUSTUS	CDS	89	574	0.84	+	1	transcript_id "g8024.t1"; gene_id "g8024";
+# coding sequence = [ggatccgaaacttcgatggccttttctctcgttttcccaaactcttcccgccaccaaggtcaccgatgtctttaaccca
+# aatggtgatgaaaactgtggattccgctgcattgcaaagactctttatgaggatcaggagaaatttgggcttgtgaagtcaaccatgctggaaaccct
+# ggtcgaaggcgaacgattctacaaagcaattcagatcttccctgactatgaacacttggtccaaacggtctcatacgcagatgatggctcttttgtcc
+# cgcagaagtactggttcagcacccccgattgcgctcaacttgctgccgatgcattcagacgaccaatcgaatgccacactccacacggcccgactttg
+# taccttcctctcaacaacactacgtactcgtccttcaaacctataattctgcaactccatgccagccacttctttttggtcactatcaaatctggaaa
+# gcgggatctcccaaa]
+# protein sequence = [DPKLRWPFLSFSQTLPATKVTDVFNPNGDENCGFRCIAKTLYEDQEKFGLVKSTMLETLVEGERFYKAIQIFPDYEHL
+# VQTVSYADDGSFVPQKYWFSTPDCAQLAADAFRRPIECHTPHGPTLYLPLNNTTYSSFKPIILQLHASHFFLVTIKSGKRDLP]
+# end gene g8024
+###
+#
+##FASTA
+>scf_9535
+AAAAAAAAAAGGCAAAAACAGCAAAGCAAATGTAAGTATGGCAGAGAAAACGTTTCGTTT
+GTCGGGTATTGACCAAAACTCCTTATAGGGATCCGAAACTTCGATGGCCTTTTCTCTCGT
+TTTCCCAAACTCTTCCCGCCACCAAGGTCACCGATGTCTTTAACCCAAATGGTGATGAAA
+ACTGTGGATTCCGCTGCATTGCAAAGACTCTTTATGAGGATCAGGAGAAATTTGGGCTTG
+TGAAGTCAACCATGCTGGAAACCCTGGTCGAAGGCGAACGATTCTACAAAGCAATTCAGA
+TCTTCCCTGACTATGAACACTTGGTCCAAACGGTCTCATACGCAGATGATGGCTCTTTTG
+TCCCGCAGAAGTACTGGTTCAGCACCCCCGATTGCGCTCAACTTGCTGCCGATGCATTCA
+GACGACCAATCGAATGCCACACTCCACACGGCCCGACTTTGTACCTTCCTCTCAACAACA
+CTACGTACTCGTCCTTCAAACCTATAATTCTGCAACTCCATGCCAGCCACTTCTTTTTGG
+TCACTATCAAATCTGGAAAGCGGGATCTCCCAAA

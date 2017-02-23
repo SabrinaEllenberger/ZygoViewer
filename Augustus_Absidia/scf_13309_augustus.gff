@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4796 (length = 217, name = scf_13309) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4796 on both strands
+# start gene g12695
+scf_13309	AUGUSTUS	gene	1	172	0.64	-	.	g12695
+scf_13309	AUGUSTUS	transcript	1	172	0.64	-	.	g12695.t1
+scf_13309	AUGUSTUS	initial	104	172	0.64	-	0	transcript_id "g12695.t1"; gene_id "g12695";
+scf_13309	AUGUSTUS	intron	1	103	0.74	-	.	transcript_id "g12695.t1"; gene_id "g12695";
+scf_13309	AUGUSTUS	CDS	104	172	0.64	-	0	transcript_id "g12695.t1"; gene_id "g12695";
+scf_13309	AUGUSTUS	start_codon	170	172	.	-	0	transcript_id "g12695.t1"; gene_id "g12695";
+# coding sequence = [atgcctactgaacgaaacttggagttggcgtggtggccttcagaagtcttcctcgggaatggtaccatg]
+# protein sequence = [MPTERNLELAWWPSEVFLGNGTM]
+# end gene g12695
+###
+#
+##FASTA
+>scf_13309
+GCGGTCGGAAATGGGGGTTGGGTTGATGGCACGATGCTATTTGACAATTTCAAAAAAAGG
+TACATGTCAAAAGAAGCAGTAACTAATATTGACATTGTATTACCATGGTACCATTCCCGA
+GGAAGACTTCTGAAGGCCACCACGCCAACTCCAAGTTTCGTTCAGTAGGCATGATGAACT
+TGCCACGTCCATTCCACCCAGAGACACCTTTCGCAGG

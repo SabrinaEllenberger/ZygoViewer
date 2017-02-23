@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 5192 (length = 472, name = scf_15703) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5192 on both strands
+# start gene g15208
+scf_15703	AUGUSTUS	gene	1	472	0.7	+	.	g15208
+scf_15703	AUGUSTUS	transcript	1	472	0.7	+	.	g15208.t1
+scf_15703	AUGUSTUS	internal	1	95	0.71	+	1	transcript_id "g15208.t1"; gene_id "g15208";
+scf_15703	AUGUSTUS	internal	162	472	0.74	+	2	transcript_id "g15208.t1"; gene_id "g15208";
+scf_15703	AUGUSTUS	intron	96	161	0.75	+	.	transcript_id "g15208.t1"; gene_id "g15208";
+scf_15703	AUGUSTUS	CDS	1	95	0.71	+	1	transcript_id "g15208.t1"; gene_id "g15208";
+scf_15703	AUGUSTUS	CDS	162	472	0.74	+	2	transcript_id "g15208.t1"; gene_id "g15208";
+# coding sequence = [gctcgaaaagattgttctcgacaatcgtatgaccgtaaaagctcatgcggccgtcaccaagctcatgaatgaagtcatc
+# agcaaggttgctcctggacacgaactgctgccatctccctacaagtcccgcaagcagctggaaatggcctacccgatcaaagcaatgcggtacgacac
+# ctgtacaagcgggtgcatgcttttcaccgacgacgaagaaaccgaatgccaacaatgccaacaaccacggtacaacgacgacaacttggctaatcgta
+# cgatcaacgtactgtctgttgcggaacaacttggattgctgctatacaacaaagggacccgacaagatcttcggtatcgatctgactacgagacaacg
+# ggcgactacgatgacatctttggtggatcttac]
+# protein sequence = [LEKIVLDNRMTVKAHAAVTKLMNEVISKVAPGHELLPSPYKSRKQLEMAYPIKAMRYDTCTSGCMLFTDDEETECQQC
+# QQPRYNDDNLANRTINVLSVAEQLGLLLYNKGTRQDLRYRSDYETTGDYDDIFGGSY]
+# end gene g15208
+###
+#
+##FASTA
+>scf_15703
+GCTCGAAAAGATTGTTCTCGACAATCGTATGACCGTAAAAGCTCATGCGGCCGTCACCAA
+GCTCATGAATGAAGTCATCAGCAAGGTTGCTCCTGGTAAGTGTCAACCGTACATTGCTAG
+GTGTTTACGAATGAAACTGATCTTGCATTCCAATGAAATAGGACACGAACTGCTGCCATC
+TCCCTACAAGTCCCGCAAGCAGCTGGAAATGGCCTACCCGATCAAAGCAATGCGGTACGA
+CACCTGTACAAGCGGGTGCATGCTTTTCACCGACGACGAAGAAACCGAATGCCAACAATG
+CCAACAACCACGGTACAACGACGACAACTTGGCTAATCGTACGATCAACGTACTGTCTGT
+TGCGGAACAACTTGGATTGCTGCTATACAACAAAGGGACCCGACAAGATCTTCGGTATCG
+ATCTGACTACGAGACAACGGGCGACTACGATGACATCTTTGGTGGATCTTAC

@@ -1,0 +1,29 @@
+# ----- prediction on sequence number 4260 (length = 327, name = scf_10961) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4260 on both strands
+# start gene g9277
+scf_10961	AUGUSTUS	gene	1	303	0.51	-	.	g9277
+scf_10961	AUGUSTUS	transcript	1	303	0.51	-	.	g9277.t1
+scf_10961	AUGUSTUS	initial	10	303	0.51	-	0	transcript_id "g9277.t1"; gene_id "g9277";
+scf_10961	AUGUSTUS	intron	1	9	0.51	-	.	transcript_id "g9277.t1"; gene_id "g9277";
+scf_10961	AUGUSTUS	CDS	10	303	0.51	-	0	transcript_id "g9277.t1"; gene_id "g9277";
+scf_10961	AUGUSTUS	start_codon	301	303	.	-	0	transcript_id "g9277.t1"; gene_id "g9277";
+# coding sequence = [atgtcaataggtagtcgacacattgaaaactctcagctacaacgacgataccaacgaattcaggactatccctgcaagg
+# gtagaatccacggttttatcaacagacgacacgaatggattcatctcgacattagtcatgcggtttgtcatcctcggcctgatgacatcaacgacacc
+# atccctgttgcacccattccgacagagatcaaacgattcattgccagccaaatcacgcctcgaagactgacctcctccgacttgtatgaaaccgttgt
+# tgaaagatttggttacgtg]
+# protein sequence = [MSIGSRHIENSQLQRRYQRIQDYPCKGRIHGFINRRHEWIHLDISHAVCHPRPDDINDTIPVAPIPTEIKRFIASQIT
+# PRRLTSSDLYETVVERFGYV]
+# end gene g9277
+###
+#
+##FASTA
+>scf_10961
+ATAGTTCACCACGTAACCAAATCTTTCAACAACGGTTTCATACAAGTCGGAGGAGGTCAG
+TCTTCGAGGCGTGATTTGGCTGGCAATGAATCGTTTGATCTCTGTCGGAATGGGTGCAAC
+AGGGATGGTGTCGTTGATGTCATCAGGCCGAGGATGACAAACCGCATGACTAATGTCGAG
+ATGAATCCATTCGTGTCGTCTGTTGATAAAACCGTGGATTCTACCCTTGCAGGGATAGTC
+CTGAATTCGTTGGTATCGTCGTTGTAGCTGAGAGTTTTCAATGTGTCGACTACCTATTGA
+CATACAAAACAATTTAGTGTCAACTGC

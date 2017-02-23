@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 4934 (length = 251, name = scf_14045) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4934 on both strands
+# start gene g13374
+scf_14045	AUGUSTUS	gene	1	239	0.45	+	.	g13374
+scf_14045	AUGUSTUS	transcript	1	239	0.45	+	.	g13374.t1
+scf_14045	AUGUSTUS	terminal	1	239	0.45	+	2	transcript_id "g13374.t1"; gene_id "g13374";
+scf_14045	AUGUSTUS	CDS	1	236	0.45	+	2	transcript_id "g13374.t1"; gene_id "g13374";
+scf_14045	AUGUSTUS	stop_codon	237	239	.	+	0	transcript_id "g13374.t1"; gene_id "g13374";
+# coding sequence = [tcggtgccagtccattcgttcgtaaagtaatccaggaactccgcttgtgtaacatagagatccataaattcatgcaact
+# tcgagtagaattcgtcgacacatgtgatggtgataaggtggctcaaaaagttcatcatctcgcccttgtaaatagcctgatcgcttccgttggtgtcg
+# gtcaggtacaccttgctgttgatttgcctcgaccatgcctgggtgacatggaaggcacatag]
+# protein sequence = [GASPFVRKVIQELRLCNIEIHKFMQLRVEFVDTCDGDKVAQKVHHLALVNSLIASVGVGQVHLAVDLPRPCLGDMEGT]
+# end gene g13374
+###
+#
+##FASTA
+>scf_14045
+TCGGTGCCAGTCCATTCGTTCGTAAAGTAATCCAGGAACTCCGCTTGTGTAACATAGAGA
+TCCATAAATTCATGCAACTTCGAGTAGAATTCGTCGACACATGTGATGGTGATAAGGTGG
+CTCAAAAAGTTCATCATCTCGCCCTTGTAAATAGCCTGATCGCTTCCGTTGGTGTCGGTC
+AGGTACACCTTGCTGTTGATTTGCCTCGACCATGCCTGGGTGACATGGAAGGCACATAGC
+CTTATTTTTGA

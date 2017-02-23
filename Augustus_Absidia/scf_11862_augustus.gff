@@ -1,0 +1,28 @@
+# ----- prediction on sequence number 4478 (length = 312, name = scf_11862) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4478 on both strands
+# start gene g10273
+scf_11862	AUGUSTUS	gene	1	312	0.63	+	.	g10273
+scf_11862	AUGUSTUS	transcript	1	312	0.63	+	.	g10273.t1
+scf_11862	AUGUSTUS	internal	1	292	0.63	+	1	transcript_id "g10273.t1"; gene_id "g10273";
+scf_11862	AUGUSTUS	intron	293	312	0.63	+	.	transcript_id "g10273.t1"; gene_id "g10273";
+scf_11862	AUGUSTUS	CDS	1	292	0.63	+	1	transcript_id "g10273.t1"; gene_id "g10273";
+# coding sequence = [accaagaaagaaggctgacgaaactcctggtggcaagcgtagaaagaccaccaaggctacaatcaaggttggctgtacc
+# tccaaatttaccaagcacgtttacgctgacggtgccgtcaaagtggtttatcaatggatccacgaaaatcatgaccctttggaaatggaagatattgg
+# acactctcgtttgcccgtggaactgcgcaactggattgttgactgcgtggaccgccacatgaacctgaagtcgatcaaggccttcctacgcctcaaca
+# ttgatcaacttgatgaa]
+# protein sequence = [PRKKADETPGGKRRKTTKATIKVGCTSKFTKHVYADGAVKVVYQWIHENHDPLEMEDIGHSRLPVELRNWIVDCVDRH
+# MNLKSIKAFLRLNIDQLDE]
+# end gene g10273
+###
+#
+##FASTA
+>scf_11862
+ACCAAGAAAGAAGGCTGACGAAACTCCTGGTGGCAAGCGTAGAAAGACCACCAAGGCTAC
+AATCAAGGTTGGCTGTACCTCCAAATTTACCAAGCACGTTTACGCTGACGGTGCCGTCAA
+AGTGGTTTATCAATGGATCCACGAAAATCATGACCCTTTGGAAATGGAAGATATTGGACA
+CTCTCGTTTGCCCGTGGAACTGCGCAACTGGATTGTTGACTGCGTGGACCGCCACATGAA
+CCTGAAGTCGATCAAGGCCTTCCTACGCCTCAACATTGATCAACTTGATGAAGTAAGTGG
+TAGCAACGATAC

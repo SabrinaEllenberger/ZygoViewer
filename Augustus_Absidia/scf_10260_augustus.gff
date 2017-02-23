@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 4076 (length = 407, name = scf_10260) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4076 on both strands
+# start gene g8496
+scf_10260	AUGUSTUS	gene	1	354	0.53	-	.	g8496
+scf_10260	AUGUSTUS	transcript	1	354	0.53	-	.	g8496.t1
+scf_10260	AUGUSTUS	initial	7	354	0.53	-	0	transcript_id "g8496.t1"; gene_id "g8496";
+scf_10260	AUGUSTUS	intron	1	6	0.68	-	.	transcript_id "g8496.t1"; gene_id "g8496";
+scf_10260	AUGUSTUS	CDS	7	354	0.53	-	0	transcript_id "g8496.t1"; gene_id "g8496";
+scf_10260	AUGUSTUS	start_codon	352	354	.	-	0	transcript_id "g8496.t1"; gene_id "g8496";
+# coding sequence = [atgttacacaagcggagttcctggattactttacgaacgaatggactggcaccgagaaagatcaagcaatggagtgccg
+# cttttttcgatgttgaatttgcccaccttgccaccaacaactacatcgaaagttggcacaatcaacttaaaacgtactttttggcaaaacaacgaaac
+# aagcgactggatcgactggtgtgtgtgttggtgaacgacgtggaaaagtatcatgtgaacgagcaccagcgcataggaagattggaaggtcgaatggg
+# tcctgaagctagtgaagatgcaatccgacgctactatgcagaaaccttggactgggatgtcggtcagacaatg]
+# protein sequence = [MLHKRSSWITLRTNGLAPRKIKQWSAAFFDVEFAHLATNNYIESWHNQLKTYFLAKQRNKRLDRLVCVLVNDVEKYHV
+# NEHQRIGRLEGRMGPEASEDAIRRYYAETLDWDVGQTM]
+# end gene g8496
+###
+#
+##FASTA
+>scf_10260
+TTCCACCATTGTCTGACCGACATCCCAGTCCAAGGTTTCTGCATAGTAGCGTCGGATTGC
+ATCTTCACTAGCTTCAGGACCCATTCGACCTTCCAATCTTCCTATGCGCTGGTGCTCGTT
+CACATGATACTTTTCCACGTCGTTCACCAACACACACACCAGTCGATCCAGTCGCTTGTT
+TCGTTGTTTTGCCAAAAAGTACGTTTTAAGTTGATTGTGCCAACTTTCGATGTAGTTGTT
+GGTGGCAAGGTGGGCAAATTCAACATCGAAAAAAGCGGCACTCCATTGCTTGATCTTTCT
+CGGTGCCAGTCCATTCGTTCGTAAAGTAATCCAGGAACTCCGCTTGTGTAACATAGAGAT
+CCATAAATTCATGCAACTTCGAGTAGAATTCGTCGACACATGTGATG

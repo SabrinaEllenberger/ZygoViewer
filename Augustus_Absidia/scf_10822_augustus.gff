@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 4225 (length = 428, name = scf_10822) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4225 on both strands
+# start gene g9230
+scf_10822	AUGUSTUS	gene	1	394	0.77	+	.	g9230
+scf_10822	AUGUSTUS	transcript	1	394	0.77	+	.	g9230.t1
+scf_10822	AUGUSTUS	internal	1	129	0.77	+	0	transcript_id "g9230.t1"; gene_id "g9230";
+scf_10822	AUGUSTUS	terminal	197	394	0.77	+	0	transcript_id "g9230.t1"; gene_id "g9230";
+scf_10822	AUGUSTUS	intron	130	196	0.77	+	.	transcript_id "g9230.t1"; gene_id "g9230";
+scf_10822	AUGUSTUS	CDS	1	129	0.77	+	0	transcript_id "g9230.t1"; gene_id "g9230";
+scf_10822	AUGUSTUS	CDS	197	391	0.77	+	0	transcript_id "g9230.t1"; gene_id "g9230";
+scf_10822	AUGUSTUS	stop_codon	392	394	.	+	0	transcript_id "g9230.t1"; gene_id "g9230";
+# coding sequence = [tacactgtcgatggctttgcggacatggataccgagattgggatggccaagaacagcgtgatggaaatacgtggtgtca
+# acgacgatggtgacattatgtaccgggttaatgatcttatcattaccaagtatcgctcgctcctctcccacttccgaagaacaatggtgacagctgtc
+# cgaaaccagatgctaaactacaattttgaaggcgaactcgaaggtcaagttttggaatcaaaggcggctatgtatgcatacatccgacaagatggaag
+# gtatgtattcaattgggctcatccgttcactaatatcgaacattctctatag]
+# protein sequence = [YTVDGFADMDTEIGMAKNSVMEIRGVNDDGDIMYRVNDLIITKYRSLLSHFRRTMVTAVRNQMLNYNFEGELEGQVLE
+# SKAAMYAYIRQDGRYVFNWAHPFTNIEHSL]
+# end gene g9230
+###
+#
+##FASTA
+>scf_10822
+TACACTGTCGATGGCTTTGCGGACATGGATACCGAGATTGGGATGGCCAAGAACAGCGTG
+ATGGAAATACGTGGTGTCAACGACGATGGTGACATTATGTACCGGGTTAATGATCTTATC
+ATTACCAAGGTATGTATGCTGAAAGACTGACACCGTATTTAATGACTTTTTTACTTTTCT
+TGTTTTATGCATCAAGTATCGCTCGCTCCTCTCCCACTTCCGAAGAACAATGGTGACAGC
+TGTCCGAAACCAGATGCTAAACTACAATTTTGAAGGCGAACTCGAAGGTCAAGTTTTGGA
+ATCAAAGGCGGCTATGTATGCATACATCCGACAAGATGGAAGGTATGTATTCAATTGGGC
+TCATCCGTTCACTAATATCGAACATTCTCTATAGATTTTTGTACCGCAACTTCGATGTGC
+AGAATGGC

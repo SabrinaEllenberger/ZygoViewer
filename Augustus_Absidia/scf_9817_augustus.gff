@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 3967 (length = 577, name = scf_9817) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3967 on both strands
+# start gene g8322
+scf_9817	AUGUSTUS	gene	2	574	0.24	+	.	g8322
+scf_9817	AUGUSTUS	transcript	2	574	0.24	+	.	g8322.t1
+scf_9817	AUGUSTUS	start_codon	2	4	.	+	0	transcript_id "g8322.t1"; gene_id "g8322";
+scf_9817	AUGUSTUS	initial	2	185	0.47	+	0	transcript_id "g8322.t1"; gene_id "g8322";
+scf_9817	AUGUSTUS	terminal	351	574	0.25	+	2	transcript_id "g8322.t1"; gene_id "g8322";
+scf_9817	AUGUSTUS	intron	186	350	0.25	+	.	transcript_id "g8322.t1"; gene_id "g8322";
+scf_9817	AUGUSTUS	CDS	2	185	0.47	+	0	transcript_id "g8322.t1"; gene_id "g8322";
+scf_9817	AUGUSTUS	CDS	351	571	0.25	+	2	transcript_id "g8322.t1"; gene_id "g8322";
+scf_9817	AUGUSTUS	stop_codon	572	574	.	+	0	transcript_id "g8322.t1"; gene_id "g8322";
+# coding sequence = [atgaattcatcatcctttactactcctcaatccattcgtattcaacctgattataccaaagcgtttgttaccgaggact
+# ttgcaacaaacgatgattacgacatttgtttcaacaacattgcctccaaacatgctgttttcatcttcaaaactgcccaccgaccaagcacgtatatc
+# tctggtctggtttatcaatggatacacgaaaatcatgaccctttagaagtggaagatatcggacactctcgtttgcccgtggaactacgcaactggat
+# tgtggactgcgtggaccgccacatgaacctgaagtcgatcaaggccgtcctacgcctcaacatcgatcaactagatgaagtaagtgagagcaacgata
+# ctcagtgtactgtagtctatctgcttactttttga]
+# protein sequence = [MNSSSFTTPQSIRIQPDYTKAFVTEDFATNDDYDICFNNIASKHAVFIFKTAHRPSTYISGLVYQWIHENHDPLEVED
+# IGHSRLPVELRNWIVDCVDRHMNLKSIKAVLRLNIDQLDEVSESNDTQCTVVYLLTF]
+# end gene g8322
+###
+#
+##FASTA
+>scf_9817
+TATGAATTCATCATCCTTTACTACTCCTCAATCCATTCGTATTCAACCTGATTATACCAA
+AGCGTTTGTTACCGAGGACTTTGCAACAAACGATGATTACGACATTTGTTTCAACAACAT
+TGCCTCCAAACATGCTGTTTTCATCTTCAAAACTGCCCACCGACCAAGCACGTATATCTC
+TGGTCGTTAAACTATGTCCATTTACTTTATCTGTGATCATGCTGGCTCACCAAGAAAGAA
+GGCTGACGAAACTCCTGGTAGCAAGCGTAGAAGGACCACCTAGGCAACAATCAAGGTTGG
+CTGTATCTCCAAATTTACCAAACACGTTTACGCTGACGGTGCCGTCAAAGTGGTTTATCA
+ATGGATACACGAAAATCATGACCCTTTAGAAGTGGAAGATATCGGACACTCTCGTTTGCC
+CGTGGAACTACGCAACTGGATTGTGGACTGCGTGGACCGCCACATGAACCTGAAGTCGAT
+CAAGGCCGTCCTACGCCTCAACATCGATCAACTAGATGAAGTAAGTGAGAGCAACGATAC
+TCAGTGTACTGTAGTCTATCTGCTTACTTTTTGATTC

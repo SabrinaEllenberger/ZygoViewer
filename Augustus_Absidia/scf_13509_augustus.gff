@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4833 (length = 217, name = scf_13509) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4833 on both strands
+# start gene g12773
+scf_13509	AUGUSTUS	gene	1	217	0.48	-	.	g12773
+scf_13509	AUGUSTUS	transcript	1	217	0.48	-	.	g12773.t1
+scf_13509	AUGUSTUS	internal	58	217	0.48	-	1	transcript_id "g12773.t1"; gene_id "g12773";
+scf_13509	AUGUSTUS	intron	1	57	0.54	-	.	transcript_id "g12773.t1"; gene_id "g12773";
+scf_13509	AUGUSTUS	CDS	58	217	0.48	-	1	transcript_id "g12773.t1"; gene_id "g12773";
+# coding sequence = [ctattatcgtggccacaataaggtttgtcctaacttccctcctgctctggtctctcaaaaccactcctcctccaacggt
+# gtcacccaacaaggacatcctactcagactggtgttgctcccaagcatatgatcccgagatccaatggctctgcttcgcag]
+# protein sequence = [YYRGHNKVCPNFPPALVSQNHSSSNGVTQQGHPTQTGVAPKHMIPRSNGSASQ]
+# end gene g12773
+###
+#
+##FASTA
+>scf_13509
+AGTGTATCTAGTGGCTGCACGGGCCCTTTTACCCTTAAATGAATTGTTAGGCGTTACCTG
+CGAAGCAGAGCCATTGGATCTCGGGATCATATGCTTGGGAGCAACACCAGTCTGAGTAGG
+ATGTCCTTGTTGGGTGACACCGTTGGAGGAGGAGTGGTTTTGAGAGACCAGAGCAGGAGG
+GAAGTTAGGACAAACCTTATTGTGGCCACGATAATAG

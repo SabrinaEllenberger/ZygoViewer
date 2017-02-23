@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 4621 (length = 448, name = scf_12500) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4621 on both strands
+# start gene g12089
+scf_12500	AUGUSTUS	gene	1	448	0.58	+	.	g12089
+scf_12500	AUGUSTUS	transcript	1	448	0.58	+	.	g12089.t1
+scf_12500	AUGUSTUS	internal	121	418	0.78	+	0	transcript_id "g12089.t1"; gene_id "g12089";
+scf_12500	AUGUSTUS	intron	1	120	0.63	+	.	transcript_id "g12089.t1"; gene_id "g12089";
+scf_12500	AUGUSTUS	intron	419	448	0.9	+	.	transcript_id "g12089.t1"; gene_id "g12089";
+scf_12500	AUGUSTUS	CDS	121	418	0.78	+	0	transcript_id "g12089.t1"; gene_id "g12089";
+# coding sequence = [gatgatgctttgctttacagcaaggaccgggaaacgtacggacaaaacaccaaatttattggcactcatgatgctcacc
+# gccttggccttctccgtggcaagatatcccgatttgcgtacgaaaagatcaagaacgagctccctgcaatgccttttgtggcctatcatgacttgtgt
+# ctttgtgaatgccgtatccaatacaagcttccttgtcgtcaccttatcccccaagatcactcgcaattgacgctggatctgattgatcaacgctggtt
+# cttggatcctgaaatggcaacag]
+# protein sequence = [DDALLYSKDRETYGQNTKFIGTHDAHRLGLLRGKISRFAYEKIKNELPAMPFVAYHDLCLCECRIQYKLPCRHLIPQD
+# HSQLTLDLIDQRWFLDPEMAT]
+# end gene g12089
+###
+#
+##FASTA
+>scf_12500
+ACGCCAACGGTAATCTCGATAAGGCATTTGGAGAAATCAACAGGTGGTTCAGGGGAATTG
+TAAGTCTTTGTCCAGTCCATTGTGGCAATGATCATTAACCATCTCTGTGGGTACTTATAG
+GATGATGCTTTGCTTTACAGCAAGGACCGGGAAACGTACGGACAAAACACCAAATTTATT
+GGCACTCATGATGCTCACCGCCTTGGCCTTCTCCGTGGCAAGATATCCCGATTTGCGTAC
+GAAAAGATCAAGAACGAGCTCCCTGCAATGCCTTTTGTGGCCTATCATGACTTGTGTCTT
+TGTGAATGCCGTATCCAATACAAGCTTCCTTGTCGTCACCTTATCCCCCAAGATCACTCG
+CAATTGACGCTGGATCTGATTGATCAACGCTGGTTCTTGGATCCTGAAATGGCAACAGGT
+AAAGCTAGAGATTGTGAATCACTCCGAT

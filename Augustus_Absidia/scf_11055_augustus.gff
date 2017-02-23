@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 4283 (length = 351, name = scf_11055) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4283 on both strands
+# start gene g9285
+scf_11055	AUGUSTUS	gene	1	310	0.56	-	.	g9285
+scf_11055	AUGUSTUS	transcript	1	310	0.56	-	.	g9285.t1
+scf_11055	AUGUSTUS	internal	13	117	0.69	-	2	transcript_id "g9285.t1"; gene_id "g9285";
+scf_11055	AUGUSTUS	initial	175	310	0.82	-	0	transcript_id "g9285.t1"; gene_id "g9285";
+scf_11055	AUGUSTUS	intron	1	12	0.69	-	.	transcript_id "g9285.t1"; gene_id "g9285";
+scf_11055	AUGUSTUS	intron	118	174	1	-	.	transcript_id "g9285.t1"; gene_id "g9285";
+scf_11055	AUGUSTUS	CDS	13	117	0.69	-	2	transcript_id "g9285.t1"; gene_id "g9285";
+scf_11055	AUGUSTUS	CDS	175	310	0.82	-	0	transcript_id "g9285.t1"; gene_id "g9285";
+scf_11055	AUGUSTUS	start_codon	308	310	.	-	0	transcript_id "g9285.t1"; gene_id "g9285";
+# coding sequence = [atgatggactcgatggaagaattcgagcaagtggattccttggtggccactggcgatgacggatatggcgaaacggttt
+# acaacggggtcgacaacccattccaaatatatgaaggtgatcataacatcagatatgaatttcgccgtgtacctgtcccgattgcaacaatgaatcca
+# tacagacctaaaggaacgctgtcgccactcgctgctgatgttgcattgcacgcattcaagttct]
+# protein sequence = [MMDSMEEFEQVDSLVATGDDGYGETVYNGVDNPFQIYEGDHNIRYEFRRVPVPIATMNPYRPKGTLSPLAADVALHAF
+# KF]
+# end gene g9285
+###
+#
+##FASTA
+>scf_11055
+ACTGCGATATACAGAACTTGAATGCGTGCAATGCAACATCAGCAGCGAGTGGCGACAGCG
+TTCCTTTAGGTCTGTATGGATTCATTGTTGCAATCGGGACAGGTACACGGCGAAATTCTA
+AATGCATGAATGATTAGTGATGCTGAATGTGTAATATATAGACTTGTAGCTTACCATATC
+TGATGTTATGATCACCTTCATATATTTGGAATGGGTTGTCGACCCCGTTGTAAACCGTTT
+CGCCATATCCGTCATCGCCAGTGGCCACCAAGGAATCCACTTGCTCGAATTCTTCCATCG
+AGTCCATCATGTGTTGAAGTTCTGCTGCTTCTTCGTCTTCTTTCGCCTGGA

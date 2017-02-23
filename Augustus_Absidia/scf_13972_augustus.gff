@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 4920 (length = 217, name = scf_13972) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4920 on both strands
+# start gene g13370
+scf_13972	AUGUSTUS	gene	1	200	0.51	+	.	g13370
+scf_13972	AUGUSTUS	transcript	1	200	0.51	+	.	g13370.t1
+scf_13972	AUGUSTUS	internal	1	21	0.52	+	0	transcript_id "g13370.t1"; gene_id "g13370";
+scf_13972	AUGUSTUS	terminal	87	200	0.81	+	0	transcript_id "g13370.t1"; gene_id "g13370";
+scf_13972	AUGUSTUS	intron	22	86	0.52	+	.	transcript_id "g13370.t1"; gene_id "g13370";
+scf_13972	AUGUSTUS	CDS	1	21	0.52	+	0	transcript_id "g13370.t1"; gene_id "g13370";
+scf_13972	AUGUSTUS	CDS	87	197	0.81	+	0	transcript_id "g13370.t1"; gene_id "g13370";
+scf_13972	AUGUSTUS	stop_codon	198	200	.	+	0	transcript_id "g13370.t1"; gene_id "g13370";
+# coding sequence = [gaagaatctgacacggatcaggatgcttctggtgacgacctggacgacgactctgatgcctttgatgaatcaagtggat
+# cagtggtgggccaacctgctcaacgtgatcgggtaagactatgtgatagactttga]
+# protein sequence = [EESDTDQDASGDDLDDDSDAFDESSGSVVGQPAQRDRVRLCDRL]
+# end gene g13370
+###
+#
+##FASTA
+>scf_13972
+GAAGAATCTGACACGGATCAGGTAAGACTCTGTGGTATACTTTGACGTACATGCCTAAAC
+TAAATGTCTGGTTTACACTGTGTTAGGATGCTTCTGGTGACGACCTGGACGACGACTCTG
+ATGCCTTTGATGAATCAAGTGGATCAGTGGTGGGCCAACCTGCTCAACGTGATCGGGTAA
+GACTATGTGATAGACTTTGACGTGCATGCTTAATCCA

@@ -1,0 +1,25 @@
+# ----- prediction on sequence number 4655 (length = 217, name = scf_12647) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4655 on both strands
+# start gene g12109
+scf_12647	AUGUSTUS	gene	1	217	0.97	-	.	g12109
+scf_12647	AUGUSTUS	transcript	1	217	0.97	-	.	g12109.t1
+scf_12647	AUGUSTUS	internal	1	60	0.97	-	0	transcript_id "g12109.t1"; gene_id "g12109";
+scf_12647	AUGUSTUS	internal	112	217	0.97	-	1	transcript_id "g12109.t1"; gene_id "g12109";
+scf_12647	AUGUSTUS	intron	61	111	0.97	-	.	transcript_id "g12109.t1"; gene_id "g12109";
+scf_12647	AUGUSTUS	CDS	1	60	0.97	-	0	transcript_id "g12109.t1"; gene_id "g12109";
+scf_12647	AUGUSTUS	CDS	112	217	0.97	-	1	transcript_id "g12109.t1"; gene_id "g12109";
+# coding sequence = [tgcgactgaaattgccgccatccgtcaagtctttggtagtcatgccaacatcctcttgtgccattggcacatcaagcgt
+# gcctgggacgacaaacttcgaacaacggtcaaggttcccaacgccactgatgccaccaaacttttacgaggatcgatgaggggtgcc]
+# protein sequence = [ATEIAAIRQVFGSHANILLCHWHIKRAWDDKLRTTVKVPNATDATKLLRGSMRGA]
+# end gene g12109
+###
+#
+##FASTA
+>scf_12647
+GGCACCCCTCATCGATCCTCGTAAAAGTTTGGTGGCATCAGTGGCGTTGGGAACCTTGAC
+CTATTAGAAGGATTAGTTCCTTATCATCATTCTCTGACCTTTCAAGCTCACCGTTGTTCG
+AAGTTTGTCGTCCCAGGCACGCTTGATGTGCCAATGGCACAAGAGGATGTTGGCATGACT
+ACCAAAGACTTGACGGATGGCGGCAATTTCAGTCGCA

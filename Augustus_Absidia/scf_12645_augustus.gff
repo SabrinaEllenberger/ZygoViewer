@@ -1,0 +1,30 @@
+# ----- prediction on sequence number 4653 (length = 426, name = scf_12645) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4653 on both strands
+# start gene g12108
+scf_12645	AUGUSTUS	gene	1	255	0.34	-	.	g12108
+scf_12645	AUGUSTUS	transcript	1	255	0.34	-	.	g12108.t1
+scf_12645	AUGUSTUS	initial	16	255	0.34	-	0	transcript_id "g12108.t1"; gene_id "g12108";
+scf_12645	AUGUSTUS	intron	1	15	0.95	-	.	transcript_id "g12108.t1"; gene_id "g12108";
+scf_12645	AUGUSTUS	CDS	16	255	0.34	-	0	transcript_id "g12108.t1"; gene_id "g12108";
+scf_12645	AUGUSTUS	start_codon	253	255	.	-	0	transcript_id "g12108.t1"; gene_id "g12108";
+# coding sequence = [atgaaatacaatggttacagcagtaataacaacagcaacaacaatatggccttttccagccacatgaagcgtccacacg
+# aacctacttttgcgcccacaaagagagccagacagcattgtgagctacatccacatcaatcatcacactctaccgcaaactgttggagccgtcctggt
+# aacgaacacttacgaccaagcagatggagagggcctaagcaagctactgatacgaacatcagg]
+# protein sequence = [MKYNGYSSNNNSNNNMAFSSHMKRPHEPTFAPTKRARQHCELHPHQSSHSTANCWSRPGNEHLRPSRWRGPKQATDTN
+# IR]
+# end gene g12108
+###
+#
+##FASTA
+>scf_12645
+CGAGATTGCTTGTACCCTGATGTTCGTATCAGTAGCTTGCTTAGGCCCTCTCCATCTGCT
+TGGTCGTAAGTGTTCGTTACCAGGACGGCTCCAACAGTTTGCGGTAGAGTGTGATGATTG
+ATGTGGATGTAGCTCACAATGCTGTCTGGCTCTCTTTGTGGGCGCAAAAGTAGGTTCGTG
+TGGACGCTTCATGTGGCTGGAAAAGGCCATATTGTTGTTGCTGTTGTTATTACTGCTGTA
+ACCATTGTATTTCATGGCTATGTTCAATACCTGGGAAGCCTTTGTTGGGACTTTGTGGTA
+AGAGGCATTTTCATCTTCATGATTTTTTGTATCAAAAAACTTGTTGACAACGAACTCTTT
+GAGCCTTTGAGGGAGTGCGTTGATGCACACTTGTGCGGTTTGGTAGTTGTCGGTCCAACC
+TGCATC

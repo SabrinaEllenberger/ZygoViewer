@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 4278 (length = 390, name = scf_11034) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4278 on both strands
+# start gene g9281
+scf_11034	AUGUSTUS	gene	1	390	0.29	-	.	g9281
+scf_11034	AUGUSTUS	transcript	1	390	0.29	-	.	g9281.t1
+scf_11034	AUGUSTUS	internal	1	248	0.31	-	2	transcript_id "g9281.t1"; gene_id "g9281";
+scf_11034	AUGUSTUS	internal	315	390	0.46	-	0	transcript_id "g9281.t1"; gene_id "g9281";
+scf_11034	AUGUSTUS	intron	249	314	0.46	-	.	transcript_id "g9281.t1"; gene_id "g9281";
+scf_11034	AUGUSTUS	CDS	1	248	0.31	-	2	transcript_id "g9281.t1"; gene_id "g9281";
+scf_11034	AUGUSTUS	CDS	315	390	0.46	-	0	transcript_id "g9281.t1"; gene_id "g9281";
+# coding sequence = [ctctctgacgccaaccaaggtctcttcaccgatgatgaactccttgatatcgatccttcttacgactcctctgattttg
+# cggaaatgactggcaacctgtctctctcagccgatgacgcttacgaccgtatggaatgtaagttagccaggggaatcaccaaaacagatcaatcgcta
+# actaacgctttatcctcatcggatgatgatgttatggtacctatcactatagagaacctgcaaatcatggctctcgtcgatggtggtgccaattttag
+# tagcgtagatcaaactttttgcaatgataataaaatcccttatgatgta]
+# protein sequence = [LSDANQGLFTDDELLDIDPSYDSSDFAEMTGNLSLSADDAYDRMECKLARGITKTDQSLTNALSSSDDDVMVPITIEN
+# LQIMALVDGGANFSSVDQTFCNDNKIPYDV]
+# end gene g9281
+###
+#
+##FASTA
+>scf_11034
+TACATCATAAGGGATTTTATTATCATTGCAAAAAGTTTGATCTACGCTACTAAAATTGGC
+ACCACCATCGACGAGAGCCATGATTTGCAGGTTCTCTATAGTGATAGGTACCATAACATC
+ATCATCCGATGAGGATAAAGCGTTAGTTAGCGATTGATCTGTTTTGGTGATTCCCCTGGC
+TAACTTACATTCCATACGGTCGTAAGCGTCATCGGCTGAGAGAGACAGGTTGCCAGTCAT
+TTCCGCAACTACATTGTCAGTCAAAGTGGGGTGTGAGTTAAGCACTGGATGATCTTGAGC
+GTATCTGCACTTACAATCAGAGGAGTCGTAAGAAGGATCGATATCAAGGAGTTCATCATC
+GGTGAAGAGACCTTGGTTGGCGTCAGAGAG

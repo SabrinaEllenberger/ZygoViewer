@@ -1,0 +1,26 @@
+# ----- prediction on sequence number 5146 (length = 351, name = scf_15334) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5146 on both strands
+# start gene g15182
+scf_15334	AUGUSTUS	gene	1	300	0.48	-	.	g15182
+scf_15334	AUGUSTUS	transcript	1	300	0.48	-	.	g15182.t1
+scf_15334	AUGUSTUS	initial	146	300	0.48	-	0	transcript_id "g15182.t1"; gene_id "g15182";
+scf_15334	AUGUSTUS	intron	1	145	0.76	-	.	transcript_id "g15182.t1"; gene_id "g15182";
+scf_15334	AUGUSTUS	CDS	146	300	0.48	-	0	transcript_id "g15182.t1"; gene_id "g15182";
+scf_15334	AUGUSTUS	start_codon	298	300	.	-	0	transcript_id "g15182.t1"; gene_id "g15182";
+# coding sequence = [atgcgacatgaactggaggtggaattcatcgatgccaagcaactccaggtggaaaaggccaagcaggatcgcaaggaac
+# cgtcgtcgtttgtctcttccatagaacgctttgtcaataacatccggatgttgtccaaacacgccaaaatgatgca]
+# protein sequence = [MRHELEVEFIDAKQLQVEKAKQDRKEPSSFVSSIERFVNNIRMLSKHAKMM]
+# end gene g15182
+###
+#
+##FASTA
+>scf_15334
+CCGCCCTCCGATCCTATAGTTTACAACAATGACCAACACCCCTTCTTATGCTTTATTCAT
+CCCCCCCCACAACCTTCTATACAAACAAATAAATTAAAAAAAAGCTCAACTGCAACGAGT
+CATTTACTGTAATCTATCAATCTACTGCATCATTTTGGCGTGTTTGGACAACATCCGGAT
+GTTATTGACAAAGCGTTCTATGGAAGAGACAAACGACGACGGTTCCTTGCGATCCTGCTT
+GGCCTTTTCCACCTGGAGTTGCTTGGCATCGATGAATTCCACCTCCAGTTCATGTCGCAT
+TTCCATTTCATTCGTCTACAATGATATAAAGTGAGAAAAAAAAAAAAAAAA

@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4639 (length = 224, name = scf_12577) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4639 on both strands
+# start gene g12092
+scf_12577	AUGUSTUS	gene	1	224	0.77	-	.	g12092
+scf_12577	AUGUSTUS	transcript	1	224	0.77	-	.	g12092.t1
+scf_12577	AUGUSTUS	internal	28	224	0.77	-	1	transcript_id "g12092.t1"; gene_id "g12092";
+scf_12577	AUGUSTUS	intron	1	27	0.77	-	.	transcript_id "g12092.t1"; gene_id "g12092";
+scf_12577	AUGUSTUS	CDS	28	224	0.77	-	1	transcript_id "g12092.t1"; gene_id "g12092";
+# coding sequence = [cgctggtgctgacgctggtgctgacgctggtgctgacgctggtgctgacgctggtgctgacgctggtgctgacgctggt
+# gctgacgctgatgtcactgaagagggtgccgctgaagagggtccacaggctggcagagaagacgataatgacagggagcttctggcaatggaggtttc
+# tctgcaggtgcaactaaatc]
+# protein sequence = [AGADAGADAGADAGADAGADAGADAGADADVTEEGAAEEGPQAGREDDNDRELLAMEVSLQVQLN]
+# end gene g12092
+###
+#
+##FASTA
+>scf_12577
+CAAGCCTTCTATCTGCTTCTCTTTTACGATTTAGTTGCACCTGCAGAGAAACCTCCATTG
+CCAGAAGCTCCCTGTCATTATCGTCTTCTCTGCCAGCCTGTGGACCCTCTTCAGCGGCAC
+CCTCTTCAGTGACATCAGCGTCAGCACCAGCGTCAGCACCAGCGTCAGCACCAGCGTCAG
+CACCAGCGTCAGCACCAGCGTCAGCACCAGCGTCAGCACCAGCG

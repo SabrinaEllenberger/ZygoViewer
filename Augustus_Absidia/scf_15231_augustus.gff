@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 5125 (length = 369, name = scf_15231) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5125 on both strands
+# start gene g15178
+scf_15231	AUGUSTUS	gene	1	222	0.53	-	.	g15178
+scf_15231	AUGUSTUS	transcript	1	222	0.53	-	.	g15178.t1
+scf_15231	AUGUSTUS	initial	79	222	0.53	-	0	transcript_id "g15178.t1"; gene_id "g15178";
+scf_15231	AUGUSTUS	intron	1	78	0.63	-	.	transcript_id "g15178.t1"; gene_id "g15178";
+scf_15231	AUGUSTUS	CDS	79	222	0.53	-	0	transcript_id "g15178.t1"; gene_id "g15178";
+scf_15231	AUGUSTUS	start_codon	220	222	.	-	0	transcript_id "g15178.t1"; gene_id "g15178";
+# coding sequence = [atgaatgccaatcaggccattccacccgattccttctgtactcatccggatgccatggtgtacttagacacgccaccag
+# atgctgctggttatagagctcagtatagaattgcagacacactgaaaccactagtggatgaaaca]
+# protein sequence = [MNANQAIPPDSFCTHPDAMVYLDTPPDAAGYRAQYRIADTLKPLVDET]
+# end gene g15178
+###
+#
+##FASTA
+>scf_15231
+GGTCAGTGGACTGTTCCAGCGATTATCAACGTTGGATGGTACCCTGGTGATAATACCCTG
+AGTTTCCCATTTTTTTACTGTTTCATCCACTAGTGGTTTCAGTGTGTCTGCAATTCTATA
+CTGAGCTCTATAACCAGCAGCATCTGGTGGCGTGTCTAAGTACACCATGGCATCCGGATG
+AGTACAGAAGGAATCGGGTGGAATGGCCTGATTGGCATTCATGCTTGGTTGTATGAAGGA
+GAGGAAAGCCTTTTGTTGAATTGGGGAACCATAGGGATCGTCGTTGGGTGTAACCACATC
+TTTAAAAGGGCTTTCTTCCAGAGATCTGTCAGGGGTCGTCCAGGAAACGGCTAATCCTAT
+GTATGCAAT

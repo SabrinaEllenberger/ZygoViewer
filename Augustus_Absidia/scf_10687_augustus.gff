@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 4184 (length = 477, name = scf_10687) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4184 on both strands
+# start gene g9196
+scf_10687	AUGUSTUS	gene	1	428	0.42	+	.	g9196
+scf_10687	AUGUSTUS	transcript	1	428	0.42	+	.	g9196.t1
+scf_10687	AUGUSTUS	internal	1	74	0.59	+	0	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	internal	146	268	0.67	+	1	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	terminal	323	428	0.64	+	1	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	intron	75	145	0.64	+	.	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	intron	269	322	0.64	+	.	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	CDS	1	74	0.59	+	0	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	CDS	146	268	0.67	+	1	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	CDS	323	425	0.64	+	1	transcript_id "g9196.t1"; gene_id "g9196";
+scf_10687	AUGUSTUS	stop_codon	426	428	.	+	0	transcript_id "g9196.t1"; gene_id "g9196";
+# coding sequence = [gaccctccgcctggcatgacttggtttggctcgcatcacaacaaacgcttgacaagatacttgcaagtccaaagatccg
+# aagctatccaacagctggcccaagacttacccatccttgctcaatcctatatggattgcccctactttgacgtctccttgtttcactatgactacaac
+# cttttctctttggtcaatagtaaactccaaactacagaaaccgtttatttctattcaacgatcaccaagcaattgttattcaagattgacccgaatcc
+# atccaatgcccccctctttccccggtaa]
+# protein sequence = [DPPPGMTWFGSHHNKRLTRYLQVQRSEAIQQLAQDLPILAQSYMDCPYFDVSLFHYDYNLFSLVNSKLQTTETVYFYS
+# TITKQLLFKIDPNPSNAPLFPR]
+# end gene g9196
+###
+#
+##FASTA
+>scf_10687
+GACCCTCCGCCTGGCATGACTTGGTTTGGCTCGCATCACAACAAACGCTTGACAAGATAC
+TTGCAAGTCCAAAGGTAAACTCTCTCTCTCTCTCTCTCTCTGTCTAAAAAGTACATTTAT
+TGAATCTGTTGATTTGAACATTTAGATCCGAAGCTATCCAACAGCTGGCCCAAGACTTAC
+CCATCCTTGCTCAATCCTATATGGATTGCCCCTACTTTGACGTCTCCTTGTTTCACTATG
+ACTACAACCTTTTCTCTTTGGTCAATAGGTAAACTGTCTCTCTTCTTTTTAGCATGGCTG
+ACTCGAAAAATTTTTGCTTTAGTAAACTCCAAACTACAGAAACCGTTTATTTCTATTCAA
+CGATCACCAAGCAATTGTTATTCAAGATTGACCCGAATCCATCCAATGCCCCCCTCTTTC
+CCCGGTAAGTCCAACCCCCCTTTGTCTATACGTCGCTCACTTTTTTTTTTTTTTTTT

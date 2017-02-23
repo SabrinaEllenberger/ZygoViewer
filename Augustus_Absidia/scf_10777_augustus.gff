@@ -1,0 +1,23 @@
+# ----- prediction on sequence number 4215 (length = 219, name = scf_10777) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4215 on both strands
+# start gene g9228
+scf_10777	AUGUSTUS	gene	1	219	0.73	+	.	g9228
+scf_10777	AUGUSTUS	transcript	1	219	0.73	+	.	g9228.t1
+scf_10777	AUGUSTUS	internal	45	219	0.73	+	2	transcript_id "g9228.t1"; gene_id "g9228";
+scf_10777	AUGUSTUS	intron	1	44	0.83	+	.	transcript_id "g9228.t1"; gene_id "g9228";
+scf_10777	AUGUSTUS	CDS	45	219	0.73	+	2	transcript_id "g9228.t1"; gene_id "g9228";
+# coding sequence = [ctgataacgtcggtatcgtggtcttcggtaacgatcgtttgatcaaggaaggtgacactgtcaagcgtactggtgctat
+# tgtcgacgtccccgttggtcctggtatcctcggtcgtgttgtcgatgctctcggtaaccccatcgatggtaagggtcctcttgaaactgctggtcg]
+# protein sequence = [DNVGIVVFGNDRLIKEGDTVKRTGAIVDVPVGPGILGRVVDALGNPIDGKGPLETAG]
+# end gene g9228
+###
+#
+##FASTA
+>scf_10777
+ACTCCATTTTACTTGCATGTAGGGTATGGCTCTTAACTTGGAAGCTGATAACGTCGGTAT
+CGTGGTCTTCGGTAACGATCGTTTGATCAAGGAAGGTGACACTGTCAAGCGTACTGGTGC
+TATTGTCGACGTCCCCGTTGGTCCTGGTATCCTCGGTCGTGTTGTCGATGCTCTCGGTAA
+CCCCATCGATGGTAAGGGTCCTCTTGAAACTGCTGGTCG

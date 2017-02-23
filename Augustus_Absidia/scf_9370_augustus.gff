@@ -1,0 +1,27 @@
+# ----- prediction on sequence number 3841 (length = 364, name = scf_9370) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3841 on both strands
+# start gene g7974
+scf_9370	AUGUSTUS	gene	1	279	0.6	+	.	g7974
+scf_9370	AUGUSTUS	transcript	1	279	0.6	+	.	g7974.t1
+scf_9370	AUGUSTUS	terminal	197	279	0.96	+	2	transcript_id "g7974.t1"; gene_id "g7974";
+scf_9370	AUGUSTUS	intron	1	196	0.62	+	.	transcript_id "g7974.t1"; gene_id "g7974";
+scf_9370	AUGUSTUS	CDS	197	276	0.96	+	2	transcript_id "g7974.t1"; gene_id "g7974";
+scf_9370	AUGUSTUS	stop_codon	277	279	.	+	0	transcript_id "g7974.t1"; gene_id "g7974";
+# coding sequence = [gactagccgacctgctccctacggtcccaacgcccgtcgtcgccctctcgggtgcggacacattgttagtgggctctgc
+# atag]
+# protein sequence = [LADLLPTVPTPVVALSGADTLLVGSA]
+# end gene g7974
+###
+#
+##FASTA
+>scf_9370
+ACGCCGACCTGCTCGCTACACTCCCGACGGCCGACGTCGCCCATGGTAAAGAAGAATGAA
+GAGATGAGTAAAGGGGAATTTTAGACATTTACCCACCTGCCAGCCACCCAATATCGGAGT
+TGCAAATGTGTACATTTTTTTTGTGGACGGAATTTTTGTGGACGAATTTTTTTCTAATCT
+AAACACATAAATGTAGGACTAGCCGACCTGCTCCCTACGGTCCCAACGCCCGTCGTCGCC
+CTCTCGGGTGCGGACACATTGTTAGTGGGCTCTGCATAGCATGAAAAAGTGATGACTGTC
+GTATCAGCCAAAAAAGAAAAATCATGCACTTCGGCTCAAGTGATTAACTCCGCAAGCAAA
+AGAA

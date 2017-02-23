@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 5329 (length = 217, name = scf_18573) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5329 on both strands
+# start gene g15593
+scf_18573	AUGUSTUS	gene	1	209	0.75	+	.	g15593
+scf_18573	AUGUSTUS	transcript	1	209	0.75	+	.	g15593.t1
+scf_18573	AUGUSTUS	terminal	1	209	0.75	+	2	transcript_id "g15593.t1"; gene_id "g15593";
+scf_18573	AUGUSTUS	CDS	1	206	0.75	+	2	transcript_id "g15593.t1"; gene_id "g15593";
+scf_18573	AUGUSTUS	stop_codon	207	209	.	+	0	transcript_id "g15593.t1"; gene_id "g15593";
+# coding sequence = [atctgtaccctcaatggcaacatgatcttggacattatgcaccactcattatcactgacgccatgcacattgtagacgc
+# agtggctattgtagctgacagtgtcaatgccaccatcaaacaccttatccctcctcgtcatcacccatggaatctcaccatccttaccaacttcaacg
+# acatcgattcatcattacaactccgatattga]
+# protein sequence = [LYPQWQHDLGHYAPLIITDAMHIVDAVAIVADSVNATIKHLIPPRHHPWNLTILTNFNDIDSSLQLRY]
+# end gene g15593
+###
+#
+##FASTA
+>scf_18573
+ATCTGTACCCTCAATGGCAACATGATCTTGGACATTATGCACCACTCATTATCACTGACG
+CCATGCACATTGTAGACGCAGTGGCTATTGTAGCTGACAGTGTCAATGCCACCATCAAAC
+ACCTTATCCCTCCTCGTCATCACCCATGGAATCTCACCATCCTTACCAACTTCAACGACA
+TCGATTCATCATTACAACTCCGATATTGAAACACCGC

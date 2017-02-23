@@ -1,0 +1,24 @@
+# ----- prediction on sequence number 4282 (length = 224, name = scf_11054) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4282 on both strands
+# start gene g9284
+scf_11054	AUGUSTUS	gene	1	224	0.95	-	.	g9284
+scf_11054	AUGUSTUS	transcript	1	224	0.95	-	.	g9284.t1
+scf_11054	AUGUSTUS	internal	7	224	0.95	-	0	transcript_id "g9284.t1"; gene_id "g9284";
+scf_11054	AUGUSTUS	intron	1	6	0.95	-	.	transcript_id "g9284.t1"; gene_id "g9284";
+scf_11054	AUGUSTUS	CDS	7	224	0.95	-	0	transcript_id "g9284.t1"; gene_id "g9284";
+# coding sequence = [gatcaagaaaagaaggatcatcatcatacttctgctatcattggtggtgctttggctgtcggtgccgtcgttgctggtg
+# ctgccgctttggaacatgtccacgataaacacaaggacgaagctgccaagaaggtcgaagaacaaaaggtggttgaagctatccatggtgccaatgct
+# actactgtgatcgaagatgtcaaggtgaccgtctatacctg]
+# protein sequence = [DQEKKDHHHTSAIIGGALAVGAVVAGAAALEHVHDKHKDEAAKKVEEQKVVEAIHGANATTVIEDVKVTVYT]
+# end gene g9284
+###
+#
+##FASTA
+>scf_11054
+TTGTACCAGGTATAGACGGTCACCTTGACATCTTCGATCACAGTAGTAGCATTGGCACCA
+TGGATAGCTTCAACCACCTTTTGTTCTTCGACCTTCTTGGCAGCTTCGTCCTTGTGTTTA
+TCGTGGACATGTTCCAAAGCGGCAGCACCAGCAACGACGGCACCGACAGCCAAAGCACCA
+CCAATGATAGCAGAAGTATGATGATGATCCTTCTTTTCTTGATC

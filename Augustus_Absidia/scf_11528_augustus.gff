@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 4387 (length = 457, name = scf_11528) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4387 on both strands
+# start gene g9633
+scf_11528	AUGUSTUS	gene	1	434	0.83	+	.	g9633
+scf_11528	AUGUSTUS	transcript	1	434	0.83	+	.	g9633.t1
+scf_11528	AUGUSTUS	internal	1	347	0.83	+	0	transcript_id "g9633.t1"; gene_id "g9633";
+scf_11528	AUGUSTUS	terminal	404	434	0.91	+	1	transcript_id "g9633.t1"; gene_id "g9633";
+scf_11528	AUGUSTUS	intron	348	403	0.85	+	.	transcript_id "g9633.t1"; gene_id "g9633";
+scf_11528	AUGUSTUS	CDS	1	347	0.83	+	0	transcript_id "g9633.t1"; gene_id "g9633";
+scf_11528	AUGUSTUS	CDS	404	431	0.91	+	1	transcript_id "g9633.t1"; gene_id "g9633";
+scf_11528	AUGUSTUS	stop_codon	432	434	.	+	0	transcript_id "g9633.t1"; gene_id "g9633";
+# coding sequence = [gccgaccttactgccccattggatgctttacgcagccatgacggtaagcttggtgcattgtggaccaaagaccactccg
+# tggctttccaaaagatcaaggatgccatgttacattcttccgcgatccatgcccccaaagatgatctcccattccacgttgccacagacgcttcggac
+# gtcggtatcggtgctgtactttatcaagtcggtgctgaaggtgagatgttcgtcaatggtttcatggctcgagcgctgtccaaatcagaacgcaacta
+# tggtattaccaaaaaggaattgttagctgtcatctttgctttcaacaagttccaccaacacctatggggtagatctgaatgctatgatgacaaaatgg
+# tttga]
+# protein sequence = [ADLTAPLDALRSHDGKLGALWTKDHSVAFQKIKDAMLHSSAIHAPKDDLPFHVATDASDVGIGAVLYQVGAEGEMFVN
+# GFMARALSKSERNYGITKKELLAVIFAFNKFHQHLWGRSECYDDKMV]
+# end gene g9633
+###
+#
+##FASTA
+>scf_11528
+GCCGACCTTACTGCCCCATTGGATGCTTTACGCAGCCATGACGGTAAGCTTGGTGCATTG
+TGGACCAAAGACCACTCCGTGGCTTTCCAAAAGATCAAGGATGCCATGTTACATTCTTCC
+GCGATCCATGCCCCCAAAGATGATCTCCCATTCCACGTTGCCACAGACGCTTCGGACGTC
+GGTATCGGTGCTGTACTTTATCAAGTCGGTGCTGAAGGTGAGATGTTCGTCAATGGTTTC
+ATGGCTCGAGCGCTGTCCAAATCAGAACGCAACTATGGTATTACCAAAAAGGAATTGTTA
+GCTGTCATCTTTGCTTTCAACAAGTTCCACCAACACCTATGGGGTAGGTACTTTACCCTG
+TATACGGACCACAAAGCCTTGGTTTATATCCACACCCAAAAAGATCTGAATGCTATGATG
+ACAAAATGGTTTGATACCTTGTTAGATTATCAGTTCG
