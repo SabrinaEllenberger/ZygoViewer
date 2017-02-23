@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 4609 (length = 524, name = scf_9653) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4609 on both strands
+# start gene g3766
+scf_9653	AUGUSTUS	gene	1	524	0.68	+	.	g3766
+scf_9653	AUGUSTUS	transcript	1	524	0.68	+	.	g3766.t1
+scf_9653	AUGUSTUS	internal	70	524	0.68	+	0	transcript_id "g3766.t1"; gene_id "g3766";
+scf_9653	AUGUSTUS	intron	1	69	0.73	+	.	transcript_id "g3766.t1"; gene_id "g3766";
+scf_9653	AUGUSTUS	CDS	70	524	0.68	+	0	transcript_id "g3766.t1"; gene_id "g3766";
+# coding sequence = [ggctttgactacccttcggaagctccccctcacaatccttcctgtcctgtggacgatctcaccatctctctacaaagtc
+# tttttctcgaacttccggagccctacaatccctctccttctcctcctccgccgccatcttctgccttggcagtgaaaattttggcctatgctgacgat
+# accttggtatttctgcaggatgccgctgattttcatttacttcaactaactatacaaacgtatatgaaagcttctaactctttgctaaatttccataa
+# aacagcagcgctgtcattatcaggtaagccccatgccgcctggcaagctcgtctgatatcccatggcatcacagcttggcatgatcgcacttcgccat
+# ccccattaacctacctcggctatcctatttgctccagcattgctcaacgtaatgtggctttccagaaattatacacctctat]
+# protein sequence = [GFDYPSEAPPHNPSCPVDDLTISLQSLFLELPEPYNPSPSPPPPPSSALAVKILAYADDTLVFLQDAADFHLLQLTIQ
+# TYMKASNSLLNFHKTAALSLSGKPHAAWQARLISHGITAWHDRTSPSPLTYLGYPICSSIAQRNVAFQKLYTS]
+# end gene g3766
+###
+#
+##FASTA
+>scf_9653
+TCGCCGTTACTTTTTAATATAGCTTTCGATCCTTTCATTCGTTCAATACACAACAATCCC
+AATTTTAAGGGCTTTGACTACCCTTCGGAAGCTCCCCCTCACAATCCTTCCTGTCCTGTG
+GACGATCTCACCATCTCTCTACAAAGTCTTTTTCTCGAACTTCCGGAGCCCTACAATCCC
+TCTCCTTCTCCTCCTCCGCCGCCATCTTCTGCCTTGGCAGTGAAAATTTTGGCCTATGCT
+GACGATACCTTGGTATTTCTGCAGGATGCCGCTGATTTTCATTTACTTCAACTAACTATA
+CAAACGTATATGAAAGCTTCTAACTCTTTGCTAAATTTCCATAAAACAGCAGCGCTGTCA
+TTATCAGGTAAGCCCCATGCCGCCTGGCAAGCTCGTCTGATATCCCATGGCATCACAGCT
+TGGCATGATCGCACTTCGCCATCCCCATTAACCTACCTCGGCTATCCTATTTGCTCCAGC
+ATTGCTCAACGTAATGTGGCTTTCCAGAAATTATACACCTCTAT

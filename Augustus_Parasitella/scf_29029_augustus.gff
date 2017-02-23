@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 11382 (length = 586, name = scf_29029) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 11382 on both strands
+# start gene g7651
+scf_29029	AUGUSTUS	gene	1	539	0.85	+	.	g7651
+scf_29029	AUGUSTUS	transcript	1	539	0.85	+	.	g7651.t1
+scf_29029	AUGUSTUS	internal	1	435	0.85	+	0	transcript_id "g7651.t1"; gene_id "g7651";
+scf_29029	AUGUSTUS	terminal	516	539	0.97	+	0	transcript_id "g7651.t1"; gene_id "g7651";
+scf_29029	AUGUSTUS	intron	436	515	0.97	+	.	transcript_id "g7651.t1"; gene_id "g7651";
+scf_29029	AUGUSTUS	CDS	1	435	0.85	+	0	transcript_id "g7651.t1"; gene_id "g7651";
+scf_29029	AUGUSTUS	CDS	516	536	0.97	+	0	transcript_id "g7651.t1"; gene_id "g7651";
+scf_29029	AUGUSTUS	stop_codon	537	539	.	+	0	transcript_id "g7651.t1"; gene_id "g7651";
+# coding sequence = [aaacgcaaagcaacccgaactccattagcgaccacagctacacaaaaaaaaacacaactagcaacaccaactgctgatc
+# catcagcagacaatgattcctctgcattgctaccagaatgggccgtgcaaatgcagaaggaaatgattgcatggaagcaggaccttgcaatcctgcca
+# aagctgcgagctgaaaacgctgaattgaaagctcgactccaagcagctagagatgaaataaaatccctaaccaaaaacacgatttcatctgtcaaccc
+# tcaccaaccacaaccacaacaaccacagcaacagcaagaaccgcaacaaccacaatcacaacaaccagaacaaccacagcaacaaccacctcaaacac
+# aacaacaacaacgacacgttcactttggtgcagcaactcctgctgctaatcaatggcaaactccaagcccagaaaccaccttctga]
+# protein sequence = [KRKATRTPLATTATQKKTQLATPTADPSADNDSSALLPEWAVQMQKEMIAWKQDLAILPKLRAENAELKARLQAARDE
+# IKSLTKNTISSVNPHQPQPQQPQQQQEPQQPQSQQPEQPQQQPPQTQQQQRHVHFGAATPAANQWQTPSPETTF]
+# end gene g7651
+###
+#
+##FASTA
+>scf_29029
+AAACGCAAAGCAACCCGAACTCCATTAGCGACCACAGCTACACAAAAAAAAACACAACTA
+GCAACACCAACTGCTGATCCATCAGCAGACAATGATTCCTCTGCATTGCTACCAGAATGG
+GCCGTGCAAATGCAGAAGGAAATGATTGCATGGAAGCAGGACCTTGCAATCCTGCCAAAG
+CTGCGAGCTGAAAACGCTGAATTGAAAGCTCGACTCCAAGCAGCTAGAGATGAAATAAAA
+TCCCTAACCAAAAACACGATTTCATCTGTCAACCCTCACCAACCACAACCACAACAACCA
+CAGCAACAGCAAGAACCGCAACAACCACAATCACAACAACCAGAACAACCACAGCAACAA
+CCACCTCAAACACAACAACAACAACGACACGTTCACTTTGGTGCAGCAACTCCTGCTGCT
+AATCAATGGCAAACTGTAACTCATAAAAAATCCAAAAAACAACCACAGCCACAAAAACTA
+TCAAAAAACACAACAAAAAAATCTCACAATCAAAGCCAAGCCCAGAAACCACCTTCTGAG
+GCAATGTTACAATGGGCATATCGTGGATTTACCGAGCCAGAAGGCC

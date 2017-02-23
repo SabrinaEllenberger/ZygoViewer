@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 21 (length = 590, name = scf_38) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 21 on both strands
+# start gene g12
+scf_38	AUGUSTUS	gene	1	554	0.4	+	.	g12
+scf_38	AUGUSTUS	transcript	1	554	0.4	+	.	g12.t1
+scf_38	AUGUSTUS	terminal	1	554	0.4	+	2	transcript_id "g12.t1"; gene_id "g12";
+scf_38	AUGUSTUS	CDS	1	551	0.4	+	2	transcript_id "g12.t1"; gene_id "g12";
+scf_38	AUGUSTUS	stop_codon	552	554	.	+	0	transcript_id "g12.t1"; gene_id "g12";
+# coding sequence = [ccgtcattccagcaattgacaactacgttggaacagttggtactgcaagaagagtattaaaagagactaggctagccca
+# ggagctcatactcaaaattggcatgccggtcatgctaattcaaaatttgaatgtctctcttggatgggtaaatggcacaattgctacaatttttgaga
+# tcgatgaggataatattggtcttaaaaaatatgatgataataatgatacggatgaaaacgaacaattgtactggatacaacgaatttcaagacaggtg
+# gctggaactagttatgctaggactcagtttcctattttaccagcttttgcatcaactatccacaaggctcaaagtgccacaatagactgtgttggtat
+# atttcttgacaatatgttgacacatggtcaactttacgtcgcgatgtcgagagttaaaaaggcttcagatttacattttttcggtgctccattaccac
+# tgcaaatcactagaaagtatggcgtcaacgtcgatgcagtaagcatctgcagagggaaagtatataatgatgacagcgaataa]
+# protein sequence = [VIPAIDNYVGTVGTARRVLKETRLAQELILKIGMPVMLIQNLNVSLGWVNGTIATIFEIDEDNIGLKKYDDNNDTDEN
+# EQLYWIQRISRQVAGTSYARTQFPILPAFASTIHKAQSATIDCVGIFLDNMLTHGQLYVAMSRVKKASDLHFFGAPLPLQITRKYGVNVDAVSICRGK
+# VYNDDSE]
+# end gene g12
+###
+#
+##FASTA
+>scf_38
+CCGTCATTCCAGCAATTGACAACTACGTTGGAACAGTTGGTACTGCAAGAAGAGTATTAA
+AAGAGACTAGGCTAGCCCAGGAGCTCATACTCAAAATTGGCATGCCGGTCATGCTAATTC
+AAAATTTGAATGTCTCTCTTGGATGGGTAAATGGCACAATTGCTACAATTTTTGAGATCG
+ATGAGGATAATATTGGTCTTAAAAAATATGATGATAATAATGATACGGATGAAAACGAAC
+AATTGTACTGGATACAACGAATTTCAAGACAGGTGGCTGGAACTAGTTATGCTAGGACTC
+AGTTTCCTATTTTACCAGCTTTTGCATCAACTATCCACAAGGCTCAAAGTGCCACAATAG
+ACTGTGTTGGTATATTTCTTGACAATATGTTGACACATGGTCAACTTTACGTCGCGATGT
+CGAGAGTTAAAAAGGCTTCAGATTTACATTTTTTCGGTGCTCCATTACCACTGCAAATCA
+CTAGAAAGTATGGCGTCAACGTCGATGCAGTAAGCATCTGCAGAGGGAAAGTATATAATG
+ATGACAGCGAATAAAGAAAGCATGATCCCGATCTTTCAAAAGCAAAGTTA

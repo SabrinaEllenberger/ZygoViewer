@@ -1,0 +1,53 @@
+# ----- prediction on sequence number 4595 (length = 1043, name = scf_9625) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4595 on both strands
+# start gene g3764
+scf_9625	AUGUSTUS	gene	22	1030	0.2	+	.	g3764
+scf_9625	AUGUSTUS	transcript	22	1030	0.2	+	.	g3764.t1
+scf_9625	AUGUSTUS	start_codon	22	24	.	+	0	transcript_id "g3764.t1"; gene_id "g3764";
+scf_9625	AUGUSTUS	initial	22	961	0.2	+	0	transcript_id "g3764.t1"; gene_id "g3764";
+scf_9625	AUGUSTUS	terminal	1008	1030	0.54	+	2	transcript_id "g3764.t1"; gene_id "g3764";
+scf_9625	AUGUSTUS	intron	962	1007	0.54	+	.	transcript_id "g3764.t1"; gene_id "g3764";
+scf_9625	AUGUSTUS	CDS	22	961	0.2	+	0	transcript_id "g3764.t1"; gene_id "g3764";
+scf_9625	AUGUSTUS	CDS	1008	1027	0.54	+	2	transcript_id "g3764.t1"; gene_id "g3764";
+scf_9625	AUGUSTUS	stop_codon	1028	1030	.	+	0	transcript_id "g3764.t1"; gene_id "g3764";
+# coding sequence = [atggatctaattactcaacttggtataactatatctaatttagccatggattgggatgatgataataatattgagattc
+# cacctattgatcctgaaccatatattcctaataaccaaccttatgggacaaaagaggaacgtgaaaaattactatctgaagtaatgcctttattggaa
+# gcgaataaacagattgatcccaaatcacattgtactttacctggcagtacattgaaattacatgtattaaaagaagagcgacataaaatgtttagagc
+# acaatggccattagaggaaaaggtcaaacctattgtcaaagctcaaattgctaaatggttggaaaacggtgttatcgaacgagcaccacctggtaatc
+# cctataattccccattatttcctgttcgcaaaaagaatgctcaaggagaatatagtggtgacagtcgcattgtcatggattgtcgattagtgaattct
+# gcccttgatcctgctaaatctgatcgatttccacttcctttgatttctgaattgcatcgaaagatgtccaaacattctatatacactataattgactt
+# gtcgcagtgcttccacagttttgaaattcactacagttcgagaaaatttctcagttttactgatccaacaacgggacagcaatatatgcattctaagg
+# cccccatgggattgactcccttatcttcctttgtacagcgccaacttacgaatttatttgctgatttaaatgatgtaacaactaactttatcgatgac
+# ataacggtgcacacagaagccgacatggaaacgcacatcaagtacgttaaaatagtaatagatcgacttaccaaagccaatttgacaatcaacgtggc
+# taaaacgcatttagcacagaaaagcataaacatccttggtttctgtttgtctgaaaagggtctcgcagttgatcaaccaaagagctggcatcgcgttt
+# ag]
+# protein sequence = [MDLITQLGITISNLAMDWDDDNNIEIPPIDPEPYIPNNQPYGTKEEREKLLSEVMPLLEANKQIDPKSHCTLPGSTLK
+# LHVLKEERHKMFRAQWPLEEKVKPIVKAQIAKWLENGVIERAPPGNPYNSPLFPVRKKNAQGEYSGDSRIVMDCRLVNSALDPAKSDRFPLPLISELH
+# RKMSKHSIYTIIDLSQCFHSFEIHYSSRKFLSFTDPTTGQQYMHSKAPMGLTPLSSFVQRQLTNLFADLNDVTTNFIDDITVHTEADMETHIKYVKIV
+# IDRLTKANLTINVAKTHLAQKSINILGFCLSEKGLAVDQPKSWHRV]
+# end gene g3764
+###
+#
+##FASTA
+>scf_9625
+GATTTACATGTTGTCATTGGAATGGATCTAATTACTCAACTTGGTATAACTATATCTAAT
+TTAGCCATGGATTGGGATGATGATAATAATATTGAGATTCCACCTATTGATCCTGAACCA
+TATATTCCTAATAACCAACCTTATGGGACAAAAGAGGAACGTGAAAAATTACTATCTGAA
+GTAATGCCTTTATTGGAAGCGAATAAACAGATTGATCCCAAATCACATTGTACTTTACCT
+GGCAGTACATTGAAATTACATGTATTAAAAGAAGAGCGACATAAAATGTTTAGAGCACAA
+TGGCCATTAGAGGAAAAGGTCAAACCTATTGTCAAAGCTCAAATTGCTAAATGGTTGGAA
+AACGGTGTTATCGAACGAGCACCACCTGGTAATCCCTATAATTCCCCATTATTTCCTGTT
+CGCAAAAAGAATGCTCAAGGAGAATATAGTGGTGACAGTCGCATTGTCATGGATTGTCGA
+TTAGTGAATTCTGCCCTTGATCCTGCTAAATCTGATCGATTTCCACTTCCTTTGATTTCT
+GAATTGCATCGAAAGATGTCCAAACATTCTATATACACTATAATTGACTTGTCGCAGTGC
+TTCCACAGTTTTGAAATTCACTACAGTTCGAGAAAATTTCTCAGTTTTACTGATCCAACA
+ACGGGACAGCAATATATGCATTCTAAGGCCCCCATGGGATTGACTCCCTTATCTTCCTTT
+GTACAGCGCCAACTTACGAATTTATTTGCTGATTTAAATGATGTAACAACTAACTTTATC
+GATGACATAACGGTGCACACAGAAGCCGACATGGAAACGCACATCAAGTACGTTAAAATA
+GTAATAGATCGACTTACCAAAGCCAATTTGACAATCAACGTGGCTAAAACGCATTTAGCA
+CAGAAAAGCATAAACATCCTTGGTTTCTGTTTGTCTGAAAAGGGTCTCGCAGTTGATCAA
+CGTAAAGTGAGCAATATTTTGGATTGGAATCCTGTATGTCAAAACAGCAAAGAGCTGGCA
+TCGCGTTTAGGTCTTATTAATTT

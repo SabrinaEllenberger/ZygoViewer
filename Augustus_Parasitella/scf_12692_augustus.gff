@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 5897 (length = 527, name = scf_12692) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5897 on both strands
+# start gene g4346
+scf_12692	AUGUSTUS	gene	213	527	0.51	+	.	g4346
+scf_12692	AUGUSTUS	transcript	213	527	0.51	+	.	g4346.t1
+scf_12692	AUGUSTUS	start_codon	213	215	.	+	0	transcript_id "g4346.t1"; gene_id "g4346";
+scf_12692	AUGUSTUS	initial	213	527	0.51	+	0	transcript_id "g4346.t1"; gene_id "g4346";
+scf_12692	AUGUSTUS	CDS	213	527	0.51	+	0	transcript_id "g4346.t1"; gene_id "g4346";
+# coding sequence = [atgattgacactcttgcggaagtggatgaattaaatgaggtgctggctgtaaaacgcgggctttccaaaaatgaaattc
+# ctattgttgcaccagggcaacaggttcaggctaacaagaaggctagattgcagggtccacctcctgctgaggtacaagctatcattgatgcggcgatg
+# caagagccgggaagacggcgtacaaggccaaaaccgagggtattatcggtacctaccaagtcgctaaatatttggaacaagttggcacagcttgatgc
+# gggtctatctgtgctggattgggtggctatcgacaaagat]
+# protein sequence = [MIDTLAEVDELNEVLAVKRGLSKNEIPIVAPGQQVQANKKARLQGPPPAEVQAIIDAAMQEPGRRRTRPKPRVLSVPT
+# KSLNIWNKLAQLDAGLSVLDWVAIDKD]
+# end gene g4346
+###
+#
+##FASTA
+>scf_12692
+TTGTGCGGTGAACCTGGACATAAAAAATATGAGTGTCCTCACGAACATTTGAAGGACAAA
+CCGGATAATCCTACCTCTGCTCCTCCGGTTACGGGTCCTAACGCAACGCCTCTGGGTAAC
+CAGGCGGGAAAAGGCAAGGAGTGGTCCCAGTAGGGGACGGGTCCACTCCTAATAGTAATT
+CCCCAACTATTCTTCCATCTACTCCAGTAAACATGATTGACACTCTTGCGGAAGTGGATG
+AATTAAATGAGGTGCTGGCTGTAAAACGCGGGCTTTCCAAAAATGAAATTCCTATTGTTG
+CACCAGGGCAACAGGTTCAGGCTAACAAGAAGGCTAGATTGCAGGGTCCACCTCCTGCTG
+AGGTACAAGCTATCATTGATGCGGCGATGCAAGAGCCGGGAAGACGGCGTACAAGGCCAA
+AACCGAGGGTATTATCGGTACCTACCAAGTCGCTAAATATTTGGAACAAGTTGGCACAGC
+TTGATGCGGGTCTATCTGTGCTGGATTGGGTGGCTATCGACAAAGAT

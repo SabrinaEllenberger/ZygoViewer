@@ -1,0 +1,38 @@
+# ----- prediction on sequence number 4756 (length = 605, name = scf_10000) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4756 on both strands
+# start gene g3883
+scf_10000	AUGUSTUS	gene	34	568	0.33	-	.	g3883
+scf_10000	AUGUSTUS	transcript	34	568	0.33	-	.	g3883.t1
+scf_10000	AUGUSTUS	stop_codon	34	36	.	-	0	transcript_id "g3883.t1"; gene_id "g3883";
+scf_10000	AUGUSTUS	terminal	34	190	0.34	-	1	transcript_id "g3883.t1"; gene_id "g3883";
+scf_10000	AUGUSTUS	initial	255	568	0.88	-	0	transcript_id "g3883.t1"; gene_id "g3883";
+scf_10000	AUGUSTUS	intron	191	254	0.53	-	.	transcript_id "g3883.t1"; gene_id "g3883";
+scf_10000	AUGUSTUS	CDS	37	190	0.34	-	1	transcript_id "g3883.t1"; gene_id "g3883";
+scf_10000	AUGUSTUS	CDS	255	568	0.88	-	0	transcript_id "g3883.t1"; gene_id "g3883";
+scf_10000	AUGUSTUS	start_codon	566	568	.	-	0	transcript_id "g3883.t1"; gene_id "g3883";
+# coding sequence = [atgggcaaaaacgatactcctgcaatggctgaagatgatattgttgatttttatgaagctggtcatgacaatagcgaca
+# tcaatgatgctgctccttttgatgatcttgctttggaggacttggcgtctgatcaaaatgtatataatagtgatggtgatatgtccaatgagagcaat
+# aacgacgaatggttctctgataatgatagccaaacacacagccgggaagtacaagccaaacaagacaaaaatgtccaggtgtacgagaatagtcgtgt
+# cgtcgcaaacctacaaaatgctttccgctcaactcttagtgctgcccctaaaacagcaacaaatactaggagaaagccttcagagaaagatgcaagac
+# ctcgtacctgtcgaaaaagaagagcattgtcaagtatcgatgcgaacaacattatcagaaacaaggctttgcgtagcagaaagagcgcaaaaaaatga]
+# protein sequence = [MGKNDTPAMAEDDIVDFYEAGHDNSDINDAAPFDDLALEDLASDQNVYNSDGDMSNESNNDEWFSDNDSQTHSREVQA
+# KQDKNVQVYENSRVVANLQNAFRSTLSAAPKTATNTRRKPSEKDARPRTCRKRRALSSIDANNIIRNKALRSRKSAKK]
+# end gene g3883
+###
+#
+##FASTA
+>scf_10000
+TCTAAAGTCAATCTTGTCTATGGCGCCCACTGATCATTTTTTTGCGCTCTTTCTGCTACG
+CAAAGCCTTGTTTCTGATAATGTTGTTCGCATCGATACTTGACAATGCTCTTCTTTTTCG
+ACAGGTACGAGGTCTTGCATCTTTCTCTGAAGGCTTTCTCCTAGTATTTGTTGCTGTTTT
+AGGGGCAGCACTGTCATTTGGTTAAAATTGAATCAGTAAATGGGAGGGAAATATGTTTGA
+TTGTTTGTATTTACCTAAGAGTTGAGCGGAAAGCATTTTGTAGGTTTGCGACGACACGAC
+TATTCTCGTACACCTGGACATTTTTGTCTTGTTTGGCTTGTACTTCCCGGCTGTGTGTTT
+GGCTATCATTATCAGAGAACCATTCGTCGTTATTGCTCTCATTGGACATATCACCATCAC
+TATTATATACATTTTGATCAGACGCCAAGTCCTCCAAAGCAAGATCATCAAAAGGAGCAG
+CATCATTGATGTCGCTATTGTCATGACCAGCTTCATAAAAATCAACAATATCATCTTCAG
+CCATTGCAGGAGTATCGTTTTTGCCCATGGCAACAGCATCATCGTCGATGTCCCTATTAG
+CTGGA

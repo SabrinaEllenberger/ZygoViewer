@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 7330 (length = 576, name = scf_16368) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 7330 on both strands
+# start gene g5091
+scf_16368	AUGUSTUS	gene	1	576	0.4	+	.	g5091
+scf_16368	AUGUSTUS	transcript	1	576	0.4	+	.	g5091.t1
+scf_16368	AUGUSTUS	internal	101	576	0.47	+	2	transcript_id "g5091.t1"; gene_id "g5091";
+scf_16368	AUGUSTUS	intron	1	100	0.57	+	.	transcript_id "g5091.t1"; gene_id "g5091";
+scf_16368	AUGUSTUS	CDS	101	576	0.47	+	2	transcript_id "g5091.t1"; gene_id "g5091";
+# coding sequence = [tattatcaatgaatacacttaccgacgaacaaatggacggactgaaccgtctcgttgaacaattctcggctctacaaga
+# atccatcccaacgcagtttgaaaacattgcagagagcctgcaacaaacaaatttaaaaatcgattcccttgaggagaagacccttagtcaagtagctt
+# ctcacataaaccaagcaaagcaacagaccgcgcatcaaatgaagttgatagacaccgaaatcaaaaatatccagaaagaatttacaatgttaaaggca
+# gacagaatatcccgtagccccgttccccaagtttccactccgaccaaagttcgaaacccagttaccttttttggaaaaagggaccaatgcagtgcctt
+# cttcactcaactggcattggttttctccgtaaatgctaccagtttcccagatgacaagtcaaaggtcatctatgctattacaaatatgggtggtatcg
+# cactc]
+# protein sequence = [LSMNTLTDEQMDGLNRLVEQFSALQESIPTQFENIAESLQQTNLKIDSLEEKTLSQVASHINQAKQQTAHQMKLIDTE
+# IKNIQKEFTMLKADRISRSPVPQVSTPTKVRNPVTFFGKRDQCSAFFTQLALVFSVNATSFPDDKSKVIYAITNMGGIAL]
+# end gene g5091
+###
+#
+##FASTA
+>scf_16368
+GTCCCCTGTCCCCTGTCCCCTGCCAAGTATTGAATACCCTGCCCTGCCCCGTCCGTGACA
+TTATAATTGACCAAAAAACTTACGTGAATACTTTCCTTAGTATTATCAATGAATACACTT
+ACCGACGAACAAATGGACGGACTGAACCGTCTCGTTGAACAATTCTCGGCTCTACAAGAA
+TCCATCCCAACGCAGTTTGAAAACATTGCAGAGAGCCTGCAACAAACAAATTTAAAAATC
+GATTCCCTTGAGGAGAAGACCCTTAGTCAAGTAGCTTCTCACATAAACCAAGCAAAGCAA
+CAGACCGCGCATCAAATGAAGTTGATAGACACCGAAATCAAAAATATCCAGAAAGAATTT
+ACAATGTTAAAGGCAGACAGAATATCCCGTAGCCCCGTTCCCCAAGTTTCCACTCCGACC
+AAAGTTCGAAACCCAGTTACCTTTTTTGGAAAAAGGGACCAATGCAGTGCCTTCTTCACT
+CAACTGGCATTGGTTTTCTCCGTAAATGCTACCAGTTTCCCAGATGACAAGTCAAAGGTC
+ATCTATGCTATTACAAATATGGGTGGTATCGCACTC

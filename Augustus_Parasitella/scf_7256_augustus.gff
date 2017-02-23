@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 3574 (length = 628, name = scf_7256) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3574 on both strands
+# start gene g3329
+scf_7256	AUGUSTUS	gene	1	474	0.68	+	.	g3329
+scf_7256	AUGUSTUS	transcript	1	474	0.68	+	.	g3329.t1
+scf_7256	AUGUSTUS	terminal	65	474	0.68	+	2	transcript_id "g3329.t1"; gene_id "g3329";
+scf_7256	AUGUSTUS	intron	1	64	0.68	+	.	transcript_id "g3329.t1"; gene_id "g3329";
+scf_7256	AUGUSTUS	CDS	65	471	0.68	+	2	transcript_id "g3329.t1"; gene_id "g3329";
+scf_7256	AUGUSTUS	stop_codon	472	474	.	+	0	transcript_id "g3329.t1"; gene_id "g3329";
+# coding sequence = [gctgtatcccctctcgtggtagactgcactacatgatgcctacagtctttgactctcacaattgtcctgtctgcttgtc
+# cccgcatgaatctgccagccacctgctctttgattgtccttccaaagaaaaggtctggcaaggcgtcattttcgaatttctgtggcccaccaccacca
+# tcattgacatcaaagaggctcttctgtccctggacttttctgatatctggtactcccaagtcaaaggaattcgcccatacagaatcctcctcatcacc
+# ctctctcaaatatggcttgcccatatgcgatttgtgtttgacaatactccccttgtccctgaggcgattttggtttctgtccgctccactgttcgcca
+# gacagtggatgaggataacatccactccctcttgtaa]
+# protein sequence = [CIPSRGRLHYMMPTVFDSHNCPVCLSPHESASHLLFDCPSKEKVWQGVIFEFLWPTTTIIDIKEALLSLDFSDIWYSQ
+# VKGIRPYRILLITLSQIWLAHMRFVFDNTPLVPEAILVSVRSTVRQTVDEDNIHSLL]
+# end gene g3329
+###
+#
+##FASTA
+>scf_7256
+AAATTCTTTTGGTCCCTGTCCCTTACATACATCCAACGTAATGTGATATACCGGTTCATA
+ACAGGCTGTATCCCCTCTCGTGGTAGACTGCACTACATGATGCCTACAGTCTTTGACTCT
+CACAATTGTCCTGTCTGCTTGTCCCCGCATGAATCTGCCAGCCACCTGCTCTTTGATTGT
+CCTTCCAAAGAAAAGGTCTGGCAAGGCGTCATTTTCGAATTTCTGTGGCCCACCACCACC
+ATCATTGACATCAAAGAGGCTCTTCTGTCCCTGGACTTTTCTGATATCTGGTACTCCCAA
+GTCAAAGGAATTCGCCCATACAGAATCCTCCTCATCACCCTCTCTCAAATATGGCTTGCC
+CATATGCGATTTGTGTTTGACAATACTCCCCTTGTCCCTGAGGCGATTTTGGTTTCTGTC
+CGCTCCACTGTTCGCCAGACAGTGGATGAGGATAACATCCACTCCCTCTTGTAATTTAGA
+TAGTCTTATATAGTTTAGTTTAGTTTCAATTTGTATCAGTTTAGTTTCATTTTATTATTA
+TTATTTTTCAATTGCACCCGCCTCTTCACTCTGACCTATTACTCTTAGTGTACGCGGCGC
+AATCAATAAACAAAATTTTAAAAAAAAA

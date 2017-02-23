@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 3781 (length = 559, name = scf_7646) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3781 on both strands
+# start gene g3410
+scf_7646	AUGUSTUS	gene	1	559	0.8	+	.	g3410
+scf_7646	AUGUSTUS	transcript	1	559	0.8	+	.	g3410.t1
+scf_7646	AUGUSTUS	internal	52	559	0.8	+	2	transcript_id "g3410.t1"; gene_id "g3410";
+scf_7646	AUGUSTUS	intron	1	51	0.8	+	.	transcript_id "g3410.t1"; gene_id "g3410";
+scf_7646	AUGUSTUS	CDS	52	559	0.8	+	2	transcript_id "g3410.t1"; gene_id "g3410";
+# coding sequence = [gcgacaatggtatgatcttacactgcaccaagttactcgctaatcagatgtcatcggaccatattgctcttcttcttga
+# tcaagaaaaagcatatgaccgcatacacccaacttacttacaagctgtgatgcagcgtttcaacattccttcatctattactcatagcctactaactc
+# tccttttctccaccgaaatacacattaacatcaatggccatgtatccaaggaccatatcattcaacatcgggggatccgccaaggtgaccccatctct
+# ccactccttttcaatattgcttttgatccctttctacggtcgattcatcaagatttcaattttcaaggattcgagatgccaacagctaccaacccaac
+# tgctagcgatgtatctgaagaatctttacctcaactattcactgaagtgattccttctcctcctcctccaagtctacgacaaccaacaccgccttcaa
+# tccccactgcagtcaagatcttggcctatgcagatga]
+# protein sequence = [DNGMILHCTKLLANQMSSDHIALLLDQEKAYDRIHPTYLQAVMQRFNIPSSITHSLLTLLFSTEIHININGHVSKDHI
+# IQHRGIRQGDPISPLLFNIAFDPFLRSIHQDFNFQGFEMPTATNPTASDVSEESLPQLFTEVIPSPPPPSLRQPTPPSIPTAVKILAYAD]
+# end gene g3410
+###
+#
+##FASTA
+>scf_7646
+ATCGAGTCATTAGTTCACAACAATCCGGTTTTATGCCAGGTCGGTTCATAGGCGACAATG
+GTATGATCTTACACTGCACCAAGTTACTCGCTAATCAGATGTCATCGGACCATATTGCTC
+TTCTTCTTGATCAAGAAAAAGCATATGACCGCATACACCCAACTTACTTACAAGCTGTGA
+TGCAGCGTTTCAACATTCCTTCATCTATTACTCATAGCCTACTAACTCTCCTTTTCTCCA
+CCGAAATACACATTAACATCAATGGCCATGTATCCAAGGACCATATCATTCAACATCGGG
+GGATCCGCCAAGGTGACCCCATCTCTCCACTCCTTTTCAATATTGCTTTTGATCCCTTTC
+TACGGTCGATTCATCAAGATTTCAATTTTCAAGGATTCGAGATGCCAACAGCTACCAACC
+CAACTGCTAGCGATGTATCTGAAGAATCTTTACCTCAACTATTCACTGAAGTGATTCCTT
+CTCCTCCTCCTCCAAGTCTACGACAACCAACACCGCCTTCAATCCCCACTGCAGTCAAGA
+TCTTGGCCTATGCAGATGA

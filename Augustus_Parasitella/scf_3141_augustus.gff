@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 1600 (length = 513, name = scf_3141) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1600 on both strands
+# start gene g2123
+scf_3141	AUGUSTUS	gene	52	306	0.39	-	.	g2123
+scf_3141	AUGUSTUS	transcript	52	306	0.39	-	.	g2123.t1
+scf_3141	AUGUSTUS	stop_codon	52	54	.	-	0	transcript_id "g2123.t1"; gene_id "g2123";
+scf_3141	AUGUSTUS	single	52	306	0.39	-	0	transcript_id "g2123.t1"; gene_id "g2123";
+scf_3141	AUGUSTUS	CDS	55	306	0.39	-	0	transcript_id "g2123.t1"; gene_id "g2123";
+scf_3141	AUGUSTUS	start_codon	304	306	.	-	0	transcript_id "g2123.t1"; gene_id "g2123";
+# coding sequence = [atgaagatggtgttgctgggcgatattgtctcgcgtttgctggcaaatccagatactcgtgcagagctgagatacaggc
+# atgaatacgataatagagagagcacagaggctaatgtcattgccgatttttgtaacggcgaaaaatacaaggcattcaagaacaacaacaacttccag
+# agtgaaaatgacacggccattgatcttttaatgatgggtttgtcactaggaaacgcggagggcgcctactcacgatga]
+# protein sequence = [MKMVLLGDIVSRLLANPDTRAELRYRHEYDNRESTEANVIADFCNGEKYKAFKNNNNFQSENDTAIDLLMMGLSLGNA
+# EGAYSR]
+# end gene g2123
+###
+#
+##FASTA
+>scf_3141
+ATTCGTCTTTGTAGCGCTTTTGAAGATCGTAGGAAAGAACGATAACGTGTATCATCGTGA
+GTAGGCGCCCTCCGCGTTTCCTAGTGACAAACCCATCATTAAAAGATCAATGGCCGTGTC
+ATTTTCACTCTGGAAGTTGTTGTTGTTCTTGAATGCCTTGTATTTTTCGCCGTTACAAAA
+ATCGGCAATGACATTAGCCTCTGTGCTCTCTCTATTATCGTATTCATGCCTGTATCTCAG
+CTCTGCACGAGTATCTGGATTTGCCAGCAAACGCGAGACAATATCGCCCAGCAACACCAT
+CTTCATCGTTGCTAATGGCTTAACAGTGTTGTCAACCTAAAACCTGTGACTATTGCAGTA
+CGTGCAGCCTGTTTCCTGATCTTCCATATTGTATATTTTGCATCCATTCACACATTCATT
+GTATGAGTGTTGTGCCTCAAAGCAGGCTTTGTCGTATCCATATATGTTTTACCGGTGTAA
+CACATATGCTCGGATCAGGATATTCAATGTTTA

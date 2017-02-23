@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 2245 (length = 532, name = scf_4447) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2245 on both strands
+# start gene g2451
+scf_4447	AUGUSTUS	gene	1	513	0.34	+	.	g2451
+scf_4447	AUGUSTUS	transcript	1	513	0.34	+	.	g2451.t1
+scf_4447	AUGUSTUS	internal	1	428	0.46	+	2	transcript_id "g2451.t1"; gene_id "g2451";
+scf_4447	AUGUSTUS	terminal	499	513	0.37	+	0	transcript_id "g2451.t1"; gene_id "g2451";
+scf_4447	AUGUSTUS	intron	429	498	0.37	+	.	transcript_id "g2451.t1"; gene_id "g2451";
+scf_4447	AUGUSTUS	CDS	1	428	0.46	+	2	transcript_id "g2451.t1"; gene_id "g2451";
+scf_4447	AUGUSTUS	CDS	499	510	0.37	+	0	transcript_id "g2451.t1"; gene_id "g2451";
+scf_4447	AUGUSTUS	stop_codon	511	513	.	+	0	transcript_id "g2451.t1"; gene_id "g2451";
+# coding sequence = [ctctgaaggaagaattcgttcttcgtgcactcaagttcgctgaatatatgacacctcctgctgatcaaagagataatct
+# gattattcgtgctcatctactaggacactatggtgttaagcatgttgaaaaccagttgcacaaagatggtgtacattggacaaacattcgtaaagata
+# ttgaacgcattttatctgaatgcttggagtgcaacaaatataatattgccaaggaaggatatcatccctttaaatcagctgctattgatcaacctttg
+# gatcattgggctttggatttgggagattttggcgttacttctagtggaggaagtaaatacatcttgatcatgactgattatttctctcgatttacagt
+# tattagatgtctgcctgacaagcgagcttctagtgtcgctaaggaattattgcaattactgaaatgttag]
+# protein sequence = [LKEEFVLRALKFAEYMTPPADQRDNLIIRAHLLGHYGVKHVENQLHKDGVHWTNIRKDIERILSECLECNKYNIAKEG
+# YHPFKSAAIDQPLDHWALDLGDFGVTSSGGSKYILIMTDYFSRFTVIRCLPDKRASSVAKELLQLLKC]
+# end gene g2451
+###
+#
+##FASTA
+>scf_4447
+CTCTGAAGGAAGAATTCGTTCTTCGTGCACTCAAGTTCGCTGAATATATGACACCTCCTG
+CTGATCAAAGAGATAATCTGATTATTCGTGCTCATCTACTAGGACACTATGGTGTTAAGC
+ATGTTGAAAACCAGTTGCACAAAGATGGTGTACATTGGACAAACATTCGTAAAGATATTG
+AACGCATTTTATCTGAATGCTTGGAGTGCAACAAATATAATATTGCCAAGGAAGGATATC
+ATCCCTTTAAATCAGCTGCTATTGATCAACCTTTGGATCATTGGGCTTTGGATTTGGGAG
+ATTTTGGCGTTACTTCTAGTGGAGGAAGTAAATACATCTTGATCATGACTGATTATTTCT
+CTCGATTTACAGTTATTAGATGTCTGCCTGACAAGCGAGCTTCTAGTGTCGCTAAGGAAT
+TATTGCAAGTATTTGCTTTGTTCGGCTTTCCTAAAGCGTTGTCCATGGATCGTGGAACCG
+AGTTTCTGGGAAATGTAGTTACTGAAATGTTAGAAATAAGTGGAATAAGTCG

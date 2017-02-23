@@ -1,0 +1,39 @@
+# ----- prediction on sequence number 603 (length = 651, name = scf_1027) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 603 on both strands
+# start gene g694
+scf_1027	AUGUSTUS	gene	1	599	0.31	+	.	g694
+scf_1027	AUGUSTUS	transcript	1	599	0.31	+	.	g694.t1
+scf_1027	AUGUSTUS	internal	51	516	0.31	+	2	transcript_id "g694.t1"; gene_id "g694";
+scf_1027	AUGUSTUS	terminal	566	599	0.37	+	1	transcript_id "g694.t1"; gene_id "g694";
+scf_1027	AUGUSTUS	intron	1	50	1	+	.	transcript_id "g694.t1"; gene_id "g694";
+scf_1027	AUGUSTUS	intron	517	565	0.31	+	.	transcript_id "g694.t1"; gene_id "g694";
+scf_1027	AUGUSTUS	CDS	51	516	0.31	+	2	transcript_id "g694.t1"; gene_id "g694";
+scf_1027	AUGUSTUS	CDS	566	596	0.37	+	1	transcript_id "g694.t1"; gene_id "g694";
+scf_1027	AUGUSTUS	stop_codon	597	599	.	+	0	transcript_id "g694.t1"; gene_id "g694";
+# coding sequence = [accaagttgaccaagaaatatccactttgacgacatttactccttctcatgatactgcttctacttatactgaccctac
+# tgatattgcttctactgatgttgcttctactgatgttgcttcttctggtcttaattctattgatgttgcttctactcacattgactctactgatgttg
+# cttctattcatattgcttctactgaccttaatccgactcatattggttcttctaataccgataccaattcatctaatgttacggcatcttcttccagt
+# accacgtctgtcacatcaaagaaaattcaaaagaaaattgataagagtcgtgccttacaagaattcaggctgcaacaaaaatcggacaaaccaaagct
+# gtgcccctcctgcaaacaagacacccacgcacggtccacaagcaatttatgcccaaataaaaagaagaaagaggccaagcttgaagcggatgaaacaa
+# attatttgcaaaaaacctggcacaagtag]
+# protein sequence = [QVDQEISTLTTFTPSHDTASTYTDPTDIASTDVASTDVASSGLNSIDVASTHIDSTDVASIHIASTDLNPTHIGSSNT
+# DTNSSNVTASSSSTTSVTSKKIQKKIDKSRALQEFRLQQKSDKPKLCPSCKQDTHARSTSNLCPNKKKKEAKLEADETNYLQKTWHK]
+# end gene g694
+###
+#
+##FASTA
+>scf_1027
+TAAACGCGTACATTATAAAAGAGTGTGTTTCTCACATTGTTTGGGTGTAGACCAAGTTGA
+CCAAGAAATATCCACTTTGACGACATTTACTCCTTCTCATGATACTGCTTCTACTTATAC
+TGACCCTACTGATATTGCTTCTACTGATGTTGCTTCTACTGATGTTGCTTCTTCTGGTCT
+TAATTCTATTGATGTTGCTTCTACTCACATTGACTCTACTGATGTTGCTTCTATTCATAT
+TGCTTCTACTGACCTTAATCCGACTCATATTGGTTCTTCTAATACCGATACCAATTCATC
+TAATGTTACGGCATCTTCTTCCAGTACCACGTCTGTCACATCAAAGAAAATTCAAAAGAA
+AATTGATAAGAGTCGTGCCTTACAAGAATTCAGGCTGCAACAAAAATCGGACAAACCAAA
+GCTGTGCCCCTCCTGCAAACAAGACACCCACGCACGGTCCACAAGCAATTTATGCCCAAA
+TAAAAAGAAGAAAGAGGCCAAGCTTGAAGCGGATGAGTTTACAAAACAATTTGTGATCAA
+AACCTCACTTAAAAGCACTTGCAAGAACAAATTATTTGCAAAAAACCTGGCACAAGTAGT
+AGAATATACGAATAGGATTATTTATGTTGGTTCTCTGTTTGTAAACTTTGT

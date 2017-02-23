@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 10243 (length = 520, name = scf_25244) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 10243 on both strands
+# start gene g7061
+scf_25244	AUGUSTUS	gene	1	491	0.47	-	.	g7061
+scf_25244	AUGUSTUS	transcript	1	491	0.47	-	.	g7061.t1
+scf_25244	AUGUSTUS	internal	1	306	1	-	0	transcript_id "g7061.t1"; gene_id "g7061";
+scf_25244	AUGUSTUS	initial	366	491	0.47	-	0	transcript_id "g7061.t1"; gene_id "g7061";
+scf_25244	AUGUSTUS	intron	307	365	1	-	.	transcript_id "g7061.t1"; gene_id "g7061";
+scf_25244	AUGUSTUS	CDS	1	306	1	-	0	transcript_id "g7061.t1"; gene_id "g7061";
+scf_25244	AUGUSTUS	CDS	366	491	0.47	-	0	transcript_id "g7061.t1"; gene_id "g7061";
+scf_25244	AUGUSTUS	start_codon	489	491	.	-	0	transcript_id "g7061.t1"; gene_id "g7061";
+# coding sequence = [atgtcgcttggtaaagaaatagaaaaaattaaaaaatcagcaaaagaaaatggattggatttgtctacacctttgaatg
+# actggcataccttaaatagaaatgttgaagaagttgaaatgttgattgccgaggcaaatagaatgttaaaaaattacgaagcagagctggactctcta
+# tctcttttattatctactactaccaagccctctcatttcatacatcttaaatatcttgacattcaataccaatatgcaaatgctttggcattgttaaa
+# aaatgtagctacagcagagcctcccatcaaaaatcatagaaaacacttaagacacgcaaagacaaatgttgtacttatgccgacttttatagaagaaa
+# ttgaataccgcggcactgattctggattgactgatctaccagtggaggagaatgagcaa]
+# protein sequence = [MSLGKEIEKIKKSAKENGLDLSTPLNDWHTLNRNVEEVEMLIAEANRMLKNYEAELDSLSLLLSTTTKPSHFIHLKYL
+# DIQYQYANALALLKNVATAEPPIKNHRKHLRHAKTNVVLMPTFIEEIEYRGTDSGLTDLPVEENEQ]
+# end gene g7061
+###
+#
+##FASTA
+>scf_25244
+TTGCTCATTCTCCTCCACTGGTAGATCAGTCAATCCAGAATCAGTGCCGCGGTATTCAAT
+TTCTTCTATAAAAGTCGGCATAAGTACAACATTTGTCTTTGCGTGTCTTAAGTGTTTTCT
+ATGATTTTTGATGGGAGGCTCTGCTGTAGCTACATTTTTTAACAATGCCAAAGCATTTGC
+ATATTGGTATTGAATGTCAAGATATTTAAGATGTATGAAATGAGAGGGCTTGGTAGTAGT
+AGATAATAAAAGAGATAGAGAGTCCAGCTCTGCTTCGTAATTTTTTAACATTCTATTTGC
+CTCGGCCTTTGGGGATTATGTTAGCAAACTTGCTTCATTATTATCTCTTATGTTTGCTAA
+CTTACAATCAACATTTCAACTTCTTCAACATTTCTATTTAAGGTATGCCAGTCATTCAAA
+GGTGTAGACAAATCCAATCCATTTTCTTTTGCTGATTTTTTAATTTTTTCTATTTCTTTA
+CCAAGCGACATCTTCATCTTCTCTCGCTGTTCTCTTTCGG

@@ -1,0 +1,43 @@
+# ----- prediction on sequence number 10109 (length = 796, name = scf_24828) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 10109 on both strands
+# start gene g6874
+scf_24828	AUGUSTUS	gene	1	736	0.12	+	.	g6874
+scf_24828	AUGUSTUS	transcript	1	736	0.12	+	.	g6874.t1
+scf_24828	AUGUSTUS	internal	121	655	0.22	+	2	transcript_id "g6874.t1"; gene_id "g6874";
+scf_24828	AUGUSTUS	terminal	712	736	0.46	+	1	transcript_id "g6874.t1"; gene_id "g6874";
+scf_24828	AUGUSTUS	intron	1	120	0.35	+	.	transcript_id "g6874.t1"; gene_id "g6874";
+scf_24828	AUGUSTUS	intron	656	711	0.46	+	.	transcript_id "g6874.t1"; gene_id "g6874";
+scf_24828	AUGUSTUS	CDS	121	655	0.22	+	2	transcript_id "g6874.t1"; gene_id "g6874";
+scf_24828	AUGUSTUS	CDS	712	733	0.46	+	1	transcript_id "g6874.t1"; gene_id "g6874";
+scf_24828	AUGUSTUS	stop_codon	734	736	.	+	0	transcript_id "g6874.t1"; gene_id "g6874";
+# coding sequence = [ctttttgtgagatttcagatccttaccagctgtggttggacttcaagaaccatctatctgaggattatttatatgctga
+# gcaacaaaaagcaaggaatcttggcactgcaattcctcaccaaattactgatgttatgtatggtcattgtcttctggatcttgctgaaatattgcttg
+# aacatagatacgatctttctaagatggaagggtttaaatacgtgttccctacagaagacacccggtttaaaagaagcactgaaaagatgaattccttg
+# caacgtatgcatgctttactacatgaagaagcattgcaaggtcctgatccagacttattgccattcaacgaaagccaaagaatagtctaccaaacaat
+# ccgcgatgcagctttggacccaaatcctgatttagcgatctcgcgacttttcttcgttgacggtccaggaggaaccggtaaaaccttcctgtttaatg
+# ctctgcttgattcaattcgcagagctgatggcattgcattagcggttgcttcgagtggtactgcatgtgtcttttcattccatctgtga]
+# protein sequence = [FCEISDPYQLWLDFKNHLSEDYLYAEQQKARNLGTAIPHQITDVMYGHCLLDLAEILLEHRYDLSKMEGFKYVFPTED
+# TRFKRSTEKMNSLQRMHALLHEEALQGPDPDLLPFNESQRIVYQTIRDAALDPNPDLAISRLFFVDGPGGTGKTFLFNALLDSIRRADGIALAVASSG
+# TACVFSFHL]
+# end gene g6874
+###
+#
+##FASTA
+>scf_24828
+AGGCTACTGCGCGTGCTATGGGTCTCTTAGCAGATGACAATGAGTGGTCTGCAACGCTAA
+CGGAAGCAAGTCTGAACCAGTCGCCGCAGTCATTACGTAGGTTGTTCTGCATCCTAATAG
+CTTTTTGTGAGATTTCAGATCCTTACCAGCTGTGGTTGGACTTCAAGAACCATCTATCTG
+AGGATTATTTATATGCTGAGCAACAAAAAGCAAGGAATCTTGGCACTGCAATTCCTCACC
+AAATTACTGATGTTATGTATGGTCATTGTCTTCTGGATCTTGCTGAAATATTGCTTGAAC
+ATAGATACGATCTTTCTAAGATGGAAGGGTTTAAATACGTGTTCCCTACAGAAGACACCC
+GGTTTAAAAGAAGCACTGAAAAGATGAATTCCTTGCAACGTATGCATGCTTTACTACATG
+AAGAAGCATTGCAAGGTCCTGATCCAGACTTATTGCCATTCAACGAAAGCCAAAGAATAG
+TCTACCAAACAATCCGCGATGCAGCTTTGGACCCAAATCCTGATTTAGCGATCTCGCGAC
+TTTTCTTCGTTGACGGTCCAGGAGGAACCGGTAAAACCTTCCTGTTTAATGCTCTGCTTG
+ATTCAATTCGCAGAGCTGATGGCATTGCATTAGCGGTTGCTTCGAGTGGTACTGCGTCCT
+TGCTCTTGAAAGGGGGAAGAACAGCTCATTCCACATTTAAGATTCCTTTAGATGTGTCTT
+TTCATTCCATCTGTGATCTGACCCCAAGGTGTGCTATAGCTTCGTTTATCATTTCGTCAA
+AGATCATTGTTTGGGA

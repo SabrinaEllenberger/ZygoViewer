@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 419 (length = 547, name = scf_743) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 419 on both strands
+# start gene g387
+scf_743	AUGUSTUS	gene	1	534	0.32	+	.	g387
+scf_743	AUGUSTUS	transcript	1	534	0.32	+	.	g387.t1
+scf_743	AUGUSTUS	internal	186	244	0.56	+	2	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	internal	312	472	0.38	+	0	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	terminal	519	534	0.45	+	1	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	intron	1	185	0.57	+	.	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	intron	245	311	0.64	+	.	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	intron	473	518	0.45	+	.	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	CDS	186	244	0.56	+	2	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	CDS	312	472	0.38	+	0	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	CDS	519	531	0.45	+	1	transcript_id "g387.t1"; gene_id "g387";
+scf_743	AUGUSTUS	stop_codon	532	534	.	+	0	transcript_id "g387.t1"; gene_id "g387";
+# coding sequence = [acgaggagcaagaaccgcccggtgttgatcacgatgctaaaaaggcaaatatcgctaaaatcatgcagatgcaccccgc
+# tctgctcttaagtgtaaatcgaggaaacacacccactttgaagaagcccaaggctatggccactatcacaaagaaaacctattatactgcgatcatga
+# tgctgtctgccgaattttttggctatccatacgacatctatgtaactccactccactga]
+# protein sequence = [EEQEPPGVDHDAKKANIAKIMQMHPALLLSVNRGNTPTLKKPKAMATITKKTYYTAIMMLSAEFFGYPYDIYVTPLH]
+# end gene g387
+###
+#
+##FASTA
+>scf_743
+CCGTCGTTTAGATGATGGCAGTAATGAGACTAAAACGGGCAATGCCGATATACTAATAAA
+TTGGATTGAAAATTCTTTCTATTTCCCTTTTTTTACTAAATCACTCATGAACGCGAACGA
+TAGGCACTCTATTTCATCTTTGGCAGAAGAAGACGAAATAGACGAATGAAAATACCAGTA
+TTTAGACGAGGAGCAAGAACCGCCCGGTGTTGATCACGATGCTAAAAAGGCAAATATCGC
+TAAAGTATACAAAAGTAATTTTACAGCATTTCAATGATTTCAAATCGATTTGCTCTTACA
+TGAACTTTCAGATCATGCAGATGCACCCCGCTCTGCTCTTAAGTGTAAATCGAGGAAACA
+CACCCACTTTGAAGAAGCCCAAGGCTATGGCCACTATCACAAAGAAAACCTATTATACTG
+CGATCATGATGCTGTCTGCCGAATTTTTTGGCTATCCATACGACATCTATGTGTACAAGA
+AATTTAAAGAATCCAGTCATCATTTTCCTTTATTCAAGAACTCCACTCCACTGATTGAAA
+TGTTGAT

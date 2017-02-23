@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 5206 (length = 766, name = scf_10913) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5206 on both strands
+# start gene g4032
+# coding sequence = [atgatactgcaagctagaaaggataaagaacgctgggatgctgtggtcaagaataacaagacacaaacatttactgtag
+# gcgactatgtcatgttgagacatgaatccaagagaggcttggagttcaattggatgggtccatatgtggttctaaaaacaaatttagactacaacatt
+# tatcaaattcaagaaattgaaggaaaagtttccaattcttgggttcatacggatcgtctgcactctgtccagtatgatggttctaaaccggataaatc
+# ttggtatattcctcgtgttgctagagcaaaatga]
+# protein sequence = [MILQARKDKERWDAVVKNNKTQTFTVGDYVMLRHESKRGLEFNWMGPYVVLKTNLDYNIYQIQEIEGKVSNSWVHTDR
+# LHSVQYDGSKPDKSWYIPRVARAK]
+# end gene g4032
+###
+#
+scf_10913_augustus.gff	artemis	tRNA	59	131	.	+	.	tRNA=tRNA_Met%28CAT%29
+scf_10913	AUGUSTUS	gene	381	689	0.86	-	.	g4032
+scf_10913	AUGUSTUS	stop_codon	381	383	.	-	0	gene_id='g4032'transcript_id='g4032.t1'
+scf_10913	AUGUSTUS	transcript	381	689	0.86	-	.	g4032.t1
+scf_10913	AUGUSTUS	single	381	689	0.86	-	0	gene_id='g4032'transcript_id='g4032.t1'
+scf_10913	AUGUSTUS	CDS	384	689	0.86	-	0	gene_id='g4032'transcript_id='g4032.t1'
+scf_10913	AUGUSTUS	start_codon	687	689	.	-	0	gene_id='g4032'transcript_id='g4032.t1'
+##FASTA
+>scf_10913
+gtatgcgtttttacaacgacaaaacaagttcaaatttataattttcacaaacatccatgc
+ttccttggctcagtcggtagagcgttagtctcataatctgaaggtcgccagttcgatcct
+ggcagggagcatttttttgataattgcgacgatccttaattgtcgtgcttgttgttaatg
+tcgtgagcagagatatatattttagtgtaggtttataggaattggatacaaaagaatatt
+taagagatgaaaagatgatctttattattttgcaaatccatttgatatttatattattta
+aaaggttacacacaacgtttgtgtgtacctgacaataccttcctcccaaaaaaaagtacg
+ggtagggaacgaaaaaattatcattttgctctagcaacacgaggaatataccaagattta
+tccggtttagaaccatcatactggacagagtgcagacgatccgtatgaacccaagaattg
+gaaacttttccttcaatttcttgaatttgataaatgttgtagtctaaatttgtttttaga
+accacatatggacccatccaattgaactccaagcctctcttggattcatgtctcaacatg
+acatagtcgcctacagtaaatgtttgtgtcttgttattcttgaccacagcatcccagcgt
+tctttatcctttctagcttgcagtatcatttgttcctgggcttcgaatctcttctctttt
+aggtcacgaatacgagccagcacgtcttcagctatcaattcaggat

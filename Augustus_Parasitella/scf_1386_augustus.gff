@@ -1,0 +1,50 @@
+# ----- prediction on sequence number 823 (length = 1007, name = scf_1386) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 823 on both strands
+# start gene g1748
+scf_1386	AUGUSTUS	gene	1	1003	0.73	+	.	g1748
+scf_1386	AUGUSTUS	transcript	1	1003	0.73	+	.	g1748.t1
+scf_1386	AUGUSTUS	internal	125	926	0.73	+	2	transcript_id "g1748.t1"; gene_id "g1748";
+scf_1386	AUGUSTUS	terminal	970	1003	0.87	+	1	transcript_id "g1748.t1"; gene_id "g1748";
+scf_1386	AUGUSTUS	intron	1	124	0.84	+	.	transcript_id "g1748.t1"; gene_id "g1748";
+scf_1386	AUGUSTUS	intron	927	969	0.87	+	.	transcript_id "g1748.t1"; gene_id "g1748";
+scf_1386	AUGUSTUS	CDS	125	926	0.73	+	2	transcript_id "g1748.t1"; gene_id "g1748";
+scf_1386	AUGUSTUS	CDS	970	1000	0.87	+	1	transcript_id "g1748.t1"; gene_id "g1748";
+scf_1386	AUGUSTUS	stop_codon	1001	1003	.	+	0	transcript_id "g1748.t1"; gene_id "g1748";
+# coding sequence = [gaggacagtcttgtgcttcgtttaagccttcccatggtgttgtccaacttggacatgtttcgtcttctgtttctcgttt
+# gggggcagtcaatttaaatattttttataataaatttgctgtcaaacatgaatttgaagtttttgatttttattcgaatgaaaatatacatgtcttat
+# tgggccttgacattttgtcaaagataggcattggtattactggtttggttagtcagcactttacgcaagttggcccaaaaatacctgatccaattgat
+# cctgatcatgttaagccaaacgatgatccgtatggtagtgaaatcgaaagagcaccttttgtaaaatcgctcaacaagttgttagcaaccaattctaa
+# aattgatttgaagaatactcgttgtaacttgcctgattctaccattaagctaaccactaaacctggttgtgttgcttggagagctcagtacccattgc
+# ctgaggcctatcgagaggccgtagctgcacaaatcaagacgtggcttgatgagggtgtgatctgtcgttctagaagtcatactgagtacaattctccg
+# ttactgtgtgtaaagaaaaagaatagtgagggcgaatatacacttgaaaaacctcgggtggtgtgtgatgtccgtaaattgaattctattctggttgt
+# tgacgacaaacaacaactgcctttgatctctagtattcatgaacgaattggagacaaaactatacacagtctattagatatccatgcctgttttacta
+# gttatggtatattaccctcggattcccataaagtttcgccgcatatgggattcgccatgttggagcggtag]
+# protein sequence = [GQSCASFKPSHGVVQLGHVSSSVSRLGAVNLNIFYNKFAVKHEFEVFDFYSNENIHVLLGLDILSKIGIGITGLVSQH
+# FTQVGPKIPDPIDPDHVKPNDDPYGSEIERAPFVKSLNKLLATNSKIDLKNTRCNLPDSTIKLTTKPGCVAWRAQYPLPEAYREAVAAQIKTWLDEGV
+# ICRSRSHTEYNSPLLCVKKKNSEGEYTLEKPRVVCDVRKLNSILVVDDKQQLPLISSIHERIGDKTIHSLLDIHACFTSYGILPSDSHKVSPHMGFAM
+# LER]
+# end gene g1748
+###
+#
+##FASTA
+>scf_1386
+GCTCCTGCTATGAAAACCAATTGCATTTGTGTTCCTATTGTGGTGCAAAATGTATTGTGC
+TTTGGCTTGGTTGATAGTGGAGCTACTTTTAGTTGTATTACTAATGAATTCTTTACGTTC
+TTAGGAGGACAGTCTTGTGCTTCGTTTAAGCCTTCCCATGGTGTTGTCCAACTTGGACAT
+GTTTCGTCTTCTGTTTCTCGTTTGGGGGCAGTCAATTTAAATATTTTTTATAATAAATTT
+GCTGTCAAACATGAATTTGAAGTTTTTGATTTTTATTCGAATGAAAATATACATGTCTTA
+TTGGGCCTTGACATTTTGTCAAAGATAGGCATTGGTATTACTGGTTTGGTTAGTCAGCAC
+TTTACGCAAGTTGGCCCAAAAATACCTGATCCAATTGATCCTGATCATGTTAAGCCAAAC
+GATGATCCGTATGGTAGTGAAATCGAAAGAGCACCTTTTGTAAAATCGCTCAACAAGTTG
+TTAGCAACCAATTCTAAAATTGATTTGAAGAATACTCGTTGTAACTTGCCTGATTCTACC
+ATTAAGCTAACCACTAAACCTGGTTGTGTTGCTTGGAGAGCTCAGTACCCATTGCCTGAG
+GCCTATCGAGAGGCCGTAGCTGCACAAATCAAGACGTGGCTTGATGAGGGTGTGATCTGT
+CGTTCTAGAAGTCATACTGAGTACAATTCTCCGTTACTGTGTGTAAAGAAAAAGAATAGT
+GAGGGCGAATATACACTTGAAAAACCTCGGGTGGTGTGTGATGTCCGTAAATTGAATTCT
+ATTCTGGTTGTTGACGACAAACAACAACTGCCTTTGATCTCTAGTATTCATGAACGAATT
+GGAGACAAAACTATACACAGTCTATTAGATATCCATGCCTGTTTTACTAGTTATGGTATA
+TTACCCTCGGATTCCCATAAAGTTTCGTTTACTTGTCCTTTCACGAATATTCAATATTCT
+CATTTGAAGGCCGCATATGGGATTCGCCATGTTGGAGCGGTAGTTAC

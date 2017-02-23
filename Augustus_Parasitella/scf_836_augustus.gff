@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 479 (length = 635, name = scf_836) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 479 on both strands
+# start gene g440
+scf_836	AUGUSTUS	gene	54	453	0.51	+	.	g440
+scf_836	AUGUSTUS	transcript	54	453	0.51	+	.	g440.t1
+scf_836	AUGUSTUS	start_codon	54	56	.	+	0	transcript_id "g440.t1"; gene_id "g440";
+scf_836	AUGUSTUS	initial	54	278	0.73	+	0	transcript_id "g440.t1"; gene_id "g440";
+scf_836	AUGUSTUS	terminal	328	453	0.7	+	0	transcript_id "g440.t1"; gene_id "g440";
+scf_836	AUGUSTUS	intron	279	327	1	+	.	transcript_id "g440.t1"; gene_id "g440";
+scf_836	AUGUSTUS	CDS	54	278	0.73	+	0	transcript_id "g440.t1"; gene_id "g440";
+scf_836	AUGUSTUS	CDS	328	450	0.7	+	0	transcript_id "g440.t1"; gene_id "g440";
+scf_836	AUGUSTUS	stop_codon	451	453	.	+	0	transcript_id "g440.t1"; gene_id "g440";
+# coding sequence = [atgtcagcacaacgtagagtcgtagttactggattaggcattgttagccctctcggcgttggagtaaagacagtttgga
+# agaatctattagcaagtcaatgtggtattgtctcgttagctgagcgcgagggttatgaaaaactacctgtaagaattgccgccgaagtacccaaaggc
+# acttttgaggaagggaaattcacagcaagtgaatggcttgataaaggagatgacagaacaatggcgaaattttcccactatgcaatagcagctgcacg
+# tcaagctatcagcgatgctcaatgggaacccgagaccgattcagatcaagagagaacggtaggtgttagaatgtag]
+# protein sequence = [MSAQRRVVVTGLGIVSPLGVGVKTVWKNLLASQCGIVSLAEREGYEKLPVRIAAEVPKGTFEEGKFTASEWLDKGDDR
+# TMAKFSHYAIAAARQAISDAQWEPETDSDQERTVGVRM]
+# end gene g440
+###
+#
+##FASTA
+>scf_836
+AAGTGATTTCCTCACTTTTTCTTTTTTACTATCGCATTTTCTCACAACCAACAATGTCAG
+CACAACGTAGAGTCGTAGTTACTGGATTAGGCATTGTTAGCCCTCTCGGCGTTGGAGTAA
+AGACAGTTTGGAAGAATCTATTAGCAAGTCAATGTGGTATTGTCTCGTTAGCTGAGCGCG
+AGGGTTATGAAAAACTACCTGTAAGAATTGCCGCCGAAGTACCCAAAGGCACTTTTGAGG
+AAGGGAAATTCACAGCAAGTGAATGGCTTGATAAAGGAGTAAGGAGACTATTCAAATTAA
+TGATACTTTCAACTAAAGCTAAATTAGGATGACAGAACAATGGCGAAATTTTCCCACTAT
+GCAATAGCAGCTGCACGTCAAGCTATCAGCGATGCTCAATGGGAACCCGAGACCGATTCA
+GATCAAGAGAGAACGGTAGGTGTTAGAATGTAGACATTTGAAATTTGTCGATATATAAGG
+ATATTGACTATACAACGAAAGGGTGTTTGCATTGGATCTGGAATGGGAAGCTTGGAAGAT
+ATAGTTGACACTTCAGCTGCTTACTCATCAGGTGTAAAGTTTCTCGAAAGAATTTCATAC
+AAGTATATGCATAAGAAATCTAAATTTCTCTGATA

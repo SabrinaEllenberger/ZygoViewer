@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 430 (length = 586, name = scf_758) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 430 on both strands
+# start gene g392
+scf_758	AUGUSTUS	gene	1	523	0.51	-	.	g392
+scf_758	AUGUSTUS	transcript	1	523	0.51	-	.	g392.t1
+scf_758	AUGUSTUS	internal	1	138	0.82	-	1	transcript_id "g392.t1"; gene_id "g392";
+scf_758	AUGUSTUS	initial	201	523	0.58	-	0	transcript_id "g392.t1"; gene_id "g392";
+scf_758	AUGUSTUS	intron	139	200	0.81	-	.	transcript_id "g392.t1"; gene_id "g392";
+scf_758	AUGUSTUS	CDS	1	138	0.82	-	1	transcript_id "g392.t1"; gene_id "g392";
+scf_758	AUGUSTUS	CDS	201	523	0.58	-	0	transcript_id "g392.t1"; gene_id "g392";
+scf_758	AUGUSTUS	start_codon	521	523	.	-	0	transcript_id "g392.t1"; gene_id "g392";
+# coding sequence = [atggatgagattgatgaagcagtaaacactattgctgaaaatggtgttattgacaactatttagaagccatccaaaaaa
+# gactcaaagactcaaagatgccgagagaatatgtagagggtactttctgggtagcaagaaaaagcccttcatttattctagaaaagccaaacgatgtg
+# gagaaactttatgagcctagagttttcttgtggtttccacatcatttaaaaaaggaactgaaatgccctgtttgcgactccaaaaagatcgaagtaaa
+# agggttcaatacaaaacctcgtgcaagaaggattattgatatacaagattgcttttatctcatgaccatgagatacagatgcttaggctccaaagggt
+# ctcattcgtttaatggttacgatgatcgtgttgtcaagcaattggacttacgtattcaagctgattttcctgccacactcacatatag]
+# protein sequence = [MDEIDEAVNTIAENGVIDNYLEAIQKRLKDSKMPREYVEGTFWVARKSPSFILEKPNDVEKLYEPRVFLWFPHHLKKE
+# LKCPVCDSKKIEVKGFNTKPRARRIIDIQDCFYLMTMRYRCLGSKGSHSFNGYDDRVVKQLDLRIQADFPATLTY]
+# end gene g392
+###
+#
+##FASTA
+>scf_758
+CTATATGTGAGTGTGGCAGGAAAATCAGCTTGAATACGTAAGTCCAATTGCTTGACAACA
+CGATCATCGTAACCATTAAACGAATGAGACCCTTTGGAGCCTAAGCATCTGTATCTCATG
+GTCATGAGATAAAAGCAACTATTTAAATAAATTGGTTTGTCTGTTTTCACTTTGCCACTT
+GTATATTCAAACACACATACTCTTGTATATCAATAATCCTTCTTGCACGAGGTTTTGTAT
+TGAACCCTTTTACTTCGATCTTTTTGGAGTCGCAAACAGGGCATTTCAGTTCCTTTTTTA
+AATGATGTGGAAACCACAAGAAAACTCTAGGCTCATAAAGTTTCTCCACATCGTTTGGCT
+TTTCTAGAATAAATGAAGGGCTTTTTCTTGCTACCCAGAAAGTACCCTCTACATATTCTC
+TCGGCATCTTTGAGTCTTTGAGTCTTTTTTGGATGGCTTCTAAATAGTTGTCAATAACAC
+CATTTTCAGCAATAGTGTTTACTGCTTCATCAATCTCATCCATATCATCAATATCAGGTT
+CAGTGGGTTCTGGTTCATCATCGCTTCCGCAGCTCTCCATCTCATT

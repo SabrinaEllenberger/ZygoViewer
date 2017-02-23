@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 510 (length = 403, name = scf_882) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 510 on both strands
+# start gene g452
+scf_882	AUGUSTUS	gene	1	403	0.99	+	.	g452
+scf_882	AUGUSTUS	transcript	1	403	0.99	+	.	g452.t1
+scf_882	AUGUSTUS	internal	45	155	0.99	+	2	transcript_id "g452.t1"; gene_id "g452";
+scf_882	AUGUSTUS	internal	208	403	1	+	2	transcript_id "g452.t1"; gene_id "g452";
+scf_882	AUGUSTUS	intron	1	44	0.99	+	.	transcript_id "g452.t1"; gene_id "g452";
+scf_882	AUGUSTUS	intron	156	207	1	+	.	transcript_id "g452.t1"; gene_id "g452";
+scf_882	AUGUSTUS	CDS	45	155	0.99	+	2	transcript_id "g452.t1"; gene_id "g452";
+scf_882	AUGUSTUS	CDS	208	403	1	+	2	transcript_id "g452.t1"; gene_id "g452";
+# coding sequence = [tcgtcggaaagctctggaactcgttccatgaaaaggaacacgtaaagcccatctttcaacaaactctcgacaattatag
+# ccttgaatacattgacctttatcttatacactttcctatggctactgaattcgttgatccgaaggaaggtctcaattttttgaacgctaaaaaagagt
+# tcaacctcgtcaaggctcctttgcaggatacatggcgtgaattggaagacttggttgatgctggtcttattcgtaatattggcatatccaacttcaat
+# gttcaatccacgcttgatctcctcacttatgc]
+# protein sequence = [VGKLWNSFHEKEHVKPIFQQTLDNYSLEYIDLYLIHFPMATEFVDPKEGLNFLNAKKEFNLVKAPLQDTWRELEDLVD
+# AGLIRNIGISNFNVQSTLDLLTY]
+# end gene g452
+###
+#
+##FASTA
+>scf_882
+AATCTGACATGATTGACATGTAACACATATATCTGTATGCGTAGTCGTCGGAAAGCTCTG
+GAACTCGTTCCATGAAAAGGAACACGTAAAGCCCATCTTTCAACAAACTCTCGACAATTA
+TAGCCTTGAATACATTGACCTTTATCTTATACACTGTAAGTAGAAAGAACCAAGCGAAAG
+TGGGTCGCCGTTGACGTGCATGTACAGTTCCTATGGCTACTGAATTCGTTGATCCGAAGG
+AAGGTCTCAATTTTTTGAACGCTAAAAAAGAGTTCAACCTCGTCAAGGCTCCTTTGCAGG
+ATACATGGCGTGAATTGGAAGACTTGGTTGATGCTGGTCTTATTCGTAATATTGGCATAT
+CCAACTTCAATGTTCAATCCACGCTTGATCTCCTCACTTATGC

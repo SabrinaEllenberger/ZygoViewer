@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 4895 (length = 514, name = scf_10307) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4895 on both strands
+# start gene g3900
+scf_10307	AUGUSTUS	gene	19	467	0.35	+	.	g3900
+scf_10307	AUGUSTUS	transcript	19	467	0.35	+	.	g3900.t1
+scf_10307	AUGUSTUS	start_codon	19	21	.	+	0	transcript_id "g3900.t1"; gene_id "g3900";
+scf_10307	AUGUSTUS	initial	19	406	0.44	+	0	transcript_id "g3900.t1"; gene_id "g3900";
+scf_10307	AUGUSTUS	terminal	454	467	0.48	+	2	transcript_id "g3900.t1"; gene_id "g3900";
+scf_10307	AUGUSTUS	intron	407	453	0.46	+	.	transcript_id "g3900.t1"; gene_id "g3900";
+scf_10307	AUGUSTUS	CDS	19	406	0.44	+	0	transcript_id "g3900.t1"; gene_id "g3900";
+scf_10307	AUGUSTUS	CDS	454	464	0.48	+	2	transcript_id "g3900.t1"; gene_id "g3900";
+scf_10307	AUGUSTUS	stop_codon	465	467	.	+	0	transcript_id "g3900.t1"; gene_id "g3900";
+# coding sequence = [atgaatgaatttattgaagattttttggaactgaagaatgctgctgaaatccgcgatgaagattgtcttgtacgctacc
+# tattcaaagcattaccagaagaattagcacaagcaaccaaattttatatcaacaatgctgctgaaaaggatcaagtcaacattgattttgctatttcc
+# aaggttgttggcacgtatgaagctttatttaaaggcaaatgggagaaggagctcttttatcaaagtcgtagtgaagataatttatttggtaaaaataa
+# aatccaccgattccaggacaacaaaaagaagaaagtcttcagttctggaggaaaccacaatatgatgaagtgccgctaccatccaggtttaacaaacc
+# attcagttgaggactaagtttggtcctag]
+# protein sequence = [MNEFIEDFLELKNAAEIRDEDCLVRYLFKALPEELAQATKFYINNAAEKDQVNIDFAISKVVGTYEALFKGKWEKELF
+# YQSRSEDNLFGKNKIHRFQDNKKKKVFSSGGNHNMMKCRYHPGLTNHSVEDXVWS]
+# end gene g3900
+###
+#
+##FASTA
+>scf_10307
+TACAAGAAATCGCAATCTATGAATGAATTTATTGAAGATTTTTTGGAACTGAAGAATGCT
+GCTGAAATCCGCGATGAAGATTGTCTTGTACGCTACCTATTCAAAGCATTACCAGAAGAA
+TTAGCACAAGCAACCAAATTTTATATCAACAATGCTGCTGAAAAGGATCAAGTCAACATT
+GATTTTGCTATTTCCAAGGTTGTTGGCACGTATGAAGCTTTATTTAAAGGCAAATGGGAG
+AAGGAGCTCTTTTATCAAAGTCGTAGTGAAGATAATTTATTTGGTAAAAATAAAATCCAC
+CGATTCCAGGACAACAAAAAGAAGAAAGTCTTCAGTTCTGGAGGAAACCACAATATGATG
+AAGTGCCGCTACCATCCAGGTTTAACAAACCATTCAGTTGAGGACTGTAGGCTCAGCCCA
+GAGGTCAAGAAAAAAATTGATAAGGCTATCAAGAAGTTTGGTCCTAGGGTGCGCATTTGC
+CACAAATGCCGTATTCCGAATTTTAAGCATGGCC

@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 668 (length = 595, name = scf_1142) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 668 on both strands
+# start gene g745
+scf_1142	AUGUSTUS	gene	1	458	0.58	+	.	g745
+scf_1142	AUGUSTUS	transcript	1	458	0.58	+	.	g745.t1
+scf_1142	AUGUSTUS	internal	1	264	0.93	+	0	transcript_id "g745.t1"; gene_id "g745";
+scf_1142	AUGUSTUS	terminal	327	458	0.58	+	0	transcript_id "g745.t1"; gene_id "g745";
+scf_1142	AUGUSTUS	intron	265	326	0.74	+	.	transcript_id "g745.t1"; gene_id "g745";
+scf_1142	AUGUSTUS	CDS	1	264	0.93	+	0	transcript_id "g745.t1"; gene_id "g745";
+scf_1142	AUGUSTUS	CDS	327	455	0.58	+	0	transcript_id "g745.t1"; gene_id "g745";
+scf_1142	AUGUSTUS	stop_codon	456	458	.	+	0	transcript_id "g745.t1"; gene_id "g745";
+# coding sequence = [accaagggatttcacgaatttcgccattatgtgaaaacgatcattgacgaaccgcgtctcttgacgtacgaatcccatg
+# tccagcacgtcttggcattgtcatcaatcctcttgctaaaaccacgccgcaccaacagtgaccttcaccagttcataggacgtgaaacatgcgaaggc
+# cttattgattatttgctggatgaatatggcattcggtcgtgcgaatttgaccaatatactcgacttgatgctgaaaaaattgtgaagaaagaagacta
+# cagagttccaggattctcaaaaattgatggctcttatggttaccaacaacgatgtccacaacaggatactattttgctttcggaatctgtaagggcga
+# ataaggaagaacgcaacacatag]
+# protein sequence = [TKGFHEFRHYVKTIIDEPRLLTYESHVQHVLALSSILLLKPRRTNSDLHQFIGRETCEGLIDYLLDEYGIRSCEFDQY
+# TRLDAEKIVKKEDYRVPGFSKIDGSYGYQQRCPQQDTILLSESVRANKEERNT]
+# end gene g745
+###
+#
+##FASTA
+>scf_1142
+ACCAAGGGATTTCACGAATTTCGCCATTATGTGAAAACGATCATTGACGAACCGCGTCTC
+TTGACGTACGAATCCCATGTCCAGCACGTCTTGGCATTGTCATCAATCCTCTTGCTAAAA
+CCACGCCGCACCAACAGTGACCTTCACCAGTTCATAGGACGTGAAACATGCGAAGGCCTT
+ATTGATTATTTGCTGGATGAATATGGCATTCGGTCGTGCGAATTTGACCAATATACTCGA
+CTTGATGCTGAAAAAATTGTGAAGGTACAATTAAGAGAGTGATAAAATGGCTGTGGCTTA
+TTTTCAGTTATGTAGAATTGCATCAGAAAGAAGACTACAGAGTTCCAGGATTCTCAAAAA
+TTGATGGCTCTTATGGTTACCAACAACGATGTCCACAACAGGATACTATTTTGCTTTCGG
+AATCTGTAAGGGCGAATAAGGAAGAACGCAACACATAGCGTTTATTCATTACATGTCAAT
+TAACATTTGCCCGTAGACTTGAACAATTGCCTTTGGAACCAATCAGTCAGAAGGTTGATG
+AACTGGAGTTGATTACAAGATATACCACTGCGGCTATCAATCCATTGTTGGAAAA

@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 301 (length = 586, name = scf_563) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 301 on both strands
+# start gene g229
+scf_563	AUGUSTUS	gene	120	586	0.97	+	.	g229
+scf_563	AUGUSTUS	transcript	120	586	0.97	+	.	g229.t1
+scf_563	AUGUSTUS	start_codon	120	122	.	+	0	transcript_id "g229.t1"; gene_id "g229";
+scf_563	AUGUSTUS	initial	120	586	0.97	+	0	transcript_id "g229.t1"; gene_id "g229";
+scf_563	AUGUSTUS	CDS	120	586	0.97	+	0	transcript_id "g229.t1"; gene_id "g229";
+# coding sequence = [atgtctatcatcaatcaaaatttgtctggttctgtctcgtctcgtggtgcttctccctctcctgtaatgggtttggagg
+# aagccctgtctgccttgcagatggaactgaatggcttggctgtcaagatagccactgcaggtaacaagtctgcatctgaggttgatccttgggtagag
+# gaattgaaggtcaagactgcccgaatggaagagcttcaaaagctcgttaatttgacaagctctgttgcgtcttctgcgtctgtggcctccggatcgtc
+# ccacatgacgaacaacttctctgtggtggtccctgctggtttgccgtacttccagtgggaagggatggtctcggattccaggcaaactgtatttgctg
+# acctggatgcttgtcttttgcgctttgaggacgtactacaaagtcatggcttggactttaacagccattggtcccgcttgcttcctcgttgtct]
+# protein sequence = [MSIINQNLSGSVSSRGASPSPVMGLEEALSALQMELNGLAVKIATAGNKSASEVDPWVEELKVKTARMEELQKLVNLT
+# SSVASSASVASGSSHMTNNFSVVVPAGLPYFQWEGMVSDSRQTVFADLDACLLRFEDVLQSHGLDFNSHWSRLLPRC]
+# end gene g229
+###
+#
+##FASTA
+>scf_563
+TTTTCGTATCTTGTTAAACTACATTGTTTTTATTTCTTTTTTTGATCTCTGATCTCAACA
+TTTTTTTTAACAGTTTAATTCGGATTCTTATCGTACTTTATTATTATCAAATTTCTATCA
+TGTCTATCATCAATCAAAATTTGTCTGGTTCTGTCTCGTCTCGTGGTGCTTCTCCCTCTC
+CTGTAATGGGTTTGGAGGAAGCCCTGTCTGCCTTGCAGATGGAACTGAATGGCTTGGCTG
+TCAAGATAGCCACTGCAGGTAACAAGTCTGCATCTGAGGTTGATCCTTGGGTAGAGGAAT
+TGAAGGTCAAGACTGCCCGAATGGAAGAGCTTCAAAAGCTCGTTAATTTGACAAGCTCTG
+TTGCGTCTTCTGCGTCTGTGGCCTCCGGATCGTCCCACATGACGAACAACTTCTCTGTGG
+TGGTCCCTGCTGGTTTGCCGTACTTCCAGTGGGAAGGGATGGTCTCGGATTCCAGGCAAA
+CTGTATTTGCTGACCTGGATGCTTGTCTTTTGCGCTTTGAGGACGTACTACAAAGTCATG
+GCTTGGACTTTAACAGCCATTGGTCCCGCTTGCTTCCTCGTTGTCT

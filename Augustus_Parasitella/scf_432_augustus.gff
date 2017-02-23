@@ -1,0 +1,55 @@
+# ----- prediction on sequence number 224 (length = 1191, name = scf_432) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 224 on both strands
+# start gene g197
+scf_432	AUGUSTUS	gene	1	1162	0.19	+	.	g197
+scf_432	AUGUSTUS	transcript	1	1162	0.19	+	.	g197.t1
+scf_432	AUGUSTUS	internal	60	718	0.26	+	0	transcript_id "g197.t1"; gene_id "g197";
+scf_432	AUGUSTUS	terminal	781	1162	0.65	+	1	transcript_id "g197.t1"; gene_id "g197";
+scf_432	AUGUSTUS	intron	1	59	0.36	+	.	transcript_id "g197.t1"; gene_id "g197";
+scf_432	AUGUSTUS	intron	719	780	0.77	+	.	transcript_id "g197.t1"; gene_id "g197";
+scf_432	AUGUSTUS	CDS	60	718	0.26	+	0	transcript_id "g197.t1"; gene_id "g197";
+scf_432	AUGUSTUS	CDS	781	1159	0.65	+	1	transcript_id "g197.t1"; gene_id "g197";
+scf_432	AUGUSTUS	stop_codon	1160	1162	.	+	0	transcript_id "g197.t1"; gene_id "g197";
+# coding sequence = [ctgatggataaattcattcaagacaaggccatctccaacaatatttatagagcatccatgcaccatctctgccacattc
+# ctcatattatcgaacagtgctcgtccctcagaaacattagcgctagaagccttgaacgcgaaataggcaattacaagaagaaaatgcgcgccagagtc
+# aatgtcgacgcaaacgccatcaatgtttttgagaggatcacgaggtataaatttcttgaaaccactggcatgattgacttttctacactctacaaccg
+# caatcctgaatacaagcgcagaggatttgtcgagcatccagctgcaacgaatgattttttggggagccagtaccctcaactttgggaacctttttctt
+# ctccagtattccttgcctcgtcatcttcaagtacgtcaccatccccaatgattgaaggcttgattcctgctgccaagtttgtcaaggccttatcagca
+# tacaaaaaacgcttcctgggtgtcagcagaaatgctgaaatcgatttggatctgagaaagcctatgatgccggtagctaagctttggagtaatggtca
+# tattttaacatcctccattttcaaagaaaaatcaaaagcagctactcgaggaggtgaatttgtcatgttcgaatccaatgtaaagaaaagacttaacc
+# agcgtatacagtccgtagcccattggttcattggcaaagttcttttctactttgagtacgatctgcagcttgctcttaatgaaggtgaaacatcatgt
+# ggtagcctatatgcagtagtggaagtcatgaaaaaccatcgaacatctccgtatagcaacaatatacctctggtacaaccgtttcgtgattctgaggt
+# gaaaaagtttgcagttgtaaatgttgctgatattgtttctacggttggattgttgcaaaaaacagatcttttaaatagaagaatccagacatcaaatt
+# ggttctatgttatttcaccgtcaaccgcattcgatgagaatatggcatcatattgtggtcatttaggcgacttactttag]
+# protein sequence = [LMDKFIQDKAISNNIYRASMHHLCHIPHIIEQCSSLRNISARSLEREIGNYKKKMRARVNVDANAINVFERITRYKFL
+# ETTGMIDFSTLYNRNPEYKRRGFVEHPAATNDFLGSQYPQLWEPFSSPVFLASSSSSTSPSPMIEGLIPAAKFVKALSAYKKRFLGVSRNAEIDLDLR
+# KPMMPVAKLWSNGHILTSSIFKEKSKAATRGGEFVMFESNVKKRLNQRIQSVAHWFIGKVLFYFEYDLQLALNEGETSCGSLYAVVEVMKNHRTSPYS
+# NNIPLVQPFRDSEVKKFAVVNVADIVSTVGLLQKTDLLNRRIQTSNWFYVISPSTAFDENMASYCGHLGDLL]
+# end gene g197
+###
+#
+##FASTA
+>scf_432
+AGGTGATTTTTCTTCATACTGATTACCTGTAAAATAGATCTTTTGAGCTGTGGTTTAAGC
+TGATGGATAAATTCATTCAAGACAAGGCCATCTCCAACAATATTTATAGAGCATCCATGC
+ACCATCTCTGCCACATTCCTCATATTATCGAACAGTGCTCGTCCCTCAGAAACATTAGCG
+CTAGAAGCCTTGAACGCGAAATAGGCAATTACAAGAAGAAAATGCGCGCCAGAGTCAATG
+TCGACGCAAACGCCATCAATGTTTTTGAGAGGATCACGAGGTATAAATTTCTTGAAACCA
+CTGGCATGATTGACTTTTCTACACTCTACAACCGCAATCCTGAATACAAGCGCAGAGGAT
+TTGTCGAGCATCCAGCTGCAACGAATGATTTTTTGGGGAGCCAGTACCCTCAACTTTGGG
+AACCTTTTTCTTCTCCAGTATTCCTTGCCTCGTCATCTTCAAGTACGTCACCATCCCCAA
+TGATTGAAGGCTTGATTCCTGCTGCCAAGTTTGTCAAGGCCTTATCAGCATACAAAAAAC
+GCTTCCTGGGTGTCAGCAGAAATGCTGAAATCGATTTGGATCTGAGAAAGCCTATGATGC
+CGGTAGCTAAGCTTTGGAGTAATGGTCATATTTTAACATCCTCCATTTTCAAAGAAAAAT
+CAAAAGCAGCTACTCGAGGAGGTGAATTTGTCATGTTCGAATCCAATGTAAAGAAAAGGT
+ATGTATATTCTTCACCTTGTCGATAGCGAGTTAATAGCAATTAATGACGACAATCGATAG
+ACTTAACCAGCGTATACAGTCCGTAGCCCATTGGTTCATTGGCAAAGTTCTTTTCTACTT
+TGAGTACGATCTGCAGCTTGCTCTTAATGAAGGTGAAACATCATGTGGTAGCCTATATGC
+AGTAGTGGAAGTCATGAAAAACCATCGAACATCTCCGTATAGCAACAATATACCTCTGGT
+ACAACCGTTTCGTGATTCTGAGGTGAAAAAGTTTGCAGTTGTAAATGTTGCTGATATTGT
+TTCTACGGTTGGATTGTTGCAAAAAACAGATCTTTTAAATAGAAGAATCCAGACATCAAA
+TTGGTTCTATGTTATTTCACCGTCAACCGCATTCGATGAGAATATGGCATCATATTGTGG
+TCATTTAGGCGACTTACTTTAGCAGTATTAGACATTACTTTTTTTTTTTTT

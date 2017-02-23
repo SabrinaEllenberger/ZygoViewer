@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 120 (length = 566, name = scf_233) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 120 on both strands
+# start gene g55
+scf_233	AUGUSTUS	gene	1	457	0.92	+	.	g55
+scf_233	AUGUSTUS	transcript	1	457	0.92	+	.	g55.t1
+scf_233	AUGUSTUS	internal	1	235	0.98	+	0	transcript_id "g55.t1"; gene_id "g55";
+scf_233	AUGUSTUS	terminal	291	457	0.92	+	2	transcript_id "g55.t1"; gene_id "g55";
+scf_233	AUGUSTUS	intron	236	290	0.98	+	.	transcript_id "g55.t1"; gene_id "g55";
+scf_233	AUGUSTUS	CDS	1	235	0.98	+	0	transcript_id "g55.t1"; gene_id "g55";
+scf_233	AUGUSTUS	CDS	291	454	0.92	+	2	transcript_id "g55.t1"; gene_id "g55";
+scf_233	AUGUSTUS	stop_codon	455	457	.	+	0	transcript_id "g55.t1"; gene_id "g55";
+# coding sequence = [agtgaccagatcaagctcatcgccgaattgcacaaagctggatcaacacctactagtatcagagaagcattggttcagc
+# aaaaccctggccaaatgattactcaaaaatccgtttataatgcaattgccagagccaaaatggtggaattgaacggacttacgcctatccaattcttg
+# attgaacaactagacgaaaaaacgtacaagtttgaaacagtagtaaatggtgacaatgatatcacacttcacttgtcatggatgcgacatataaaacg
+# aaccgattcggattgccacttgtacaagtatgcggcattactaacgagaacaaaacgtttgttctgtgccaagcatttcttcgaaatgaaacagaagg
+# tagatatgaatggttcattgaccaaatga]
+# protein sequence = [SDQIKLIAELHKAGSTPTSIREALVQQNPGQMITQKSVYNAIARAKMVELNGLTPIQFLIEQLDEKTYKFETVVNGDN
+# DITLHLSWMRHIKRTDSDCHLYKYAALLTRTKRLFCAKHFFEMKQKVDMNGSLTK]
+# end gene g55
+###
+#
+##FASTA
+>scf_233
+AGTGACCAGATCAAGCTCATCGCCGAATTGCACAAAGCTGGATCAACACCTACTAGTATC
+AGAGAAGCATTGGTTCAGCAAAACCCTGGCCAAATGATTACTCAAAAATCCGTTTATAAT
+GCAATTGCCAGAGCCAAAATGGTGGAATTGAACGGACTTACGCCTATCCAATTCTTGATT
+GAACAACTAGACGAAAAAACGTACAAGTTTGAAACAGTAGTAAATGGTGACAATGGTAGA
+GTGGAATGTCTTTTCATTCTAAGAAAGGACTTGCTCTCTTTGTACAATAGATATCACACT
+TCACTTGTCATGGATGCGACATATAAAACGAACCGATTCGGATTGCCACTTGTACAAGTA
+TGCGGCATTACTAACGAGAACAAAACGTTTGTTCTGTGCCAAGCATTTCTTCGAAATGAA
+ACAGAAGGTAGATATGAATGGTTCATTGACCAAATGAAGAAACACTGCTTTTCAGAACAT
+GTTCCTGTCAGTATTTCTACGGACAGAGATCTCTCGCTCCTCAATGCCTTAAAAACCGAA
+CTGCCTGAGGTTAAACACCTTCTCTG

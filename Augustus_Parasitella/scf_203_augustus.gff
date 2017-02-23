@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 104 (length = 697, name = scf_203) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 104 on both strands
+# start gene g51
+scf_203	AUGUSTUS	gene	1	411	0.18	-	.	g51
+scf_203	AUGUSTUS	transcript	1	411	0.18	-	.	g51.t1
+scf_203	AUGUSTUS	internal	1	181	0.18	-	2	transcript_id "g51.t1"; gene_id "g51";
+scf_203	AUGUSTUS	initial	231	411	0.71	-	0	transcript_id "g51.t1"; gene_id "g51";
+scf_203	AUGUSTUS	intron	182	230	0.58	-	.	transcript_id "g51.t1"; gene_id "g51";
+scf_203	AUGUSTUS	CDS	1	181	0.18	-	2	transcript_id "g51.t1"; gene_id "g51";
+scf_203	AUGUSTUS	CDS	231	411	0.71	-	0	transcript_id "g51.t1"; gene_id "g51";
+scf_203	AUGUSTUS	start_codon	409	411	.	-	0	transcript_id "g51.t1"; gene_id "g51";
+# coding sequence = [atggtatgcgctaaggttattaaacccaacacaaacctttctccaaaacctcaagagtaccatttatgcatacgtttgg
+# caaaacaaacggcctctggtatcattttcacaattgtgtcttcctctctcccaaggtggggttggcttattacaaccggcaacacagcatctggtctt
+# acaattcgacctctgttcaaacatcatatgcgtcttattactccaactcccatgcctcccgaattgtccttttttgttcctgaatggcgttcccatcc
+# tctaaaccatcccacttccattgtccttgcgtgctacaaagcttttgatcactttggtatcaagtttgatttctctgggtgttcgct]
+# protein sequence = [MVCAKVIKPNTNLSPKPQEYHLCIRLAKQTASGIIFTIVSSSLPRWGWLITTGNTASGLTIRPLFKHHMRLITPTPMP
+# PELSFFVPEWRSHPLNHPTSIVLACYKAFDHFGIKFDFSGCS]
+# end gene g51
+###
+#
+##FASTA
+>scf_203
+AGCGAACACCCAGAGAAATCAAACTTGATACCAAAGTGATCAAAAGCTTTGTAGCACGCA
+AGGACAATGGAAGTGGGATGGTTTAGAGGATGGGAACGCCATTCAGGAACAAAAAAGGAC
+AATTCGGGAGGCATGGGAGTTGGAGTAATAAGACGCATATGATGTTTGAACAGAGGTCGA
+ACTAATGACGAAGGACTAGTTGGACGAAAAACATGGTGAAGGTGTCTTACTTGTAAGACC
+AGATGCTGTGTTGCCGGTTGTAATAAGCCAACCCCACCTTGGGAGAGAGGAAGACACAAT
+TGTGAAAATGATACCAGAGGCCGTTTGTTTTGCCAAACGTATGCATAAATGGTACTCTTG
+AGGTTTTGGAGAAAGGTTTGTGTTGGGTTTAATAACCTTAGCGCATACCATATCTTGGTC
+ATAATCAACGTATTGGCGACTGTTGCTCGACCTCGTAAGGATAACTGCCTTGACGAATAC
+ATCTTAACCTGTTCCTTCACCTCCTGGAGTAGTTTATCTTGGATAAAATTTCTTTGGTTA
+ATGGTGTAAGCCATATAAAAACCTAGATAGCGAAATGGTTCAACAGAAAATTTTGAGTGG
+TACGTTGAGATCCTATGCTGGAGAAGATAACATTCCCAGTCAGCATCCTTATTTCCATTG
+AGTGAAAATGCTTCTGTTTTGGTTTGGTTGAACTTTG

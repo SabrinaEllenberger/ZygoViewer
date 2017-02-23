@@ -1,0 +1,40 @@
+# ----- prediction on sequence number 504 (length = 766, name = scf_871) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 504 on both strands
+# start gene g450
+scf_871	AUGUSTUS	gene	1	732	0.94	+	.	g450
+scf_871	AUGUSTUS	transcript	1	732	0.94	+	.	g450.t1
+scf_871	AUGUSTUS	terminal	1	732	0.94	+	0	transcript_id "g450.t1"; gene_id "g450";
+scf_871	AUGUSTUS	CDS	1	729	0.94	+	0	transcript_id "g450.t1"; gene_id "g450";
+scf_871	AUGUSTUS	stop_codon	730	732	.	+	0	transcript_id "g450.t1"; gene_id "g450";
+# coding sequence = [aagcgtactccaaacacaatcttcagggcacttgcctctggtaagctgcagttccaaccatactttgtcccagtatgta
+# gtcctgctcccctgattgattctaccgtctcttttgctccacttgttcaacaatttcgcttggaggatggccagcccctgatcacggctacggcttca
+# gccaaagcctttagactggccgtcttggcttctgcctccactcctttgagcttgcgcaccgtatctgccgtcaactggaagttcttttggtccctgtc
+# acttacctacattcaacgtaacgtgatataccgctacatcgtggggtgcattccgcaccgtcgattcttacatcgcattatgccgacggttttcgaat
+# cacctctgtgtcctgtctgcttgtctgttgaagattcccctagccatctccctttttactgcccatccaaagagagagtttggcagggtgttattctt
+# gagttcctctggccaacgacaacgatccacgatgtagaagaggctcttcggtttttggatttttccaatatttggtactgccaacttaaaggaatcaa
+# accatcccgaatcctcataattgcaatttcccagctctggctcgctcatatgcgcttcatctatgatagcaccccaattgaccacacagcgatattgg
+# ccagcatccgaaacaatgttcgtcagaacattgaggaagatcagtgtgaaatacattcactatga]
+# protein sequence = [KRTPNTIFRALASGKLQFQPYFVPVCSPAPLIDSTVSFAPLVQQFRLEDGQPLITATASAKAFRLAVLASASTPLSLR
+# TVSAVNWKFFWSLSLTYIQRNVIYRYIVGCIPHRRFLHRIMPTVFESPLCPVCLSVEDSPSHLPFYCPSKERVWQGVILEFLWPTTTIHDVEEALRFL
+# DFSNIWYCQLKGIKPSRILIIAISQLWLAHMRFIYDSTPIDHTAILASIRNNVRQNIEEDQCEIHSL]
+# end gene g450
+###
+#
+##FASTA
+>scf_871
+AAGCGTACTCCAAACACAATCTTCAGGGCACTTGCCTCTGGTAAGCTGCAGTTCCAACCA
+TACTTTGTCCCAGTATGTAGTCCTGCTCCCCTGATTGATTCTACCGTCTCTTTTGCTCCA
+CTTGTTCAACAATTTCGCTTGGAGGATGGCCAGCCCCTGATCACGGCTACGGCTTCAGCC
+AAAGCCTTTAGACTGGCCGTCTTGGCTTCTGCCTCCACTCCTTTGAGCTTGCGCACCGTA
+TCTGCCGTCAACTGGAAGTTCTTTTGGTCCCTGTCACTTACCTACATTCAACGTAACGTG
+ATATACCGCTACATCGTGGGGTGCATTCCGCACCGTCGATTCTTACATCGCATTATGCCG
+ACGGTTTTCGAATCACCTCTGTGTCCTGTCTGCTTGTCTGTTGAAGATTCCCCTAGCCAT
+CTCCCTTTTTACTGCCCATCCAAAGAGAGAGTTTGGCAGGGTGTTATTCTTGAGTTCCTC
+TGGCCAACGACAACGATCCACGATGTAGAAGAGGCTCTTCGGTTTTTGGATTTTTCCAAT
+ATTTGGTACTGCCAACTTAAAGGAATCAAACCATCCCGAATCCTCATAATTGCAATTTCC
+CAGCTCTGGCTCGCTCATATGCGCTTCATCTATGATAGCACCCCAATTGACCACACAGCG
+ATATTGGCCAGCATCCGAAACAATGTTCGTCAGAACATTGAGGAAGATCAGTGTGAAATA
+CATTCACTATGATGATCTACATTCCAATAAATTCATCCAGTTATCC

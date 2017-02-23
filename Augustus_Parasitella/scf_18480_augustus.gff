@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 8030 (length = 649, name = scf_18480) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 8030 on both strands
+# start gene g5490
+scf_18480	AUGUSTUS	gene	1	649	0.69	+	.	g5490
+scf_18480	AUGUSTUS	transcript	1	649	0.69	+	.	g5490.t1
+scf_18480	AUGUSTUS	internal	54	649	0.69	+	2	transcript_id "g5490.t1"; gene_id "g5490";
+scf_18480	AUGUSTUS	intron	1	53	0.97	+	.	transcript_id "g5490.t1"; gene_id "g5490";
+scf_18480	AUGUSTUS	CDS	54	649	0.69	+	2	transcript_id "g5490.t1"; gene_id "g5490";
+# coding sequence = [gcttggctgacgctacctccgaatccagcaatgatttgagcgaaaagggtgttcaagtaatcttgcccagtagctttgc
+# aagtgttcctcgatttatgtcaggtctgtaccaagatgcaatggcactttcgcggttctttggtaagcctactctctttattacttttaccgcaaatc
+# ccaagtggaaggaaactacggatgaattggaaccagatcaaaccgcaatggatcgccctgatataatcgcacgggttttcaacttgaaatgtcgagag
+# ttgttggatgatatcaaaaaaaagaacatctttggtacttataaagcagttgtcagaactattgaatatcagaaacgaggtcttcctcatgttcatat
+# tctcttatttctggataatgaaaaagatcgttttgacacttctgagaaaatcgattcgatcatttctgctgaaattcctgatgccgatactgacaagg
+# atctatacaacattgtcaccaaaaacatgatgcacggcccctgtggagatatcaatcctaaaagcccatgtatggttgaggatgctttcggcatcatg
+# aaatgctccaaagggtttcccaaagat]
+# protein sequence = [LADATSESSNDLSEKGVQVILPSSFASVPRFMSGLYQDAMALSRFFGKPTLFITFTANPKWKETTDELEPDQTAMDRP
+# DIIARVFNLKCRELLDDIKKKNIFGTYKAVVRTIEYQKRGLPHVHILLFLDNEKDRFDTSEKIDSIISAEIPDADTDKDLYNIVTKNMMHGPCGDINP
+# KSPCMVEDAFGIMKCSKGFPKD]
+# end gene g5490
+###
+#
+##FASTA
+>scf_18480
+GCTTAATTACATCAGGTTGAATCAGGATAAAATCCGCGCTGATGTTTACAAAGGCTTGGC
+TGACGCTACCTCCGAATCCAGCAATGATTTGAGCGAAAAGGGTGTTCAAGTAATCTTGCC
+CAGTAGCTTTGCAAGTGTTCCTCGATTTATGTCAGGTCTGTACCAAGATGCAATGGCACT
+TTCGCGGTTCTTTGGTAAGCCTACTCTCTTTATTACTTTTACCGCAAATCCCAAGTGGAA
+GGAAACTACGGATGAATTGGAACCAGATCAAACCGCAATGGATCGCCCTGATATAATCGC
+ACGGGTTTTCAACTTGAAATGTCGAGAGTTGTTGGATGATATCAAAAAAAAGAACATCTT
+TGGTACTTATAAAGCAGTTGTCAGAACTATTGAATATCAGAAACGAGGTCTTCCTCATGT
+TCATATTCTCTTATTTCTGGATAATGAAAAAGATCGTTTTGACACTTCTGAGAAAATCGA
+TTCGATCATTTCTGCTGAAATTCCTGATGCCGATACTGACAAGGATCTATACAACATTGT
+CACCAAAAACATGATGCACGGCCCCTGTGGAGATATCAATCCTAAAAGCCCATGTATGGT
+TGAGGATGCTTTCGGCATCATGAAATGCTCCAAAGGGTTTCCCAAAGAT

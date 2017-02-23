@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 11020 (length = 541, name = scf_27828) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 11020 on both strands
+# start gene g7481
+scf_27828	AUGUSTUS	gene	1	540	0.33	+	.	g7481
+scf_27828	AUGUSTUS	transcript	1	540	0.33	+	.	g7481.t1
+scf_27828	AUGUSTUS	internal	86	270	0.33	+	2	transcript_id "g7481.t1"; gene_id "g7481";
+scf_27828	AUGUSTUS	terminal	415	540	0.52	+	0	transcript_id "g7481.t1"; gene_id "g7481";
+scf_27828	AUGUSTUS	intron	1	85	0.56	+	.	transcript_id "g7481.t1"; gene_id "g7481";
+scf_27828	AUGUSTUS	intron	271	414	0.5	+	.	transcript_id "g7481.t1"; gene_id "g7481";
+scf_27828	AUGUSTUS	CDS	86	270	0.33	+	2	transcript_id "g7481.t1"; gene_id "g7481";
+scf_27828	AUGUSTUS	CDS	415	537	0.52	+	0	transcript_id "g7481.t1"; gene_id "g7481";
+scf_27828	AUGUSTUS	stop_codon	538	540	.	+	0	transcript_id "g7481.t1"; gene_id "g7481";
+# coding sequence = [ttacacccaaggagacgcgtggtcactggcgcatcatcaagcctttccacgtgtgtgcccacgccgatcctctgctgtg
+# tccggtcctggctgtaagtgctttcttacgccacctcactctcctgtcgaggcatgatccggagcatgagcgcctcctcgtgaacactaagctgccag
+# gccaagaggtgtcgtcgatcacgttcgagcaacactaccgtcgcgatcagctggcaactcacgacttctcggccgcggtcctgtcctacaatggtgat
+# cctatatcggttgatcaagttttggaggatccctaa]
+# protein sequence = [TPKETRGHWRIIKPFHVCAHADPLLCPVLAVSAFLRHLTLLSRHDPEHERLLVNTKLPGQEVSSITFEQHYRRDQLAT
+# HDFSAAVLSYNGDPISVDQVLEDP]
+# end gene g7481
+###
+#
+##FASTA
+>scf_27828
+TGTTTCCTCCGGCCATCAGACGTCCAACGCATCGACCGTGCGTCTATGATTTGCCAGGGC
+GCAGAGTCCCTTAATTTTCGGGTAGTTACACCCAAGGAGACGCGTGGTCACTGGCGCATC
+ATCAAGCCTTTCCACGTGTGTGCCCACGCCGATCCTCTGCTGTGTCCGGTCCTGGCTGTA
+AGTGCTTTCTTACGCCACCTCACTCTCCTGTCGAGGCATGATCCGGAGCATGAGCGCCTC
+CTCGTGAACACTAAGCTGCCAGGCCAAGAGGTACAGGCAACGACCATCTCAACATGGCAC
+CGACGATTTCTCCGCCTGTCTACGCCAGAGCATGTGTCTGTCCGCTCGCTGGCGTCCTCC
+TTGGCTTTGAAGAACGGCGTACCATACGACCAGGTGGTCACTCAGGGCAATTAGGTGTCG
+TCGATCACGTTCGAGCAACACTACCGTCGCGATCAGCTGGCAACTCACGACTTCTCGGCC
+GCGGTCCTGTCCTACAATGGTGATCCTATATCGGTTGATCAAGTTTTGGAGGATCCCTAA
+T

@@ -1,0 +1,38 @@
+# ----- prediction on sequence number 5423 (length = 670, name = scf_11563) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5423 on both strands
+# start gene g4087
+scf_11563	AUGUSTUS	gene	1	524	0.43	+	.	g4087
+scf_11563	AUGUSTUS	transcript	1	524	0.43	+	.	g4087.t1
+scf_11563	AUGUSTUS	internal	1	412	0.7	+	1	transcript_id "g4087.t1"; gene_id "g4087";
+scf_11563	AUGUSTUS	terminal	477	524	0.45	+	0	transcript_id "g4087.t1"; gene_id "g4087";
+scf_11563	AUGUSTUS	intron	413	476	0.45	+	.	transcript_id "g4087.t1"; gene_id "g4087";
+scf_11563	AUGUSTUS	CDS	1	412	0.7	+	1	transcript_id "g4087.t1"; gene_id "g4087";
+scf_11563	AUGUSTUS	CDS	477	521	0.45	+	0	transcript_id "g4087.t1"; gene_id "g4087";
+scf_11563	AUGUSTUS	stop_codon	522	524	.	+	0	transcript_id "g4087.t1"; gene_id "g4087";
+# coding sequence = [agatgaagatttagcaatggattatggttacattctgcaattaactgacttggactcttgcgcgcctgtttttgacgtc
+# aaaatggaggaaccaatcgaggagccaataacagtagagccaacaatggaagatattaccacttattttaatgcgatatctattacagataacagcaa
+# gaagaagaacaaatatggcccggagcagattcgtgcttttattgagcttattcaggaagaagggctgagtgttccaaaagctgccaagcagtgcatga
+# ttccaagaagtagtgcataccttctactaaaggaattcaatgcaggtagtggcgatgtacttcctggtaaatcactaaagaaaaaagcgaacagaggt
+# acacctgtaaagcttttacctgaacatacagaatttcttattttgtcggatttactatttcttcgcaaagcctttggaagcacttga]
+# protein sequence = [DEDLAMDYGYILQLTDLDSCAPVFDVKMEEPIEEPITVEPTMEDITTYFNAISITDNSKKKNKYGPEQIRAFIELIQE
+# EGLSVPKAAKQCMIPRSSAYLLLKEFNAGSGDVLPGKSLKKKANRGTPVKLLPEHTEFLILSDLLFLRKAFGST]
+# end gene g4087
+###
+#
+##FASTA
+>scf_11563
+AGATGAAGATTTAGCAATGGATTATGGTTACATTCTGCAATTAACTGACTTGGACTCTTG
+CGCGCCTGTTTTTGACGTCAAAATGGAGGAACCAATCGAGGAGCCAATAACAGTAGAGCC
+AACAATGGAAGATATTACCACTTATTTTAATGCGATATCTATTACAGATAACAGCAAGAA
+GAAGAACAAATATGGCCCGGAGCAGATTCGTGCTTTTATTGAGCTTATTCAGGAAGAAGG
+GCTGAGTGTTCCAAAAGCTGCCAAGCAGTGCATGATTCCAAGAAGTAGTGCATACCTTCT
+ACTAAAGGAATTCAATGCAGGTAGTGGCGATGTACTTCCTGGTAAATCACTAAAGAAAAA
+AGCGAACAGAGGTACACCTGTAAAGCTTTTACCTGAACATACAGAATTTCTTGTAAAGCT
+CTTCGATAACAACCCTTCATCGACTCTTGCAATGGCTAAAGAGGCATTATGTAAAGATTT
+TGTCGGATTTACTATTTCTTCGCAAAGCCTTTGGAAGCACTTGACAGAGACATGTCATTT
+CTCTTTGAAGCAAGCGTCGAAATACAATGCAGATAGAAACTCTGAAAGAACTCTTCTTCT
+TCGTCATGACATAGTATGCAAATGGAAAGAAAATGGTGTTGATTTTCAAAAGAACTGTGT
+GTTTATTGAT

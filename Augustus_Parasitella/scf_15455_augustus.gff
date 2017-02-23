@@ -1,0 +1,40 @@
+# ----- prediction on sequence number 6927 (length = 694, name = scf_15455) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 6927 on both strands
+# start gene g4653
+scf_15455	AUGUSTUS	gene	20	567	0.5	-	.	g4653
+scf_15455	AUGUSTUS	transcript	20	567	0.5	-	.	g4653.t1
+scf_15455	AUGUSTUS	stop_codon	20	22	.	-	0	transcript_id "g4653.t1"; gene_id "g4653";
+scf_15455	AUGUSTUS	terminal	20	265	0.56	-	0	transcript_id "g4653.t1"; gene_id "g4653";
+scf_15455	AUGUSTUS	initial	319	567	0.63	-	0	transcript_id "g4653.t1"; gene_id "g4653";
+scf_15455	AUGUSTUS	intron	266	318	0.63	-	.	transcript_id "g4653.t1"; gene_id "g4653";
+scf_15455	AUGUSTUS	CDS	23	265	0.56	-	0	transcript_id "g4653.t1"; gene_id "g4653";
+scf_15455	AUGUSTUS	CDS	319	567	0.63	-	0	transcript_id "g4653.t1"; gene_id "g4653";
+scf_15455	AUGUSTUS	start_codon	565	567	.	-	0	transcript_id "g4653.t1"; gene_id "g4653";
+# coding sequence = [atgacgcctaccactttccaatccgcgagtgacctcaacattcactctattcccaatcttcctgactggctgaaggaca
+# tatatgctcgtcttgacagtcaagcaacccaaatcagcgagatgcaagctcttattcaggagaatcagtcccttcgatcctccctcgaccagaccaaa
+# caccaacttgaacaagcccaccaacgcatccaggaacttgaatcccagaaggcatcacctgtttctgcccctaaacctgccgatccatccacctccaa
+# gaaacccaaatccaaatcaccacctcgcaagaaatttcaaccactcaaccttgaaatcaacgatggcggcctcgcagctgctcgccacttctctgctg
+# ttccctccactcatggataccgatttgtcaacatctccaaccgtggtagatccgccatcagtaccaagcgggaggatctcccaccatggcgagaaatt
+# tcaatcaaagttaatcattattga]
+# protein sequence = [MTPTTFQSASDLNIHSIPNLPDWLKDIYARLDSQATQISEMQALIQENQSLRSSLDQTKHQLEQAHQRIQELESQKAS
+# PVSAPKPADPSTSKKPKSKSPPRKKFQPLNLEINDGGLAAARHFSAVPSTHGYRFVNISNRGRSAISTKREDLPPWREISIKVNHY]
+# end gene g4653
+###
+#
+##FASTA
+>scf_15455
+CAATCCACTGACAAACTGATCAATAATGATTAACTTTGATTGAAATTTCTCGCCATGGTG
+GGAGATCCTCCCGCTTGGTACTGATGGCGGATCTACCACGGTTGGAGATGTTGACAAATC
+GGTATCCATGAGTGGAGGGAACAGCAGAGAAGTGGCGAGCAGCTGCGAGGCCGCCATCGT
+TGATTTCAAGGTTGAGTGGTTGAAATTTCTTGCGAGGTGGTGATTTGGATTTGGGTTTCT
+TGGAGGTGGATGGATCGGCAGGTTTCTTGGCAAATTCAGCAAATGAAGGTGTGTAACAGT
+GGCAGTAGCAGGTTTAACAGGGGCAGAAACAGGTGATGCCTTCTGGGATTCAAGTTCCTG
+GATGCGTTGGTGGGCTTGTTCAAGTTGGTGTTTGGTCTGGTCGAGGGAGGATCGAAGGGA
+CTGATTCTCCTGAATAAGAGCTTGCATCTCGCTGATTTGGGTTGCTTGACTGTCAAGACG
+AGCATATATGTCCTTCAGCCAGTCAGGAAGATTGGGAATAGAGTGAATGTTGAGGTCACT
+CGCGGATTGGAAAGTGGTAGGCGTCATAGTGGAGGTGTTGCTGGAGGCGACGATGGGAGT
+GGTCGTGGTTGTTGTGGAATCGATATAGAATGTAATATAGATTCACTGAAAAAAATTAAA
+ATAAAAAAAACAATAAATGTCAACTTGATAAGGT

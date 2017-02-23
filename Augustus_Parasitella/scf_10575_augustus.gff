@@ -1,0 +1,53 @@
+# ----- prediction on sequence number 5032 (length = 1021, name = scf_10575) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5032 on both strands
+# start gene g3930
+scf_10575	AUGUSTUS	gene	1	1021	0.19	+	.	g3930
+scf_10575	AUGUSTUS	transcript	1	1021	0.19	+	.	g3930.t1
+scf_10575	AUGUSTUS	internal	85	272	0.48	+	1	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	internal	333	526	0.49	+	2	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	internal	578	998	0.41	+	0	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	intron	1	84	0.95	+	.	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	intron	273	332	0.47	+	.	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	intron	527	577	0.93	+	.	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	intron	999	1021	0.44	+	.	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	CDS	85	272	0.48	+	1	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	CDS	333	526	0.49	+	2	transcript_id "g3930.t1"; gene_id "g3930";
+scf_10575	AUGUSTUS	CDS	578	998	0.41	+	0	transcript_id "g3930.t1"; gene_id "g3930";
+# coding sequence = [aaaaaatcgtgctgtgtttgctactcctaacgactgttttgaccattttgaactggttatgcaggcccatcatctccct
+# attttagaccactgggatagaattgtcccatctcgtctatttacagcaatggatcgctggtacgctgatctcgtcagcgctaggggtattctcacttg
+# gtctggtttttaagagttcgaaaagctcaagtaccaacccgggcagcagtctgatgtcttcttcgacaagttccaggcgctacacaaacaggcccaaa
+# tcaaggatcaagtgtttgtaaagcgcttcttggtgaaggcgcttcctgaggagctggcaaatcataccaagttctatctaaatggagctgacccggcc
+# ttgatgactatcaagtggacaaagcgcagagtggccgcttccaaaaaacaaaagttttttattactggtgaagtttcaagccacaaactgaggtgtgc
+# atattacacagatagcaccaaccatctcacggaggactgcaatgcttcggctgacatgaagcaacgcatcaatacagctcaagccaaatttggtggtg
+# gcaagtccaagtctcgcaagtgctacaacggcaaggagactgggtggactccagcacataacctggtatgcaaaaagcgtcgtactggcaagcaaaag
+# gtacaaactgccaagccaatcgttcccatgccgcttactgaggcaaataaaggtgccacggaagagatggacaccaacacaaaggagagcgaggataa
+# gcaccttacgtttgctgctttgaacattaacaaagatt]
+# protein sequence = [KNRAVFATPNDCFDHFELVMQAHHLPILDHWDRIVPSRLFTAMDRWYADLVSARGILTWSGFXEFEKLKYQPGQQSDV
+# FFDKFQALHKQAQIKDQVFVKRFLVKALPEELANHTKFYLNGADPALMTIKWTKRRVAASKKQKFFITGEVSSHKLRCAYYTDSTNHLTEDCNASADM
+# KQRINTAQAKFGGGKSKSRKCYNGKETGWTPAHNLVCKKRRTGKQKVQTAKPIVPMPLTEANKGATEEMDTNTKESEDKHLTFAALNINKD]
+# end gene g3930
+###
+#
+##FASTA
+>scf_10575
+GTACGATCTGGTTTTCAGCAAAATGGAAACTACCTTGGTGCCTCCTGAGACGCCATATTT
+CCAATGGCATGGCTAAACCTTTAGAAAAAATCGTGCTGTGTTTGCTACTCCTAACGACTG
+TTTTGACCATTTTGAACTGGTTATGCAGGCCCATCATCTCCCTATTTTAGACCACTGGGA
+TAGAATTGTCCCATCTCGTCTATTTACAGCAATGGATCGCTGGTACGCTGATCTCGTCAG
+CGCTAGGGGTATTCTCACTTGGTCTGGTTTTTGTGAGGAACTGATCAAGAAGTTCGGCAA
+ATCCCCAACAGATATGCGTGAAGAGGCTTGAGAAGAGTTCGAAAAGCTCAAGTACCAACC
+CGGGCAGCAGTCTGATGTCTTCTTCGACAAGTTCCAGGCGCTACACAAACAGGCCCAAAT
+CAAGGATCAAGTGTTTGTAAAGCGCTTCTTGGTGAAGGCGCTTCCTGAGGAGCTGGCAAA
+TCATACCAAGTTCTATCTAAATGGAGCTGACCCGGCCTTGATGACTGTCTAGGTGTTGAT
+TGTGAAAGTGAAATCTGTATTTGACGCTTTTTTCAAGATCAAGTGGACAAAGCGCAGAGT
+GGCCGCTTCCAAAAAACAAAAGTTTTTTATTACTGGTGAAGTTTCAAGCCACAAACTGAG
+GTGTGCATATTACACAGATAGCACCAACCATCTCACGGAGGACTGCAATGCTTCGGCTGA
+CATGAAGCAACGCATCAATACAGCTCAAGCCAAATTTGGTGGTGGCAAGTCCAAGTCTCG
+CAAGTGCTACAACGGCAAGGAGACTGGGTGGACTCCAGCACATAACCTGGTATGCAAAAA
+GCGTCGTACTGGCAAGCAAAAGGTACAAACTGCCAAGCCAATCGTTCCCATGCCGCTTAC
+TGAGGCAAATAAAGGTGCCACGGAAGAGATGGACACCAACACAAAGGAGAGCGAGGATAA
+GCACCTTACGTTTGCTGCTTTGAACATTAACAAAGATTGTGAGTATCAATATTTAAATGA
+A

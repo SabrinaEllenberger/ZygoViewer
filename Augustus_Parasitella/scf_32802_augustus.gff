@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 12424 (length = 526, name = scf_32802) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 12424 on both strands
+# start gene g8370
+scf_32802	AUGUSTUS	gene	1	412	0.58	+	.	g8370
+scf_32802	AUGUSTUS	transcript	1	412	0.58	+	.	g8370.t1
+scf_32802	AUGUSTUS	terminal	1	412	0.58	+	1	transcript_id "g8370.t1"; gene_id "g8370";
+scf_32802	AUGUSTUS	CDS	1	409	0.58	+	1	transcript_id "g8370.t1"; gene_id "g8370";
+scf_32802	AUGUSTUS	stop_codon	410	412	.	+	0	transcript_id "g8370.t1"; gene_id "g8370";
+# coding sequence = [cggcattgaccctattatgtacttgccaatgtctgtgcacgaacggagtcgccttattcgctggcgcatgggctggctg
+# cctggaaagccacaagcttgccgtaactgcaaccagatcaacaccctcaccacccaacaacatgccatcatatgctttcaaatcaacgaaaacattga
+# tatgaacattcactcctttttaaacatgatacccaaacacccgcctcgctcagcagcacaaaaattttactggaccactcgatggacagttttacaac
+# aatttctgttcaatctcgaagccatttgcctaccaccagatgagcccattaatccagcatcctacacagatcaatcaccttttgtagcctggattaat
+# ggctcttctagactcactacacctcttgtccttacttaa]
+# protein sequence = [GIDPIMYLPMSVHERSRLIRWRMGWLPGKPQACRNCNQINTLTTQQHAIICFQINENIDMNIHSFLNMIPKHPPRSAA
+# QKFYWTTRWTVLQQFLFNLEAICLPPDEPINPASYTDQSPFVAWINGSSRLTTPLVLT]
+# end gene g8370
+###
+#
+##FASTA
+>scf_32802
+CGGCATTGACCCTATTATGTACTTGCCAATGTCTGTGCACGAACGGAGTCGCCTTATTCG
+CTGGCGCATGGGCTGGCTGCCTGGAAAGCCACAAGCTTGCCGTAACTGCAACCAGATCAA
+CACCCTCACCACCCAACAACATGCCATCATATGCTTTCAAATCAACGAAAACATTGATAT
+GAACATTCACTCCTTTTTAAACATGATACCCAAACACCCGCCTCGCTCAGCAGCACAAAA
+ATTTTACTGGACCACTCGATGGACAGTTTTACAACAATTTCTGTTCAATCTCGAAGCCAT
+TTGCCTACCACCAGATGAGCCCATTAATCCAGCATCCTACACAGATCAATCACCTTTTGT
+AGCCTGGATTAATGGCTCTTCTAGACTCACTACACCTCTTGTCCTTACTTAATCCTGATC
+CATGAAACTCTATTTTTTTACCACATTTTTTCATCATTCTCAGATGTTTTTTGATTACAT
+TTTACATTTATACAAGTCGGAGGGGAGTAACTAGTACTCATGGGAT

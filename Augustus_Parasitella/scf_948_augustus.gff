@@ -1,0 +1,42 @@
+# ----- prediction on sequence number 555 (length = 830, name = scf_948) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 555 on both strands
+# start gene g598
+scf_948	AUGUSTUS	gene	1	830	0.72	-	.	g598
+scf_948	AUGUSTUS	transcript	1	830	0.72	-	.	g598.t1
+scf_948	AUGUSTUS	internal	1	793	0.72	-	1	transcript_id "g598.t1"; gene_id "g598";
+scf_948	AUGUSTUS	intron	794	830	0.74	-	.	transcript_id "g598.t1"; gene_id "g598";
+scf_948	AUGUSTUS	CDS	1	793	0.72	-	1	transcript_id "g598.t1"; gene_id "g598";
+# coding sequence = [ccaacgtatcattgaaactatcaacggcatagacacactacagtcataccagcagattgaggatattggtaaatctatc
+# aataatgctatttactcttccttagaccacagcgttaccaaatcaactctacggcccaagcattggcagtggttttggactcaggaattggaatcatt
+# accagcggacaaaaagaaaaagcaccttcagtggcgaaagtcgttgcctcttcgcaatgatcttcgtacagcagcattatggacacagtatgttacag
+# caaaccaggaattcaaagcaaaattgaccgaacaccgctccttgttgtggaggcaattctgtaatgaactcaaaacaactgacagcaacaaaatcaac
+# cgctacatcaaacgccgcttcaaatccacctccaacaggacaacatacacctcgccagctggcccacaacaggctgtggatgatttgaaagctcatct
+# agcaactgtctttagtggatcgcatcgcagcatacggtctccaacaagtggatttccttatcttgaaccaccttcaacaggtgacgaccatttcgacc
+# ttagaaccatcctggatgccatcaataaatcactaccatcacgaaaggcaccaggatctgaccacatcacagctgagatgcttcgacctatagctctc
+# ccactatcaaagcttctgaaacctttccttaatctatgctttcgatatagctggatccctctagattggcgaacggctcaagtggtacccatttataa
+# aaaggatgaccctaacaatgctgctaac]
+# protein sequence = [QRIIETINGIDTLQSYQQIEDIGKSINNAIYSSLDHSVTKSTLRPKHWQWFWTQELESLPADKKKKHLQWRKSLPLRN
+# DLRTAALWTQYVTANQEFKAKLTEHRSLLWRQFCNELKTTDSNKINRYIKRRFKSTSNRTTYTSPAGPQQAVDDLKAHLATVFSGSHRSIRSPTSGFP
+# YLEPPSTGDDHFDLRTILDAINKSLPSRKAPGSDHITAEMLRPIALPLSKLLKPFLNLCFRYSWIPLDWRTAQVVPIYKKDDPNNAAN]
+# end gene g598
+###
+#
+##FASTA
+>scf_948
+GTTAGCAGCATTGTTAGGGTCATCCTTTTTATAAATGGGTACCACTTGAGCCGTTCGCCA
+ATCTAGAGGGATCCAGCTATATCGAAAGCATAGATTAAGGAAAGGTTTCAGAAGCTTTGA
+TAGTGGGAGAGCTATAGGTCGAAGCATCTCAGCTGTGATGTGGTCAGATCCTGGTGCCTT
+TCGTGATGGTAGTGATTTATTGATGGCATCCAGGATGGTTCTAAGGTCGAAATGGTCGTC
+ACCTGTTGAAGGTGGTTCAAGATAAGGAAATCCACTTGTTGGAGACCGTATGCTGCGATG
+CGATCCACTAAAGACAGTTGCTAGATGAGCTTTCAAATCATCCACAGCCTGTTGTGGGCC
+AGCTGGCGAGGTGTATGTTGTCCTGTTGGAGGTGGATTTGAAGCGGCGTTTGATGTAGCG
+GTTGATTTTGTTGCTGTCAGTTGTTTTGAGTTCATTACAGAATTGCCTCCACAACAAGGA
+GCGGTGTTCGGTCAATTTTGCTTTGAATTCCTGGTTTGCTGTAACATACTGTGTCCATAA
+TGCTGCTGTACGAAGATCATTGCGAAGAGGCAACGACTTTCGCCACTGAAGGTGCTTTTT
+CTTTTTGTCCGCTGGTAATGATTCCAATTCCTGAGTCCAAAACCACTGCCAATGCTTGGG
+CCGTAGAGTTGATTTGGTAACGCTGTGGTCTAAGGAAGAGTAAATAGCATTATTGATAGA
+TTTACCAATATCCTCAATCTGCTGGTATGACTGTAGTGTGTCTATGCCGTTGATAGTTTC
+AATGATACGTTGGCTTTCAGTGGTGAAAAGATTGACATAGAGGGCTTATA

@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 4482 (length = 523, name = scf_9295) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4482 on both strands
+# start gene g3737
+scf_9295	AUGUSTUS	gene	1	523	0.51	+	.	g3737
+scf_9295	AUGUSTUS	transcript	1	523	0.51	+	.	g3737.t1
+scf_9295	AUGUSTUS	internal	1	303	0.69	+	1	transcript_id "g3737.t1"; gene_id "g3737";
+scf_9295	AUGUSTUS	internal	364	523	0.72	+	1	transcript_id "g3737.t1"; gene_id "g3737";
+scf_9295	AUGUSTUS	intron	304	363	0.99	+	.	transcript_id "g3737.t1"; gene_id "g3737";
+scf_9295	AUGUSTUS	CDS	1	303	0.69	+	1	transcript_id "g3737.t1"; gene_id "g3737";
+scf_9295	AUGUSTUS	CDS	364	523	0.72	+	1	transcript_id "g3737.t1"; gene_id "g3737";
+# coding sequence = [acaattcatgagaggaattgctggttttgataccgatacagaatatcatatacccagaggaatcgaggagccctgccag
+# gagcttaaaaacttggtctttcccatggcagattactggtacgagcgggtctctaccaagaacgtccctcaacactctgtctctgctgctaggttctt
+# aatgctcgtcaaatgcttcaaaacaactttccttcaagacgcggccgtcatgatggacatgatacccgaccacccaatctggaggcataagatcttca
+# agacacaactattcattgacttcaaaagaaaagtcaatgctcatgtggatgctgatgaacaaccagattcctccataatcagtaaatttgctcccgaa
+# gtaaaacagcagctgcaaggaatcagaaacatgatcagcactatgatggcagaagtgaacgagaggcaggcagcttcagacaacacaaca]
+# protein sequence = [QFMRGIAGFDTDTEYHIPRGIEEPCQELKNLVFPMADYWYERVSTKNVPQHSVSAARFLMLVKCFKTTFLQDAAVMMD
+# MIPDHPIWRHKIFKTQLFIDFKRKVNAHVDADEQPDSSIISKFAPEVKQQLQGIRNMISTMMAEVNERQAASDNTT]
+# end gene g3737
+###
+#
+##FASTA
+>scf_9295
+ACAATTCATGAGAGGAATTGCTGGTTTTGATACCGATACAGAATATCATATACCCAGAGG
+AATCGAGGAGCCCTGCCAGGAGCTTAAAAACTTGGTCTTTCCCATGGCAGATTACTGGTA
+CGAGCGGGTCTCTACCAAGAACGTCCCTCAACACTCTGTCTCTGCTGCTAGGTTCTTAAT
+GCTCGTCAAATGCTTCAAAACAACTTTCCTTCAAGACGCGGCCGTCATGATGGACATGAT
+ACCCGACCACCCAATCTGGAGGCATAAGATCTTCAAGACACAACTATTCATTGACTTCAA
+AAGGTGGGTACTCATTATAATCGGCTTCTTATATCCTGTATCTAACATTTATTTTCTCTA
+CAGAAAAGTCAATGCTCATGTGGATGCTGATGAACAACCAGATTCCTCCATAATCAGTAA
+ATTTGCTCCCGAAGTAAAACAGCAGCTGCAAGGAATCAGAAACATGATCAGCACTATGAT
+GGCAGAAGTGAACGAGAGGCAGGCAGCTTCAGACAACACAACA

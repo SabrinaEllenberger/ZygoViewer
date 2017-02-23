@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 2524 (length = 570, name = scf_4954) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2524 on both strands
+# start gene g2596
+scf_4954	AUGUSTUS	gene	131	534	0.6	-	.	g2596
+scf_4954	AUGUSTUS	transcript	131	534	0.6	-	.	g2596.t1
+scf_4954	AUGUSTUS	stop_codon	131	133	.	-	0	transcript_id "g2596.t1"; gene_id "g2596";
+scf_4954	AUGUSTUS	terminal	131	470	0.6	-	1	transcript_id "g2596.t1"; gene_id "g2596";
+scf_4954	AUGUSTUS	initial	524	534	1	-	0	transcript_id "g2596.t1"; gene_id "g2596";
+scf_4954	AUGUSTUS	intron	471	523	1	-	.	transcript_id "g2596.t1"; gene_id "g2596";
+scf_4954	AUGUSTUS	CDS	134	470	0.6	-	1	transcript_id "g2596.t1"; gene_id "g2596";
+scf_4954	AUGUSTUS	CDS	524	534	1	-	0	transcript_id "g2596.t1"; gene_id "g2596";
+scf_4954	AUGUSTUS	start_codon	532	534	.	-	0	transcript_id "g2596.t1"; gene_id "g2596";
+# coding sequence = [atggcttattgggtaactggatttgtggctaactcgttgttgttgtccaaagtctaccatctgttgcgtgttgttcttg
+# gtggccctgctatcgagtcgtgggtggtggctctcaaaaaggtagtactggagtatttggtgccattccgtcctggtgttgcttggtcgaccttgcgt
+# cttcctcgcaagtttggtggtgtcggcctagtggatatagcggatcggagcctagctctgcatctcgtctatttgcaatgtcttatgcgtccacaatc
+# gtcttctgatcttgtccctgcttggttggtttacgcctttcaagtatacacaggccacaagtctcttcttccttag]
+# protein sequence = [MAYWVTGFVANSLLLSKVYHLLRVVLGGPAIESWVVALKKVVLEYLVPFRPGVAWSTLRLPRKFGGVGLVDIADRSLA
+# LHLVYLQCLMRPQSSSDLVPAWLVYAFQVYTGHKSLLP]
+# end gene g2596
+###
+#
+##FASTA
+>scf_4954
+CCTCGAAAGTACAGTCGAGGAACTGTTACAAAAGCCGGTTTCCCAAAGTAAAACCGACAA
+TAAGCTTGCTTAAGTGATTCAAGACTGGAACAGAAGATACACAATACTTGAACTTCTCCG
+GGAAGGACAACTAAGGAAGAAGAGACTTGTGGCCTGTGTATACTTGAAAGGCGTAAACCA
+ACCAAGCAGGGACAAGATCAGAAGACGATTGTGGACGCATAAGACATTGCAAATAGACGA
+GATGCAGAGCTAGGCTCCGATCCGCTATATCCACTAGGCCGACACCACCAAACTTGCGAG
+GAAGACGCAAGGTCGACCAAGCAACACCAGGACGGAATGGCACCAAATACTCCAGTACTA
+CCTTTTTGAGAGCCACCACCCACGACTCGATAGCAGGGCCACCAAGAACAACACGCAACA
+GATGGTAGACTTTGGACAACAACAACGAGTTAGCCACAAATCCAGTTACCCTGATGGAGA
+GATTTCGTTGCTTCAACAAGTTCCAGTGTGTTTGGACCTTTACCAATAAGCCATCTAGAA
+AATCACTCAGTTGACTATCGGTATGGTACA

@@ -1,0 +1,34 @@
+# ----- prediction on sequence number 10949 (length = 550, name = scf_27620) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 10949 on both strands
+# start gene g7428
+scf_27620	AUGUSTUS	gene	1	517	0.96	+	.	g7428
+scf_27620	AUGUSTUS	transcript	1	517	0.96	+	.	g7428.t1
+scf_27620	AUGUSTUS	terminal	1	517	0.96	+	1	transcript_id "g7428.t1"; gene_id "g7428";
+scf_27620	AUGUSTUS	CDS	1	514	0.96	+	1	transcript_id "g7428.t1"; gene_id "g7428";
+scf_27620	AUGUSTUS	stop_codon	515	517	.	+	0	transcript_id "g7428.t1"; gene_id "g7428";
+# coding sequence = [gcagttcctgcagtcctaccctcgaaatgtgctgcgtcaatacgacccgccagttaccaaaagcattcagttgggtaac
+# gcaaccaagcgtctggatcaacagctgtcaaatgtgcaatttcgtccctcaggggtcactcgttctatcgactctttcccgtacgatactttccgcaa
+# tcaatctgagactgtgcctgctcaagtggccaggggttttgcggtttgtatccacgaaatgctgtccgatgttgcctcacacatcagtcagctacgct
+# ctgacaaagtctgcgcagacaactgtttgccttctgttcctttggtccctcctcaacgggatcctggtcctctcctggatgcccctcggatcattgaa
+# cagaccaaactttgccaatcgttggtcaatatttcctcgtcccaacaccgaaacagatccagaaagagaaatggatcttctaaaacatcgcaatccag
+# cggatctacgaacaatgtttttgttgtgccaggcaatgtagattga]
+# protein sequence = [QFLQSYPRNVLRQYDPPVTKSIQLGNATKRLDQQLSNVQFRPSGVTRSIDSFPYDTFRNQSETVPAQVARGFAVCIHE
+# MLSDVASHISQLRSDKVCADNCLPSVPLVPPQRDPGPLLDAPRIIEQTKLCQSLVNISSSQHRNRSRKRNGSSKTSQSSGSTNNVFVVPGNVD]
+# end gene g7428
+###
+#
+##FASTA
+>scf_27620
+GCAGTTCCTGCAGTCCTACCCTCGAAATGTGCTGCGTCAATACGACCCGCCAGTTACCAA
+AAGCATTCAGTTGGGTAACGCAACCAAGCGTCTGGATCAACAGCTGTCAAATGTGCAATT
+TCGTCCCTCAGGGGTCACTCGTTCTATCGACTCTTTCCCGTACGATACTTTCCGCAATCA
+ATCTGAGACTGTGCCTGCTCAAGTGGCCAGGGGTTTTGCGGTTTGTATCCACGAAATGCT
+GTCCGATGTTGCCTCACACATCAGTCAGCTACGCTCTGACAAAGTCTGCGCAGACAACTG
+TTTGCCTTCTGTTCCTTTGGTCCCTCCTCAACGGGATCCTGGTCCTCTCCTGGATGCCCC
+TCGGATCATTGAACAGACCAAACTTTGCCAATCGTTGGTCAATATTTCCTCGTCCCAACA
+CCGAAACAGATCCAGAAAGAGAAATGGATCTTCTAAAACATCGCAATCCAGCGGATCTAC
+GAACAATGTTTTTGTTGTGCCAGGCAATGTAGATTGATTAGCACTTAAAAAAAAGGGTAA
+AAAGAGACTA

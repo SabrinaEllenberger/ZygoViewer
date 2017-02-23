@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 2676 (length = 570, name = scf_5215) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2676 on both strands
+# start gene g2674
+scf_5215	AUGUSTUS	gene	1	518	0.66	+	.	g2674
+scf_5215	AUGUSTUS	transcript	1	518	0.66	+	.	g2674.t1
+scf_5215	AUGUSTUS	internal	1	318	0.66	+	0	transcript_id "g2674.t1"; gene_id "g2674";
+scf_5215	AUGUSTUS	terminal	378	518	0.66	+	0	transcript_id "g2674.t1"; gene_id "g2674";
+scf_5215	AUGUSTUS	intron	319	377	0.66	+	.	transcript_id "g2674.t1"; gene_id "g2674";
+scf_5215	AUGUSTUS	CDS	1	318	0.66	+	0	transcript_id "g2674.t1"; gene_id "g2674";
+scf_5215	AUGUSTUS	CDS	378	515	0.66	+	0	transcript_id "g2674.t1"; gene_id "g2674";
+scf_5215	AUGUSTUS	stop_codon	516	518	.	+	0	transcript_id "g2674.t1"; gene_id "g2674";
+# coding sequence = [attaaggtgattctcaaagaaggtgtcaagctaccctatgtatggaagaacgacctggtatgctatcaagaagacgatc
+# agactgttccatttattccaataagtttggttgaacaagtcctttaccatgtgcacaacaagccttacgctggtcactttggagtgaagaaaacattg
+# gataaaactcgtgaaattggctggtggcccaatatgaaaactgatgtacagaactgggtcaagtcttgcgaaggatgccaaaggttcaaggttcgcaa
+# tgatgtcaagcgtcctcctatgaagccgatcaccccaacacgcgtttctcttggttatgatggaatatctctcaaaatgggtggttgcggttccgtta
+# aaaacaatggatacgcattcgattgtacaggtacttttatacgaagtcgtactcaagtatggaatgccatcaagattgataagtga]
+# protein sequence = [IKVILKEGVKLPYVWKNDLVCYQEDDQTVPFIPISLVEQVLYHVHNKPYAGHFGVKKTLDKTREIGWWPNMKTDVQNW
+# VKSCEGCQRFKVRNDVKRPPMKPITPTRVSLGYDGISLKMGGCGSVKNNGYAFDCTGTFIRSRTQVWNAIKIDK]
+# end gene g2674
+###
+#
+##FASTA
+>scf_5215
+ATTAAGGTGATTCTCAAAGAAGGTGTCAAGCTACCCTATGTATGGAAGAACGACCTGGTA
+TGCTATCAAGAAGACGATCAGACTGTTCCATTTATTCCAATAAGTTTGGTTGAACAAGTC
+CTTTACCATGTGCACAACAAGCCTTACGCTGGTCACTTTGGAGTGAAGAAAACATTGGAT
+AAAACTCGTGAAATTGGCTGGTGGCCCAATATGAAAACTGATGTACAGAACTGGGTCAAG
+TCTTGCGAAGGATGCCAAAGGTTCAAGGTTCGCAATGATGTCAAGCGTCCTCCTATGAAG
+CCGATCACCCCAACACGCGTAGGGGAGATATGGGCGACGGATGTTGCTATTTTATCCGAA
+GGCTATAATGGTGAAAGGTTTCTCTTGGTTATGATGGAATATCTCTCAAAATGGGTGGTT
+GCGGTTCCGTTAAAAACAATGGATACGCATTCGATTGTACAGGTACTTTTATACGAAGTC
+GTACTCAAGTATGGAATGCCATCAAGATTGATAAGTGACAACGGAAGCAATTACATCTCG
+GATGCTATGAAAACAGTTTGTACAAGGCTA

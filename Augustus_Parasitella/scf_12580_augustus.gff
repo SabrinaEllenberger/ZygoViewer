@@ -1,0 +1,42 @@
+# ----- prediction on sequence number 5835 (length = 698, name = scf_12580) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5835 on both strands
+# start gene g4339
+scf_12580	AUGUSTUS	gene	9	676	0.52	+	.	g4339
+scf_12580	AUGUSTUS	transcript	9	676	0.52	+	.	g4339.t1
+scf_12580	AUGUSTUS	start_codon	9	11	.	+	0	transcript_id "g4339.t1"; gene_id "g4339";
+scf_12580	AUGUSTUS	initial	9	571	0.52	+	0	transcript_id "g4339.t1"; gene_id "g4339";
+scf_12580	AUGUSTUS	terminal	613	676	0.95	+	1	transcript_id "g4339.t1"; gene_id "g4339";
+scf_12580	AUGUSTUS	intron	572	612	0.95	+	.	transcript_id "g4339.t1"; gene_id "g4339";
+scf_12580	AUGUSTUS	CDS	9	571	0.52	+	0	transcript_id "g4339.t1"; gene_id "g4339";
+scf_12580	AUGUSTUS	CDS	613	673	0.95	+	1	transcript_id "g4339.t1"; gene_id "g4339";
+scf_12580	AUGUSTUS	stop_codon	674	676	.	+	0	transcript_id "g4339.t1"; gene_id "g4339";
+# coding sequence = [atgacacaagagtttaaaaaggctgttagtctcactccaagctcacctagtgaatcctctagtgccccagtgtacctat
+# ccgagaaaattaaaatgaaacaagcgcgttctgaagccaagaggaaagctcgacaaaaatctccctctactaaatctaaaagaaatcccaatgttgca
+# acagaagaggctgaagtcgtttgtccaagaactaggagaacaaagtttgtaatcaaagcaaaattggaagctatgctaagggctgaagacttcaatca
+# agaccaaagggctggctttataacagaagtacatcgcgttgttcgtcatctcagtgatgttacttatacagcttcattatttctgaactggttctgtc
+# tgaggctcttgagaaacggagaggctgtaccaaaactaacccacaaaagattgtacagctttgcagctttatttgttggccaaggaaagaatgccgat
+# gctgatatcagtgaagcttttacagaatttgccactgccatgggagaagatttcaatagacagcaactattccccaacattcaatacaccacagaatc
+# atgtgggaaccaatttcaagccaaaaacggtgcgctatctctttacgaggctttctga]
+# protein sequence = [MTQEFKKAVSLTPSSPSESSSAPVYLSEKIKMKQARSEAKRKARQKSPSTKSKRNPNVATEEAEVVCPRTRRTKFVIK
+# AKLEAMLRAEDFNQDQRAGFITEVHRVVRHLSDVTYTASLFLNWFCLRLLRNGEAVPKLTHKRLYSFAALFVGQGKNADADISEAFTEFATAMGEDFN
+# RQQLFPNIQYTTESCGNQFQAKNGALSLYEAF]
+# end gene g4339
+###
+#
+##FASTA
+>scf_12580
+ATACAGGAATGACACAAGAGTTTAAAAAGGCTGTTAGTCTCACTCCAAGCTCACCTAGTG
+AATCCTCTAGTGCCCCAGTGTACCTATCCGAGAAAATTAAAATGAAACAAGCGCGTTCTG
+AAGCCAAGAGGAAAGCTCGACAAAAATCTCCCTCTACTAAATCTAAAAGAAATCCCAATG
+TTGCAACAGAAGAGGCTGAAGTCGTTTGTCCAAGAACTAGGAGAACAAAGTTTGTAATCA
+AAGCAAAATTGGAAGCTATGCTAAGGGCTGAAGACTTCAATCAAGACCAAAGGGCTGGCT
+TTATAACAGAAGTACATCGCGTTGTTCGTCATCTCAGTGATGTTACTTATACAGCTTCAT
+TATTTCTGAACTGGTTCTGTCTGAGGCTCTTGAGAAACGGAGAGGCTGTACCAAAACTAA
+CCCACAAAAGATTGTACAGCTTTGCAGCTTTATTTGTTGGCCAAGGAAAGAATGCCGATG
+CTGATATCAGTGAAGCTTTTACAGAATTTGCCACTGCCATGGGAGAAGATTTCAATAGAC
+AGCAACTATTCCCCAACATTCAATACACCACGTTAATTACAATAGTCATGCGTAGCTATG
+AGACTCTTATAGAGAATCATGTGGGAACCAATTTCAAGCCAAAAACGGTGCGCTATCTCT
+TTACGAGGCTTTCTGACACAACTGAATTTCCAAATCTC

@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 1025 (length = 561, name = scf_1700) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1025 on both strands
+# start gene g1858
+scf_1700	AUGUSTUS	gene	1	531	0.25	-	.	g1858
+scf_1700	AUGUSTUS	transcript	1	531	0.25	-	.	g1858.t1
+scf_1700	AUGUSTUS	initial	7	531	0.25	-	0	transcript_id "g1858.t1"; gene_id "g1858";
+scf_1700	AUGUSTUS	intron	1	6	0.41	-	.	transcript_id "g1858.t1"; gene_id "g1858";
+scf_1700	AUGUSTUS	CDS	7	531	0.25	-	0	transcript_id "g1858.t1"; gene_id "g1858";
+scf_1700	AUGUSTUS	start_codon	529	531	.	-	0	transcript_id "g1858.t1"; gene_id "g1858";
+# coding sequence = [atgaccctttccagccaagcagcatccggtccatccaccatgcaaacctcgtctaactctacgcctcccaccatcattt
+# caattgaagaacctgttctcaccactgttgccactgaagaaatattagcatcaaacataattcaaacacttgacgaagtcgcacctgtcgaaaattca
+# ccattgccacactatcaagaatttcttcttgcaccagttcttgaccaatggtggttggaaaactacaacactctcgtatttccccaagaaaacgacac
+# acaattattcaatggaatctttcacgcttggaactattccacattcgacaatgagccgacggggggatggttgcaacccatcattgaagaatcgatga
+# atgatgatatcaacgacgaagacgccttgagcctgtatggattgcaacatcctgccgaaacagttgctcccttcaacactggattcattaatgcaatc
+# acccctcctacttcggtccacgaagatgatgaagatgaagattctgtaattgac]
+# protein sequence = [MTLSSQAASGPSTMQTSSNSTPPTIISIEEPVLTTVATEEILASNIIQTLDEVAPVENSPLPHYQEFLLAPVLDQWWL
+# ENYNTLVFPQENDTQLFNGIFHAWNYSTFDNEPTGGWLQPIIEESMNDDINDEDALSLYGLQHPAETVAPFNTGFINAITPPTSVHEDDEDEDSVID]
+# end gene g1858
+###
+#
+##FASTA
+>scf_1700
+AGTTACGTCAATTACAGAATCTTCATCTTCATCATCTTCGTGGACCGAAGTAGGAGGGGT
+GATTGCATTAATGAATCCAGTGTTGAAGGGAGCAACTGTTTCGGCAGGATGTTGCAATCC
+ATACAGGCTCAAGGCGTCTTCGTCGTTGATATCATCATTCATCGATTCTTCAATGATGGG
+TTGCAACCATCCCCCCGTCGGCTCATTGTCGAATGTGGAATAGTTCCAAGCGTGAAAGAT
+TCCATTGAATAATTGTGTGTCGTTTTCTTGGGGAAATACGAGAGTGTTGTAGTTTTCCAA
+CCACCATTGGTCAAGAACTGGTGCAAGAAGAAATTCTTGATAGTGTGGCAATGGTGAATT
+TTCGACAGGTGCGACTTCGTCAAGTGTTTGAATTATGTTTGATGCTAATATTTCTTCAGT
+GGCAACAGTGGTGAGAACAGGTTCTTCAATTGAAATGATGGTGGGAGGCGTAGAGTTAGA
+CGAGGTTTGCATGGTGGATGGACCGGATGCTGCTTGGCTGGAAAGGGTCATTTCATCTTC
+TTCATCATCTCGTCGAACAGG

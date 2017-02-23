@@ -1,0 +1,40 @@
+# ----- prediction on sequence number 1192 (length = 704, name = scf_1960) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1192 on both strands
+# start gene g1981
+scf_1960	AUGUSTUS	gene	1	704	0.5	+	.	g1981
+scf_1960	AUGUSTUS	transcript	1	704	0.5	+	.	g1981.t1
+scf_1960	AUGUSTUS	internal	1	423	0.52	+	2	transcript_id "g1981.t1"; gene_id "g1981";
+scf_1960	AUGUSTUS	internal	465	704	0.82	+	2	transcript_id "g1981.t1"; gene_id "g1981";
+scf_1960	AUGUSTUS	intron	424	464	0.82	+	.	transcript_id "g1981.t1"; gene_id "g1981";
+scf_1960	AUGUSTUS	CDS	1	423	0.52	+	2	transcript_id "g1981.t1"; gene_id "g1981";
+scf_1960	AUGUSTUS	CDS	465	704	0.82	+	2	transcript_id "g1981.t1"; gene_id "g1981";
+# coding sequence = [aaataccttttgtaacaaataatcataatgccatccttaaacttgctggaaaaaataatacggtcaatcgattaggtag
+# aactgaaccaattgaaataaaatacaatggcaaatcgtcaatacatacatttgaaataattgaattcgatgataatgaccaaaccgacgtaatattag
+# gatatgaaatcttgcccaaacttggaatcgcattaaccggtgtggctcacaattttgatgatgcagtcgtttttgacgattcaatcaatgacgaagta
+# atcccaaacaattcgcccgcaggtactgctgaagaacaagagcgtttcatgagtgaaatcaaacctttactcgatgaaaatcaagccataccaaaaca
+# tagtttctgcactgtaccagaatcagttatacatctaaatactgttgaggttgagacaaaaattcaggaacaaattgagacttggattaagaatggta
+# ctattgaaaaagcacctgccaacacaaaatggaattctcctttaactctcgcggccaaaaaggataaccaaggcaataagtcggatacaaataaacgt
+# gtctgtcttgacactcgagccctcaataacatccttgtcgatgatgatgtgcaaagtcttccccatattcctgacatattccataagctggctg]
+# protein sequence = [IPFVTNNHNAILKLAGKNNTVNRLGRTEPIEIKYNGKSSIHTFEIIEFDDNDQTDVILGYEILPKLGIALTGVAHNFD
+# DAVVFDDSINDEVIPNNSPAGTAEEQERFMSEIKPLLDENQAIPKHSFCTVPESVIHLNTVEVETKIQEQIETWIKNGTIEKAPANTKWNSPLTLAAK
+# KDNQGNKSDTNKRVCLDTRALNNILVDDDVQSLPHIPDIFHKLA]
+# end gene g1981
+###
+#
+##FASTA
+>scf_1960
+AAATACCTTTTGTAACAAATAATCATAATGCCATCCTTAAACTTGCTGGAAAAAATAATA
+CGGTCAATCGATTAGGTAGAACTGAACCAATTGAAATAAAATACAATGGCAAATCGTCAA
+TACATACATTTGAAATAATTGAATTCGATGATAATGACCAAACCGACGTAATATTAGGAT
+ATGAAATCTTGCCCAAACTTGGAATCGCATTAACCGGTGTGGCTCACAATTTTGATGATG
+CAGTCGTTTTTGACGATTCAATCAATGACGAAGTAATCCCAAACAATTCGCCCGCAGGTA
+CTGCTGAAGAACAAGAGCGTTTCATGAGTGAAATCAAACCTTTACTCGATGAAAATCAAG
+CCATACCAAAACATAGTTTCTGCACTGTACCAGAATCAGTTATACATCTAAATACTGTTG
+AGGGTAAATTTGTTAACATACCTCAGTATCCCATTCCTTATAAGTTGAGACAAAAATTCA
+GGAACAAATTGAGACTTGGATTAAGAATGGTACTATTGAAAAAGCACCTGCCAACACAAA
+ATGGAATTCTCCTTTAACTCTCGCGGCCAAAAAGGATAACCAAGGCAATAAGTCGGATAC
+AAATAAACGTGTCTGTCTTGACACTCGAGCCCTCAATAACATCCTTGTCGATGATGATGT
+GCAAAGTCTTCCCCATATTCCTGACATATTCCATAAGCTGGCTG

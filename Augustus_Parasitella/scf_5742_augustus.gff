@@ -1,0 +1,42 @@
+# ----- prediction on sequence number 2914 (length = 805, name = scf_5742) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2914 on both strands
+# start gene g2862
+scf_5742	AUGUSTUS	gene	1	760	0.95	+	.	g2862
+scf_5742	AUGUSTUS	transcript	1	760	0.95	+	.	g2862.t1
+scf_5742	AUGUSTUS	terminal	63	760	0.95	+	2	transcript_id "g2862.t1"; gene_id "g2862";
+scf_5742	AUGUSTUS	intron	1	62	0.95	+	.	transcript_id "g2862.t1"; gene_id "g2862";
+scf_5742	AUGUSTUS	CDS	63	757	0.95	+	2	transcript_id "g2862.t1"; gene_id "g2862";
+scf_5742	AUGUSTUS	stop_codon	758	760	.	+	0	transcript_id "g2862.t1"; gene_id "g2862";
+# coding sequence = [attcgatgacaaaacaagcaccgcccatttccattcatcgacctactatcgacgtttctccagcgttagagtttgctcg
+# ttccattgcttctcggcccaccacacatatcaagctattacaacagaaattaacctttcttcttgcgatggcagctttcctcagaccttctgacctgg
+# ctcgtattccctttgactcctgctccatcacagaggatggctgtctctccttttcggttgtggctcccaaggaaactcgcaaaaaacgacgcatcatc
+# aaacccttcaaggtacatcctcatgcgtctgatgtggaactttgtccagttgagtgttttaaggctctccgtgaccatcctgggttagtctctcgtct
+# tcctggatccaagctttttgtgaaatcgcacatcatacaacaacctttgtcatcctccaccatatccacatggttacaccgcaacttcattgctttat
+# gcacgtctgaacccaacgtctccattcgttctctggcttcttctcgggcactcgatcttggtgtctctcgggaccatattgttacccttggcaactgg
+# gcttcctcctccacattcgaaaaccattaccagaggaatcaaatggcacaagtggacttcacatctactgttctttcggatcccctggaccagttcta
+# tgatgctcaggataacttttctctggattag]
+# protein sequence = [SMTKQAPPISIHRPTIDVSPALEFARSIASRPTTHIKLLQQKLTFLLAMAAFLRPSDLARIPFDSCSITEDGCLSFSV
+# VAPKETRKKRRIIKPFKVHPHASDVELCPVECFKALRDHPGLVSRLPGSKLFVKSHIIQQPLSSSTISTWLHRNFIALCTSEPNVSIRSLASSRALDL
+# GVSRDHIVTLGNWASSSTFENHYQRNQMAQVDFTSTVLSDPLDQFYDAQDNFSLD]
+# end gene g2862
+###
+#
+##FASTA
+>scf_5742
+ATCCCATCTTCATGAGGACCTTAAAGGTATTCGAGAATGCGATATTATTAACAATTACAT
+AGATTCGATGACAAAACAAGCACCGCCCATTTCCATTCATCGACCTACTATCGACGTTTC
+TCCAGCGTTAGAGTTTGCTCGTTCCATTGCTTCTCGGCCCACCACACATATCAAGCTATT
+ACAACAGAAATTAACCTTTCTTCTTGCGATGGCAGCTTTCCTCAGACCTTCTGACCTGGC
+TCGTATTCCCTTTGACTCCTGCTCCATCACAGAGGATGGCTGTCTCTCCTTTTCGGTTGT
+GGCTCCCAAGGAAACTCGCAAAAAACGACGCATCATCAAACCCTTCAAGGTACATCCTCA
+TGCGTCTGATGTGGAACTTTGTCCAGTTGAGTGTTTTAAGGCTCTCCGTGACCATCCTGG
+GTTAGTCTCTCGTCTTCCTGGATCCAAGCTTTTTGTGAAATCGCACATCATACAACAACC
+TTTGTCATCCTCCACCATATCCACATGGTTACACCGCAACTTCATTGCTTTATGCACGTC
+TGAACCCAACGTCTCCATTCGTTCTCTGGCTTCTTCTCGGGCACTCGATCTTGGTGTCTC
+TCGGGACCATATTGTTACCCTTGGCAACTGGGCTTCCTCCTCCACATTCGAAAACCATTA
+CCAGAGGAATCAAATGGCACAAGTGGACTTCACATCTACTGTTCTTTCGGATCCCCTGGA
+CCAGTTCTATGATGCTCAGGATAACTTTTCTCTGGATTAGCATAATAACATTTCCTATTT
+TGTTCTGACGGTCTCAAGAAATTCT

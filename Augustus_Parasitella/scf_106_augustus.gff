@@ -1,0 +1,47 @@
+# ----- prediction on sequence number 51 (length = 908, name = scf_106) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 51 on both strands
+# start gene g28
+scf_106	AUGUSTUS	gene	1	908	0.14	+	.	g28
+scf_106	AUGUSTUS	transcript	1	908	0.14	+	.	g28.t1
+scf_106	AUGUSTUS	internal	1	140	0.3	+	1	transcript_id "g28.t1"; gene_id "g28";
+scf_106	AUGUSTUS	internal	201	908	0.3	+	2	transcript_id "g28.t1"; gene_id "g28";
+scf_106	AUGUSTUS	intron	141	200	0.57	+	.	transcript_id "g28.t1"; gene_id "g28";
+scf_106	AUGUSTUS	CDS	1	140	0.3	+	1	transcript_id "g28.t1"; gene_id "g28";
+scf_106	AUGUSTUS	CDS	201	908	0.3	+	2	transcript_id "g28.t1"; gene_id "g28";
+# coding sequence = [tgctggtgtagaaaaagcagtttcgttgcctttcaatcccttaggaaattcaaatgctgaggcagcagtaaagtcggca
+# aaagggatcattattaaaatgttagagggaagagcagagaattgggatttatacttggatgtagtatttgctagactcccaaatgaattgaaagatta
+# ttcacaagtgaaagcagtgttaccagatcaagagatcgatgtaaaaacattaaagaaaaagatcaaacgtattgataagattcttgtgcctgcaatta
+# gagagcaaattgtcaaaacaaaagaagcagataatgcttattttagaaaaagacataaaatattagagaaaccatttccaattggatcttcagttatg
+# ataaaaaatgtagacaaaaacaagaaaactgatccaaattacgaaggaccatttagcgtgtatggatatacaaaaaatgggagttatatcctgcaaga
+# caaatcaaatgcatttttatcaagagatatacctacgtcgcacataaaattaattagtgaagatggtatacccacagaggaaaaacaaaatgtttatg
+# ttgtgcaatcgatccttaatcactcaggtgaagcccctaatcacaaatatttggtaagatgggaaggttatgattccagttgggattcttgggaacca
+# ccatcaatgtttgatggcaccgaagccatagcaacatattgggctagacgaaatgcaggacaacctagtagcgaaggtaaaaagcaaaagttacctaa
+# aacagtaaacaagcgaaaagttgaatctagacaagaaaagtctgttcgacgaaaggcgcgtatagctgccattacaagcaaat]
+# protein sequence = [AGVEKAVSLPFNPLGNSNAEAAVKSAKGIIIKMLEGRAENWDLYLDVVFARLPNELKDYSQVKAVLPDQEIDVKTLKK
+# KIKRIDKILVPAIREQIVKTKEADNAYFRKRHKILEKPFPIGSSVMIKNVDKNKKTDPNYEGPFSVYGYTKNGSYILQDKSNAFLSRDIPTSHIKLIS
+# EDGIPTEEKQNVYVVQSILNHSGEAPNHKYLVRWEGYDSSWDSWEPPSMFDGTEAIATYWARRNAGQPSSEGKKQKLPKTVNKRKVESRQEKSVRRKA
+# RIAAITSK]
+# end gene g28
+###
+#
+##FASTA
+>scf_106
+TGCTGGTGTAGAAAAAGCAGTTTCGTTGCCTTTCAATCCCTTAGGAAATTCAAATGCTGA
+GGCAGCAGTAAAGTCGGCAAAAGGGATCATTATTAAAATGTTAGAGGGAAGAGCAGAGAA
+TTGGGATTTATACTTGGATGGTACAGCATACTGTTTAAATTGCCATAAATCGAGATTACA
+TGGCATGATGCCATTTGTAGTAGTATTTGCTAGACTCCCAAATGAATTGAAAGATTATTC
+ACAAGTGAAAGCAGTGTTACCAGATCAAGAGATCGATGTAAAAACATTAAAGAAAAAGAT
+CAAACGTATTGATAAGATTCTTGTGCCTGCAATTAGAGAGCAAATTGTCAAAACAAAAGA
+AGCAGATAATGCTTATTTTAGAAAAAGACATAAAATATTAGAGAAACCATTTCCAATTGG
+ATCTTCAGTTATGATAAAAAATGTAGACAAAAACAAGAAAACTGATCCAAATTACGAAGG
+ACCATTTAGCGTGTATGGATATACAAAAAATGGGAGTTATATCCTGCAAGACAAATCAAA
+TGCATTTTTATCAAGAGATATACCTACGTCGCACATAAAATTAATTAGTGAAGATGGTAT
+ACCCACAGAGGAAAAACAAAATGTTTATGTTGTGCAATCGATCCTTAATCACTCAGGTGA
+AGCCCCTAATCACAAATATTTGGTAAGATGGGAAGGTTATGATTCCAGTTGGGATTCTTG
+GGAACCACCATCAATGTTTGATGGCACCGAAGCCATAGCAACATATTGGGCTAGACGAAA
+TGCAGGACAACCTAGTAGCGAAGGTAAAAAGCAAAAGTTACCTAAAACAGTAAACAAGCG
+AAAAGTTGAATCTAGACAAGAAAAGTCTGTTCGACGAAAGGCGCGTATAGCTGCCATTAC
+AAGCAAAT

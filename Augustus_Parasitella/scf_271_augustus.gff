@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 137 (length = 669, name = scf_271) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 137 on both strands
+# start gene g101
+scf_271	AUGUSTUS	gene	1	505	0.66	-	.	g101
+scf_271	AUGUSTUS	transcript	1	505	0.66	-	.	g101.t1
+scf_271	AUGUSTUS	initial	14	505	0.66	-	0	transcript_id "g101.t1"; gene_id "g101";
+scf_271	AUGUSTUS	intron	1	13	0.89	-	.	transcript_id "g101.t1"; gene_id "g101";
+scf_271	AUGUSTUS	CDS	14	505	0.66	-	0	transcript_id "g101.t1"; gene_id "g101";
+scf_271	AUGUSTUS	start_codon	503	505	.	-	0	transcript_id "g101.t1"; gene_id "g101";
+# coding sequence = [atgtacctccaaggtgatgcatcagtttacggaatagccgcctgcttatatcaaaaagatacgcttgggcgcataaagc
+# atattgggtttgttagcaaatcactcaatcctgcagaacgtaactggtcaaccaatcgaagagaatgtgcggctattgtatttgggtttgtgaaattc
+# aaatcattgctgtggggccattctaacatcgaagtactgacagaccatttggctctgacttttatgttcacttcaactggtttgaatagcactttaca
+# aagctatttggaaattcttggagagttcaactttacagtatcgcatgtcaaaggcattgataatgttctgtgtgattccttgtctcgtctctatcctc
+# caatcgatgaagataaactcttggaagatgaaaacgatagacaaatcaaaaagttacaaaagctcattttaatcaaacgagccacaaacaaagaaaag
+# caactcttaaaagaaactaca]
+# protein sequence = [MYLQGDASVYGIAACLYQKDTLGRIKHIGFVSKSLNPAERNWSTNRRECAAIVFGFVKFKSLLWGHSNIEVLTDHLAL
+# TFMFTSTGLNSTLQSYLEILGEFNFTVSHVKGIDNVLCDSLSRLYPPIDEDKLLEDENDRQIKKLQKLILIKRATNKEKQLLKETT]
+# end gene g101
+###
+#
+##FASTA
+>scf_271
+CCTTGGAATATACTGTAGTTTCTTTTAAGAGTTGCTTTTCTTTGTTTGTGGCTCGTTTGA
+TTAAAATGAGCTTTTGTAACTTTTTGATTTGTCTATCGTTTTCATCTTCCAAGAGTTTAT
+CTTCATCGATTGGAGGATAGAGACGAGACAAGGAATCACACAGAACATTATCAATGCCTT
+TGACATGCGATACTGTAAAGTTGAACTCTCCAAGAATTTCCAAATAGCTTTGTAAAGTGC
+TATTCAAACCAGTTGAAGTGAACATAAAAGTCAGAGCCAAATGGTCTGTCAGTACTTCGA
+TGTTAGAATGGCCCCACAGCAATGATTTGAATTTCACAAACCCAAATACAATAGCCGCAC
+ATTCTCTTCGATTGGTTGACCAGTTACGTTCTGCAGGATTGAGTGATTTGCTAACAAACC
+CAATATGCTTTATGCGCCCAAGCGTATCTTTTTGATATAAGCAGGCGGCTATTCCGTAAA
+CTGATGCATCACCTTGGAGGTACATCTTTTCATTTAAATTTGGAGCATGCAATATTTGAT
+TTGACAATAGAATTTCTTTAATCGCATTGAAGCGTGCTGTATGCAAATCAGACCAATTGT
+TTAGAACATCACGATCATTTCGCAAACGATCAATCGGTTCAGCGACTTTTGAAAGCATTG
+GTGCATAAT

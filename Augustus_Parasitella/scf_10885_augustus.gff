@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 5189 (length = 551, name = scf_10885) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5189 on both strands
+# start gene g4030
+scf_10885	AUGUSTUS	gene	110	523	0.87	-	.	g4030
+scf_10885	AUGUSTUS	transcript	110	523	0.87	-	.	g4030.t1
+scf_10885	AUGUSTUS	stop_codon	110	112	.	-	0	transcript_id "g4030.t1"; gene_id "g4030";
+scf_10885	AUGUSTUS	terminal	110	411	0.87	-	2	transcript_id "g4030.t1"; gene_id "g4030";
+scf_10885	AUGUSTUS	initial	484	523	0.92	-	0	transcript_id "g4030.t1"; gene_id "g4030";
+scf_10885	AUGUSTUS	intron	412	483	0.91	-	.	transcript_id "g4030.t1"; gene_id "g4030";
+scf_10885	AUGUSTUS	CDS	113	411	0.87	-	2	transcript_id "g4030.t1"; gene_id "g4030";
+scf_10885	AUGUSTUS	CDS	484	523	0.92	-	0	transcript_id "g4030.t1"; gene_id "g4030";
+scf_10885	AUGUSTUS	start_codon	521	523	.	-	0	transcript_id "g4030.t1"; gene_id "g4030";
+# coding sequence = [atgtgctcaagaagtgcatttcagccaaaatcacaggcagcgcttttgcggatcgtaggaaagaatgataacgtgtatc
+# atcgtgaacaggcgccctctgtatttcgtcgtgacaaatccatcattgaaaagagcaatggctacgtcatttttactctggaagttgttgttgttctt
+# gaatgccttgtattcttcgccgtcaaaaaaatcgccaatgacattcggctctgtgttctctctgttatcgtattcatgcctgtatttcagctctgcac
+# gagtatctggattcgccagcaaacgcgagacaatattgcccagcgacattatcttcaccgttactaa]
+# protein sequence = [MCSRSAFQPKSQAALLRIVGKNDNVYHREQAPSVFRRDKSIIEKSNGYVIFTLEVVVVLECLVFFAVKKIANDIRLCV
+# LSVIVFMPVFQLCTSIWIRQQTRDNIAQRHYLHRY]
+# end gene g4030
+###
+#
+##FASTA
+>scf_10885
+ATACGATGTATGTGTGAATGGATGCAAACTATAAAATTTGGAGGATCAGGAAACAAGCTG
+CATGTACTGCAATAGCCACAGGTTTCAGGTTGACAACTCTGTTAAGTCGTTAGTAACGGT
+GAAGATAATGTCGCTGGGCAATATTGTCTCGCGTTTGCTGGCGAATCCAGATACTCGTGC
+AGAGCTGAAATACAGGCATGAATACGATAACAGAGAGAACACAGAGCCGAATGTCATTGG
+CGATTTTTTTGACGGCGAAGAATACAAGGCATTCAAGAACAACAACAACTTCCAGAGTAA
+AAATGACGTAGCCATTGCTCTTTTCAATGATGGATTTGTCACGACGAAATACAGAGGGCG
+CCTGTTCACGATGATACACGTTATCATTCTTTCCTACGATCCGCAAAAGCGCTACAAGGA
+CGAATGTTTAATTCCGCTATGCATCTTACCTGGAAAAAGAAGCCTGTGTCGTTTGCATCT
+TACCTGCCTGTGATTTTGGCTGAAATGCACTTCTTGAGCACATATGTCATGGTGGTAAAG
+ACGCCTGACAA

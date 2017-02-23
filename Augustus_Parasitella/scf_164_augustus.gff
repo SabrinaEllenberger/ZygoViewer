@@ -1,0 +1,39 @@
+# ----- prediction on sequence number 74 (length = 641, name = scf_164) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 74 on both strands
+# start gene g38
+scf_164	AUGUSTUS	gene	90	625	0.43	+	.	g38
+scf_164	AUGUSTUS	transcript	90	625	0.43	+	.	g38.t1
+scf_164	AUGUSTUS	start_codon	90	92	.	+	0	transcript_id "g38.t1"; gene_id "g38";
+scf_164	AUGUSTUS	initial	90	554	0.43	+	0	transcript_id "g38.t1"; gene_id "g38";
+scf_164	AUGUSTUS	terminal	602	625	0.92	+	0	transcript_id "g38.t1"; gene_id "g38";
+scf_164	AUGUSTUS	intron	555	601	0.92	+	.	transcript_id "g38.t1"; gene_id "g38";
+scf_164	AUGUSTUS	CDS	90	554	0.43	+	0	transcript_id "g38.t1"; gene_id "g38";
+scf_164	AUGUSTUS	CDS	602	622	0.92	+	0	transcript_id "g38.t1"; gene_id "g38";
+scf_164	AUGUSTUS	stop_codon	623	625	.	+	0	transcript_id "g38.t1"; gene_id "g38";
+# coding sequence = [atgtatactaacttgaactctactcaacatagcaaatacgccagcagtgctagtaccagtaactccgttatacaacgca
+# cggagggccaaagtattgctgatatgccaaacaataatattgatgctgataacactaccactatgaccattaacattgctactaaccctactaacttg
+# acacctttagccacgcaaaaaccatcatatgctgaccaggcacgtaagcagcctgctgttaaaaataaatatgcacctggtcaatatcgatcacatca
+# acccactaccgccaacttggagcttgcctccaagatattcaattcaacacagcagcctcctacagctgaatacaaatacctgtatttccccagtaaca
+# aacgcttgaaacccagtgtgattcgctctagattgacactcctaggagtagataatgttcgaatcctagatgcccattgtcctgactggaatcaagtt
+# tgcagcagcgcaagttaa]
+# protein sequence = [MYTNLNSTQHSKYASSASTSNSVIQRTEGQSIADMPNNNIDADNTTTMTINIATNPTNLTPLATQKPSYADQARKQPA
+# VKNKYAPGQYRSHQPTTANLELASKIFNSTQQPPTAEYKYLYFPSNKRLKPSVIRSRLTLLGVDNVRILDAHCPDWNQVCSSAS]
+# end gene g38
+###
+#
+##FASTA
+>scf_164
+AAAAAAAAGAAATTGAAAAGCTCAAAAAAATTATAAAAGAACAAAAAACAGAAAAAAATA
+CTACTGCAACTACTATGAAGAATGATGTTATGTATACTAACTTGAACTCTACTCAACATA
+GCAAATACGCCAGCAGTGCTAGTACCAGTAACTCCGTTATACAACGCACGGAGGGCCAAA
+GTATTGCTGATATGCCAAACAATAATATTGATGCTGATAACACTACCACTATGACCATTA
+ACATTGCTACTAACCCTACTAACTTGACACCTTTAGCCACGCAAAAACCATCATATGCTG
+ACCAGGCACGTAAGCAGCCTGCTGTTAAAAATAAATATGCACCTGGTCAATATCGATCAC
+ATCAACCCACTACCGCCAACTTGGAGCTTGCCTCCAAGATATTCAATTCAACACAGCAGC
+CTCCTACAGCTGAATACAAATACCTGTATTTCCCCAGTAACAAACGCTTGAAACCCAGTG
+TGATTCGCTCTAGATTGACACTCCTAGGAGTAGATAATGTTCGAATCCTAGATGCCCATT
+GTCCTGACTGGAATGTAATTGGATTGCTTATCCACACCAACTATGAATCTGAACTTCTTA
+GCAAGTTTGCAGCAGCGCAAGTTAATCCAATTTTATATGAC

@@ -1,0 +1,38 @@
+# ----- prediction on sequence number 475 (length = 689, name = scf_829) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 475 on both strands
+# start gene g439
+scf_829	AUGUSTUS	gene	1	689	0.41	+	.	g439
+scf_829	AUGUSTUS	transcript	1	689	0.41	+	.	g439.t1
+scf_829	AUGUSTUS	internal	63	689	0.41	+	0	transcript_id "g439.t1"; gene_id "g439";
+scf_829	AUGUSTUS	intron	1	62	0.47	+	.	transcript_id "g439.t1"; gene_id "g439";
+scf_829	AUGUSTUS	CDS	63	689	0.41	+	0	transcript_id "g439.t1"; gene_id "g439";
+# coding sequence = [ggccctaatcatgccgtatcaacagcatgcacaacaggtgcccatgctattggcgatgctatgcggtttattcaatatg
+# gagatgctgatgttatgattgctggtggaagcgaggcctcagtacacccattagcaattgctggttttgcacgggccaaatcattagcaacacaatac
+# gaggacaaccctactgaagcatcacgaccttttgacaaggatagatccggatttgtcatgggggaaggggcaggaattgttgtattagaggagtatga
+# acatgcaaggaagagaggtgccaaaatatatgcggaattgaagggatatggactttctggagatgcccatcatatgacatctcctccagaaaacgggc
+# aaggtgctattcgatccatgcgacgagcgttacaggtagcaggactttcacctgcggatatagattatgtgaatgcgcatgccacaagtacacctgca
+# ggcgatgtggcagaaaatagggctatcaagactgtatttgatggccattgggacagcataaacgtatcttctaccaagggcgcaacaggccatttatt
+# aggcgcagctggagcagtagaagctatcttttcaattttgtctgtgcatacaaatgtg]
+# protein sequence = [GPNHAVSTACTTGAHAIGDAMRFIQYGDADVMIAGGSEASVHPLAIAGFARAKSLATQYEDNPTEASRPFDKDRSGFV
+# MGEGAGIVVLEEYEHARKRGAKIYAELKGYGLSGDAHHMTSPPENGQGAIRSMRRALQVAGLSPADIDYVNAHATSTPAGDVAENRAIKTVFDGHWDS
+# INVSSTKGATGHLLGAAGAVEAIFSILSVHTNV]
+# end gene g439
+###
+#
+##FASTA
+>scf_829
+CAGGTAAGCTGCTCTTCATGTTATTAGTTTGCGACAACAAGAAACTTATAGCATTCGCTC
+AGGGCCCTAATCATGCCGTATCAACAGCATGCACAACAGGTGCCCATGCTATTGGCGATG
+CTATGCGGTTTATTCAATATGGAGATGCTGATGTTATGATTGCTGGTGGAAGCGAGGCCT
+CAGTACACCCATTAGCAATTGCTGGTTTTGCACGGGCCAAATCATTAGCAACACAATACG
+AGGACAACCCTACTGAAGCATCACGACCTTTTGACAAGGATAGATCCGGATTTGTCATGG
+GGGAAGGGGCAGGAATTGTTGTATTAGAGGAGTATGAACATGCAAGGAAGAGAGGTGCCA
+AAATATATGCGGAATTGAAGGGATATGGACTTTCTGGAGATGCCCATCATATGACATCTC
+CTCCAGAAAACGGGCAAGGTGCTATTCGATCCATGCGACGAGCGTTACAGGTAGCAGGAC
+TTTCACCTGCGGATATAGATTATGTGAATGCGCATGCCACAAGTACACCTGCAGGCGATG
+TGGCAGAAAATAGGGCTATCAAGACTGTATTTGATGGCCATTGGGACAGCATAAACGTAT
+CTTCTACCAAGGGCGCAACAGGCCATTTATTAGGCGCAGCTGGAGCAGTAGAAGCTATCT
+TTTCAATTTTGTCTGTGCATACAAATGTG

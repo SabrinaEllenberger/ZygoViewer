@@ -1,0 +1,55 @@
+# ----- prediction on sequence number 5617 (length = 959, name = scf_12084) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 5617 on both strands
+# start gene g4181
+scf_12084	AUGUSTUS	gene	1	478	0.36	+	.	g4181
+scf_12084	AUGUSTUS	transcript	1	478	0.36	+	.	g4181.t1
+scf_12084	AUGUSTUS	internal	1	91	0.36	+	0	transcript_id "g4181.t1"; gene_id "g4181";
+scf_12084	AUGUSTUS	terminal	147	478	0.99	+	2	transcript_id "g4181.t1"; gene_id "g4181";
+scf_12084	AUGUSTUS	intron	92	146	0.94	+	.	transcript_id "g4181.t1"; gene_id "g4181";
+scf_12084	AUGUSTUS	CDS	1	91	0.36	+	0	transcript_id "g4181.t1"; gene_id "g4181";
+scf_12084	AUGUSTUS	CDS	147	475	0.99	+	2	transcript_id "g4181.t1"; gene_id "g4181";
+scf_12084	AUGUSTUS	stop_codon	476	478	.	+	0	transcript_id "g4181.t1"; gene_id "g4181";
+# coding sequence = [gtcggtgtcattgctgctaatattcttacggctattttgatttcttgcagagccatgggaggattatctgctgatttgt
+# actcttttgaatgggttattacgagctatttgctgattaaacagtttgcagtcaagagtaagacgagcactagctcaagcgacgacgatgatgacgaa
+# gaggtaccggaagagacacaatacaaaagatcaatgtcatcacaaagcagctttgacatggctgatacagctaatgccaacaacaacggcggcagcaa
+# caaaattgtccaaagccagtatgatgtcgaccttgaaaaggttgatagcccttcaagccgattctcagatggtgttatctctaacgttactactgtca
+# atcaaagctattcatccacgctcaagcacactgggccatctggacagtag]
+# protein sequence = [VGVIAANILTAILISCRAMGGLSADLYSFEWVITSYLLIKQFAVKSKTSTSSSDDDDDEEVPEETQYKRSMSSQSSFD
+# MADTANANNNGGSNKIVQSQYDVDLEKVDSPSSRFSDGVISNVTTVNQSYSSTLKHTGPSGQ]
+# end gene g4181
+###
+# start gene g4182
+scf_12084	AUGUSTUS	gene	715	959	0.63	+	.	g4182
+scf_12084	AUGUSTUS	transcript	715	959	0.63	+	.	g4182.t1
+scf_12084	AUGUSTUS	start_codon	715	717	.	+	0	transcript_id "g4182.t1"; gene_id "g4182";
+scf_12084	AUGUSTUS	initial	715	959	0.63	+	0	transcript_id "g4182.t1"; gene_id "g4182";
+scf_12084	AUGUSTUS	CDS	715	959	0.63	+	0	transcript_id "g4182.t1"; gene_id "g4182";
+# coding sequence = [atgcttgcaaaaaaattagtggaggcaccacaaacagagcaacaaaagccagcagatgatggcaagagacagagagaag
+# aagattccgcagctgatcaggaactgccggctgagaaaagacaagattctgaaagcacacctgtatcaaaacctcgacctgaacaacgcaaaccacag
+# tacgaactgaaatattcccttgtaggccatcgtatgtctgtatcaagtgttaaattctcgcctgacgg]
+# protein sequence = [MLAKKLVEAPQTEQQKPADDGKRQREEDSAADQELPAEKRQDSESTPVSKPRPEQRKPQYELKYSLVGHRMSVSSVKF
+# SPD]
+# end gene g4182
+###
+#
+##FASTA
+>scf_12084
+GTCGGTGTCATTGCTGCTAATATTCTTACGGCTATTTTGATTTCTTGCAGAGCCATGGGA
+GGATTATCTGCTGATTTGTACTCTTTTGAATGTATGTAGCCCAGCAAGATATATAAATTT
+ATGACAACTAAATGGCGTTTTTCTAGGGGTTATTACGAGCTATTTGCTGATTAAACAGTT
+TGCAGTCAAGAGTAAGACGAGCACTAGCTCAAGCGACGACGATGATGACGAAGAGGTACC
+GGAAGAGACACAATACAAAAGATCAATGTCATCACAAAGCAGCTTTGACATGGCTGATAC
+AGCTAATGCCAACAACAACGGCGGCAGCAACAAAATTGTCCAAAGCCAGTATGATGTCGA
+CCTTGAAAAGGTTGATAGCCCTTCAAGCCGATTCTCAGATGGTGTTATCTCTAACGTTAC
+TACTGTCAATCAAAGCTATTCATCCACGCTCAAGCACACTGGGCCATCTGGACAGTAGTT
+CCGATCACGGTCACCTACCATTTTAATGTTATTTTTTTTTTTTTTCCATTGACATTTGAG
+TCTCTTTTCTTAATCAAAAACACGTTAATATAACCAATCAAGAAAAGATCAATTCTTTTA
+CTTTATCCTTTAATAAATTTTATTCATACTACTCGATTTGATTGAATCAAGTTTGCTAAT
+CACAGTAAGTTTTATTCGGTTCCTCCATGATGATTGACCAGAAAAAAATTTTTAATGCTT
+GCAAAAAAATTAGTGGAGGCACCACAAACAGAGCAACAAAAGCCAGCAGATGATGGCAAG
+AGACAGAGAGAAGAAGATTCCGCAGCTGATCAGGAACTGCCGGCTGAGAAAAGACAAGAT
+TCTGAAAGCACACCTGTATCAAAACCTCGACCTGAACAACGCAAACCACAGTACGAACTG
+AAATATTCCCTTGTAGGCCATCGTATGTCTGTATCAAGTGTTAAATTCTCGCCTGACGG

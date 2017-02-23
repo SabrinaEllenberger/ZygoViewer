@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 613 (length = 517, name = scf_1040) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 613 on both strands
+# start gene g701
+scf_1040	AUGUSTUS	gene	1	517	0.53	-	.	g701
+scf_1040	AUGUSTUS	transcript	1	517	0.53	-	.	g701.t1
+scf_1040	AUGUSTUS	internal	11	417	0.59	-	2	transcript_id "g701.t1"; gene_id "g701";
+scf_1040	AUGUSTUS	intron	1	10	0.72	-	.	transcript_id "g701.t1"; gene_id "g701";
+scf_1040	AUGUSTUS	intron	418	517	0.74	-	.	transcript_id "g701.t1"; gene_id "g701";
+scf_1040	AUGUSTUS	CDS	11	417	0.59	-	2	transcript_id "g701.t1"; gene_id "g701";
+# coding sequence = [ggaaggcaccctcaagcacagggcctcagaaagaaccctgtcgtcccgctgccgtgtctacagacaatggtcaacatcc
+# taaccctcctgccattcctgtagtcaagtctgctcaggctgcttcgccaactgctcctttttcacgagcaatagccatgccaccagcctctgtcgctg
+# cgtctggtaccttagcttcaacaatgtctgatacttcagagctccccgctgtgtcgggtgctttagctccatccacagcactgcctgtacctgatgtc
+# cctgttgcatctgctgtatcagcctcgccagtatccaactcctcgactcctgtgcaggttgagcctactcataacaccaggccgaagacacctccttc
+# ctcttcggccacttcctctacttctgctgttcct]
+# protein sequence = [KAPSSTGPQKEPCRPAAVSTDNGQHPNPPAIPVVKSAQAASPTAPFSRAIAMPPASVAASGTLASTMSDTSELPAVSG
+# ALAPSTALPVPDVPVASAVSASPVSNSSTPVQVEPTHNTRPKTPPSSSATSSTSAVP]
+# end gene g701
+###
+#
+##FASTA
+>scf_1040
+GTTTGCACACAGGAACAGCAGAAGTAGAGGAAGTGGCCGAAGAGGAAGGAGGTGTCTTCG
+GCCTGGTGTTATGAGTAGGCTCAACCTGCACAGGAGTCGAGGAGTTGGATACTGGCGAGG
+CTGATACAGCAGATGCAACAGGGACATCAGGTACAGGCAGTGCTGTGGATGGAGCTAAAG
+CACCCGACACAGCGGGGAGCTCTGAAGTATCAGACATTGTTGAAGCTAAGGTACCAGACG
+CAGCGACAGAGGCTGGTGGCATGGCTATTGCTCGTGAAAAAGGAGCAGTTGGCGAAGCAG
+CCTGAGCAGACTTGACTACAGGAATGGCAGGAGGGTTAGGATGTTGACCATTGTCTGTAG
+ACACGGCAGCGGGACGACAGGGTTCTTTCTGAGGCCCTGTGCTTGAGGGTGCCTTCCCTG
+AAGAAACTTTGCGTTATTTCCCTGCATTCTCCAAATAATCGTTGCGGCGGGGACATTGTT
+TGCGATAGTGACCTGGCTCACCACACAAACGACAAGT

@@ -1,0 +1,31 @@
+# ----- prediction on sequence number 3901 (length = 513, name = scf_7867) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 3901 on both strands
+# start gene g3436
+scf_7867	AUGUSTUS	gene	1	513	0.82	+	.	g3436
+scf_7867	AUGUSTUS	transcript	1	513	0.82	+	.	g3436.t1
+scf_7867	AUGUSTUS	internal	148	513	0.82	+	2	transcript_id "g3436.t1"; gene_id "g3436";
+scf_7867	AUGUSTUS	intron	1	147	0.94	+	.	transcript_id "g3436.t1"; gene_id "g3436";
+scf_7867	AUGUSTUS	CDS	148	513	0.82	+	2	transcript_id "g3436.t1"; gene_id "g3436";
+# coding sequence = [attttgaaaattttctcaaaaaattgaataacacatcctctacttttcttgacccaagccctatcattgcctccatcga
+# gaaaatttcttcatctactactatcgcttctgatactacttctggtctgaaacgacccgtagtcacactatcttctcctctgtttgccttggatatct
+# ctcagcaagtcaaatctaagagtccctctctctcgaacccagaaactctacctgcctcctcagctctcacctttgacccttcaccggatatgtttgac
+# tttggatttactcaaccgccgtctgcctcatctgagggcgatttgaacattgcttcctttgtaatggaggttcgcaatcgtttgagtcgtc]
+# protein sequence = [FENFLKKLNNTSSTFLDPSPIIASIEKISSSTTIASDTTSGLKRPVVTLSSPLFALDISQQVKSKSPSLSNPETLPAS
+# SALTFDPSPDMFDFGFTQPPSASSEGDLNIASFVMEVRNRLSR]
+# end gene g3436
+###
+#
+##FASTA
+>scf_7867
+TTCTCTTTTCTTTTTATTTTCTGGAATTCTAGGCTAATGCTCACATCGAGTGCCCATTGA
+GTTCATGTATATAATAAAAAATCAATGTTAAACTGAGCTAACAGGGCATCTTTCTTTCGT
+CTAAACAATTTTTTGTCTAAATTTTAGATTTTGAAAATTTTCTCAAAAAATTGAATAACA
+CATCCTCTACTTTTCTTGACCCAAGCCCTATCATTGCCTCCATCGAGAAAATTTCTTCAT
+CTACTACTATCGCTTCTGATACTACTTCTGGTCTGAAACGACCCGTAGTCACACTATCTT
+CTCCTCTGTTTGCCTTGGATATCTCTCAGCAAGTCAAATCTAAGAGTCCCTCTCTCTCGA
+ACCCAGAAACTCTACCTGCCTCCTCAGCTCTCACCTTTGACCCTTCACCGGATATGTTTG
+ACTTTGGATTTACTCAACCGCCGTCTGCCTCATCTGAGGGCGATTTGAACATTGCTTCCT
+TTGTAATGGAGGTTCGCAATCGTTTGAGTCGTC

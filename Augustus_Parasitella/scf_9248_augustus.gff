@@ -1,0 +1,35 @@
+# ----- prediction on sequence number 4461 (length = 606, name = scf_9248) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4461 on both strands
+# start gene g3600
+scf_9248	AUGUSTUS	gene	1	606	0.83	+	.	g3600
+scf_9248	AUGUSTUS	transcript	1	606	0.83	+	.	g3600.t1
+scf_9248	AUGUSTUS	internal	111	606	0.83	+	1	transcript_id "g3600.t1"; gene_id "g3600";
+scf_9248	AUGUSTUS	intron	1	110	0.83	+	.	transcript_id "g3600.t1"; gene_id "g3600";
+scf_9248	AUGUSTUS	CDS	111	606	0.83	+	1	transcript_id "g3600.t1"; gene_id "g3600";
+# coding sequence = [aagtgtggaactggtgcctcagcaggaacatcaacatacaagctcaacacatcagtggaatcaacaatacggtagcaga
+# catggaatcgaagaggacattcttcaagaaccagtggcaactaatcccgcccatatttcacgaaatcaaccatctctggggacctttctcaatcgacc
+# tctttgcagacaggacgacgaaactgttgccaaactacgtgtcatggctaccggatcccgacgctatccatactacgcatgcgttcaccattccatgg
+# accaattggagtcgaccatacgcaaatcccccttggaatctcatctcacgagtattacagaagattatccaagaagggattcagcaaatagctctggt
+# ggttccacattggctgaatgcaatctggttccctacgatccaacgtttagctctgctccccctaagcagtcaagaccacatctcccaacacgccacat
+# cccttactaccgcacaactggactc]
+# protein sequence = [SVELVPQQEHQHTSSTHQWNQQYGSRHGIEEDILQEPVATNPAHISRNQPSLGTFLNRPLCRQDDETVAKLRVMATGS
+# RRYPYYACVHHSMDQLESTIRKSPLESHLTSITEDYPRRDSANSSGGSTLAECNLVPYDPTFSSAPPKQSRPHLPTRHIPYYRTTGL]
+# end gene g3600
+###
+#
+##FASTA
+>scf_9248
+AATTCCGAAGAACACCACCATCCTGATCCGCACGGACAACACTACGAGCCTTTCCTACAT
+TAACAAACAAGGAGGAACTCGCTCTCTTCAATTAATGGAACTTGCCGCAGAAGTGTGGAA
+CTGGTGCCTCAGCAGGAACATCAACATACAAGCTCAACACATCAGTGGAATCAACAATAC
+GGTAGCAGACATGGAATCGAAGAGGACATTCTTCAAGAACCAGTGGCAACTAATCCCGCC
+CATATTTCACGAAATCAACCATCTCTGGGGACCTTTCTCAATCGACCTCTTTGCAGACAG
+GACGACGAAACTGTTGCCAAACTACGTGTCATGGCTACCGGATCCCGACGCTATCCATAC
+TACGCATGCGTTCACCATTCCATGGACCAATTGGAGTCGACCATACGCAAATCCCCCTTG
+GAATCTCATCTCACGAGTATTACAGAAGATTATCCAAGAAGGGATTCAGCAAATAGCTCT
+GGTGGTTCCACATTGGCTGAATGCAATCTGGTTCCCTACGATCCAACGTTTAGCTCTGCT
+CCCCCTAAGCAGTCAAGACCACATCTCCCAACACGCCACATCCCTTACTACCGCACAACT
+GGACTC

@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 12202 (length = 532, name = scf_32049) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 12202 on both strands
+# start gene g8137
+scf_32049	AUGUSTUS	gene	1	491	0.44	-	.	g8137
+scf_32049	AUGUSTUS	transcript	1	491	0.44	-	.	g8137.t1
+scf_32049	AUGUSTUS	internal	22	409	0.44	-	1	transcript_id "g8137.t1"; gene_id "g8137";
+scf_32049	AUGUSTUS	initial	466	491	0.65	-	0	transcript_id "g8137.t1"; gene_id "g8137";
+scf_32049	AUGUSTUS	intron	1	21	0.86	-	.	transcript_id "g8137.t1"; gene_id "g8137";
+scf_32049	AUGUSTUS	intron	410	465	0.56	-	.	transcript_id "g8137.t1"; gene_id "g8137";
+scf_32049	AUGUSTUS	CDS	22	409	0.44	-	1	transcript_id "g8137.t1"; gene_id "g8137";
+scf_32049	AUGUSTUS	CDS	466	491	0.65	-	0	transcript_id "g8137.t1"; gene_id "g8137";
+scf_32049	AUGUSTUS	start_codon	489	491	.	-	0	transcript_id "g8137.t1"; gene_id "g8137";
+# coding sequence = [atgatttgcattgtgacgcctcggataacattaaacagtgcagagagtaactactctactacagaaaaagagtgtctcg
+# cggtggtttggtccttgaagcaatttcacccttatctttatggcagcaagtttacggtgtatacggatcacgcagccctgaaaagcatcttaggaaca
+# aagctacctcgtggaagactagctcgttggattatggatctacaggaataccagccctatgaagtggttcataagaagggtattcttaatagcgatgc
+# tgatgctttatcaagaatttcagcggtcaacaatgctcaagaagctttacaggaaatcagtcaagaaacgtttctggacttacaaaaggctgatccgg
+# cgattaaggtgattctcaaagaaggtgtcaagctaccctat]
+# protein sequence = [MICIVTPRITLNSAESNYSTTEKECLAVVWSLKQFHPYLYGSKFTVYTDHAALKSILGTKLPRGRLARWIMDLQEYQP
+# YEVVHKKGILNSDADALSRISAVNNAQEALQEISQETFLDLQKADPAIKVILKEGVKLPY]
+# end gene g8137
+###
+#
+##FASTA
+>scf_32049
+TACCAGGTCGTTCTTCCATACATAGGGTAGCTTGACACCTTCTTTGAGAATCACCTTAAT
+CGCCGGATCAGCCTTTTGTAAGTCCAGAAACGTTTCTTGACTGATTTCCTGTAAAGCTTC
+TTGAGCATTGTTGACCGCTGAAATTCTTGATAAAGCATCAGCATCGCTATTAAGAATACC
+CTTCTTATGAACCACTTCATAGGGCTGGTATTCCTGTAGATCCATAATCCAACGAGCTAG
+TCTTCCACGAGGTAGCTTTGTTCCTAAGATGCTTTTCAGGGCTGCGTGATCCGTATACAC
+CGTAAACTTGCTGCCATAAAGATAAGGGTGAAATTGCTTCAAGGACCAAACCACCGCGAG
+ACACTCTTTTTCTGTAGTAGAGTAGTTACTCTCTGCACTGTTTAATGTTCTACTCGCGTA
+TGCAACCGGTCTTCCTTGTTGTACCACACACGCACCTAAACCTACATCCGAGGCGTCACA
+ATGCAAATCATAAGGCAAATGTGGATTCGGATATGCCAAAGTAGGTAAAGAG

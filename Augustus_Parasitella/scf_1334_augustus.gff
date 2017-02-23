@@ -1,0 +1,41 @@
+# ----- prediction on sequence number 786 (length = 689, name = scf_1334) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 786 on both strands
+# start gene g937
+scf_1334	AUGUSTUS	gene	1	633	0.68	-	.	g937
+scf_1334	AUGUSTUS	transcript	1	633	0.68	-	.	g937.t1
+scf_1334	AUGUSTUS	internal	1	209	0.7	-	1	transcript_id "g937.t1"; gene_id "g937";
+scf_1334	AUGUSTUS	initial	266	633	0.82	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1334	AUGUSTUS	intron	210	265	0.7	-	.	transcript_id "g937.t1"; gene_id "g937";
+scf_1334	AUGUSTUS	CDS	1	209	0.7	-	1	transcript_id "g937.t1"; gene_id "g937";
+scf_1334	AUGUSTUS	CDS	266	633	0.82	-	0	transcript_id "g937.t1"; gene_id "g937";
+scf_1334	AUGUSTUS	start_codon	631	633	.	-	0	transcript_id "g937.t1"; gene_id "g937";
+# coding sequence = [atggcaccctctacccaccatcgcaaccctcttgtggatatgctcactatccacattaacaaccacaaccggattacct
+# accaccagcttcccttgttgatccctactgtgcgtagaatgtttaccaaaaaccttcaaactaatacaattgacatgctgtatcgctctgtggacttg
+# ctgccgcgagactatgaccttgcggccatcaaccacgccactggtctgtcactgcccttgcgcgccatcttgtacaccactgcctcttcaacatacaa
+# gtatcctgccaagttccaatccatggccgtcgctgatgtcttccaattgcaccctacgctccggttcttgcattggaaagacccagctgaccctcata
+# tccgtcttcaacccttctttctgcctctctgctctcctgctttagcctcttcaaccgtctcgcccgacatcagtttccgcccatttgctgacaacttc
+# cttgtagacatggatttacacaacccggcagctcgctgtagttccgaaacttttcgggaagcttgtcaatcttcacatacgccaccttcacagcttac
+# tgccattg]
+# protein sequence = [MAPSTHHRNPLVDMLTIHINNHNRITYHQLPLLIPTVRRMFTKNLQTNTIDMLYRSVDLLPRDYDLAAINHATGLSLP
+# LRAILYTTASSTYKYPAKFQSMAVADVFQLHPTLRFLHWKDPADPHIRLQPFFLPLCSPALASSTVSPDISFRPFADNFLVDMDLHNPAARCSSETFR
+# EACQSSHTPPSQLTAI]
+# end gene g937
+###
+#
+##FASTA
+>scf_1334
+CAATGGCAGTAAGCTGTGAAGGTGGCGTATGTGAAGATTGACAAGCTTCCCGAAAAGTTT
+CGGAACTACAGCGAGCTGCCGGGTTGTGTAAATCCATGTCTACAAGGAAGTTGTCAGCAA
+ATGGGCGGAAACTGATGTCGGGCGAGACGGTTGAAGAGGCTAAAGCAGGAGAGCAGAGAG
+GCAGAAAGAAGGGTTGAAGACGGATATGACTATGCTCATGCCTGCAATAAGCTGCCTGGG
+AGCACGCTTTCAAGGAACGAGAGACGGGTCAGCTGGGTCTTTCCAATGCAAGAACCGGAG
+CGTAGGGTGCAATTGGAAGACATCAGCGACGGCCATGGATTGGAACTTGGCAGGATACTT
+GTATGTTGAAGAGGCAGTGGTGTACAAGATGGCGCGCAAGGGCAGTGACAGACCAGTGGC
+GTGGTTGATGGCCGCAAGGTCATAGTCTCGCGGCAGCAAGTCCACAGAGCGATACAGCAT
+GTCAATTGTATTAGTTTGAAGGTTTTTGGTAAACATTCTACGCACAGTAGGGATCAACAA
+GGGAAGCTGGTGGTAGGTAATCCGGTTGTGGTTGTTAATGTGGATAGTGAGCATATCCAC
+AAGAGGGTTGCGATGGTGGGTAGAGGGTGCCATGGCAAGCAAAGGCTGAACCCAGCGAAA
+ATACAATGCAGCAGACTGTTGGTTGACAT

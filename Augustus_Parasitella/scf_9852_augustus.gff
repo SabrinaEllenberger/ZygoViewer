@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 4689 (length = 521, name = scf_9852) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4689 on both strands
+# start gene g3819
+scf_9852	AUGUSTUS	gene	1	454	0.81	+	.	g3819
+scf_9852	AUGUSTUS	transcript	1	454	0.81	+	.	g3819.t1
+scf_9852	AUGUSTUS	terminal	1	454	0.81	+	1	transcript_id "g3819.t1"; gene_id "g3819";
+scf_9852	AUGUSTUS	CDS	1	451	0.81	+	1	transcript_id "g3819.t1"; gene_id "g3819";
+scf_9852	AUGUSTUS	stop_codon	452	454	.	+	0	transcript_id "g3819.t1"; gene_id "g3819";
+# coding sequence = [tactcctgcgcctcttcttgatgttgccaccattaagaagcttatggaagacgtattcgacgaaaaactcaaggattct
+# cgtcacaatggccgaggatattataacagcaaaaaccaaaacagtaactataacggtaataacagcagcaattaccgtaatagcaacggcaatcgcgg
+# ttactacaatgggaacatccgaaataattatgctaaccaaggctacaacaacaataataaccattacaatcagagcggaaatggctacaatggtaata
+# aacgttttgacaacagtcgcccgcaaaatcaaggacgtgaaagtcgtaatcctacgtctgacaataataatcgcaccagaaacagtaaccaattcact
+# tactatgaagaggaacaagatatctcttacgaaaatgatcatcaaccttgcgatagcgaccgcaatcaatcaaaaaactag]
+# protein sequence = [TPAPLLDVATIKKLMEDVFDEKLKDSRHNGRGYYNSKNQNSNYNGNNSSNYRNSNGNRGYYNGNIRNNYANQGYNNNN
+# NHYNQSGNGYNGNKRFDNSRPQNQGRESRNPTSDNNNRTRNSNQFTYYEEEQDISYENDHQPCDSDRNQSKN]
+# end gene g3819
+###
+#
+##FASTA
+>scf_9852
+TACTCCTGCGCCTCTTCTTGATGTTGCCACCATTAAGAAGCTTATGGAAGACGTATTCGA
+CGAAAAACTCAAGGATTCTCGTCACAATGGCCGAGGATATTATAACAGCAAAAACCAAAA
+CAGTAACTATAACGGTAATAACAGCAGCAATTACCGTAATAGCAACGGCAATCGCGGTTA
+CTACAATGGGAACATCCGAAATAATTATGCTAACCAAGGCTACAACAACAATAATAACCA
+TTACAATCAGAGCGGAAATGGCTACAATGGTAATAAACGTTTTGACAACAGTCGCCCGCA
+AAATCAAGGACGTGAAAGTCGTAATCCTACGTCTGACAATAATAATCGCACCAGAAACAG
+TAACCAATTCACTTACTATGAAGAGGAACAAGATATCTCTTACGAAAATGATCATCAACC
+TTGCGATAGCGACCGCAATCAATCAAAAAACTAGAAAGGTCGTTTGATTTTGGGCAACCG
+ACCTCTTCATCTACAAACCCCAATTTATTGTTGCCAGCTGA

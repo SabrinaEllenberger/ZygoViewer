@@ -1,0 +1,55 @@
+# ----- prediction on sequence number 2325 (length = 1024, name = scf_4613) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2325 on both strands
+# start gene g2493
+scf_4613	AUGUSTUS	gene	1	1024	0.51	+	.	g2493
+scf_4613	AUGUSTUS	transcript	1	1024	0.51	+	.	g2493.t1
+scf_4613	AUGUSTUS	internal	1	367	0.51	+	1	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	internal	426	503	0.99	+	0	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	internal	572	661	1	+	0	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	internal	731	1024	1	+	0	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	intron	368	425	1	+	.	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	intron	504	571	0.99	+	.	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	intron	662	730	1	+	.	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	CDS	1	367	0.51	+	1	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	CDS	426	503	0.99	+	0	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	CDS	572	661	1	+	0	transcript_id "g2493.t1"; gene_id "g2493";
+scf_4613	AUGUSTUS	CDS	731	1024	1	+	0	transcript_id "g2493.t1"; gene_id "g2493";
+# coding sequence = [tttaaacatgtccaacttcgcctcctcttctcgcagttatgctcaagtcgctaaaacaccagcccctaagcctgctgac
+# tcttgcaagcgtcgtgcttcacctgttttggaggcctcacgtaaaagagttactcgttcacgctctttcgagcacatccacatctctgaatcctcaga
+# aaacgagtcagaaactgaggaattcccaccattgcctgctcctttgccagctcgtagtcacattcaggtcatggcccctcgtagaaggagaatcatca
+# agccagattcttccgaagaatcaagttctgatgtgtctagtgaatatttcagtgctgagagtgattttgagaggaattcgtggactacaaatgctcgc
+# catgctgattcttgtattggttataatgcaacttctgttatcatcgaaaggagcccttcgccagttgcaaacaccaatgccactttcgagactgagta
+# ttctagttctgccagtgcaccagttgattatcctgcccaaagaagctcattttctcctgacaaccatgattatgtacgaggtgcctctaacgcatctt
+# ccagtgacaacgcctcaatcttgtctacactgactgatactagtagagtaagtcgtacactcaatcgccgtgcgcgcgcaggcaacatacaggatatc
+# cacatgcatcaagccggcattcaaccttatattcagcctctctcccgcggtgcatctaatacccacgcatcaagcggcgcttctttctctcgtggtgc
+# atctgtttcgcctcccctctctacaaacagcattatcccatcgtctcactttgcaccgacaaac]
+# protein sequence = [LNMSNFASSSRSYAQVAKTPAPKPADSCKRRASPVLEASRKRVTRSRSFEHIHISESSENESETEEFPPLPAPLPARS
+# HIQVMAPRRRRIIKPDSSEESSSDVSSEYFSAESDFERNSWTTNARHADSCIGYNATSVIIERSPSPVANTNATFETEYSSSASAPVDYPAQRSSFSP
+# DNHDYVRGASNASSSDNASILSTLTDTSRVSRTLNRRARAGNIQDIHMHQAGIQPYIQPLSRGASNTHASSGASFSRGASVSPPLSTNSIIPSSHFAP
+# TN]
+# end gene g2493
+###
+#
+##FASTA
+>scf_4613
+TTTAAACATGTCCAACTTCGCCTCCTCTTCTCGCAGTTATGCTCAAGTCGCTAAAACACC
+AGCCCCTAAGCCTGCTGACTCTTGCAAGCGTCGTGCTTCACCTGTTTTGGAGGCCTCACG
+TAAAAGAGTTACTCGTTCACGCTCTTTCGAGCACATCCACATCTCTGAATCCTCAGAAAA
+CGAGTCAGAAACTGAGGAATTCCCACCATTGCCTGCTCCTTTGCCAGCTCGTAGTCACAT
+TCAGGTCATGGCCCCTCGTAGAAGGAGAATCATCAAGCCAGATTCTTCCGAAGAATCAAG
+TTCTGATGTGTCTAGTGAATATTTCAGTGCTGAGAGTGATTTTGAGAGGAATTCGTGGAC
+TACAAATGTGAGTGTTATGTATTCTATGTTTGTGGGCAAATACTGATACTACTTCTGTAT
+ATTAGGCTCGCCATGCTGATTCTTGTATTGGTTATAATGCAACTTCTGTTATCATCGAAA
+GGAGCCCTTCGCCAGTTGCAAACGTAAATGCTTATTTAACTTTGGTTGTTTATGCGGCGT
+GTTTTTACTAATATAGCTTGTTGAAACCTAGACCAATGCCACTTTCGAGACTGAGTATTC
+TAGTTCTGCCAGTGCACCAGTTGATTATCCTGCCCAAAGAAGCTCATTTTCTCCTGACAA
+CGTAAGCCCTATTCTATGTGTAGTTTGATGGTTTCCCATTATTTTAAATCTTCATCACGC
+TTTCAATTAGCATGATTATGTACGAGGTGCCTCTAACGCATCTTCCAGTGACAACGCCTC
+AATCTTGTCTACACTGACTGATACTAGTAGAGTAAGTCGTACACTCAATCGCCGTGCGCG
+CGCAGGCAACATACAGGATATCCACATGCATCAAGCCGGCATTCAACCTTATATTCAGCC
+TCTCTCCCGCGGTGCATCTAATACCCACGCATCAAGCGGCGCTTCTTTCTCTCGTGGTGC
+ATCTGTTTCGCCTCCCCTCTCTACAAACAGCATTATCCCATCGTCTCACTTTGCACCGAC
+AAAC

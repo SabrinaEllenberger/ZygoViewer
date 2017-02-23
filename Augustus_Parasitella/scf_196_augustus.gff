@@ -1,0 +1,46 @@
+# ----- prediction on sequence number 99 (length = 931, name = scf_196) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 99 on both strands
+# start gene g46
+scf_196	AUGUSTUS	gene	21	821	0.18	-	.	g46
+scf_196	AUGUSTUS	transcript	21	821	0.18	-	.	g46.t1
+scf_196	AUGUSTUS	stop_codon	21	23	.	-	0	transcript_id "g46.t1"; gene_id "g46";
+scf_196	AUGUSTUS	terminal	21	547	0.18	-	2	transcript_id "g46.t1"; gene_id "g46";
+scf_196	AUGUSTUS	initial	701	821	0.39	-	0	transcript_id "g46.t1"; gene_id "g46";
+scf_196	AUGUSTUS	intron	548	700	0.39	-	.	transcript_id "g46.t1"; gene_id "g46";
+scf_196	AUGUSTUS	CDS	24	547	0.18	-	2	transcript_id "g46.t1"; gene_id "g46";
+scf_196	AUGUSTUS	CDS	701	821	0.39	-	0	transcript_id "g46.t1"; gene_id "g46";
+scf_196	AUGUSTUS	start_codon	819	821	.	-	0	transcript_id "g46.t1"; gene_id "g46";
+# coding sequence = [atgcatattcgagaaaaatgcgctttaacactgaagcaagcaacaaaatacactgcagaaagggattctccaagaactt
+# tacaacttcgctttgatatcatcacccaatggaaagcagcagcttcgtttggcattatcaacttttctaaggtcgagcccttgaagaaaagcgatgca
+# gccttgattgagaaagagtttggctcgcaaacaaataaaaagagaaaggccaatggccaagatgtgggtaaggcgaagaaacttgcaaaaggtagtac
+# cacagcctaccatattgttcgcttcatggaatcttgtatggacgtcttggataaaaacgataaaaagggtatgttcattgttttagataactgtagaa
+# tacatcactctgcctttgtagttgacgctataaacaagcgcggttataagcctttgttcatgcccccatattcgccattcttgaaccctattgaagag
+# tgttggtcaaaaatgaagaagcatatacgtagaaatcctcttgacaaagcagacactcttactccgcgtatcgcagaatctataagcaaagtcactat
+# agacgactgtaaaggatgggtcagacaagctgaaaccttttgggatagatgtctcaataaagaacttcgcttgaaataa]
+# protein sequence = [MHIREKCALTLKQATKYTAERDSPRTLQLRFDIITQWKAAASFGIINFSKVEPLKKSDAALIEKEFGSQTNKKRKANG
+# QDVGKAKKLAKGSTTAYHIVRFMESCMDVLDKNDKKGMFIVLDNCRIHHSAFVVDAINKRGYKPLFMPPYSPFLNPIEECWSKMKKHIRRNPLDKADT
+# LTPRIAESISKVTIDDCKGWVRQAETFWDRCLNKELRLK]
+# end gene g46
+###
+#
+##FASTA
+>scf_196
+TATTATATAGTGTTATAGCTTTATTTCAAGCGAAGTTCTTTATTGAGACATCTATCCCAA
+AAGGTTTCAGCTTGTCTGACCCATCCTTTACAGTCGTCTATAGTGACTTTGCTTATAGAT
+TCTGCGATACGCGGAGTAAGAGTGTCTGCTTTGTCAAGAGGATTTCTACGTATATGCTTC
+TTCATTTTTGACCAACACTCTTCAATAGGGTTCAAGAATGGCGAATATGGGGGCATGAAC
+AAAGGCTTATAACCGCGCTTGTTTATAGCGTCAACTACAAAGGCAGAGTGATGTATTCTA
+CAGTTATCTAAAACAATGAACATACCCTTTTTATCGTTTTTATCCAAGACGTCCATACAA
+GATTCCATGAAGCGAACAATATGGTAGGCTGTGGTACTACCTTTTGCAAGTTTCTTCGCC
+TTACCCACATCTTGGCCATTGGCCTTTCTCTTTTTATTTGTTTGCGAGCCAAACTCTTTC
+TCAATCAAGGCTGCATCGCTTTTCTTCAAGGGCTCGACCTTAGAAAAGTTGATAATGCCA
+AACGAAGCTATTCAACCAACAATGCTTATGTTTACACCTTTTTGGGTGTGCACTTTCACC
+ACTGCTGGATCGCCTTTTTTAGACCATGCGCGCCCTCTAATCATTTGAGTGTGGAATCCT
+GCTTCGTCAACAAAAACGCAGTTTTTTTGAAAATCCACACCTGCTGCTTTCCATTGGGTG
+ATGATATCAAAGCGAAGTTGTAAAGTTCTTGGAGAATCCCTTTCTGCAGTGTATTTTGTT
+GCTTGCTTCAGTGTTAAAGCGCATTTTTCTCGAATATGCATATATAGTCCAGTTATAGAT
+ATTTCGAGGCCTGGAAATGCCTCACAAAGTTTGATTTTTGCTTCTTCGAGTACGATTGAA
+GGGTTCTGGTCGAAAAGGGCAATCAAGAAGG

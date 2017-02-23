@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 6806 (length = 570, name = scf_14762) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 6806 on both strands
+# start gene g4641
+scf_14762	AUGUSTUS	gene	1	570	0.6	+	.	g4641
+scf_14762	AUGUSTUS	transcript	1	570	0.6	+	.	g4641.t1
+scf_14762	AUGUSTUS	internal	1	141	0.98	+	1	transcript_id "g4641.t1"; gene_id "g4641";
+scf_14762	AUGUSTUS	internal	208	570	0.61	+	1	transcript_id "g4641.t1"; gene_id "g4641";
+scf_14762	AUGUSTUS	intron	142	207	0.61	+	.	transcript_id "g4641.t1"; gene_id "g4641";
+scf_14762	AUGUSTUS	CDS	1	141	0.98	+	1	transcript_id "g4641.t1"; gene_id "g4641";
+scf_14762	AUGUSTUS	CDS	208	570	0.61	+	1	transcript_id "g4641.t1"; gene_id "g4641";
+# coding sequence = [caacgaccaaaatatcaccgtagactcacttgatgacatgttggcattgagtcttaagaaactgaagcaaactaaacga
+# ggcactcgacgacaaaagtttaagatcggacgctcccttctcaaggatactctcatctacaatctctgcgaatctgttcaggaagtaagggaacatat
+# ctcccgccaaaacacccctgagccaggaacaccgccgccagcaggagatgaaattcatgttgaagctgctgttaacatctctagccaaggtcagcaag
+# cactggttctgaatacatctgatcaagaccaagggtcaagttccagtgacacggcgcaagttgtcgccttagacacggctgatcaagaccaaaaatca
+# ggctccaaagatacggatgaggatgccaataacaatgactggtggtttgacgacttcttcaatgatcaagatgacgaagacgatgaagacgataaaga
+# caaagacttgaatactcatctagatgcagaaaa]
+# protein sequence = [NDQNITVDSLDDMLALSLKKLKQTKRGTRRQKFKIGRSLLKDTLIYNLCESVQEVREHISRQNTPEPGTPPPAGDEIH
+# VEAAVNISSQGQQALVLNTSDQDQGSSSSDTAQVVALDTADQDQKSGSKDTDEDANNNDWWFDDFFNDQDDEDDEDDKDKDLNTHLDAE]
+# end gene g4641
+###
+#
+##FASTA
+>scf_14762
+CAACGACCAAAATATCACCGTAGACTCACTTGATGACATGTTGGCATTGAGTCTTAAGAA
+ACTGAAGCAAACTAAACGAGGCACTCGACGACAAAAGTTTAAGATCGGACGCTCCCTTCT
+CAAGGATACTCTCATCTACAAGTAAGTTGATTTGATTTCAATCCATGTAAAGTAGTGTAT
+TAATTCAACCATCTTTTTTTTTGCCAGTCTCTGCGAATCTGTTCAGGAAGTAAGGGAACA
+TATCTCCCGCCAAAACACCCCTGAGCCAGGAACACCGCCGCCAGCAGGAGATGAAATTCA
+TGTTGAAGCTGCTGTTAACATCTCTAGCCAAGGTCAGCAAGCACTGGTTCTGAATACATC
+TGATCAAGACCAAGGGTCAAGTTCCAGTGACACGGCGCAAGTTGTCGCCTTAGACACGGC
+TGATCAAGACCAAAAATCAGGCTCCAAAGATACGGATGAGGATGCCAATAACAATGACTG
+GTGGTTTGACGACTTCTTCAATGATCAAGATGACGAAGACGATGAAGACGATAAAGACAA
+AGACTTGAATACTCATCTAGATGCAGAAAA

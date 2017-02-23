@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 9693 (length = 546, name = scf_23658) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 9693 on both strands
+# start gene g6762
+scf_23658	AUGUSTUS	gene	1	461	0.67	+	.	g6762
+scf_23658	AUGUSTUS	transcript	1	461	0.67	+	.	g6762.t1
+scf_23658	AUGUSTUS	internal	1	185	0.67	+	1	transcript_id "g6762.t1"; gene_id "g6762";
+scf_23658	AUGUSTUS	terminal	250	461	0.77	+	2	transcript_id "g6762.t1"; gene_id "g6762";
+scf_23658	AUGUSTUS	intron	186	249	0.74	+	.	transcript_id "g6762.t1"; gene_id "g6762";
+scf_23658	AUGUSTUS	CDS	1	185	0.67	+	1	transcript_id "g6762.t1"; gene_id "g6762";
+scf_23658	AUGUSTUS	CDS	250	458	0.77	+	2	transcript_id "g6762.t1"; gene_id "g6762";
+scf_23658	AUGUSTUS	stop_codon	459	461	.	+	0	transcript_id "g6762.t1"; gene_id "g6762";
+# coding sequence = [ttcttcttctctgcctgcctcttcttctctgcctgcccgatcagcaaatatttcttctgctgattatattctgcaaatg
+# actgataacggtagtggaaataatgaaccgccaaagaagaaaaaatgtatagatagaaggcaagctttgatcacaacgattagagcaaaaggaaaaga
+# gtcttattcgcgtgcaattggagaagacaagaaggctccatggaaacaagtgtttctcgaccctgacaattgtgtcgtgtatattgatggctggccac
+# aagatatacaaaagccaattgattcaaatcagcagctcaattttaagctactacctatcaggcagttgcgagctattgcagatggtttcgagaacgaa
+# actattcaatttaaaataaaataa]
+# protein sequence = [SSSLPASSSLPARSANISSADYILQMTDNGSGNNEPPKKKKCIDRRQALITTIRAKGKESYSRAIGEDKKAPWKQVFL
+# DPDNCVVYIDGWPQDIQKPIDSNQQLNFKLLPIRQLRAIADGFENETIQFKIK]
+# end gene g6762
+###
+#
+##FASTA
+>scf_23658
+TTCTTCTTCTCTGCCTGCCTCTTCTTCTCTGCCTGCCCGATCAGCAAATATTTCTTCTGC
+TGATTATATTCTGCAAATGACTGATAACGGTAGTGGAAATAATGAACCGCCAAAGAAGAA
+AAAATGTATAGATAGAAGGCAAGCTTTGATCACAACGATTAGAGCAAAAGGAAAAGAGTC
+TTATTGTAAGTACACAACCTATCAAACACATAGCAGCTTAATACTTACTTTTTTTCTGTT
+GCCACGTAGCGCGTGCAATTGGAGAAGACAAGAAGGCTCCATGGAAACAAGTGTTTCTCG
+ACCCTGACAATTGTGTCGTGTATATTGATGGCTGGCCACAAGATATACAAAAGCCAATTG
+ATTCAAATCAGCAGCTCAATTTTAAGCTACTACCTATCAGGCAGTTGCGAGCTATTGCAG
+ATGGTTTCGAGAACGAAACTATTCAATTTAAAATAAAATAAAAAGCTGCAGCAGTATGAA
+CATTAGTCACATTGGTTACGTATTGCGTGTTGTACAATAACAATAGTTGTGGTGAGCACC
+CCCCCC

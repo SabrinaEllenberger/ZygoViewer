@@ -1,0 +1,32 @@
+# ----- prediction on sequence number 1110 (length = 504, name = scf_1826) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1110 on both strands
+# start gene g1892
+scf_1826	AUGUSTUS	gene	1	504	0.99	+	.	g1892
+scf_1826	AUGUSTUS	transcript	1	504	0.99	+	.	g1892.t1
+scf_1826	AUGUSTUS	internal	1	504	0.99	+	2	transcript_id "g1892.t1"; gene_id "g1892";
+scf_1826	AUGUSTUS	CDS	1	504	0.99	+	2	transcript_id "g1892.t1"; gene_id "g1892";
+# coding sequence = [tgtttccctgtcgtcgcccgaactcgcttcgtcatactgaaagctcctggtccctgctgtccaaagcgattggccgtct
+# accaaaggacttttcatctacggttgtcagcgcttccatgtgtctagagatccctctggcctcagttatcctgccatcttcttccccggttgaacttg
+# gtaggtcactggcccagttgcccagctcgattgcctacatcatgagctctgatcgagattcctgcctgagtcctaggcgatcagcggaattctcgtgt
+# catcccaatctcgcaaaaaagttcttgaaatgggtcaaacgagatgatgtgcagctgtcacccttttttgttcgagccttcatccactctagtttctc
+# ctcctttggtcactcccccttcctgcaggtcgaagaccacactgttgttgacatcacacctttcgtcgagcctctcagcatctgttcttcttccggct
+# ctggccagcgtcgtccagcgtcctcgaccaagg]
+# protein sequence = [FPCRRPNSLRHTESSWSLLSKAIGRLPKDFSSTVVSASMCLEIPLASVILPSSSPVELGRSLAQLPSSIAYIMSSDRD
+# SCLSPRRSAEFSCHPNLAKKFLKWVKRDDVQLSPFFVRAFIHSSFSSFGHSPFLQVEDHTVVDITPFVEPLSICSSSGSGQRRPASSTK]
+# end gene g1892
+###
+#
+##FASTA
+>scf_1826
+TGTTTCCCTGTCGTCGCCCGAACTCGCTTCGTCATACTGAAAGCTCCTGGTCCCTGCTGT
+CCAAAGCGATTGGCCGTCTACCAAAGGACTTTTCATCTACGGTTGTCAGCGCTTCCATGT
+GTCTAGAGATCCCTCTGGCCTCAGTTATCCTGCCATCTTCTTCCCCGGTTGAACTTGGTA
+GGTCACTGGCCCAGTTGCCCAGCTCGATTGCCTACATCATGAGCTCTGATCGAGATTCCT
+GCCTGAGTCCTAGGCGATCAGCGGAATTCTCGTGTCATCCCAATCTCGCAAAAAAGTTCT
+TGAAATGGGTCAAACGAGATGATGTGCAGCTGTCACCCTTTTTTGTTCGAGCCTTCATCC
+ACTCTAGTTTCTCCTCCTTTGGTCACTCCCCCTTCCTGCAGGTCGAAGACCACACTGTTG
+TTGACATCACACCTTTCGTCGAGCCTCTCAGCATCTGTTCTTCTTCCGGCTCTGGCCAGC
+GTCGTCCAGCGTCCTCGACCAAGG

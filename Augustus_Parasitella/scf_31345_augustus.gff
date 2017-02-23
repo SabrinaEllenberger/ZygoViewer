@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 12033 (length = 573, name = scf_31345) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 12033 on both strands
+# start gene g8063
+scf_31345	AUGUSTUS	gene	1	453	0.9	+	.	g8063
+scf_31345	AUGUSTUS	transcript	1	453	0.9	+	.	g8063.t1
+scf_31345	AUGUSTUS	terminal	132	453	0.9	+	1	transcript_id "g8063.t1"; gene_id "g8063";
+scf_31345	AUGUSTUS	intron	1	131	0.9	+	.	transcript_id "g8063.t1"; gene_id "g8063";
+scf_31345	AUGUSTUS	CDS	132	450	0.9	+	1	transcript_id "g8063.t1"; gene_id "g8063";
+scf_31345	AUGUSTUS	stop_codon	451	453	.	+	0	transcript_id "g8063.t1"; gene_id "g8063";
+# coding sequence = [tgatgccattccattgcagtactgcttcggtttggtttcccagctcgtctggtgtcttgtttgtcgtctttgttcttca
+# aaaattaatgtattgatcaatgactggcttggtgctccggtgcctcagttgagaggccttcgggaaggtgatcctctgtcgtctttgctgttcaactt
+# ggcgttggagcctttacttcgctccctttttgtttgtcatggtctttctggtgtcactctctcccctgttcaagtccctcgtgaatggaagccctcac
+# cagccgaagttcgagaggatccgggtggaattaatcccagtaactag]
+# protein sequence = [DAIPLQYCFGLVSQLVWCLVCRLCSSKINVLINDWLGAPVPQLRGLREGDPLSSLLFNLALEPLLRSLFVCHGLSGVT
+# LSPVQVPREWKPSPAEVREDPGGINPSN]
+# end gene g8063
+###
+#
+##FASTA
+>scf_31345
+TGTGAAGGTTGGGTTCGTCATTGCTTGACATTTTTTGATGATTCTATGGCTATGAAGGAA
+GTTAATTGAATAAAATACTTTGTTACGAAAAATGCAAGAGGCAAATTACGAAATCTGTTT
+TGGCTTTTTAGTGATGCCATTCCATTGCAGTACTGCTTCGGTTTGGTTTCCCAGCTCGTC
+TGGTGTCTTGTTTGTCGTCTTTGTTCTTCAAAAATTAATGTATTGATCAATGACTGGCTT
+GGTGCTCCGGTGCCTCAGTTGAGAGGCCTTCGGGAAGGTGATCCTCTGTCGTCTTTGCTG
+TTCAACTTGGCGTTGGAGCCTTTACTTCGCTCCCTTTTTGTTTGTCATGGTCTTTCTGGT
+GTCACTCTCTCCCCTGTTCAAGTCCCTCGTGAATGGAAGCCCTCACCAGCCGAAGTTCGA
+GAGGATCCGGGTGGAATTAATCCCAGTAACTAGGCTTTGGACTTTGTCAGTGCGTCTGGT
+ACTCCCGCTCCCGTCAAGTTACTTAGTTACGCCGATGATCTTGAGGTGTTCTTGTCGTCC
+CCAGAGGAGTGGCCGGTCTTGTTGTCCCTATTA

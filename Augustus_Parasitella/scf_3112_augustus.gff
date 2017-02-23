@@ -1,0 +1,36 @@
+# ----- prediction on sequence number 1593 (length = 573, name = scf_3112) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1593 on both strands
+# start gene g2121
+scf_3112	AUGUSTUS	gene	1	491	0.71	-	.	g2121
+scf_3112	AUGUSTUS	transcript	1	491	0.71	-	.	g2121.t1
+scf_3112	AUGUSTUS	internal	1	244	0.71	-	0	transcript_id "g2121.t1"; gene_id "g2121";
+scf_3112	AUGUSTUS	initial	300	491	1	-	0	transcript_id "g2121.t1"; gene_id "g2121";
+scf_3112	AUGUSTUS	intron	245	299	1	-	.	transcript_id "g2121.t1"; gene_id "g2121";
+scf_3112	AUGUSTUS	CDS	1	244	0.71	-	0	transcript_id "g2121.t1"; gene_id "g2121";
+scf_3112	AUGUSTUS	CDS	300	491	1	-	0	transcript_id "g2121.t1"; gene_id "g2121";
+scf_3112	AUGUSTUS	start_codon	489	491	.	-	0	transcript_id "g2121.t1"; gene_id "g2121";
+# coding sequence = [atgactagcagaaggcttgcgggagcaatcaatacaatacaagccgaggataatcgtcgtggtcaaagtagacttgaag
+# cccaacgaagaagaagacagcgacaagcagcccaatttgatacttcccagaacagttctgatagcgaaggactagacagcagcatcgcggacaacagt
+# gatgttgatgtggattttgacagtctttcttgggagaatgttcgcagcaagtacgaagtggatattcgcaaaggttgtacagaagtatgcgtttgttg
+# tggatgccttcactttgagaagaacatccgtatactgtctaaagacactattgcctcctggggatgtagccaagatttaattgattctatattccaag
+# tagcttttgctcaggacactgaggaagagaccggccaattttgttccacttgctggagaacag]
+# protein sequence = [MTSRRLAGAINTIQAEDNRRGQSRLEAQRRRRQRQAAQFDTSQNSSDSEGLDSSIADNSDVDVDFDSLSWENVRSKYE
+# VDIRKGCTEVCVCCGCLHFEKNIRILSKDTIASWGCSQDLIDSIFQVAFAQDTEEETGQFCSTCWRT]
+# end gene g2121
+###
+#
+##FASTA
+>scf_3112
+CTGTTCTCCAGCAAGTGGAACAAAATTGGCCGGTCTCTTCCTCAGTGTCCTGAGCAAAAG
+CTACTTGGAATATAGAATCAATTAAATCTTGGCTACATCCCCAGGAGGCAATAGTGTCTT
+TAGACAGTATACGGATGTTCTTCTCAAAGTGAAGGCATCCACAACAAACGCATACTTCTG
+TACAACCTTTGCGAATATCCACTTCGTACTTGCTGCGAACATTCTCCCAAGAAAGACTGT
+CAAACTGTTTGAAAAGAGAACATGAGCCAACATACTATATTATTTTCTAAAATGCTTACA
+TCCACATCAACATCACTGTTGTCCGCGATGCTGCTGTCTAGTCCTTCGCTATCAGAACTG
+TTCTGGGAAGTATCAAATTGGGCTGCTTGTCGCTGTCTTCTTCTTCGTTGGGCTTCAAGT
+CTACTTTGACCACGACGATTATCCTCGGCTTGTATTGTATTGATTGCTCCCGCAAGCCTT
+CTGCTAGTCATATATTCGCGCTGGCGTATATTTCGCCGCAGCCGCCTTGTTTCTTCATCA
+ACAAGTTCAACGCTAGGCCTCCTAGCAGCCATC

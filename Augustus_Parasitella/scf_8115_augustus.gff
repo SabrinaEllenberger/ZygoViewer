@@ -1,0 +1,37 @@
+# ----- prediction on sequence number 4048 (length = 629, name = scf_8115) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 4048 on both strands
+# start gene g3505
+scf_8115	AUGUSTUS	gene	1	602	0.52	-	.	g3505
+scf_8115	AUGUSTUS	transcript	1	602	0.52	-	.	g3505.t1
+scf_8115	AUGUSTUS	internal	219	456	0.54	-	1	transcript_id "g3505.t1"; gene_id "g3505";
+scf_8115	AUGUSTUS	initial	523	602	0.55	-	0	transcript_id "g3505.t1"; gene_id "g3505";
+scf_8115	AUGUSTUS	intron	1	218	0.52	-	.	transcript_id "g3505.t1"; gene_id "g3505";
+scf_8115	AUGUSTUS	intron	457	522	0.55	-	.	transcript_id "g3505.t1"; gene_id "g3505";
+scf_8115	AUGUSTUS	CDS	219	456	0.54	-	1	transcript_id "g3505.t1"; gene_id "g3505";
+scf_8115	AUGUSTUS	CDS	523	602	0.55	-	0	transcript_id "g3505.t1"; gene_id "g3505";
+scf_8115	AUGUSTUS	start_codon	600	602	.	-	0	transcript_id "g3505.t1"; gene_id "g3505";
+# coding sequence = [atgcattacttgtcgcatattcaatggattatcgaacgccagggaccactcgttgcgtactctacaagatcgcaagaaa
+# ggtctgttgggaaattcagcgatttgattactggcaacttcaaaacgcacaagcaagctgcaaatttgattgaaacggtggcaatccgcaatttcatc
+# aaaggaacctttaatgcaaacgaccatctgcaagagatccgtcctccgccctgctctaccgccagcttccacgaatatacgagcacatcgaatcagct
+# gtgggaacgatttgagcatcacgatttccaaactgcggcatgg]
+# protein sequence = [MHYLSHIQWIIERQGPLVAYSTRSQERSVGKFSDLITGNFKTHKQAANLIETVAIRNFIKGTFNANDHLQEIRPPPCS
+# TASFHEYTSTSNQLWERFEHHDFQTAAW]
+# end gene g3505
+###
+#
+##FASTA
+>scf_8115
+ACTCTTAAACATAACATGATGGTTTCCCCTTCTAAACTCACCAGTTTTTCTTCTATACCG
+TTCACAAGGGATTTCCATTGTGTTTACGCATGCTCGCGACGCAACAACAAAGACTAACGT
+ACCCGGGGCCACAAGATGAGGGTCGGAAAATAGATGTCAATAAAACTTTGTTAACGCCTT
+TTTTATCCGTCTAATAGAGACGTTTTTAAAAGTGTCACCCATGCCGCAGTTTGGAAATCG
+TGATGCTCAAATCGTTCCCACAGCTGATTCGATGTGCTCGTATATTCGTGGAAGCTGGCG
+GTAGAGCAGGGCGGAGGACGGATCTCTTGCAGATGGTCGTTTGCATTAAAGGTTCCTTTG
+ATGAAATTGCGGATTGCCACCGTTTCAATCAAATTTGCAGCTTGCTTGTGCGTTTTGAAG
+TTGCCAGTAATCAAATCGCTGAATTTCCCAACAGACCTGCGTTATCAAATCCATGGTGTT
+AGTTAGAAGAAACGTACAATGAATAAATGGACATTAGCTCACCTTTCTTGCGATCTTGTA
+GAGTACGCAACGAGTGGTCCCTGGCGTTCGATAATCCATTGAATATGCGACAAGTAATGC
+ATAACAGGGCGGAAGATGGATACGGAGAG

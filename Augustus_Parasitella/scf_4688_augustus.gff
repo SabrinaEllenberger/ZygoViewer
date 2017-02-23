@@ -1,0 +1,33 @@
+# ----- prediction on sequence number 2370 (length = 584, name = scf_4688) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 2370 on both strands
+# start gene g2503
+scf_4688	AUGUSTUS	gene	1	391	0.86	+	.	g2503
+scf_4688	AUGUSTUS	transcript	1	391	0.86	+	.	g2503.t1
+scf_4688	AUGUSTUS	terminal	1	391	0.86	+	1	transcript_id "g2503.t1"; gene_id "g2503";
+scf_4688	AUGUSTUS	CDS	1	388	0.86	+	1	transcript_id "g2503.t1"; gene_id "g2503";
+scf_4688	AUGUSTUS	stop_codon	389	391	.	+	0	transcript_id "g2503.t1"; gene_id "g2503";
+# coding sequence = [ctcccacttgttctttgacacccatttggtcgtcaatgtcaatggatttctctcaccacgcgtccctcaactaccaggc
+# ctcaaacagggcgacccgatcagcccgatcttgttcaacctggcttttgaaccgctgctcaggaagatgcttcaggatcctcacctctctggttacca
+# gctaccatcgccccaggcgcttgaagccccctcaactatcaagatgatggcgtacgctgatgacaatgtttgtttgctgagctctccgtctgatctcg
+# accgtctcaaacagcatttgcaggtttactcggcagcatccaacgcttcggtgaactaccacaaaaccgtacaacgaaagctcctggtctttgctatt
+# caaagctatcgagtctaa]
+# protein sequence = [SHLFFDTHLVVNVNGFLSPRVPQLPGLKQGDPISPILFNLAFEPLLRKMLQDPHLSGYQLPSPQALEAPSTIKMMAYA
+# DDNVCLLSSPSDLDRLKQHLQVYSAASNASVNYHKTVQRKLLVFAIQSYRV]
+# end gene g2503
+###
+#
+##FASTA
+>scf_4688
+CTCCCACTTGTTCTTTGACACCCATTTGGTCGTCAATGTCAATGGATTTCTCTCACCACG
+CGTCCCTCAACTACCAGGCCTCAAACAGGGCGACCCGATCAGCCCGATCTTGTTCAACCT
+GGCTTTTGAACCGCTGCTCAGGAAGATGCTTCAGGATCCTCACCTCTCTGGTTACCAGCT
+ACCATCGCCCCAGGCGCTTGAAGCCCCCTCAACTATCAAGATGATGGCGTACGCTGATGA
+CAATGTTTGTTTGCTGAGCTCTCCGTCTGATCTCGACCGTCTCAAACAGCATTTGCAGGT
+TTACTCGGCAGCATCCAACGCTTCGGTGAACTACCACAAAACCGTACAACGAAAGCTCCT
+GGTCTTTGCTATTCAAAGCTATCGAGTCTAACCAAGGACTTTTCCAACACCGTTGCCAGT
+GCTTCCACTTGTCTGGAAGTCCCTCTCGCCTCGATAATCCTTCCATCCTCTTCCTCCGTC
+GAACTTGGCATATCGCTTGCTCGACTTCCCAGCTCTGTCGCGTGTACCATGGGCTCTGAT
+CCAGACTCCTGTCTTCGTTCCAAACAAAACACGGAATTCTCGGT
