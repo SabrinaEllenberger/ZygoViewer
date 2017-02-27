@@ -23,3 +23,4 @@ The folders include the videos which can be started via the ZygoViewer.
 The genome browser Artemis (http://www.sanger.ac.uk/science/tools/artemis) can be used to view the predicted
 genes in a genomic context on the complete scaffold.
 
+The additional folder "Dissertation" includes the .pdb files of the modelled TSP proteins.
